@@ -2,7 +2,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -24,7 +24,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 10,
     "MaxValue2": 100,
     "MaxValue3": 500,
@@ -46,7 +46,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 10,
     "MaxValue2": 20,
     "MaxValue3": 40,
@@ -68,7 +68,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -90,7 +90,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 10,
     "MaxValue2": 100,
     "MaxValue3": 500,
@@ -112,7 +112,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 10,
     "MaxValue2": 20,
     "MaxValue3": 40,
@@ -134,7 +134,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "DIY",
+    "LifeSupportStamp": "DIY",
     "MaxValue1": 10,
     "MaxValue2": 50,
     "MaxValue3": 100,
@@ -156,7 +156,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Seafood",
+    "LifeSupportStamp": "Seafood",
     "MaxValue1": 5,
     "MaxValue2": 50,
     "MaxValue3": 250,
@@ -178,7 +178,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Seafood",
+    "LifeSupportStamp": "Seafood",
     "MaxValue1": 5,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -200,7 +200,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "DIY",
+    "LifeSupportStamp": "DIY",
     "MaxValue1": 5,
     "MaxValue2": 50,
     "MaxValue3": 200,
@@ -222,7 +222,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "DIY",
+    "LifeSupportStamp": "DIY",
     "MaxValue1": 5,
     "MaxValue2": 50,
     "MaxValue3": 200,
@@ -244,7 +244,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "DIY",
+    "LifeSupportStamp": "DIY",
     "MaxValue1": 5,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -266,7 +266,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "DIY",
+    "LifeSupportStamp": "DIY",
     "MaxValue1": 20,
     "MaxValue2": 100,
     "MaxValue3": 500,
@@ -288,7 +288,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 1,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -310,7 +310,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -332,7 +332,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -354,7 +354,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 5,
     "MaxValue2": 30,
     "MaxValue3": 100,
@@ -376,7 +376,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 50,
     "MaxValue2": 200,
     "MaxValue3": 1000,
@@ -398,7 +398,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 10,
     "MaxValue2": 50,
     "MaxValue3": 100,
@@ -420,7 +420,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 10,
     "MaxValue2": 50,
     "MaxValue3": 100,
@@ -442,7 +442,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 5,
     "MaxValue2": 10,
     "MaxValue3": 30,
@@ -464,7 +464,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 20,
     "MaxValue2": 100,
     "MaxValue3": 500,
@@ -486,7 +486,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -508,7 +508,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 1,
     "MaxValue2": 5,
     "MaxValue3": 20,
@@ -530,7 +530,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 10,
     "MaxValue2": 50,
     "MaxValue3": 200,
@@ -552,7 +552,7 @@
   {
     "FlagLand": 66,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 5,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -574,7 +574,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 3,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -596,7 +596,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 10,
     "MaxValue2": 50,
     "MaxValue3": 100,
@@ -618,7 +618,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 2,
     "MaxValue3": 5,
@@ -640,7 +640,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -662,7 +662,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 5,
     "MaxValue2": 15,
     "MaxValue3": 30,
@@ -684,7 +684,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 20,
     "MaxValue2": 50,
     "MaxValue3": 100,
@@ -706,7 +706,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 3,
     "MaxValue3": 5,
@@ -728,7 +728,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 50,
@@ -750,7 +750,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -772,7 +772,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -794,7 +794,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -816,7 +816,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 10,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -838,7 +838,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 1000,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -860,7 +860,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 1,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -882,7 +882,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 100,
     "MaxValue2": 200,
     "MaxValue3": 300,
@@ -904,7 +904,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": 320,
-    "LifeSupportStamp*": "Smartphone",
+    "LifeSupportStamp": "Smartphone",
     "MaxValue1": 5,
     "MaxValue2": 50,
     "MaxValue3": 200,
@@ -926,7 +926,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -948,7 +948,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -970,7 +970,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -992,7 +992,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 5000,
     "MaxValue2": 50000,
     "MaxValue3": 500000,
@@ -1014,7 +1014,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1036,7 +1036,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1000,
     "MaxValue2": 10000,
     "MaxValue3": 100000,
@@ -1058,7 +1058,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1080,7 +1080,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1102,7 +1102,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 5,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -1124,7 +1124,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 1,
     "MaxValue2": 5,
     "MaxValue3": 10,
@@ -1146,7 +1146,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1168,7 +1168,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1190,7 +1190,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1212,7 +1212,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Negative",
+    "LifeSupportStamp": "Negative",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1234,7 +1234,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Negative",
+    "LifeSupportStamp": "Negative",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1256,7 +1256,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Negative",
+    "LifeSupportStamp": "Negative",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1278,7 +1278,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Negative",
+    "LifeSupportStamp": "Negative",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1300,7 +1300,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Negative",
+    "LifeSupportStamp": "Negative",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1322,7 +1322,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 5,
     "MaxValue2": 20,
     "MaxValue3": 50,
@@ -1344,7 +1344,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": 478,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 20,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1366,7 +1366,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1388,7 +1388,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 1,
     "MaxValue2": 30,
     "MaxValue3": 200,
@@ -1410,7 +1410,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 10,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1432,7 +1432,7 @@
   {
     "FlagLand": 59,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1454,7 +1454,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": 513,
-    "LifeSupportStamp*": "LandMaking",
+    "LifeSupportStamp": "LandMaking",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1476,7 +1476,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1498,7 +1498,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1520,7 +1520,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 30,
@@ -1542,7 +1542,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1564,7 +1564,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1586,7 +1586,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 2,
     "MaxValue3": 3,
@@ -1608,7 +1608,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1630,7 +1630,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1652,7 +1652,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Fish",
+    "LifeSupportStamp": "Fish",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1674,7 +1674,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Insect",
+    "LifeSupportStamp": "Insect",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1696,7 +1696,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1718,7 +1718,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "MyDesign",
+    "LifeSupportStamp": "MyDesign",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1740,7 +1740,7 @@
   {
     "FlagLand": 3,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "MyDesign",
+    "LifeSupportStamp": "MyDesign",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1762,7 +1762,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "MyDesign",
+    "LifeSupportStamp": "MyDesign",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1784,7 +1784,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Money",
+    "LifeSupportStamp": "Money",
     "MaxValue1": 1,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1806,7 +1806,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Plant",
+    "LifeSupportStamp": "Plant",
     "MaxValue1": 1,
     "MaxValue2": 10,
     "MaxValue3": 20,
@@ -1828,7 +1828,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "HHA",
+    "LifeSupportStamp": "HHA",
     "MaxValue1": 0,
     "MaxValue2": 0,
     "MaxValue3": 0,
@@ -1850,7 +1850,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 5,
     "MaxValue3": 10,
@@ -1872,7 +1872,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Communication",
+    "LifeSupportStamp": "Communication",
     "MaxValue1": 1,
     "MaxValue2": 5,
     "MaxValue3": 10,
@@ -1894,7 +1894,7 @@
   {
     "FlagLand": -1,
     "FlagPlayer": -1,
-    "LifeSupportStamp*": "Event",
+    "LifeSupportStamp": "Event",
     "MaxValue1": 3,
     "MaxValue2": 20,
     "MaxValue3": 50,

@@ -1,6 +1,6 @@
 [
   {
-    "TVProgramName*": "AA5B5F2F",
+    "TVProgramName": "AA5B5F2F",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -59,7 +59,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "サンドストーム",
+    "TVProgramName": "サンドストーム",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -118,7 +118,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "カラーバー",
+    "TVProgramName": "カラーバー",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -177,7 +177,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "1481890 u8": 6,
     "EndDayN1": 31,
     "EndDayN2": 31,
@@ -236,7 +236,7 @@
     "StartMoS6": 12
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -295,7 +295,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "ドラマ",
+    "TVProgramName": "ドラマ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -354,7 +354,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "音楽番組",
+    "TVProgramName": "音楽番組",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -413,7 +413,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "クイズ",
+    "TVProgramName": "クイズ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -472,7 +472,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "ドキュメンタリー",
+    "TVProgramName": "ドキュメンタリー",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -531,7 +531,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "子ども番組",
+    "TVProgramName": "子ども番組",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -590,7 +590,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -649,7 +649,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "映画",
+    "TVProgramName": "映画",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -708,7 +708,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "スポーツ",
+    "TVProgramName": "スポーツ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -767,7 +767,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "対談番組",
+    "TVProgramName": "対談番組",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -826,7 +826,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "アニメ",
+    "TVProgramName": "アニメ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -885,7 +885,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "料理番組",
+    "TVProgramName": "料理番組",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -944,7 +944,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "エクササイズ",
+    "TVProgramName": "エクササイズ",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -1003,7 +1003,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "1481890 u8": 2,
     "EndDayN1": 25,
     "EndDayN2": 31,
@@ -1062,7 +1062,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -1121,7 +1121,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -1180,7 +1180,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "フルーツCM",
+    "TVProgramName": "フルーツCM",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -1239,7 +1239,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,
@@ -1298,7 +1298,7 @@
     "StartMoS6": 1
   },
   {
-    "TVProgramName*": "？",
+    "TVProgramName": "？",
     "1481890 u8": 0,
     "EndDayN1": 2,
     "EndDayN2": 2,

@@ -1,7 +1,7 @@
 [
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 1,
     "Collision": 1,
@@ -11,8 +11,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 14,
     "Collision": 1,
@@ -22,8 +22,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 41,
     "Collision": 1,
@@ -33,8 +33,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 40,
     "Collision": 1,
@@ -44,8 +44,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 42,
     "Collision": 1,
@@ -55,8 +55,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 45,
     "Collision": 1,
@@ -66,8 +66,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 61,
     "Collision": 1,
@@ -77,8 +77,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 46,
     "Collision": 1,
@@ -88,8 +88,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 37,
     "Collision": 1,
@@ -99,8 +99,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnOff",
-    "CategoryName*": "Chair",
+    "AsName": "FtrTriggerOnOff",
+    "CategoryName": "Chair",
     "8b1904b9 string": "Unknown",
     "UniqueID": 44,
     "Collision": 1,
@@ -110,8 +110,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Bed",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Bed",
     "8b1904b9 string": "Unknown",
     "UniqueID": 38,
     "Collision": 1,
@@ -121,8 +121,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "Bed",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "Bed",
     "8b1904b9 string": "Unknown",
     "UniqueID": 39,
     "Collision": 1,
@@ -132,8 +132,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrChest",
-    "CategoryName*": "Chest",
+    "AsName": "FtrChest",
+    "CategoryName": "Chest",
     "8b1904b9 string": "Unknown",
     "UniqueID": 15,
     "Collision": 1,
@@ -143,8 +143,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrChest",
-    "CategoryName*": "Closet",
+    "AsName": "FtrChest",
+    "CategoryName": "Closet",
     "8b1904b9 string": "Unknown",
     "UniqueID": 23,
     "Collision": 1,
@@ -154,8 +154,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrChest",
-    "CategoryName*": "Closet",
+    "AsName": "FtrChest",
+    "CategoryName": "Closet",
     "8b1904b9 string": "Unknown",
     "UniqueID": 24,
     "Collision": 1,
@@ -165,8 +165,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrChest",
-    "CategoryName*": "None",
+    "AsName": "FtrChest",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 60,
     "Collision": 1,
@@ -176,8 +176,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrChest",
-    "CategoryName*": "Closet",
+    "AsName": "FtrChest",
+    "CategoryName": "Closet",
     "8b1904b9 string": "Unknown",
     "UniqueID": 25,
     "Collision": 1,
@@ -187,8 +187,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 47,
     "Collision": 1,
@@ -198,8 +198,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 28,
     "Collision": 1,
@@ -209,8 +209,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 43,
     "Collision": 1,
@@ -220,8 +220,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 50,
     "Collision": 1,
@@ -231,8 +231,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTV",
-    "CategoryName*": "None",
+    "AsName": "FtrTV",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 26,
     "Collision": 1,
@@ -242,8 +242,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 9,
     "Collision": 1,
@@ -253,8 +253,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 11,
     "Collision": 1,
@@ -264,8 +264,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 10,
     "Collision": 1,
@@ -275,8 +275,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 33,
     "Collision": 1,
@@ -286,8 +286,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 62,
     "Collision": 1,
@@ -297,8 +297,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 72,
     "Collision": 1,
@@ -308,8 +308,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 31,
     "Collision": 1,
@@ -319,8 +319,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 2,
     "Collision": 1,
@@ -330,8 +330,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopSwitch",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopSwitch",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 30,
     "Collision": 1,
@@ -341,8 +341,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopFade",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopFade",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 5,
     "Collision": 1,
@@ -352,8 +352,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopTrigger",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopTrigger",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 51,
     "Collision": 1,
@@ -363,8 +363,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 64,
     "Collision": 1,
@@ -374,8 +374,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopTrigger",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopTrigger",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 63,
     "Collision": 1,
@@ -385,8 +385,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopTriggerWaitEndOnKeep",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopTriggerWaitEndOnKeep",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 71,
     "Collision": 1,
@@ -396,8 +396,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 3,
     "Collision": 1,
@@ -407,8 +407,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 6,
     "Collision": 1,
@@ -418,8 +418,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 7,
     "Collision": 1,
@@ -429,8 +429,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 8,
     "Collision": 1,
@@ -440,8 +440,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 18,
     "Collision": 1,
@@ -451,8 +451,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 17,
     "Collision": 0,
@@ -462,8 +462,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerOnce",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnce",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 12,
     "Collision": 1,
@@ -473,8 +473,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopTriggerWaitEndOnKeep",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopTriggerWaitEndOnKeep",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 59,
     "Collision": 1,
@@ -484,8 +484,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 58,
     "Collision": 1,
@@ -495,8 +495,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 56,
     "Collision": 1,
@@ -506,8 +506,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrTriggerToLoopWaitEndOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 55,
     "Collision": 1,
@@ -517,8 +517,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrMailBox",
-    "CategoryName*": "None",
+    "AsName": "FtrMailBox",
+    "CategoryName": "None",
     "8b1904b9 string": "MailBoxTypeA",
     "UniqueID": 27,
     "Collision": 1,
@@ -528,8 +528,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrMailBox",
-    "CategoryName*": "None",
+    "AsName": "FtrMailBox",
+    "CategoryName": "None",
     "8b1904b9 string": "MailBoxTypeB",
     "UniqueID": 54,
     "Collision": 1,
@@ -539,8 +539,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrMailBox",
-    "CategoryName*": "None",
+    "AsName": "FtrMailBox",
+    "CategoryName": "None",
     "8b1904b9 string": "MailBoxTypeC",
     "UniqueID": 53,
     "Collision": 1,
@@ -550,8 +550,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrMailBox",
-    "CategoryName*": "None",
+    "AsName": "FtrMailBox",
+    "CategoryName": "None",
     "8b1904b9 string": "MailBoxTypeD",
     "UniqueID": 52,
     "Collision": 1,
@@ -561,8 +561,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrMailBox",
-    "CategoryName*": "None",
+    "AsName": "FtrMailBox",
+    "CategoryName": "None",
     "8b1904b9 string": "MailBoxTypeE",
     "UniqueID": 57,
     "Collision": 1,
@@ -572,8 +572,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrTriggerOnOff",
-    "CategoryName*": "None",
+    "AsName": "FtrTriggerOnOff",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 21,
     "Collision": 1,
@@ -583,8 +583,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 16,
     "Collision": 1,
@@ -594,8 +594,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrInsectSing",
-    "CategoryName*": "None",
+    "AsName": "FtrInsectSing",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 65,
     "Collision": 1,
@@ -605,8 +605,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 49,
     "Collision": 1,
@@ -616,8 +616,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 66,
     "Collision": 0,
@@ -627,8 +627,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrActionMusicJacket",
-    "CategoryName*": "None",
+    "AsName": "FtrActionMusicJacket",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 67,
     "Collision": 1,
@@ -638,8 +638,8 @@
     "e387a24 u32": 0
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 68,
     "Collision": 1,
@@ -649,8 +649,8 @@
     "e387a24 u32": 1
   },
   {
-    "AsName*": "FtrLoopAuto",
-    "CategoryName*": "None",
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
     "8b1904b9 string": "Unknown",
     "UniqueID": 70,
     "Collision": 1,

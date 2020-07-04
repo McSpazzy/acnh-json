@@ -1,6 +1,6 @@
 [
   {
-    "Category*": "AccessoryEye",
+    "Category": "AccessoryEye",
     "FloorScale": 0.75,
     "RotateOffsetX": -98.9,
     "RotateOffsetY": -90.0,
@@ -19,7 +19,7 @@
     "Storage": "\u0004"
   },
   {
-    "Category*": "AccessoryMouth",
+    "Category": "AccessoryMouth",
     "FloorScale": 0.75,
     "RotateOffsetX": -97.3,
     "RotateOffsetY": -90.0,
@@ -38,7 +38,7 @@
     "Storage": "\b"
   },
   {
-    "Category*": "AccessoryMouth",
+    "Category": "AccessoryMouth",
     "FloorScale": 0.75,
     "RotateOffsetX": -97.3,
     "RotateOffsetY": -90.0,
@@ -57,7 +57,7 @@
     "Storage": "\b"
   },
   {
-    "Category*": "AccessoryMouth",
+    "Category": "AccessoryMouth",
     "FloorScale": 0.75,
     "RotateOffsetX": -97.3,
     "RotateOffsetY": -90.0,
@@ -76,7 +76,7 @@
     "Storage": "\b\u0010"
   },
   {
-    "Category*": "AccessoryEye",
+    "Category": "AccessoryEye",
     "FloorScale": 0.75,
     "RotateOffsetX": -98.8,
     "RotateOffsetY": -90.0,
@@ -95,7 +95,7 @@
     "Storage": "\u0004"
   },
   {
-    "Category*": "AccessoryEye",
+    "Category": "AccessoryEye",
     "FloorScale": 0.75,
     "RotateOffsetX": -99.0,
     "RotateOffsetY": -90.0,
@@ -114,7 +114,7 @@
     "Storage": "\f "
   },
   {
-    "Category*": "AccessoryEye",
+    "Category": "AccessoryEye",
     "FloorScale": 0.75,
     "RotateOffsetX": -99.0,
     "RotateOffsetY": -90.0,
@@ -133,7 +133,7 @@
     "Storage": "\f "
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -152,7 +152,7 @@
     "Storage": "\u000e"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -171,7 +171,7 @@
     "Storage": "\u00020"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -190,7 +190,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -209,7 +209,7 @@
     "Storage": "\u0002\u0010"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -228,7 +228,7 @@
     "Storage": "\n\u0010"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -247,7 +247,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -266,7 +266,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -285,7 +285,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -304,7 +304,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": 227.0,
     "RotateOffsetY": 178.0,
@@ -323,7 +323,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": 227.0,
     "RotateOffsetY": 2.0,
@@ -342,7 +342,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -90.0,
     "RotateOffsetY": -90.0,
@@ -361,7 +361,7 @@
     "Storage": "\u000e"
   },
   {
-    "Category*": "Cap",
+    "Category": "Cap",
     "FloorScale": 0.75,
     "RotateOffsetX": -25.0,
     "RotateOffsetY": 0,
@@ -380,7 +380,7 @@
     "Storage": "\u0002"
   },
   {
-    "Category*": "Bag",
+    "Category": "Bag",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -399,7 +399,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Bag",
+    "Category": "Bag",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -418,7 +418,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Shoes",
+    "Category": "Shoes",
     "FloorScale": 1.45,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -437,7 +437,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Shoes",
+    "Category": "Shoes",
     "FloorScale": 1.45,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -456,7 +456,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Shoes",
+    "Category": "Shoes",
     "FloorScale": 1.45,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -475,7 +475,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Shoes",
+    "Category": "Shoes",
     "FloorScale": 1.45,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -494,7 +494,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Shoes",
+    "Category": "Shoes",
     "FloorScale": 1.45,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -513,7 +513,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Socks",
+    "Category": "Socks",
     "FloorScale": 1.2,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -532,7 +532,7 @@
     "Storage": "�"
   },
   {
-    "Category*": "Tops",
+    "Category": "Tops",
     "FloorScale": 1.12,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -551,7 +551,7 @@
     "Storage": " "
   },
   {
-    "Category*": "Marinesuit",
+    "Category": "Marinesuit",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -570,7 +570,7 @@
     "Storage": "p"
   },
   {
-    "Category*": "Tops",
+    "Category": "Tops",
     "FloorScale": 1.12,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -589,7 +589,7 @@
     "Storage": "`"
   },
   {
-    "Category*": "None",
+    "Category": "None",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -608,7 +608,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Bottoms",
+    "Category": "Bottoms",
     "FloorScale": 1.12,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -627,7 +627,7 @@
     "Storage": "@"
   },
   {
-    "Category*": "Ocarina",
+    "Category": "Ocarina",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -646,7 +646,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Tambourine",
+    "Category": "Tambourine",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -665,7 +665,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Panpipe",
+    "Category": "Panpipe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -684,7 +684,7 @@
     "Storage": ""
   },
   {
-    "Category*": "CliffMaker",
+    "Category": "CliffMaker",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -703,7 +703,7 @@
     "Storage": ""
   },
   {
-    "Category*": "RiverMaker",
+    "Category": "RiverMaker",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -722,7 +722,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FenceMaker",
+    "Category": "FenceMaker",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -741,7 +741,7 @@
     "Storage": ""
   },
   {
-    "Category*": "GroundMaker",
+    "Category": "GroundMaker",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -760,7 +760,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Net",
+    "Category": "Net",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -779,7 +779,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Net",
+    "Category": "Net",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -798,7 +798,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Net",
+    "Category": "Net",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -817,7 +817,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -836,7 +836,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -855,7 +855,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -874,7 +874,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -893,7 +893,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -912,7 +912,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Axe",
+    "Category": "Axe",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -931,7 +931,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Watering",
+    "Category": "Watering",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -950,7 +950,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Watering",
+    "Category": "Watering",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -969,7 +969,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Watering",
+    "Category": "Watering",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -988,7 +988,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Scoop",
+    "Category": "Scoop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1007,7 +1007,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Scoop",
+    "Category": "Scoop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1026,7 +1026,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Scoop",
+    "Category": "Scoop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1045,7 +1045,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Scoop",
+    "Category": "Scoop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1064,7 +1064,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FishingRod",
+    "Category": "FishingRod",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1083,7 +1083,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FishingRod",
+    "Category": "FishingRod",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1102,7 +1102,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FishingRod",
+    "Category": "FishingRod",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1121,7 +1121,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FishingRod",
+    "Category": "FishingRod",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1140,7 +1140,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Slingshot",
+    "Category": "Slingshot",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1159,7 +1159,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Slingshot",
+    "Category": "Slingshot",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1178,7 +1178,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Slingshot",
+    "Category": "Slingshot",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1197,7 +1197,7 @@
     "Storage": ""
   },
   {
-    "Category*": "JumpStick",
+    "Category": "JumpStick",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1216,7 +1216,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Ladder",
+    "Category": "Ladder",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1235,7 +1235,7 @@
     "Storage": ""
   },
   {
-    "Category*": "ChangeStick",
+    "Category": "ChangeStick",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1254,7 +1254,7 @@
     "Storage": ""
   },
   {
-    "Category*": "PaperFan",
+    "Category": "PaperFan",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1273,7 +1273,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Umbrella",
+    "Category": "Umbrella",
     "FloorScale": 0.68,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1292,7 +1292,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Umbrella",
+    "Category": "Umbrella",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1311,7 +1311,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Umbrella",
+    "Category": "Umbrella",
     "FloorScale": 0.68,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1330,7 +1330,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Umbrella",
+    "Category": "Umbrella",
     "FloorScale": 0.68,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1349,7 +1349,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Umbrella",
+    "Category": "Umbrella",
     "FloorScale": 0.68,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1368,7 +1368,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Windmill",
+    "Category": "Windmill",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1387,7 +1387,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Cracker",
+    "Category": "Cracker",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1406,7 +1406,7 @@
     "Storage": ""
   },
   {
-    "Category*": "SoapBubble",
+    "Category": "SoapBubble",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1425,7 +1425,7 @@
     "Storage": ""
   },
   {
-    "Category*": "StickLight",
+    "Category": "StickLight",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1444,7 +1444,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Spanner",
+    "Category": "Spanner",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1463,7 +1463,7 @@
     "Storage": ""
   },
   {
-    "Category*": "SmartPhone",
+    "Category": "SmartPhone",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1482,7 +1482,7 @@
     "Storage": ""
   },
   {
-    "Category*": "None",
+    "Category": "None",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1501,7 +1501,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Firework",
+    "Category": "Firework",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1520,7 +1520,7 @@
     "Storage": ""
   },
   {
-    "Category*": "PinataStick",
+    "Category": "PinataStick",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1539,7 +1539,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Balloon",
+    "Category": "Balloon",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1558,7 +1558,7 @@
     "Storage": ""
   },
   {
-    "Category*": "BlowStick",
+    "Category": "BlowStick",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1577,7 +1577,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Ice",
+    "Category": "Ice",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1596,7 +1596,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Branch",
+    "Category": "Branch",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1615,7 +1615,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Hammer",
+    "Category": "Hammer",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1634,7 +1634,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Canister",
+    "Category": "Canister",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1653,7 +1653,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Candy",
+    "Category": "Candy",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1672,7 +1672,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Sprayer",
+    "Category": "Sprayer",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1691,7 +1691,7 @@
     "Storage": ""
   },
   {
-    "Category*": "FruitBasket",
+    "Category": "FruitBasket",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1710,7 +1710,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Coffee",
+    "Category": "Coffee",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1729,7 +1729,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Cop",
+    "Category": "Cop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1748,7 +1748,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Sandwich",
+    "Category": "Sandwich",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1767,7 +1767,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Sketchbook",
+    "Category": "Sketchbook",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1786,7 +1786,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Smoothie",
+    "Category": "Smoothie",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1805,7 +1805,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Dumbbell",
+    "Category": "Dumbbell",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1824,7 +1824,7 @@
     "Storage": ""
   },
   {
-    "Category*": "LightDumbbell",
+    "Category": "LightDumbbell",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1843,7 +1843,7 @@
     "Storage": ""
   },
   {
-    "Category*": "RcmTourFlag",
+    "Category": "RcmTourFlag",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1862,7 +1862,7 @@
     "Storage": ""
   },
   {
-    "Category*": "BagHand",
+    "Category": "BagHand",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1881,7 +1881,7 @@
     "Storage": ""
   },
   {
-    "Category*": "CuteBagHand",
+    "Category": "CuteBagHand",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1900,7 +1900,7 @@
     "Storage": ""
   },
   {
-    "Category*": "CoolBagHand",
+    "Category": "CoolBagHand",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1919,7 +1919,7 @@
     "Storage": ""
   },
   {
-    "Category*": "HighBagHand",
+    "Category": "HighBagHand",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1938,7 +1938,7 @@
     "Storage": ""
   },
   {
-    "Category*": "LowBagHand",
+    "Category": "LowBagHand",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1957,7 +1957,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Doughnut",
+    "Category": "Doughnut",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1976,7 +1976,7 @@
     "Storage": ""
   },
   {
-    "Category*": "TkkGuitar",
+    "Category": "TkkGuitar",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -1995,7 +1995,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Duster",
+    "Category": "Duster",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2014,7 +2014,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Bouquet",
+    "Category": "Bouquet",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2033,7 +2033,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Broom",
+    "Category": "Broom",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2052,7 +2052,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Scallop",
+    "Category": "Scallop",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2071,7 +2071,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Book",
+    "Category": "Book",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2090,7 +2090,7 @@
     "Storage": ""
   },
   {
-    "Category*": "SmallBook",
+    "Category": "SmallBook",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2109,7 +2109,7 @@
     "Storage": ""
   },
   {
-    "Category*": "Firewood",
+    "Category": "Firewood",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,
@@ -2128,7 +2128,7 @@
     "Storage": ""
   },
   {
-    "Category*": "HandLens",
+    "Category": "HandLens",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,
     "RotateOffsetY": 0,

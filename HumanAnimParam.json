@@ -1,6 +1,6 @@
 [
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10,
     "UniqueID": 50,
     "9f5123d4 u8": 2,
@@ -14,7 +14,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 12,
     "UniqueID": 39,
     "9f5123d4 u8": 3,
@@ -28,7 +28,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 13,
     "UniqueID": 58,
     "9f5123d4 u8": 3,
@@ -42,7 +42,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 14,
     "UniqueID": 120,
     "9f5123d4 u8": 3,
@@ -56,7 +56,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 20,
     "UniqueID": 19,
     "9f5123d4 u8": 3,
@@ -70,7 +70,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 30,
     "UniqueID": 21,
     "9f5123d4 u8": 3,
@@ -84,7 +84,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 40,
     "UniqueID": 23,
     "9f5123d4 u8": 3,
@@ -98,7 +98,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 50,
     "UniqueID": 20,
     "9f5123d4 u8": 3,
@@ -112,7 +112,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 60,
     "UniqueID": 22,
     "9f5123d4 u8": 3,
@@ -126,7 +126,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 70,
     "UniqueID": 127,
     "9f5123d4 u8": 2,
@@ -140,7 +140,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 80,
     "UniqueID": 62,
     "9f5123d4 u8": 3,
@@ -154,7 +154,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 90,
     "UniqueID": 60,
     "9f5123d4 u8": 3,
@@ -168,7 +168,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 92,
     "UniqueID": 51,
     "9f5123d4 u8": 3,
@@ -182,7 +182,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 95,
     "UniqueID": 49,
     "9f5123d4 u8": 3,
@@ -196,7 +196,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 98,
     "UniqueID": 47,
     "9f5123d4 u8": 2,
@@ -210,7 +210,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 100,
     "UniqueID": 126,
     "9f5123d4 u8": 3,
@@ -224,7 +224,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 200,
     "UniqueID": 253,
     "9f5123d4 u8": 3,
@@ -238,7 +238,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 205,
     "UniqueID": 41,
     "9f5123d4 u8": 3,
@@ -252,7 +252,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 210,
     "UniqueID": 34,
     "9f5123d4 u8": 3,
@@ -266,7 +266,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 220,
     "UniqueID": 33,
     "9f5123d4 u8": 3,
@@ -280,7 +280,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 230,
     "UniqueID": 40,
     "9f5123d4 u8": 3,
@@ -294,7 +294,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 240,
     "UniqueID": 36,
     "9f5123d4 u8": 3,
@@ -308,7 +308,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 250,
     "UniqueID": 59,
     "9f5123d4 u8": 2,
@@ -322,7 +322,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 310,
     "UniqueID": 44,
     "9f5123d4 u8": 3,
@@ -336,7 +336,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 330,
     "UniqueID": 57,
     "9f5123d4 u8": 3,
@@ -350,7 +350,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 340,
     "UniqueID": 54,
     "9f5123d4 u8": 3,
@@ -364,7 +364,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 350,
     "UniqueID": 53,
     "9f5123d4 u8": 3,
@@ -378,7 +378,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 360,
     "UniqueID": 46,
     "9f5123d4 u8": 3,
@@ -392,7 +392,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 370,
     "UniqueID": 45,
     "9f5123d4 u8": 2,
@@ -406,7 +406,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 375,
     "UniqueID": 61,
     "9f5123d4 u8": 3,
@@ -420,7 +420,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 380,
     "UniqueID": 29,
     "9f5123d4 u8": 3,
@@ -434,7 +434,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 390,
     "UniqueID": 43,
     "9f5123d4 u8": 3,
@@ -448,7 +448,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 395,
     "UniqueID": 63,
     "9f5123d4 u8": 3,
@@ -462,7 +462,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 500,
     "UniqueID": 27,
     "9f5123d4 u8": 3,
@@ -476,7 +476,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 540,
     "UniqueID": 28,
     "9f5123d4 u8": 3,
@@ -490,7 +490,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 550,
     "UniqueID": 30,
     "9f5123d4 u8": 3,
@@ -504,7 +504,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 560,
     "UniqueID": 42,
     "9f5123d4 u8": 3,
@@ -518,7 +518,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 580,
     "UniqueID": 32,
     "9f5123d4 u8": 3,
@@ -532,7 +532,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 600,
     "UniqueID": 119,
     "9f5123d4 u8": 3,
@@ -546,7 +546,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 610,
     "UniqueID": 25,
     "9f5123d4 u8": 3,
@@ -560,7 +560,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 700,
     "UniqueID": 37,
     "9f5123d4 u8": 3,
@@ -574,7 +574,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 705,
     "UniqueID": 31,
     "9f5123d4 u8": 3,
@@ -588,7 +588,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 710,
     "UniqueID": 38,
     "9f5123d4 u8": 3,
@@ -602,7 +602,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 720,
     "UniqueID": 48,
     "9f5123d4 u8": 3,
@@ -616,7 +616,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 24,
     "9f5123d4 u8": 3,
@@ -630,7 +630,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 26,
     "9f5123d4 u8": 3,
@@ -644,7 +644,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 35,
     "9f5123d4 u8": 3,
@@ -658,7 +658,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 52,
     "9f5123d4 u8": 3,
@@ -672,7 +672,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 55,
     "9f5123d4 u8": 3,
@@ -686,7 +686,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 56,
     "9f5123d4 u8": 3,
@@ -700,7 +700,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 121,
     "9f5123d4 u8": 3,
@@ -714,7 +714,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 122,
     "9f5123d4 u8": 3,
@@ -728,7 +728,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 123,
     "9f5123d4 u8": 3,
@@ -742,7 +742,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 124,
     "9f5123d4 u8": 3,
@@ -756,7 +756,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 125,
     "9f5123d4 u8": 3,
@@ -770,7 +770,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": 10000,
     "UniqueID": 128,
     "9f5123d4 u8": 3,
@@ -784,7 +784,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -15536,
     "UniqueID": 18,
     "9f5123d4 u8": 3,
@@ -798,7 +798,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -15536,
     "UniqueID": 249,
     "9f5123d4 u8": 2,
@@ -812,7 +812,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 1,
     "9f5123d4 u8": 7,
@@ -826,7 +826,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 2,
     "9f5123d4 u8": 0,
@@ -840,7 +840,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 3,
     "9f5123d4 u8": 3,
@@ -854,7 +854,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 4,
     "9f5123d4 u8": 2,
@@ -868,7 +868,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 5,
     "9f5123d4 u8": 2,
@@ -882,7 +882,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 6,
     "9f5123d4 u8": 0,
@@ -896,7 +896,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 7,
     "9f5123d4 u8": 0,
@@ -910,7 +910,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 9,
     "9f5123d4 u8": 3,
@@ -924,7 +924,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 10,
     "9f5123d4 u8": 2,
@@ -938,7 +938,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 11,
     "9f5123d4 u8": 0,
@@ -952,7 +952,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 12,
     "9f5123d4 u8": 0,
@@ -966,7 +966,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 13,
     "9f5123d4 u8": 0,
@@ -980,7 +980,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 14,
     "9f5123d4 u8": 7,
@@ -994,7 +994,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 15,
     "9f5123d4 u8": 7,
@@ -1008,7 +1008,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 16,
     "9f5123d4 u8": 5,
@@ -1022,7 +1022,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 17,
     "9f5123d4 u8": 3,
@@ -1036,7 +1036,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 66,
     "9f5123d4 u8": 0,
@@ -1050,7 +1050,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 67,
     "9f5123d4 u8": 0,
@@ -1064,7 +1064,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 68,
     "9f5123d4 u8": 0,
@@ -1078,7 +1078,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 69,
     "9f5123d4 u8": 0,
@@ -1092,7 +1092,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 70,
     "9f5123d4 u8": 0,
@@ -1106,7 +1106,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 71,
     "9f5123d4 u8": 0,
@@ -1120,7 +1120,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 72,
     "9f5123d4 u8": 0,
@@ -1134,7 +1134,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 73,
     "9f5123d4 u8": 0,
@@ -1148,7 +1148,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 74,
     "9f5123d4 u8": 3,
@@ -1162,7 +1162,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 75,
     "9f5123d4 u8": 3,
@@ -1176,7 +1176,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 76,
     "9f5123d4 u8": 3,
@@ -1190,7 +1190,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 77,
     "9f5123d4 u8": 3,
@@ -1204,7 +1204,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 81,
     "9f5123d4 u8": 3,
@@ -1218,7 +1218,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 82,
     "9f5123d4 u8": 0,
@@ -1232,7 +1232,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 83,
     "9f5123d4 u8": 2,
@@ -1246,7 +1246,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 84,
     "9f5123d4 u8": 2,
@@ -1260,7 +1260,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 85,
     "9f5123d4 u8": 2,
@@ -1274,7 +1274,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 86,
     "9f5123d4 u8": 2,
@@ -1288,7 +1288,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 87,
     "9f5123d4 u8": 2,
@@ -1302,7 +1302,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 93,
     "9f5123d4 u8": 2,
@@ -1316,7 +1316,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 94,
     "9f5123d4 u8": 2,
@@ -1330,7 +1330,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 95,
     "9f5123d4 u8": 2,
@@ -1344,7 +1344,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 96,
     "9f5123d4 u8": 2,
@@ -1358,7 +1358,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 97,
     "9f5123d4 u8": 2,
@@ -1372,7 +1372,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 98,
     "9f5123d4 u8": 2,
@@ -1386,7 +1386,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 100,
     "9f5123d4 u8": 2,
@@ -1400,7 +1400,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 101,
     "9f5123d4 u8": 2,
@@ -1414,7 +1414,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 102,
     "9f5123d4 u8": 0,
@@ -1428,7 +1428,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 103,
     "9f5123d4 u8": 0,
@@ -1442,7 +1442,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 104,
     "9f5123d4 u8": 0,
@@ -1456,7 +1456,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 107,
     "9f5123d4 u8": 0,
@@ -1470,7 +1470,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 108,
     "9f5123d4 u8": 0,
@@ -1484,7 +1484,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 109,
     "9f5123d4 u8": 3,
@@ -1498,7 +1498,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 111,
     "9f5123d4 u8": 3,
@@ -1512,7 +1512,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 112,
     "9f5123d4 u8": 0,
@@ -1526,7 +1526,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 113,
     "9f5123d4 u8": 0,
@@ -1540,7 +1540,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 114,
     "9f5123d4 u8": 0,
@@ -1554,7 +1554,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 118,
     "9f5123d4 u8": 0,
@@ -1568,7 +1568,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 130,
     "9f5123d4 u8": 0,
@@ -1582,7 +1582,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 132,
     "9f5123d4 u8": 3,
@@ -1596,7 +1596,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 133,
     "9f5123d4 u8": 0,
@@ -1610,7 +1610,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 134,
     "9f5123d4 u8": 0,
@@ -1624,7 +1624,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 135,
     "9f5123d4 u8": 0,
@@ -1638,7 +1638,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 136,
     "9f5123d4 u8": 0,
@@ -1652,7 +1652,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 137,
     "9f5123d4 u8": 3,
@@ -1666,7 +1666,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 138,
     "9f5123d4 u8": 2,
@@ -1680,7 +1680,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 139,
     "9f5123d4 u8": 0,
@@ -1694,7 +1694,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 140,
     "9f5123d4 u8": 3,
@@ -1708,7 +1708,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 141,
     "9f5123d4 u8": 0,
@@ -1722,7 +1722,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 143,
     "9f5123d4 u8": 3,
@@ -1736,7 +1736,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 144,
     "9f5123d4 u8": 3,
@@ -1750,7 +1750,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 145,
     "9f5123d4 u8": 2,
@@ -1764,7 +1764,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 146,
     "9f5123d4 u8": 2,
@@ -1778,7 +1778,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 147,
     "9f5123d4 u8": 2,
@@ -1792,7 +1792,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 148,
     "9f5123d4 u8": 2,
@@ -1806,7 +1806,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 149,
     "9f5123d4 u8": 2,
@@ -1820,7 +1820,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 150,
     "9f5123d4 u8": 2,
@@ -1834,7 +1834,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 151,
     "9f5123d4 u8": 2,
@@ -1848,7 +1848,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 152,
     "9f5123d4 u8": 2,
@@ -1862,7 +1862,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 153,
     "9f5123d4 u8": 2,
@@ -1876,7 +1876,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 154,
     "9f5123d4 u8": 2,
@@ -1890,7 +1890,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 157,
     "9f5123d4 u8": 2,
@@ -1904,7 +1904,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 158,
     "9f5123d4 u8": 2,
@@ -1918,7 +1918,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 159,
     "9f5123d4 u8": 2,
@@ -1932,7 +1932,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 160,
     "9f5123d4 u8": 2,
@@ -1946,7 +1946,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 161,
     "9f5123d4 u8": 0,
@@ -1960,7 +1960,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 162,
     "9f5123d4 u8": 0,
@@ -1974,7 +1974,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 168,
     "9f5123d4 u8": 2,
@@ -1988,7 +1988,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 170,
     "9f5123d4 u8": 0,
@@ -2002,7 +2002,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 176,
     "9f5123d4 u8": 0,
@@ -2016,7 +2016,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 179,
     "9f5123d4 u8": 0,
@@ -2030,7 +2030,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 180,
     "9f5123d4 u8": 0,
@@ -2044,7 +2044,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 181,
     "9f5123d4 u8": 0,
@@ -2058,7 +2058,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 182,
     "9f5123d4 u8": 0,
@@ -2072,7 +2072,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 183,
     "9f5123d4 u8": 0,
@@ -2086,7 +2086,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 184,
     "9f5123d4 u8": 0,
@@ -2100,7 +2100,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 199,
     "9f5123d4 u8": 0,
@@ -2114,7 +2114,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 200,
     "9f5123d4 u8": 2,
@@ -2128,7 +2128,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 202,
     "9f5123d4 u8": 0,
@@ -2142,7 +2142,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 218,
     "9f5123d4 u8": 0,
@@ -2156,7 +2156,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 221,
     "9f5123d4 u8": 0,
@@ -2170,7 +2170,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 222,
     "9f5123d4 u8": 0,
@@ -2184,7 +2184,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 223,
     "9f5123d4 u8": 0,
@@ -2198,7 +2198,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 225,
     "9f5123d4 u8": 2,
@@ -2212,7 +2212,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 227,
     "9f5123d4 u8": 2,
@@ -2226,7 +2226,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 229,
     "9f5123d4 u8": 3,
@@ -2240,7 +2240,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 230,
     "9f5123d4 u8": 3,
@@ -2254,7 +2254,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 231,
     "9f5123d4 u8": 3,
@@ -2268,7 +2268,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 232,
     "9f5123d4 u8": 0,
@@ -2282,7 +2282,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 233,
     "9f5123d4 u8": 0,
@@ -2296,7 +2296,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 234,
     "9f5123d4 u8": 0,
@@ -2310,7 +2310,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 242,
     "9f5123d4 u8": 2,
@@ -2324,7 +2324,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 243,
     "9f5123d4 u8": 0,
@@ -2338,7 +2338,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 244,
     "9f5123d4 u8": 0,
@@ -2352,7 +2352,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 245,
     "9f5123d4 u8": 0,
@@ -2366,7 +2366,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 246,
     "9f5123d4 u8": 0,
@@ -2380,7 +2380,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 247,
     "9f5123d4 u8": 0,
@@ -2394,7 +2394,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 250,
     "9f5123d4 u8": 2,
@@ -2408,7 +2408,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 252,
     "9f5123d4 u8": 3,
@@ -2422,7 +2422,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 254,
     "9f5123d4 u8": 0,
@@ -2436,7 +2436,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 258,
     "9f5123d4 u8": 3,
@@ -2450,7 +2450,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 259,
     "9f5123d4 u8": 0,
@@ -2464,7 +2464,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 260,
     "9f5123d4 u8": 2,
@@ -2478,7 +2478,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 261,
     "9f5123d4 u8": 2,
@@ -2492,7 +2492,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 262,
     "9f5123d4 u8": 2,
@@ -2506,7 +2506,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 266,
     "9f5123d4 u8": 2,
@@ -2520,7 +2520,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 269,
     "9f5123d4 u8": 2,
@@ -2534,7 +2534,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 270,
     "9f5123d4 u8": 0,
@@ -2548,7 +2548,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 271,
     "9f5123d4 u8": 0,
@@ -2562,7 +2562,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 272,
     "9f5123d4 u8": 0,
@@ -2576,7 +2576,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 278,
     "9f5123d4 u8": 0,
@@ -2590,7 +2590,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 279,
     "9f5123d4 u8": 0,
@@ -2604,7 +2604,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 280,
     "9f5123d4 u8": 0,
@@ -2618,7 +2618,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 282,
     "9f5123d4 u8": 3,
@@ -2632,7 +2632,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 286,
     "9f5123d4 u8": 4,
@@ -2646,7 +2646,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 287,
     "9f5123d4 u8": 4,
@@ -2660,7 +2660,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 288,
     "9f5123d4 u8": 7,
@@ -2674,7 +2674,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 289,
     "9f5123d4 u8": 7,
@@ -2688,7 +2688,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 290,
     "9f5123d4 u8": 0,
@@ -2702,7 +2702,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 291,
     "9f5123d4 u8": 0,
@@ -2716,7 +2716,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 292,
     "9f5123d4 u8": 0,
@@ -2730,7 +2730,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 293,
     "9f5123d4 u8": 0,
@@ -2744,7 +2744,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 295,
     "9f5123d4 u8": 0,
@@ -2758,7 +2758,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 296,
     "9f5123d4 u8": 0,
@@ -2772,7 +2772,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 297,
     "9f5123d4 u8": 0,
@@ -2786,7 +2786,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 298,
     "9f5123d4 u8": 0,
@@ -2800,7 +2800,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 301,
     "9f5123d4 u8": 0,
@@ -2814,7 +2814,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 302,
     "9f5123d4 u8": 0,
@@ -2828,7 +2828,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 303,
     "9f5123d4 u8": 0,
@@ -2842,7 +2842,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 304,
     "9f5123d4 u8": 0,
@@ -2856,7 +2856,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 306,
     "9f5123d4 u8": 0,
@@ -2870,7 +2870,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 307,
     "9f5123d4 u8": 0,
@@ -2884,7 +2884,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 308,
     "9f5123d4 u8": 3,
@@ -2898,7 +2898,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 312,
     "9f5123d4 u8": 7,
@@ -2912,7 +2912,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 313,
     "9f5123d4 u8": 7,
@@ -2926,7 +2926,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 314,
     "9f5123d4 u8": 7,
@@ -2940,7 +2940,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 315,
     "9f5123d4 u8": 7,
@@ -2954,7 +2954,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 316,
     "9f5123d4 u8": 7,
@@ -2968,7 +2968,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 317,
     "9f5123d4 u8": 7,
@@ -2982,7 +2982,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 318,
     "9f5123d4 u8": 7,
@@ -2996,7 +2996,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 319,
     "9f5123d4 u8": 7,
@@ -3010,7 +3010,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 320,
     "9f5123d4 u8": 0,
@@ -3024,7 +3024,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 321,
     "9f5123d4 u8": 0,
@@ -3038,7 +3038,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 322,
     "9f5123d4 u8": 2,
@@ -3052,7 +3052,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 323,
     "9f5123d4 u8": 0,
@@ -3066,7 +3066,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 324,
     "9f5123d4 u8": 0,
@@ -3080,7 +3080,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 325,
     "9f5123d4 u8": 2,
@@ -3094,7 +3094,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 326,
     "9f5123d4 u8": 2,
@@ -3108,7 +3108,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 327,
     "9f5123d4 u8": 2,
@@ -3122,7 +3122,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 328,
     "9f5123d4 u8": 0,
@@ -3136,7 +3136,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 329,
     "9f5123d4 u8": 0,
@@ -3150,7 +3150,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 331,
     "9f5123d4 u8": 3,
@@ -3164,7 +3164,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 332,
     "9f5123d4 u8": 3,
@@ -3178,7 +3178,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 333,
     "9f5123d4 u8": 3,
@@ -3192,7 +3192,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 334,
     "9f5123d4 u8": 3,
@@ -3206,7 +3206,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 335,
     "9f5123d4 u8": 0,
@@ -3220,7 +3220,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 336,
     "9f5123d4 u8": 0,
@@ -3234,7 +3234,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 337,
     "9f5123d4 u8": 0,
@@ -3248,7 +3248,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 338,
     "9f5123d4 u8": 0,
@@ -3262,7 +3262,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 340,
     "9f5123d4 u8": 7,
@@ -3276,7 +3276,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 343,
     "9f5123d4 u8": 2,
@@ -3290,7 +3290,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 345,
     "9f5123d4 u8": 1,
@@ -3304,7 +3304,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 346,
     "9f5123d4 u8": 7,
@@ -3318,7 +3318,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 347,
     "9f5123d4 u8": 7,
@@ -3332,7 +3332,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 348,
     "9f5123d4 u8": 4,
@@ -3346,7 +3346,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 349,
     "9f5123d4 u8": 4,
@@ -3360,7 +3360,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 350,
     "9f5123d4 u8": 4,
@@ -3374,7 +3374,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 351,
     "9f5123d4 u8": 4,
@@ -3388,7 +3388,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 352,
     "9f5123d4 u8": 3,
@@ -3402,7 +3402,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 357,
     "9f5123d4 u8": 0,
@@ -3416,7 +3416,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 359,
     "9f5123d4 u8": 0,
@@ -3430,7 +3430,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 360,
     "9f5123d4 u8": 3,
@@ -3444,7 +3444,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 361,
     "9f5123d4 u8": 2,
@@ -3458,7 +3458,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 362,
     "9f5123d4 u8": 0,
@@ -3472,7 +3472,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 363,
     "9f5123d4 u8": 2,
@@ -3486,7 +3486,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 364,
     "9f5123d4 u8": 2,
@@ -3500,7 +3500,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 365,
     "9f5123d4 u8": 2,
@@ -3514,7 +3514,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 366,
     "9f5123d4 u8": 2,
@@ -3528,7 +3528,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 367,
     "9f5123d4 u8": 2,
@@ -3542,7 +3542,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 368,
     "9f5123d4 u8": 0,
@@ -3556,7 +3556,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 369,
     "9f5123d4 u8": 0,
@@ -3570,7 +3570,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 370,
     "9f5123d4 u8": 0,
@@ -3584,7 +3584,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 371,
     "9f5123d4 u8": 0,
@@ -3598,7 +3598,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 372,
     "9f5123d4 u8": 0,
@@ -3612,7 +3612,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 373,
     "9f5123d4 u8": 0,
@@ -3626,7 +3626,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 374,
     "9f5123d4 u8": 0,
@@ -3640,7 +3640,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 375,
     "9f5123d4 u8": 0,
@@ -3654,7 +3654,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 376,
     "9f5123d4 u8": 0,
@@ -3668,7 +3668,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 377,
     "9f5123d4 u8": 0,
@@ -3682,7 +3682,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 378,
     "9f5123d4 u8": 4,
@@ -3696,7 +3696,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 380,
     "9f5123d4 u8": 3,
@@ -3710,7 +3710,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 385,
     "9f5123d4 u8": 3,
@@ -3724,7 +3724,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 388,
     "9f5123d4 u8": 3,
@@ -3738,7 +3738,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 390,
     "9f5123d4 u8": 0,
@@ -3752,7 +3752,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 391,
     "9f5123d4 u8": 0,
@@ -3766,7 +3766,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 392,
     "9f5123d4 u8": 0,
@@ -3780,7 +3780,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 393,
     "9f5123d4 u8": 0,
@@ -3794,7 +3794,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 394,
     "9f5123d4 u8": 0,
@@ -3808,7 +3808,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 395,
     "9f5123d4 u8": 0,
@@ -3822,7 +3822,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 396,
     "9f5123d4 u8": 0,
@@ -3836,7 +3836,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 397,
     "9f5123d4 u8": 0,
@@ -3850,7 +3850,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 398,
     "9f5123d4 u8": 0,
@@ -3864,7 +3864,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 399,
     "9f5123d4 u8": 2,
@@ -3878,7 +3878,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 400,
     "9f5123d4 u8": 2,
@@ -3892,7 +3892,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 404,
     "9f5123d4 u8": 0,
@@ -3906,7 +3906,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 405,
     "9f5123d4 u8": 0,
@@ -3920,7 +3920,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 406,
     "9f5123d4 u8": 0,
@@ -3934,7 +3934,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 414,
     "9f5123d4 u8": 1,
@@ -3948,7 +3948,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 415,
     "9f5123d4 u8": 1,
@@ -3962,7 +3962,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 416,
     "9f5123d4 u8": 1,
@@ -3976,7 +3976,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 418,
     "9f5123d4 u8": 0,
@@ -3990,7 +3990,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 420,
     "9f5123d4 u8": 0,
@@ -4004,7 +4004,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 421,
     "9f5123d4 u8": 0,
@@ -4018,7 +4018,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 422,
     "9f5123d4 u8": 0,
@@ -4032,7 +4032,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 423,
     "9f5123d4 u8": 0,
@@ -4046,7 +4046,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 427,
     "9f5123d4 u8": 3,
@@ -4060,7 +4060,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 428,
     "9f5123d4 u8": 2,
@@ -4074,7 +4074,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 429,
     "9f5123d4 u8": 2,
@@ -4088,7 +4088,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 430,
     "9f5123d4 u8": 0,
@@ -4102,7 +4102,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 431,
     "9f5123d4 u8": 0,
@@ -4116,7 +4116,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 432,
     "9f5123d4 u8": 3,
@@ -4130,7 +4130,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 433,
     "9f5123d4 u8": 3,
@@ -4144,7 +4144,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 434,
     "9f5123d4 u8": 3,
@@ -4158,7 +4158,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 437,
     "9f5123d4 u8": 3,
@@ -4172,7 +4172,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 438,
     "9f5123d4 u8": 0,
@@ -4186,7 +4186,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 439,
     "9f5123d4 u8": 0,
@@ -4200,7 +4200,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 441,
     "9f5123d4 u8": 7,
@@ -4214,7 +4214,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 442,
     "9f5123d4 u8": 7,
@@ -4228,7 +4228,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 443,
     "9f5123d4 u8": 7,
@@ -4242,7 +4242,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 444,
     "9f5123d4 u8": 7,
@@ -4256,7 +4256,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 445,
     "9f5123d4 u8": 7,
@@ -4270,7 +4270,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 446,
     "9f5123d4 u8": 7,
@@ -4284,7 +4284,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 447,
     "9f5123d4 u8": 7,
@@ -4298,7 +4298,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 448,
     "9f5123d4 u8": 7,
@@ -4312,7 +4312,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 449,
     "9f5123d4 u8": 3,
@@ -4326,7 +4326,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 450,
     "9f5123d4 u8": 7,
@@ -4340,7 +4340,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 451,
     "9f5123d4 u8": 7,
@@ -4354,7 +4354,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 452,
     "9f5123d4 u8": 3,
@@ -4368,7 +4368,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 453,
     "9f5123d4 u8": 0,
@@ -4382,7 +4382,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 454,
     "9f5123d4 u8": 0,
@@ -4396,7 +4396,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 455,
     "9f5123d4 u8": 0,
@@ -4410,7 +4410,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 456,
     "9f5123d4 u8": 1,
@@ -4424,7 +4424,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 457,
     "9f5123d4 u8": 3,
@@ -4438,7 +4438,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 458,
     "9f5123d4 u8": 3,
@@ -4452,7 +4452,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 460,
     "9f5123d4 u8": 0,
@@ -4466,7 +4466,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 461,
     "9f5123d4 u8": 0,
@@ -4480,7 +4480,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 462,
     "9f5123d4 u8": 1,
@@ -4494,7 +4494,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 464,
     "9f5123d4 u8": 0,
@@ -4508,7 +4508,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 465,
     "9f5123d4 u8": 0,
@@ -4522,7 +4522,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 466,
     "9f5123d4 u8": 0,
@@ -4536,7 +4536,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 467,
     "9f5123d4 u8": 0,
@@ -4550,7 +4550,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 468,
     "9f5123d4 u8": 0,
@@ -4564,7 +4564,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 469,
     "9f5123d4 u8": 0,
@@ -4578,7 +4578,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 470,
     "9f5123d4 u8": 2,
@@ -4592,7 +4592,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 471,
     "9f5123d4 u8": 0,
@@ -4606,7 +4606,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 472,
     "9f5123d4 u8": 0,
@@ -4620,7 +4620,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 473,
     "9f5123d4 u8": 0,
@@ -4634,7 +4634,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 474,
     "9f5123d4 u8": 0,
@@ -4648,7 +4648,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 475,
     "9f5123d4 u8": 0,
@@ -4662,7 +4662,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 476,
     "9f5123d4 u8": 0,
@@ -4676,7 +4676,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 477,
     "9f5123d4 u8": 0,
@@ -4690,7 +4690,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 478,
     "9f5123d4 u8": 0,
@@ -4704,7 +4704,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 480,
     "9f5123d4 u8": 0,
@@ -4718,7 +4718,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 482,
     "9f5123d4 u8": 2,
@@ -4732,7 +4732,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 491,
     "9f5123d4 u8": 2,
@@ -4746,7 +4746,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 492,
     "9f5123d4 u8": 2,
@@ -4760,7 +4760,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 493,
     "9f5123d4 u8": 2,
@@ -4774,7 +4774,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 494,
     "9f5123d4 u8": 2,
@@ -4788,7 +4788,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 495,
     "9f5123d4 u8": 1,
@@ -4802,7 +4802,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 497,
     "9f5123d4 u8": 3,
@@ -4816,7 +4816,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 498,
     "9f5123d4 u8": 1,
@@ -4830,7 +4830,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 500,
     "9f5123d4 u8": 0,
@@ -4844,7 +4844,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 502,
     "9f5123d4 u8": 2,
@@ -4858,7 +4858,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 503,
     "9f5123d4 u8": 0,
@@ -4872,7 +4872,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 504,
     "9f5123d4 u8": 0,
@@ -4886,7 +4886,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 506,
     "9f5123d4 u8": 2,
@@ -4900,7 +4900,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 507,
     "9f5123d4 u8": 2,
@@ -4914,7 +4914,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 508,
     "9f5123d4 u8": 2,
@@ -4928,7 +4928,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 510,
     "9f5123d4 u8": 0,
@@ -4942,7 +4942,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 514,
     "9f5123d4 u8": 3,
@@ -4956,7 +4956,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 521,
     "9f5123d4 u8": 3,
@@ -4970,7 +4970,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 522,
     "9f5123d4 u8": 3,
@@ -4984,7 +4984,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 523,
     "9f5123d4 u8": 3,
@@ -4998,7 +4998,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 524,
     "9f5123d4 u8": 2,
@@ -5012,7 +5012,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 525,
     "9f5123d4 u8": 1,
@@ -5026,7 +5026,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 529,
     "9f5123d4 u8": 0,
@@ -5040,7 +5040,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 530,
     "9f5123d4 u8": 3,
@@ -5054,7 +5054,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 531,
     "9f5123d4 u8": 1,
@@ -5068,7 +5068,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 532,
     "9f5123d4 u8": 0,
@@ -5082,7 +5082,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 533,
     "9f5123d4 u8": 0,
@@ -5096,7 +5096,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 534,
     "9f5123d4 u8": 0,
@@ -5110,7 +5110,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 535,
     "9f5123d4 u8": 0,
@@ -5124,7 +5124,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 536,
     "9f5123d4 u8": 0,
@@ -5138,7 +5138,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 537,
     "9f5123d4 u8": 0,
@@ -5152,7 +5152,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 539,
     "9f5123d4 u8": 0,
@@ -5166,7 +5166,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 540,
     "9f5123d4 u8": 0,
@@ -5180,7 +5180,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 541,
     "9f5123d4 u8": 2,
@@ -5194,7 +5194,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 542,
     "9f5123d4 u8": 3,
@@ -5208,7 +5208,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 543,
     "9f5123d4 u8": 3,
@@ -5222,7 +5222,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 544,
     "9f5123d4 u8": 3,
@@ -5236,7 +5236,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 545,
     "9f5123d4 u8": 1,
@@ -5250,7 +5250,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 546,
     "9f5123d4 u8": 2,
@@ -5264,7 +5264,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 547,
     "9f5123d4 u8": 2,
@@ -5278,7 +5278,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 548,
     "9f5123d4 u8": 0,
@@ -5292,7 +5292,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 550,
     "9f5123d4 u8": 2,
@@ -5306,7 +5306,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 551,
     "9f5123d4 u8": 0,
@@ -5320,7 +5320,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 552,
     "9f5123d4 u8": 3,
@@ -5334,7 +5334,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 553,
     "9f5123d4 u8": 0,
@@ -5348,7 +5348,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 554,
     "9f5123d4 u8": 0,
@@ -5362,7 +5362,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 555,
     "9f5123d4 u8": 0,
@@ -5376,7 +5376,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 556,
     "9f5123d4 u8": 3,
@@ -5390,7 +5390,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 557,
     "9f5123d4 u8": 3,
@@ -5404,7 +5404,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 558,
     "9f5123d4 u8": 3,
@@ -5418,7 +5418,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 559,
     "9f5123d4 u8": 1,
@@ -5432,7 +5432,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 560,
     "9f5123d4 u8": 1,
@@ -5446,7 +5446,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 563,
     "9f5123d4 u8": 3,
@@ -5460,7 +5460,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 564,
     "9f5123d4 u8": 2,
@@ -5474,7 +5474,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 566,
     "9f5123d4 u8": 0,
@@ -5488,7 +5488,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 567,
     "9f5123d4 u8": 0,
@@ -5502,7 +5502,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 568,
     "9f5123d4 u8": 0,
@@ -5516,7 +5516,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 569,
     "9f5123d4 u8": 0,
@@ -5530,7 +5530,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 571,
     "9f5123d4 u8": 0,
@@ -5544,7 +5544,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 572,
     "9f5123d4 u8": 0,
@@ -5558,7 +5558,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 573,
     "9f5123d4 u8": 0,
@@ -5572,7 +5572,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 574,
     "9f5123d4 u8": 2,
@@ -5586,7 +5586,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 575,
     "9f5123d4 u8": 0,
@@ -5600,7 +5600,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 576,
     "9f5123d4 u8": 3,
@@ -5614,7 +5614,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 577,
     "9f5123d4 u8": 2,
@@ -5628,7 +5628,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 578,
     "9f5123d4 u8": 3,
@@ -5642,7 +5642,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 579,
     "9f5123d4 u8": 3,
@@ -5656,7 +5656,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 580,
     "9f5123d4 u8": 2,
@@ -5670,7 +5670,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 581,
     "9f5123d4 u8": 2,
@@ -5684,7 +5684,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 582,
     "9f5123d4 u8": 0,
@@ -5698,7 +5698,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 584,
     "9f5123d4 u8": 0,
@@ -5712,7 +5712,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 585,
     "9f5123d4 u8": 2,
@@ -5726,7 +5726,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 586,
     "9f5123d4 u8": 1,
@@ -5740,7 +5740,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 587,
     "9f5123d4 u8": 2,
@@ -5754,7 +5754,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 588,
     "9f5123d4 u8": 1,
@@ -5768,7 +5768,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 590,
     "9f5123d4 u8": 0,
@@ -5782,7 +5782,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 591,
     "9f5123d4 u8": 1,
@@ -5796,7 +5796,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 592,
     "9f5123d4 u8": 0,
@@ -5810,7 +5810,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 593,
     "9f5123d4 u8": 0,
@@ -5824,7 +5824,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 594,
     "9f5123d4 u8": 1,
@@ -5838,7 +5838,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 595,
     "9f5123d4 u8": 1,
@@ -5852,7 +5852,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 596,
     "9f5123d4 u8": 0,
@@ -5866,7 +5866,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 597,
     "9f5123d4 u8": 2,
@@ -5880,7 +5880,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 598,
     "9f5123d4 u8": 1,
@@ -5894,7 +5894,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 599,
     "9f5123d4 u8": 2,
@@ -5908,7 +5908,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 600,
     "9f5123d4 u8": 0,
@@ -5922,7 +5922,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 603,
     "9f5123d4 u8": 0,
@@ -5936,7 +5936,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 604,
     "9f5123d4 u8": 0,
@@ -5950,7 +5950,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 605,
     "9f5123d4 u8": 0,
@@ -5964,7 +5964,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 606,
     "9f5123d4 u8": 2,
@@ -5978,7 +5978,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 607,
     "9f5123d4 u8": 1,
@@ -5992,7 +5992,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 608,
     "9f5123d4 u8": 0,
@@ -6006,7 +6006,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Sit",
+    "LowerSetting": "EnableOnlyLowerBody_Sit",
     "2fe593c3 u16": -1,
     "UniqueID": 609,
     "9f5123d4 u8": 0,
@@ -6020,7 +6020,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Bed",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
     "2fe593c3 u16": -1,
     "UniqueID": 610,
     "9f5123d4 u8": 0,
@@ -6034,7 +6034,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 611,
     "9f5123d4 u8": 0,
@@ -6048,7 +6048,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 612,
     "9f5123d4 u8": 0,
@@ -6062,7 +6062,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 615,
     "9f5123d4 u8": 0,
@@ -6076,7 +6076,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 616,
     "9f5123d4 u8": 0,
@@ -6090,7 +6090,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 617,
     "9f5123d4 u8": 0,
@@ -6104,7 +6104,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 618,
     "9f5123d4 u8": 2,
@@ -6118,7 +6118,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 627,
     "9f5123d4 u8": 2,
@@ -6132,7 +6132,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 628,
     "9f5123d4 u8": 1,
@@ -6146,7 +6146,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 629,
     "9f5123d4 u8": 2,
@@ -6160,7 +6160,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 630,
     "9f5123d4 u8": 2,
@@ -6174,7 +6174,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 631,
     "9f5123d4 u8": 2,
@@ -6188,7 +6188,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 632,
     "9f5123d4 u8": 0,
@@ -6202,7 +6202,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 633,
     "9f5123d4 u8": 1,
@@ -6216,7 +6216,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 634,
     "9f5123d4 u8": 1,
@@ -6230,7 +6230,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 635,
     "9f5123d4 u8": 1,
@@ -6244,7 +6244,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 636,
     "9f5123d4 u8": 1,
@@ -6258,7 +6258,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 637,
     "9f5123d4 u8": 1,
@@ -6272,7 +6272,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 640,
     "9f5123d4 u8": 0,
@@ -6286,7 +6286,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 641,
     "9f5123d4 u8": 3,
@@ -6300,7 +6300,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 643,
     "9f5123d4 u8": 7,
@@ -6314,7 +6314,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 644,
     "9f5123d4 u8": 2,
@@ -6328,7 +6328,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 645,
     "9f5123d4 u8": 2,
@@ -6342,7 +6342,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 646,
     "9f5123d4 u8": 2,
@@ -6356,7 +6356,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 647,
     "9f5123d4 u8": 2,
@@ -6370,7 +6370,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 648,
     "9f5123d4 u8": 2,
@@ -6384,7 +6384,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 650,
     "9f5123d4 u8": 0,
@@ -6398,7 +6398,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 651,
     "9f5123d4 u8": 3,
@@ -6412,7 +6412,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 652,
     "9f5123d4 u8": 3,
@@ -6426,7 +6426,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 653,
     "9f5123d4 u8": 3,
@@ -6440,7 +6440,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 654,
     "9f5123d4 u8": 1,
@@ -6454,7 +6454,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 655,
     "9f5123d4 u8": 3,
@@ -6468,7 +6468,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 657,
     "9f5123d4 u8": 3,
@@ -6482,7 +6482,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 660,
     "9f5123d4 u8": 3,
@@ -6496,7 +6496,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 661,
     "9f5123d4 u8": 0,
@@ -6510,7 +6510,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 662,
     "9f5123d4 u8": 0,
@@ -6524,7 +6524,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 663,
     "9f5123d4 u8": 0,
@@ -6538,7 +6538,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 664,
     "9f5123d4 u8": 1,
@@ -6552,7 +6552,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 667,
     "9f5123d4 u8": 0,
@@ -6566,7 +6566,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 670,
     "9f5123d4 u8": 2,
@@ -6580,7 +6580,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 671,
     "9f5123d4 u8": 0,
@@ -6594,7 +6594,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 672,
     "9f5123d4 u8": 2,
@@ -6608,7 +6608,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 673,
     "9f5123d4 u8": 0,
@@ -6622,7 +6622,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 675,
     "9f5123d4 u8": 0,
@@ -6636,7 +6636,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 692,
     "9f5123d4 u8": 0,
@@ -6650,7 +6650,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 699,
     "9f5123d4 u8": 0,
@@ -6664,7 +6664,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 700,
     "9f5123d4 u8": 0,
@@ -6678,7 +6678,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 701,
     "9f5123d4 u8": 0,
@@ -6692,7 +6692,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 702,
     "9f5123d4 u8": 0,
@@ -6706,7 +6706,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 703,
     "9f5123d4 u8": 0,
@@ -6720,7 +6720,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 704,
     "9f5123d4 u8": 0,
@@ -6734,7 +6734,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 709,
     "9f5123d4 u8": 2,
@@ -6748,7 +6748,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 717,
     "9f5123d4 u8": 0,
@@ -6762,7 +6762,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 718,
     "9f5123d4 u8": 0,
@@ -6776,7 +6776,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 719,
     "9f5123d4 u8": 0,
@@ -6790,7 +6790,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 720,
     "9f5123d4 u8": 0,
@@ -6804,7 +6804,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 739,
     "9f5123d4 u8": 0,
@@ -6818,7 +6818,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 740,
     "9f5123d4 u8": 2,
@@ -6832,7 +6832,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting": "DisableOnlyLowerBody",
     "2fe593c3 u16": -1,
     "UniqueID": 758,
     "9f5123d4 u8": 3,
@@ -6846,7 +6846,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 759,
     "9f5123d4 u8": 0,
@@ -6860,7 +6860,7 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "LowerSetting": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
     "UniqueID": 760,
     "9f5123d4 u8": 0,

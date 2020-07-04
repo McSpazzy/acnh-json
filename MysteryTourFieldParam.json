@@ -1,98 +1,98 @@
 [
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 0
   },
   {
-    "MysteryTourFieldOutside*": "EastRiver",
+    "MysteryTourFieldOutside": "EastRiver",
     "UniqueID": 1
   },
   {
-    "MysteryTourFieldOutside*": "EastRiver",
+    "MysteryTourFieldOutside": "EastRiver",
     "UniqueID": 2
   },
   {
-    "MysteryTourFieldOutside*": "WestRiver",
+    "MysteryTourFieldOutside": "WestRiver",
     "UniqueID": 3
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 4
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 5
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 6
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 7
   },
   {
-    "MysteryTourFieldOutside*": "WestRiver",
+    "MysteryTourFieldOutside": "WestRiver",
     "UniqueID": 9
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 10
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 11
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 12
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 13
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 14
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 15
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 16
   },
   {
-    "MysteryTourFieldOutside*": "EastRiver",
+    "MysteryTourFieldOutside": "EastRiver",
     "UniqueID": 17
   },
   {
-    "MysteryTourFieldOutside*": "WestRiver",
+    "MysteryTourFieldOutside": "WestRiver",
     "UniqueID": 18
   },
   {
-    "MysteryTourFieldOutside*": "WestRiver",
+    "MysteryTourFieldOutside": "WestRiver",
     "UniqueID": 19
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 20
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 21
   },
   {
-    "MysteryTourFieldOutside*": "EastRiver",
+    "MysteryTourFieldOutside": "EastRiver",
     "UniqueID": 22
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 23
   },
   {
-    "MysteryTourFieldOutside*": "NoRiver",
+    "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 25
   }
 ]

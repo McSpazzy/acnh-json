@@ -1,7 +1,7 @@
 [
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 329,
     "MusicNo": 301,
     "UniqueID": 0,
@@ -10,7 +10,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 243,
     "MusicNo": 302,
     "UniqueID": 1,
@@ -19,7 +19,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 311,
     "MusicNo": 303,
     "UniqueID": 2,
@@ -28,7 +28,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 336,
     "MusicNo": 304,
     "UniqueID": 3,
@@ -37,7 +37,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 338,
     "MusicNo": 305,
     "UniqueID": 4,
@@ -46,7 +46,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Daytime",
+    "Timezone": "Daytime",
     "Frames": 281,
     "MusicNo": 306,
     "UniqueID": 5,
@@ -55,7 +55,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 315,
     "MusicNo": 307,
     "UniqueID": 6,
@@ -64,7 +64,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 376,
     "MusicNo": 308,
     "UniqueID": 7,
@@ -73,7 +73,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 355,
     "MusicNo": 309,
     "UniqueID": 8,
@@ -82,7 +82,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 333,
     "MusicNo": 310,
     "UniqueID": 9,
@@ -91,7 +91,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 396,
     "MusicNo": 311,
     "UniqueID": 10,
@@ -100,7 +100,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Morning",
+    "Timezone": "Morning",
     "Frames": 406,
     "MusicNo": 312,
     "UniqueID": 11,
@@ -109,7 +109,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 328,
     "MusicNo": 313,
     "UniqueID": 12,
@@ -118,7 +118,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 456,
     "MusicNo": 314,
     "UniqueID": 13,
@@ -127,7 +127,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 300,
     "MusicNo": 315,
     "UniqueID": 14,
@@ -136,7 +136,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 294,
     "MusicNo": 316,
     "UniqueID": 15,
@@ -145,7 +145,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 373,
     "MusicNo": 317,
     "UniqueID": 16,
@@ -154,7 +154,7 @@
   },
   {
     "SelectRate": 1.0,
-    "Timezone*": "Night",
+    "Timezone": "Night",
     "Frames": 364,
     "MusicNo": 318,
     "UniqueID": 17,
@@ -163,7 +163,7 @@
   },
   {
     "SelectRate": 10.0,
-    "Timezone*": "AllDay",
+    "Timezone": "AllDay",
     "Frames": 332,
     "MusicNo": 319,
     "UniqueID": 19,

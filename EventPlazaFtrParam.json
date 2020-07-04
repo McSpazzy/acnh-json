@@ -1,133 +1,133 @@
 [
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": -2,
     "UniqueID": 0
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5709,
     "UniqueID": 3
   },
   {
-    "EventFtrDirection*": "W",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "W",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5884,
     "UniqueID": 4
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5725,
     "UniqueID": 5
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5726,
     "UniqueID": 6
   },
   {
-    "EventFtrDirection*": "E",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "E",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
     "UniqueID": 11
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 3411,
     "UniqueID": 12
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5970,
     "UniqueID": 13
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
     "UniqueID": 14
   },
   {
-    "EventFtrDirection*": "E",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "E",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 7142,
     "UniqueID": 15
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 787,
     "UniqueID": 17
   },
   {
-    "EventFtrDirection*": "E",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "E",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
     "UniqueID": 18
   },
   {
-    "EventFtrDirection*": "W",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "W",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
     "UniqueID": 19
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "ON",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "ON",
     "ItemNameUniqueID": 1430,
     "UniqueID": 20
   },
   {
-    "EventFtrDirection*": "N",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "N",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
     "UniqueID": 21
   },
   {
-    "EventFtrDirection*": "W",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "W",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
     "UniqueID": 22
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
     "UniqueID": 23
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "ON",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "ON",
     "ItemNameUniqueID": 1429,
     "UniqueID": 24
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 12201,
     "UniqueID": 25
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 330,
     "UniqueID": 26
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 1023,
     "UniqueID": 27
   },
   {
-    "EventFtrDirection*": "S",
-    "EventFtrSwitch*": "OFF",
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 12532,
     "UniqueID": 30
   }

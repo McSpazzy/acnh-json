@@ -1,98 +1,98 @@
 [
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 0,
     "Label": "None",
     "ResName": ""
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 1,
     "Label": "HangerInfoTops",
     "ResName": "FtrHangerTops"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 2,
     "Label": "HangerInfoBottoms",
     "ResName": "FtrHangerBottoms"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x0_5_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x0_5_Wall",
     "UniqueID": 3,
     "Label": "HangerInfoAccessoryGlass",
     "ResName": "FtrHangerAccessoryGlass"
   },
   {
-    "ItemLayout*": "Wall_1Unit",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_1Unit",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 4,
     "Label": "HangerInfoAccessoryMouth",
     "ResName": "FtrHangerAccessoryMouth"
   },
   {
-    "ItemLayout*": "Wall_1Unit",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_1Unit",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 5,
     "Label": "HangerInfoAccessoryGlassMouth",
     "ResName": "FtrHangerAccessoryGlassmouth"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 6,
     "Label": "HangerInfoCapsMask",
     "ResName": "FtrHangerCapMask"
   },
   {
-    "ItemLayout*": "Wall_1Unit",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_1Unit",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 7,
     "Label": "HangerInfoCapsFullface",
     "ResName": "FtrHangerCapFullface"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x0_5_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x0_5_Wall",
     "UniqueID": 8,
     "Label": "HangerInfoCapsOrnament",
     "ResName": "FtrHangerCapOrnament"
   },
   {
-    "ItemLayout*": "Wall_HalfUnit",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_HalfUnit",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 9,
     "Label": "HangerInfoCaps",
     "ResName": "FtrHangerCap"
   },
   {
-    "ItemLayout*": "Wall_HalfUnit",
-    "ItemSize*": "1_0x1_0_Wall",
+    "ItemLayout": "Wall_HalfUnit",
+    "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 10,
     "Label": "HangerInfoBag",
     "ResName": "FtrHangerBag"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "1_0x0_5_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "1_0x0_5_Wall",
     "UniqueID": 11,
     "Label": "HangerInfoShoes",
     "ResName": "FtrHangerShoes"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "0_5x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "0_5x1_0_Wall",
     "UniqueID": 12,
     "Label": "HangerInfoSocks",
     "ResName": "FtrHangerSocks"
   },
   {
-    "ItemLayout*": "Wall_NoCol",
-    "ItemSize*": "0_5x1_0_Wall",
+    "ItemLayout": "Wall_NoCol",
+    "ItemSize": "0_5x1_0_Wall",
     "UniqueID": 13,
     "Label": "HangerInfoToolFan",
     "ResName": "FtrHangerToolFan"

@@ -1,167 +1,167 @@
 [
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 383,
     "UniqueID": 0,
     "Label": "Acorsticguitar",
     "Name": "アコースティックギター"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 669,
     "UniqueID": 1,
     "Label": "Ukulele",
     "Name": "ウクレレ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 846,
     "UniqueID": 2,
     "Label": "Altosax",
     "Name": "アルトサックス"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 987,
     "UniqueID": 3,
     "Label": "Harp",
     "Name": "ハープ"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 1081,
     "UniqueID": 4,
     "Label": "PianoUpright",
     "Name": "アップライトピアノ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 1171,
     "UniqueID": 5,
     "Label": "Synthesizer",
     "Name": "シンセサイザー"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 1449,
     "UniqueID": 6,
     "Label": "Cello",
     "Name": "チェロ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 1644,
     "UniqueID": 7,
     "Label": "Electricguitar1",
     "Name": "エレキギターES1"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 1645,
     "UniqueID": 8,
     "Label": "Electricguitar2",
     "Name": "エレキギターES2"
   },
   {
-    "InstrumentsType*": "DrumSet",
+    "InstrumentsType": "DrumSet",
     "RefItemUniqueID": 1803,
     "UniqueID": 10,
     "Label": "DrumSet",
     "Name": "ドラムセット"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 1804,
     "UniqueID": 11,
     "Label": "Electricbass",
     "Name": "エレキベース"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 1875,
     "UniqueID": 12,
     "Label": "PianoGrand",
     "Name": "グランドピアノ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 2772,
     "UniqueID": 14,
     "Label": "Violin",
     "Name": "ヴァイオリン"
   },
   {
-    "InstrumentsType*": "Drum",
+    "InstrumentsType": "Drum",
     "RefItemUniqueID": 4075,
     "UniqueID": 15,
     "Label": "Tamtam",
     "Name": "どら"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 4093,
     "UniqueID": 16,
     "Label": "Bamboodrum",
     "Name": "バンブードラム"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 4121,
     "UniqueID": 17,
     "Label": "Marimba",
     "Name": "マリンバ"
   },
   {
-    "InstrumentsType*": "Drum",
+    "InstrumentsType": "Drum",
     "RefItemUniqueID": 4124,
     "UniqueID": 18,
     "Label": "Mokugyo",
     "Name": "もくぎょ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 5320,
     "UniqueID": 19,
     "Label": "Ocarina",
     "Name": "オカリナ"
   },
   {
-    "InstrumentsType*": "Drum",
+    "InstrumentsType": "Drum",
     "RefItemUniqueID": 5430,
     "UniqueID": 20,
     "Label": "Tambourine",
     "Name": "タンバリン"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 5517,
     "UniqueID": 21,
     "Label": "Panpipe",
     "Name": "パンフルート"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 5955,
     "UniqueID": 22,
     "Label": "ZodiacVirgo",
     "Name": "ヴァルゴのハープ"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 7045,
     "UniqueID": 24,
     "Label": "KalimbaCan",
     "Name": "あきかんカリンバ"
   },
   {
-    "InstrumentsType*": "FourHands",
+    "InstrumentsType": "FourHands",
     "RefItemUniqueID": 11942,
     "UniqueID": 25,
     "Label": "PianoStreet",
     "Name": "ストリートピアノ"
   },
   {
-    "InstrumentsType*": "Normal",
+    "InstrumentsType": "Normal",
     "RefItemUniqueID": 12409,
     "UniqueID": 26,
     "Label": "WeddingOrgan",

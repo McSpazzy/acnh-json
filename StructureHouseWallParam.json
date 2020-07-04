@@ -1,6 +1,6 @@
 [
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1000,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -11,7 +11,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1010,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -22,7 +22,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1020,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -33,7 +33,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Tent",
+    "HouseDoorStep": "Tent",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 42,
     "HouseShapeUniqueID": 3,
@@ -44,7 +44,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Tent",
+    "HouseDoorStep": "Tent",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 42,
     "HouseShapeUniqueID": 4,
@@ -55,7 +55,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2000,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -66,7 +66,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3000,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -77,7 +77,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "None",
+    "HouseDoorStep": "None",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 7,
     "HouseShapeUniqueID": 5,
@@ -88,7 +88,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "None",
+    "HouseDoorStep": "None",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 7,
     "HouseShapeUniqueID": 6,
@@ -99,7 +99,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 7,
@@ -110,7 +110,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -121,7 +121,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -132,7 +132,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -143,7 +143,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4000,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -154,7 +154,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2020,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -165,7 +165,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2010,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -176,7 +176,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2060,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -187,7 +187,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2040,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -198,7 +198,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -209,7 +209,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -220,7 +220,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -231,7 +231,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -242,7 +242,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -253,7 +253,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -264,7 +264,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "None",
+    "HouseDoorStep": "None",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 7,
     "HouseShapeUniqueID": 11,
@@ -275,7 +275,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "None",
+    "HouseDoorStep": "None",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 7,
     "HouseShapeUniqueID": 12,
@@ -286,7 +286,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -297,7 +297,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -308,7 +308,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -319,7 +319,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 14,
@@ -330,7 +330,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Tent",
+    "HouseDoorStep": "Tent",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 42,
     "HouseShapeUniqueID": 4,
@@ -341,7 +341,7 @@
     "UseExteriorLight": ""
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 16,
@@ -352,7 +352,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -363,7 +363,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -374,7 +374,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -385,7 +385,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -396,7 +396,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -407,7 +407,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -418,7 +418,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -429,7 +429,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -440,7 +440,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -451,7 +451,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -462,7 +462,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -473,7 +473,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -484,7 +484,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -495,7 +495,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -506,7 +506,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 15,
@@ -517,7 +517,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -528,7 +528,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -539,7 +539,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -550,7 +550,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -561,7 +561,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -572,7 +572,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -583,7 +583,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -594,7 +594,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -605,7 +605,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -616,7 +616,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -627,7 +627,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -638,7 +638,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -649,7 +649,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -660,7 +660,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -671,7 +671,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -682,7 +682,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -693,7 +693,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -704,7 +704,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -715,7 +715,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -726,7 +726,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -737,7 +737,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -748,7 +748,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -759,7 +759,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -770,7 +770,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -781,7 +781,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -792,7 +792,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -803,7 +803,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -814,7 +814,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
@@ -825,7 +825,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -836,7 +836,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -847,7 +847,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -858,7 +858,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -869,7 +869,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -880,7 +880,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -891,7 +891,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -902,7 +902,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -913,7 +913,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -924,7 +924,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -935,7 +935,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -946,7 +946,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -957,7 +957,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -968,7 +968,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -979,7 +979,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -990,7 +990,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1001,7 +1001,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1012,7 +1012,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1023,7 +1023,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1034,7 +1034,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1045,7 +1045,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
@@ -1056,7 +1056,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1067,7 +1067,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1078,7 +1078,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1089,7 +1089,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1100,7 +1100,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1111,7 +1111,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1122,7 +1122,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1133,7 +1133,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1144,7 +1144,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1155,7 +1155,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1166,7 +1166,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1177,7 +1177,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1188,7 +1188,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1199,7 +1199,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1210,7 +1210,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1221,7 +1221,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1232,7 +1232,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1243,7 +1243,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1254,7 +1254,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1265,7 +1265,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1276,7 +1276,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
@@ -1287,7 +1287,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2030,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1298,7 +1298,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2050,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1309,7 +1309,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 2070,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1320,7 +1320,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3010,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1331,7 +1331,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3020,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1342,7 +1342,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3030,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1353,7 +1353,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3040,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1364,7 +1364,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3060,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1375,7 +1375,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3050,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1386,7 +1386,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 3070,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1397,7 +1397,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4020,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1408,7 +1408,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4030,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1419,7 +1419,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4040,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1430,7 +1430,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4050,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1441,7 +1441,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4040,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1452,7 +1452,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4010,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1463,7 +1463,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 4070,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
@@ -1474,7 +1474,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1030,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1485,7 +1485,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1060,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1496,7 +1496,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1050,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1507,7 +1507,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1040,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1518,7 +1518,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 1070,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
@@ -1529,7 +1529,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1540,7 +1540,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1551,7 +1551,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1562,7 +1562,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1573,7 +1573,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1584,7 +1584,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1595,7 +1595,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1606,7 +1606,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1617,7 +1617,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
@@ -1628,7 +1628,7 @@
     "UseExteriorLight": "\u0001"
   },
   {
-    "HouseDoorStep*": "Normal",
+    "HouseDoorStep": "Normal",
     "CustomizeSortID": 0,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,

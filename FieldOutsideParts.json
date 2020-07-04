@@ -1,817 +1,817 @@
 [
   {
-    "PartsKind*": "PhotoStudio",
-    "ReefType*": "S_convexity",
+    "PartsKind": "PhotoStudio",
+    "ReefType": "S_convexity",
     "UniqueID": 240,
     "ModelName": "FldOutPhotoSBridge00"
   },
   {
-    "PartsKind*": "PhotoStudio",
-    "ReefType*": "SW_convexity",
+    "PartsKind": "PhotoStudio",
+    "ReefType": "SW_convexity",
     "UniqueID": 242,
     "ModelName": "FldOutPhotoSW00"
   },
   {
-    "PartsKind*": "PhotoStudio",
-    "ReefType*": "SE_convexity",
+    "PartsKind": "PhotoStudio",
+    "ReefType": "SE_convexity",
     "UniqueID": 241,
     "ModelName": "FldOutPhotoSE00"
   },
   {
-    "PartsKind*": "S_Isolated",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_Isolated",
+    "ReefType": "S_convexity",
     "UniqueID": 222,
     "ModelName": "FldOutSBridge00"
   },
   {
-    "PartsKind*": "S_Isolated",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_Isolated",
+    "ReefType": "S_convexity",
     "UniqueID": 243,
     "ModelName": "FldOutSBridge02"
   },
   {
-    "PartsKind*": "S_Isolated",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_Isolated",
+    "ReefType": "S_convexity",
     "UniqueID": 244,
     "ModelName": "FldOutSBridge01"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 112,
     "ModelName": "FldOutNStone00"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 109,
     "ModelName": "FldOutNStone01"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 108,
     "ModelName": "FldOutNStone02"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 107,
     "ModelName": "FldOutNStone03"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 113,
     "ModelName": "FldOutNStone04"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 110,
     "ModelName": "FldOutNStoneR00"
   },
   {
-    "PartsKind*": "N_Stone",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Stone",
+    "ReefType": "N_flat",
     "UniqueID": 111,
     "ModelName": "FldOutNStoneL00"
   },
   {
-    "PartsKind*": "N_Tsunekiti",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Tsunekiti",
+    "ReefType": "N_flat",
     "UniqueID": 16,
     "ModelName": "FldOutNShip00"
   },
   {
-    "PartsKind*": "N_Tsunekiti",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Tsunekiti",
+    "ReefType": "N_flat",
     "UniqueID": 129,
     "ModelName": "FldOutNShip01"
   },
   {
-    "PartsKind*": "N_Tsunekiti",
-    "ReefType*": "N_flat",
+    "PartsKind": "N_Tsunekiti",
+    "ReefType": "N_flat",
     "UniqueID": 128,
     "ModelName": "FldOutNShip02"
   },
   {
-    "PartsKind*": "NE_Stone",
-    "ReefType*": "NE_flat",
+    "PartsKind": "NE_Stone",
+    "ReefType": "NE_flat",
     "UniqueID": 106,
     "ModelName": "FldOutNEStone00"
   },
   {
-    "PartsKind*": "NE_Stone",
-    "ReefType*": "NE_flat",
+    "PartsKind": "NE_Stone",
+    "ReefType": "NE_flat",
     "UniqueID": 123,
     "ModelName": "FldOutNEStone01"
   },
   {
-    "PartsKind*": "NE_Stone",
-    "ReefType*": "NE_flat",
+    "PartsKind": "NE_Stone",
+    "ReefType": "NE_flat",
     "UniqueID": 229,
     "ModelName": "FldOutNEStone02"
   },
   {
-    "PartsKind*": "NW_Stone",
-    "ReefType*": "NW_flat",
+    "PartsKind": "NW_Stone",
+    "ReefType": "NW_flat",
     "UniqueID": 125,
     "ModelName": "FldOutNWStone00"
   },
   {
-    "PartsKind*": "NW_Stone",
-    "ReefType*": "NW_flat",
+    "PartsKind": "NW_Stone",
+    "ReefType": "NW_flat",
     "UniqueID": 124,
     "ModelName": "FldOutNWStone01"
   },
   {
-    "PartsKind*": "NW_Stone",
-    "ReefType*": "NW_flat",
+    "PartsKind": "NW_Stone",
+    "ReefType": "NW_flat",
     "UniqueID": 230,
     "ModelName": "FldOutNWStone02"
   },
   {
-    "PartsKind*": "E_Beach",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Beach",
+    "ReefType": "E_flat",
     "UniqueID": 29,
     "ModelName": "FldOutE00"
   },
   {
-    "PartsKind*": "E_Beach",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Beach",
+    "ReefType": "E_flat",
     "UniqueID": 30,
     "ModelName": "FldOutE01"
   },
   {
-    "PartsKind*": "E_Beach",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Beach",
+    "ReefType": "E_flat",
     "UniqueID": 31,
     "ModelName": "FldOutE02"
   },
   {
-    "PartsKind*": "E_Beach",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Beach",
+    "ReefType": "E_flat",
     "UniqueID": 32,
     "ModelName": "FldOutE03"
   },
   {
-    "PartsKind*": "E_Beach",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Beach",
+    "ReefType": "E_flat",
     "UniqueID": 62,
     "ModelName": "FldOutE04"
   },
   {
-    "PartsKind*": "E_Promontory",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Promontory",
+    "ReefType": "E_convexity",
     "UniqueID": 140,
     "ModelName": "FldOutECliff00"
   },
   {
-    "PartsKind*": "E_Promontory",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Promontory",
+    "ReefType": "E_convexity",
     "UniqueID": 139,
     "ModelName": "FldOutECliff01"
   },
   {
-    "PartsKind*": "E_Promontory",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Promontory",
+    "ReefType": "E_convexity",
     "UniqueID": 227,
     "ModelName": "FldOutECliff02"
   },
   {
-    "PartsKind*": "E_UpEnd_Entry",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_UpEnd_Entry",
+    "ReefType": "E_flat",
     "UniqueID": 117,
     "ModelName": "FldOutEIslandUp00"
   },
   {
-    "PartsKind*": "E_UpEnd_Entry",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_UpEnd_Entry",
+    "ReefType": "E_flat",
     "UniqueID": 118,
     "ModelName": "FldOutEIslandUp01"
   },
   {
-    "PartsKind*": "E_UpEnd_Entry",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_UpEnd_Entry",
+    "ReefType": "E_convexity",
     "UniqueID": 226,
     "ModelName": "FldOutEIslandUp02"
   },
   {
-    "PartsKind*": "E_DownEnd",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_DownEnd",
+    "ReefType": "E_flat",
     "UniqueID": 116,
     "ModelName": "FldOutEIslandDown00"
   },
   {
-    "PartsKind*": "E_DownEnd",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_DownEnd",
+    "ReefType": "E_flat",
     "UniqueID": 115,
     "ModelName": "FldOutEIslandDown01"
   },
   {
-    "PartsKind*": "E_DownEnd",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_DownEnd",
+    "ReefType": "E_convexity",
     "UniqueID": 225,
     "ModelName": "FldOutEIslandDown02"
   },
   {
-    "PartsKind*": "E_River",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_River",
+    "ReefType": "E_convexity",
     "UniqueID": 91,
     "ModelName": "FldOutERiver00"
   },
   {
-    "PartsKind*": "E_River",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_River",
+    "ReefType": "E_convexity",
     "UniqueID": 134,
     "ModelName": "FldOutERiver01"
   },
   {
-    "PartsKind*": "E_Stone",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Stone",
+    "ReefType": "E_convexity",
     "UniqueID": 121,
     "ModelName": "FldOutEStone00"
   },
   {
-    "PartsKind*": "E_Stone",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Stone",
+    "ReefType": "E_convexity",
     "UniqueID": 122,
     "ModelName": "FldOutEStone01"
   },
   {
-    "PartsKind*": "E_Stone",
-    "ReefType*": "E_convexity",
+    "PartsKind": "E_Stone",
+    "ReefType": "E_convexity",
     "UniqueID": 145,
     "ModelName": "FldOutEStone02"
   },
   {
-    "PartsKind*": "E_Stone",
-    "ReefType*": "E_flat",
+    "PartsKind": "E_Stone",
+    "ReefType": "E_flat",
     "UniqueID": 231,
     "ModelName": "FldOutEStone03"
   },
   {
-    "PartsKind*": "W_Beach",
-    "ReefType*": "W_flat",
+    "PartsKind": "W_Beach",
+    "ReefType": "W_flat",
     "UniqueID": 20,
     "ModelName": "FldOutW00"
   },
   {
-    "PartsKind*": "W_Beach",
-    "ReefType*": "W_flat",
+    "PartsKind": "W_Beach",
+    "ReefType": "W_flat",
     "UniqueID": 21,
     "ModelName": "FldOutW01"
   },
   {
-    "PartsKind*": "W_Beach",
-    "ReefType*": "W_flat",
+    "PartsKind": "W_Beach",
+    "ReefType": "W_flat",
     "UniqueID": 22,
     "ModelName": "FldOutW02"
   },
   {
-    "PartsKind*": "W_Beach",
-    "ReefType*": "W_flat",
+    "PartsKind": "W_Beach",
+    "ReefType": "W_flat",
     "UniqueID": 23,
     "ModelName": "FldOutW03"
   },
   {
-    "PartsKind*": "W_Beach",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Beach",
+    "ReefType": "W_convexity",
     "UniqueID": 127,
     "ModelName": "FldOutW04"
   },
   {
-    "PartsKind*": "W_Promontory",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Promontory",
+    "ReefType": "W_convexity",
     "UniqueID": 126,
     "ModelName": "FldOutWCliff00"
   },
   {
-    "PartsKind*": "W_Promontory",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Promontory",
+    "ReefType": "W_convexity",
     "UniqueID": 131,
     "ModelName": "FldOutWCliff01"
   },
   {
-    "PartsKind*": "W_Promontory",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Promontory",
+    "ReefType": "W_convexity",
     "UniqueID": 228,
     "ModelName": "FldOutWCliff02"
   },
   {
-    "PartsKind*": "W_UpEnd_Entry",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_UpEnd_Entry",
+    "ReefType": "W_convexity",
     "UniqueID": 143,
     "ModelName": "FldOutWIslandUp00"
   },
   {
-    "PartsKind*": "W_UpEnd_Entry",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_UpEnd_Entry",
+    "ReefType": "W_convexity",
     "UniqueID": 144,
     "ModelName": "FldOutWIslandUp01"
   },
   {
-    "PartsKind*": "W_UpEnd_Entry",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_UpEnd_Entry",
+    "ReefType": "W_convexity",
     "UniqueID": 224,
     "ModelName": "FldOutWIslandUp02"
   },
   {
-    "PartsKind*": "W_DownEnd",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_DownEnd",
+    "ReefType": "W_convexity",
     "UniqueID": 141,
     "ModelName": "FldOutWIslandDown00"
   },
   {
-    "PartsKind*": "W_DownEnd",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_DownEnd",
+    "ReefType": "W_convexity",
     "UniqueID": 142,
     "ModelName": "FldOutWIslandDown01"
   },
   {
-    "PartsKind*": "W_DownEnd",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_DownEnd",
+    "ReefType": "W_convexity",
     "UniqueID": 223,
     "ModelName": "FldOutWIslandDown02"
   },
   {
-    "PartsKind*": "W_River",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_River",
+    "ReefType": "W_convexity",
     "UniqueID": 27,
     "ModelName": "FldOutWRiver00"
   },
   {
-    "PartsKind*": "W_River",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_River",
+    "ReefType": "W_convexity",
     "UniqueID": 133,
     "ModelName": "FldOutWRiver01"
   },
   {
-    "PartsKind*": "W_Stone",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Stone",
+    "ReefType": "W_convexity",
     "UniqueID": 120,
     "ModelName": "FldOutWStone00"
   },
   {
-    "PartsKind*": "W_Stone",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Stone",
+    "ReefType": "W_convexity",
     "UniqueID": 119,
     "ModelName": "FldOutWStone01"
   },
   {
-    "PartsKind*": "W_Stone",
-    "ReefType*": "W_convexity",
+    "PartsKind": "W_Stone",
+    "ReefType": "W_convexity",
     "UniqueID": 146,
     "ModelName": "FldOutWStone02"
   },
   {
-    "PartsKind*": "W_Stone",
-    "ReefType*": "W_flat",
+    "PartsKind": "W_Stone",
+    "ReefType": "W_flat",
     "UniqueID": 232,
     "ModelName": "FldOutWStone03"
   },
   {
-    "PartsKind*": "S_Beach",
-    "ReefType*": "S_flat",
+    "PartsKind": "S_Beach",
+    "ReefType": "S_flat",
     "UniqueID": 39,
     "ModelName": "FldOutS00"
   },
   {
-    "PartsKind*": "S_Beach",
-    "ReefType*": "S_flat",
+    "PartsKind": "S_Beach",
+    "ReefType": "S_flat",
     "UniqueID": 97,
     "ModelName": "FldOutS01"
   },
   {
-    "PartsKind*": "S_Beach",
-    "ReefType*": "S_flat",
+    "PartsKind": "S_Beach",
+    "ReefType": "S_flat",
     "UniqueID": 104,
     "ModelName": "FldOutS02"
   },
   {
-    "PartsKind*": "S_Beach",
-    "ReefType*": "S_flat",
+    "PartsKind": "S_Beach",
+    "ReefType": "S_flat",
     "UniqueID": 103,
     "ModelName": "FldOutS03"
   },
   {
-    "PartsKind*": "S_Beach",
-    "ReefType*": "S_flat",
+    "PartsKind": "S_Beach",
+    "ReefType": "S_flat",
     "UniqueID": 105,
     "ModelName": "FldOutS04"
   },
   {
-    "PartsKind*": "S_River",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_River",
+    "ReefType": "S_convexity",
     "UniqueID": 40,
     "ModelName": "FldOutSRiver00"
   },
   {
-    "PartsKind*": "S_River",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_River",
+    "ReefType": "S_convexity",
     "UniqueID": 132,
     "ModelName": "FldOutSRiver01"
   },
   {
-    "PartsKind*": "S_River",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_River",
+    "ReefType": "S_convexity",
     "UniqueID": 233,
     "ModelName": "FldOutSRiver02"
   },
   {
-    "PartsKind*": "S_Airport_L",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_Airport_L",
+    "ReefType": "S_convexity",
     "UniqueID": 41,
     "ModelName": "FldOutSAirPortLeft00"
   },
   {
-    "PartsKind*": "S_Airport_R",
-    "ReefType*": "S_convexity",
+    "PartsKind": "S_Airport_R",
+    "ReefType": "S_convexity",
     "UniqueID": 93,
     "ModelName": "FldOutSAirPortRight00"
   },
   {
-    "PartsKind*": "SE_Beach",
-    "ReefType*": "SE_flat",
+    "PartsKind": "SE_Beach",
+    "ReefType": "SE_flat",
     "UniqueID": 42,
     "ModelName": "FldOutSE00"
   },
   {
-    "PartsKind*": "SE_Beach",
-    "ReefType*": "SE_flat",
+    "PartsKind": "SE_Beach",
+    "ReefType": "SE_flat",
     "UniqueID": 98,
     "ModelName": "FldOutSE01"
   },
   {
-    "PartsKind*": "SE_Beach",
-    "ReefType*": "SE_flat",
+    "PartsKind": "SE_Beach",
+    "ReefType": "SE_flat",
     "UniqueID": 100,
     "ModelName": "FldOutSE02"
   },
   {
-    "PartsKind*": "SE_Beach",
-    "ReefType*": "SE_flat",
+    "PartsKind": "SE_Beach",
+    "ReefType": "SE_flat",
     "UniqueID": 99,
     "ModelName": "FldOutSE03"
   },
   {
-    "PartsKind*": "SE_Jetty",
-    "ReefType*": "SE_convexity",
+    "PartsKind": "SE_Jetty",
+    "ReefType": "SE_convexity",
     "UniqueID": 138,
     "ModelName": "FldOutSEBridge00"
   },
   {
-    "PartsKind*": "SE_Jetty",
-    "ReefType*": "SE_convexity",
+    "PartsKind": "SE_Jetty",
+    "ReefType": "SE_convexity",
     "UniqueID": 137,
     "ModelName": "FldOutSEBridge01"
   },
   {
-    "PartsKind*": "SW_Beach",
-    "ReefType*": "SW_flat",
+    "PartsKind": "SW_Beach",
+    "ReefType": "SW_flat",
     "UniqueID": 38,
     "ModelName": "FldOutSW00"
   },
   {
-    "PartsKind*": "SW_Beach",
-    "ReefType*": "SW_flat",
+    "PartsKind": "SW_Beach",
+    "ReefType": "SW_flat",
     "UniqueID": 92,
     "ModelName": "FldOutSW01"
   },
   {
-    "PartsKind*": "SW_Beach",
-    "ReefType*": "SW_flat",
+    "PartsKind": "SW_Beach",
+    "ReefType": "SW_flat",
     "UniqueID": 102,
     "ModelName": "FldOutSW02"
   },
   {
-    "PartsKind*": "SW_Beach",
-    "ReefType*": "SW_flat",
+    "PartsKind": "SW_Beach",
+    "ReefType": "SW_flat",
     "UniqueID": 101,
     "ModelName": "FldOutSW03"
   },
   {
-    "PartsKind*": "SW_Jetty",
-    "ReefType*": "SW_convexity",
+    "PartsKind": "SW_Jetty",
+    "ReefType": "SW_convexity",
     "UniqueID": 136,
     "ModelName": "FldOutSWBridge00"
   },
   {
-    "PartsKind*": "SW_Jetty",
-    "ReefType*": "SW_convexity",
+    "PartsKind": "SW_Jetty",
+    "ReefType": "SW_convexity",
     "UniqueID": 135,
     "ModelName": "FldOutSWBridge01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_flat",
     "UniqueID": 43,
     "ModelName": "FldOutSeaN00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_flat",
     "UniqueID": 148,
     "ModelName": "FldOutSeaN01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_flat",
     "UniqueID": 147,
     "ModelName": "FldOutSeaN02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_convexity",
     "UniqueID": 163,
     "ModelName": "FldOutSeaN03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_convexity",
     "UniqueID": 162,
     "ModelName": "FldOutSeaN04"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_convexity",
     "UniqueID": 161,
     "ModelName": "FldOutSeaN05"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_concavity",
     "UniqueID": 166,
     "ModelName": "FldOutSeaN06"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_concavity",
     "UniqueID": 165,
     "ModelName": "FldOutSeaN07"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "N_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "N_concavity",
     "UniqueID": 164,
     "ModelName": "FldOutSeaN08"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NW_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NW_flat",
     "UniqueID": 44,
     "ModelName": "FldOutSeaNW00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NW_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NW_convexity",
     "UniqueID": 160,
     "ModelName": "FldOutSeaNW01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NW_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NW_concavity",
     "UniqueID": 159,
     "ModelName": "FldOutSeaNW02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NW_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NW_flat",
     "UniqueID": 172,
     "ModelName": "FldOutSeaNW03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NE_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NE_flat",
     "UniqueID": 45,
     "ModelName": "FldOutSeaNE00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NE_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NE_convexity",
     "UniqueID": 219,
     "ModelName": "FldOutSeaNE01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_concavity",
     "UniqueID": 220,
     "ModelName": "FldOutSeaNE02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "NE_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "NE_convexity",
     "UniqueID": 216,
     "ModelName": "FldOutSeaNE03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_flat",
     "UniqueID": 46,
     "ModelName": "FldOutSeaW00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_flat",
     "UniqueID": 152,
     "ModelName": "FldOutSeaW01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_flat",
     "UniqueID": 151,
     "ModelName": "FldOutSeaW02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_convexity",
     "UniqueID": 178,
     "ModelName": "FldOutSeaW03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_convexity",
     "UniqueID": 176,
     "ModelName": "FldOutSeaW04"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_convexity",
     "UniqueID": 177,
     "ModelName": "FldOutSeaW05"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_concavity",
     "UniqueID": 175,
     "ModelName": "FldOutSeaW06"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_concavity",
     "UniqueID": 174,
     "ModelName": "FldOutSeaW07"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "W_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "W_concavity",
     "UniqueID": 173,
     "ModelName": "FldOutSeaW08"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_flat",
     "UniqueID": 48,
     "ModelName": "FldOutSeaE00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_flat",
     "UniqueID": 208,
     "ModelName": "FldOutSeaE01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_flat",
     "UniqueID": 209,
     "ModelName": "FldOutSeaE02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_convexity",
     "UniqueID": 207,
     "ModelName": "FldOutSeaE03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_convexity",
     "UniqueID": 206,
     "ModelName": "FldOutSeaE04"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_convexity",
     "UniqueID": 205,
     "ModelName": "FldOutSeaE05"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_concavity",
     "UniqueID": 211,
     "ModelName": "FldOutSeaE06"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_concavity",
     "UniqueID": 212,
     "ModelName": "FldOutSeaE07"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "E_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "E_concavity",
     "UniqueID": 210,
     "ModelName": "FldOutSeaE08"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SW_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SW_flat",
     "UniqueID": 50,
     "ModelName": "FldOutSeaSW00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SW_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SW_convexity",
     "UniqueID": 158,
     "ModelName": "FldOutSeaSW01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SW_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SW_concavity",
     "UniqueID": 157,
     "ModelName": "FldOutSeaSW02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SW_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SW_flat",
     "UniqueID": 184,
     "ModelName": "FldOutSeaSW03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_flat",
     "UniqueID": 51,
     "ModelName": "FldOutSeaS00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_flat",
     "UniqueID": 156,
     "ModelName": "FldOutSeaS01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_flat",
     "UniqueID": 155,
     "ModelName": "FldOutSeaS02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 193,
     "ModelName": "FldOutSeaS03"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 192,
     "ModelName": "FldOutSeaS04"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 191,
     "ModelName": "FldOutSeaS05"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 196,
     "ModelName": "FldOutSeaS06"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 195,
     "ModelName": "FldOutSeaS07"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "S_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "S_convexity",
     "UniqueID": 194,
     "ModelName": "FldOutSeaS08"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SE_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SE_flat",
     "UniqueID": 52,
     "ModelName": "FldOutSeaSE00"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SE_convexity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SE_convexity",
     "UniqueID": 198,
     "ModelName": "FldOutSeaSE01"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SE_concavity",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SE_concavity",
     "UniqueID": 197,
     "ModelName": "FldOutSeaSE02"
   },
   {
-    "PartsKind*": "OutsideSea",
-    "ReefType*": "SE_flat",
+    "PartsKind": "OutsideSea",
+    "ReefType": "SE_flat",
     "UniqueID": 200,
     "ModelName": "FldOutSeaSE03"
   }

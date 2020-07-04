@@ -1,6 +1,6 @@
 [
   {
-    "EventType*": "None",
+    "EventType": "None",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -157,7 +157,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -314,7 +314,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -471,7 +471,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -628,7 +628,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -785,7 +785,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -942,7 +942,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1099,7 +1099,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1256,7 +1256,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1413,7 +1413,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1570,7 +1570,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Global",
+    "EventType": "Global",
     "FlagLand1": 290,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1727,7 +1727,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Other",
+    "EventType": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -1884,7 +1884,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Other",
+    "EventType": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2041,7 +2041,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Other",
+    "EventType": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2198,7 +2198,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Other",
+    "EventType": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2355,7 +2355,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Totakeke",
+    "EventType": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2512,7 +2512,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Totakeke",
+    "EventType": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2669,7 +2669,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Totakeke",
+    "EventType": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2826,7 +2826,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Term",
+    "EventType": "Term",
     "FlagLand1": 290,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2983,7 +2983,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Term",
+    "EventType": "Term",
     "FlagLand1": 347,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3140,7 +3140,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Term",
+    "EventType": "Term",
     "FlagLand1": 319,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3297,7 +3297,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Term",
+    "EventType": "Term",
     "FlagLand1": 34,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3454,7 +3454,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3611,7 +3611,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3768,7 +3768,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3925,7 +3925,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -4082,7 +4082,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -4239,7 +4239,7 @@
     "WeekSouth": ""
   },
   {
-    "EventType*": "Region",
+    "EventType": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",

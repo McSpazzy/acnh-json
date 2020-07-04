@@ -1,192 +1,192 @@
 [
   {
-    "AITagCategory*": "Season",
+    "AITagCategory": "Season",
     "UniqueID": 1,
     "Label": "Spring",
     "Name": "春"
   },
   {
-    "AITagCategory*": "Season",
+    "AITagCategory": "Season",
     "UniqueID": 2,
     "Label": "Summer",
     "Name": "夏"
   },
   {
-    "AITagCategory*": "Season",
+    "AITagCategory": "Season",
     "UniqueID": 3,
     "Label": "Autumn",
     "Name": "秋"
   },
   {
-    "AITagCategory*": "Season",
+    "AITagCategory": "Season",
     "UniqueID": 4,
     "Label": "Winter",
     "Name": "冬"
   },
   {
-    "AITagCategory*": "MinorSeries",
+    "AITagCategory": "MinorSeries",
     "UniqueID": 20,
     "Label": "China",
     "Name": "中華"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 95,
     "Label": "BirthdayParty",
     "Name": "誕生会"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 96,
     "Label": "ReadingBook",
     "Name": "読書"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 97,
     "Label": "Sleeping",
     "Name": "就寝前後"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 98,
     "Label": "CatchingInsect",
     "Name": "ムシとり"
   },
   {
-    "AITagCategory*": "None",
+    "AITagCategory": "None",
     "UniqueID": 99,
     "Label": "None",
     "Name": "なし"
   },
   {
-    "AITagCategory*": "MinorSeries",
+    "AITagCategory": "MinorSeries",
     "UniqueID": 100,
     "Label": "Japanese",
     "Name": "和風"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 101,
     "Label": "Fishing",
     "Name": "サカナつり"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 102,
     "Label": "Usually",
     "Name": "日常"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 104,
     "Label": "Fashionable",
     "Name": "おしゃれ"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 110,
     "Label": "RainWear",
     "Name": "雨具"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 111,
     "Label": "BirthdayPartyMain",
     "Name": "誕生会_主役"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 112,
     "Label": "Countdown",
     "Name": "大晦日"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 113,
     "Label": "SnowWear",
     "Name": "雪装備"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 121,
     "Label": "Sports",
     "Name": "運動"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 122,
     "Label": "Yoga",
     "Name": "ヨガ"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 123,
     "Label": "Sunbathing",
     "Name": "日光浴"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 124,
     "Label": "Concert",
     "Name": "ライブ"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 129,
     "Label": "TempCreate_BO",
     "Name": "一時生成_BO"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 130,
     "Label": "TempCreate_HA",
     "Name": "一時生成_HA"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 131,
     "Label": "TempCreate_KO",
     "Name": "一時生成_KO"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 132,
     "Label": "TempCreate_ZK",
     "Name": "一時生成_ZK"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 133,
     "Label": "TempCreate_FU",
     "Name": "一時生成_FU"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 134,
     "Label": "TempCreate_GE",
     "Name": "一時生成_GE"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 135,
     "Label": "TempCreate_OT",
     "Name": "一時生成_OT"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 136,
     "Label": "TempCreate_AN",
     "Name": "一時生成_AN"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 137,
     "Label": "TempCreate_All",
     "Name": "一時生成_共通"
   },
   {
-    "AITagCategory*": "Purpose",
+    "AITagCategory": "Purpose",
     "UniqueID": 139,
     "Label": "Easter",
     "Name": "イースター"

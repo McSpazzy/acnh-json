@@ -1,85 +1,85 @@
 [
   {
-    "Effect*": "None",
-    "Sound*": "None",
+    "Effect": "None",
+    "Sound": "None",
     "UniqueID": 20,
     "Name": "なし"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Socks",
+    "Effect": "Circle",
+    "Sound": "Socks",
     "UniqueID": 21,
     "Name": "靴：くつした"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Soft",
+    "Effect": "Circle",
+    "Sound": "Soft",
     "UniqueID": 22,
     "Name": "靴：やわらかい"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Hard",
+    "Effect": "Circle",
+    "Sound": "Hard",
     "UniqueID": 23,
     "Name": "靴：かたい"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Naked",
+    "Effect": "Circle",
+    "Sound": "Naked",
     "UniqueID": 26,
     "Name": "素体足：人"
   },
   {
-    "Effect*": "Pad",
-    "Sound*": "Socks",
+    "Effect": "Pad",
+    "Sound": "Socks",
     "UniqueID": 27,
     "Name": "素体足：肉球"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Socks",
+    "Effect": "Circle",
+    "Sound": "Socks",
     "UniqueID": 28,
     "Name": "素体足：まる"
   },
   {
-    "Effect*": "Oval",
-    "Sound*": "Socks",
+    "Effect": "Oval",
+    "Sound": "Socks",
     "UniqueID": 29,
     "Name": "素体足：長まる"
   },
   {
-    "Effect*": "ThinOval",
-    "Sound*": "Socks",
+    "Effect": "ThinOval",
+    "Sound": "Socks",
     "UniqueID": 30,
     "Name": "素体足：細長まる"
   },
   {
-    "Effect*": "Bird",
-    "Sound*": "Bird",
+    "Effect": "Bird",
+    "Sound": "Bird",
     "UniqueID": 31,
     "Name": "素体足：トリ"
   },
   {
-    "Effect*": "Bird2",
-    "Sound*": "Socks",
+    "Effect": "Bird2",
+    "Sound": "Socks",
     "UniqueID": 32,
     "Name": "素体足：トリ太"
   },
   {
-    "Effect*": "Hoof",
-    "Sound*": "Socks",
+    "Effect": "Hoof",
+    "Sound": "Socks",
     "UniqueID": 33,
     "Name": "素体足：ヒヅメ"
   },
   {
-    "Effect*": "Circle",
-    "Sound*": "Geta",
+    "Effect": "Circle",
+    "Sound": "Geta",
     "UniqueID": 37,
     "Name": "靴：下駄"
   },
   {
-    "Effect*": "Pumps",
-    "Sound*": "Pumps",
+    "Effect": "Pumps",
+    "Sound": "Pumps",
     "UniqueID": 38,
     "Name": "靴：パンプス"
   }

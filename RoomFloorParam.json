@@ -1,8 +1,8 @@
 [
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4797,
@@ -15,9 +15,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5018,
@@ -30,9 +30,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5021,
@@ -45,9 +45,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5034,
@@ -60,9 +60,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5044,
@@ -75,9 +75,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5051,
@@ -90,9 +90,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 22,
     "ItemTableId": 4950,
@@ -105,9 +105,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 25,
     "ItemTableId": 4960,
@@ -120,9 +120,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4971,
@@ -135,9 +135,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 4982,
@@ -150,9 +150,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5019,
@@ -165,9 +165,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5020,
@@ -180,9 +180,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5022,
@@ -195,9 +195,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5023,
@@ -210,9 +210,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5024,
@@ -225,9 +225,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5025,
@@ -240,9 +240,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5026,
@@ -255,9 +255,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5027,
@@ -270,9 +270,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5028,
@@ -285,9 +285,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 65,
     "ItemTableId": 5030,
@@ -300,9 +300,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5031,
@@ -315,9 +315,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5032,
@@ -330,9 +330,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5033,
@@ -345,9 +345,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5035,
@@ -360,9 +360,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5036,
@@ -375,9 +375,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5037,
@@ -390,9 +390,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5038,
@@ -405,9 +405,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 24,
     "ItemTableId": 5039,
@@ -420,9 +420,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5040,
@@ -435,9 +435,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5041,
@@ -450,9 +450,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5042,
@@ -465,9 +465,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5043,
@@ -480,9 +480,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5045,
@@ -495,9 +495,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5046,
@@ -510,9 +510,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5047,
@@ -525,9 +525,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5048,
@@ -540,9 +540,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5049,
@@ -555,9 +555,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5050,
@@ -570,9 +570,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5052,
@@ -585,9 +585,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5053,
@@ -600,9 +600,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5054,
@@ -615,9 +615,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5056,
@@ -630,9 +630,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5057,
@@ -645,9 +645,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5058,
@@ -660,9 +660,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5059,
@@ -675,9 +675,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5060,
@@ -690,9 +690,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5061,
@@ -705,9 +705,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5062,
@@ -720,9 +720,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5063,
@@ -735,9 +735,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5064,
@@ -750,9 +750,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5065,
@@ -765,9 +765,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5066,
@@ -780,9 +780,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5067,
@@ -795,9 +795,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5068,
@@ -810,9 +810,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5069,
@@ -825,9 +825,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5070,
@@ -840,9 +840,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5071,
@@ -855,9 +855,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5073,
@@ -870,9 +870,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5074,
@@ -885,9 +885,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5075,
@@ -900,9 +900,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5076,
@@ -915,9 +915,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 24,
     "ItemTableId": 5077,
@@ -930,9 +930,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 24,
     "ItemTableId": 5078,
@@ -945,9 +945,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 24,
     "ItemTableId": 5079,
@@ -960,9 +960,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5080,
@@ -975,9 +975,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5081,
@@ -990,9 +990,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5082,
@@ -1005,9 +1005,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4951,
@@ -1020,9 +1020,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 4952,
@@ -1035,9 +1035,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4953,
@@ -1050,9 +1050,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 4954,
@@ -1065,9 +1065,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 4955,
@@ -1080,9 +1080,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 4956,
@@ -1095,9 +1095,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 4957,
@@ -1110,9 +1110,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4958,
@@ -1125,9 +1125,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4959,
@@ -1140,9 +1140,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4961,
@@ -1155,9 +1155,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4962,
@@ -1170,9 +1170,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 4963,
@@ -1185,9 +1185,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 4964,
@@ -1200,9 +1200,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 4965,
@@ -1215,9 +1215,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 4966,
@@ -1230,9 +1230,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 24,
     "ItemTableId": 4967,
@@ -1245,9 +1245,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4968,
@@ -1260,9 +1260,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 4969,
@@ -1275,9 +1275,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 67,
     "ItemTableId": 4970,
@@ -1290,9 +1290,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 4972,
@@ -1305,9 +1305,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4973,
@@ -1320,9 +1320,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4974,
@@ -1335,9 +1335,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4975,
@@ -1350,9 +1350,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4976,
@@ -1365,9 +1365,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 24,
     "ItemTableId": 4977,
@@ -1380,9 +1380,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4978,
@@ -1395,9 +1395,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 4979,
@@ -1410,9 +1410,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 16,
     "ItemTableId": 4980,
@@ -1425,9 +1425,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 16,
     "ItemTableId": 4981,
@@ -1440,9 +1440,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 67,
     "ItemTableId": 4983,
@@ -1455,9 +1455,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 2,
     "ItemTableId": 4984,
@@ -1470,9 +1470,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 2,
     "ItemTableId": 4985,
@@ -1485,9 +1485,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 20,
     "ItemTableId": 4986,
@@ -1500,9 +1500,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 4987,
@@ -1515,9 +1515,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4988,
@@ -1530,9 +1530,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 21,
     "ItemTableId": 4989,
@@ -1545,9 +1545,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 20,
     "ItemTableId": 4990,
@@ -1560,9 +1560,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 4991,
@@ -1575,9 +1575,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 4992,
@@ -1590,9 +1590,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 4993,
@@ -1605,9 +1605,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 4994,
@@ -1620,9 +1620,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 4995,
@@ -1635,9 +1635,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 4996,
@@ -1650,9 +1650,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 3,
     "ItemTableId": 4997,
@@ -1665,9 +1665,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 4998,
@@ -1680,9 +1680,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 4999,
@@ -1695,9 +1695,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5000,
@@ -1710,9 +1710,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5001,
@@ -1725,9 +1725,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5003,
@@ -1740,9 +1740,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5004,
@@ -1755,9 +1755,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 5005,
@@ -1770,9 +1770,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 5006,
@@ -1785,9 +1785,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 3,
     "ItemTableId": 5007,
@@ -1800,9 +1800,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 3,
     "ItemTableId": 5008,
@@ -1815,9 +1815,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 3,
     "ItemTableId": 5009,
@@ -1830,9 +1830,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5010,
@@ -1845,9 +1845,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 2,
     "ItemTableId": 5011,
@@ -1860,9 +1860,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5012,
@@ -1875,9 +1875,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 2,
     "ItemTableId": 5013,
@@ -1890,9 +1890,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5015,
@@ -1905,9 +1905,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5016,
@@ -1920,9 +1920,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5017,
@@ -1935,9 +1935,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5163,
@@ -1950,9 +1950,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 5232,
@@ -1965,9 +1965,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5233,
@@ -1980,9 +1980,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 5234,
@@ -1995,9 +1995,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5235,
@@ -2010,9 +2010,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 20,
     "ItemTableId": 5236,
@@ -2025,9 +2025,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5237,
@@ -2040,9 +2040,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 53,
     "ItemTableId": 5238,
@@ -2055,9 +2055,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5239,
@@ -2070,9 +2070,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5240,
@@ -2085,9 +2085,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 5241,
@@ -2100,9 +2100,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 5243,
@@ -2115,9 +2115,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5248,
@@ -2130,9 +2130,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5250,
@@ -2145,9 +2145,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 2,
     "ItemTableId": 5253,
@@ -2160,9 +2160,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 67,
     "ItemTableId": 5255,
@@ -2175,9 +2175,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5267,
@@ -2190,9 +2190,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5268,
@@ -2205,9 +2205,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 5269,
@@ -2220,9 +2220,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "Scale",
+    "Scale": "Scale",
     "b117eb21 string": "Scale",
     "Floorboards": 25,
     "ItemTableId": 5270,
@@ -2235,9 +2235,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 5274,
@@ -2250,9 +2250,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 19,
     "ItemTableId": 5273,
@@ -2265,9 +2265,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 20,
     "ItemTableId": 5515,
@@ -2280,9 +2280,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 5516,
@@ -2295,9 +2295,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 6005,
@@ -2310,9 +2310,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 6843,
@@ -2325,9 +2325,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 6844,
@@ -2340,9 +2340,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 6845,
@@ -2355,9 +2355,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 6846,
@@ -2370,9 +2370,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 22,
     "ItemTableId": 6847,
@@ -2385,9 +2385,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 6848,
@@ -2400,9 +2400,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 6849,
@@ -2415,9 +2415,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 6927,
@@ -2430,9 +2430,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 6928,
@@ -2445,9 +2445,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 7184,
@@ -2460,9 +2460,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 41,
     "ItemTableId": 7185,
@@ -2475,9 +2475,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 20,
     "ItemTableId": 7186,
@@ -2490,9 +2490,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 51,
     "ItemTableId": 7204,
@@ -2505,9 +2505,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 7219,
@@ -2520,9 +2520,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 7220,
@@ -2535,9 +2535,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 7221,
@@ -2550,9 +2550,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 18,
     "ItemTableId": 7222,
@@ -2565,9 +2565,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 67,
     "ItemTableId": 7239,
@@ -2580,9 +2580,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 6,
     "ItemTableId": 10919,
@@ -2595,9 +2595,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 23,
     "ItemTableId": 12423,
@@ -2610,9 +2610,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 12431,
@@ -2625,9 +2625,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 12433,
@@ -2640,9 +2640,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 17,
     "ItemTableId": 12434,
@@ -2655,9 +2655,9 @@
     "Rotatable": 1
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 3,
     "ItemTableId": 12568,
@@ -2670,9 +2670,9 @@
     "Rotatable": 0
   },
   {
-    "Act*": "None",
+    "Act": "None",
     "Price": 888,
-    "Scale*": "None",
+    "Scale": "None",
     "b117eb21 string": "None",
     "Floorboards": 22,
     "ItemTableId": 12569,

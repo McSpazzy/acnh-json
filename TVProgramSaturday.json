@@ -1,331 +1,331 @@
 [
   {
-    "TVProgramName*": "カラーバー",
+    "TVProgramName": "カラーバー",
     "StartHour": 0,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "サンドストーム",
+    "TVProgramName": "サンドストーム",
     "StartHour": 1,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "？",
+    "TVProgramName": "？",
     "StartHour": 3,
     "StartMinute": "!"
   },
   {
-    "TVProgramName*": "サンドストーム",
+    "TVProgramName": "サンドストーム",
     "StartHour": 3,
     "StartMinute": "\""
   },
   {
-    "TVProgramName*": "カラーバー",
+    "TVProgramName": "カラーバー",
     "StartHour": 5,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 5,
     "StartMinute": "7"
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "StartHour": 6,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "StartHour": 6,
     "StartMinute": "\u000f"
   },
   {
-    "TVProgramName*": "エクササイズ",
+    "TVProgramName": "エクササイズ",
     "StartHour": 6,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 6,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "StartHour": 7,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "StartHour": 7,
     "StartMinute": "-"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 7,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 8,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 8,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 8,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 8,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "ドキュメンタリー",
+    "TVProgramName": "ドキュメンタリー",
     "StartHour": 9,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "StartHour": 9,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "ドキュメンタリー",
+    "TVProgramName": "ドキュメンタリー",
     "StartHour": 9,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "StartHour": 9,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "子ども番組",
+    "TVProgramName": "子ども番組",
     "StartHour": 10,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "フルーツCM",
+    "TVProgramName": "フルーツCM",
     "StartHour": 10,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "子ども番組",
+    "TVProgramName": "子ども番組",
     "StartHour": 10,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 10,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "StartHour": 11,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "StartHour": 11,
     "StartMinute": "-"
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "StartHour": 11,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 12,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "フルーツCM",
+    "TVProgramName": "フルーツCM",
     "StartHour": 12,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 12,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "StartHour": 12,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "対談番組",
+    "TVProgramName": "対談番組",
     "StartHour": 13,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 13,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "ドキュメンタリー",
+    "TVProgramName": "ドキュメンタリー",
     "StartHour": 14,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 14,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "ドキュメンタリー",
+    "TVProgramName": "ドキュメンタリー",
     "StartHour": 14,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 14,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "スポーツ",
+    "TVProgramName": "スポーツ",
     "StartHour": 15,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 15,
     "StartMinute": "2"
   },
   {
-    "TVProgramName*": "スポーツ",
+    "TVProgramName": "スポーツ",
     "StartHour": 15,
     "StartMinute": "3"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 16,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 17,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 17,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 17,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 17,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "StartHour": 18,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "StartHour": 18,
     "StartMinute": "-"
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 18,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "クイズ",
+    "TVProgramName": "クイズ",
     "StartHour": 19,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 19,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "クイズ",
+    "TVProgramName": "クイズ",
     "StartHour": 19,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 19,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "バラエティ",
+    "TVProgramName": "バラエティ",
     "StartHour": 20,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "フルーツCM",
+    "TVProgramName": "フルーツCM",
     "StartHour": 20,
     "StartMinute": "9"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 20,
     "StartMinute": ":"
   },
   {
-    "TVProgramName*": "おやつCM",
+    "TVProgramName": "おやつCM",
     "StartHour": 20,
     "StartMinute": ";"
   },
   {
-    "TVProgramName*": "映画",
+    "TVProgramName": "映画",
     "StartHour": 21,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 21,
     "StartMinute": "6"
   },
   {
-    "TVProgramName*": "映画",
+    "TVProgramName": "映画",
     "StartHour": 21,
     "StartMinute": "7"
   },
   {
-    "TVProgramName*": "季節のCM",
+    "TVProgramName": "季節のCM",
     "StartHour": 22,
     "StartMinute": ","
   },
   {
-    "TVProgramName*": "天気予報",
+    "TVProgramName": "天気予報",
     "StartHour": 22,
     "StartMinute": "-"
   },
   {
-    "TVProgramName*": "ニュース",
+    "TVProgramName": "ニュース",
     "StartHour": 23,
     "StartMinute": ""
   },
   {
-    "TVProgramName*": "ショッピングCM",
+    "TVProgramName": "ショッピングCM",
     "StartHour": 23,
     "StartMinute": "\u001d"
   },
   {
-    "TVProgramName*": "料理番組",
+    "TVProgramName": "料理番組",
     "StartHour": 23,
     "StartMinute": "\u001e"
   },
   {
-    "TVProgramName*": "企業CM",
+    "TVProgramName": "企業CM",
     "StartHour": 23,
     "StartMinute": "7"
   }

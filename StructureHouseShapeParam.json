@@ -1,6 +1,6 @@
 [
   {
-    "AppearanceLevel*": "Level04",
+    "AppearanceLevel": "Level04",
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 0,
     "DefaultWallUniqueID": 0,
@@ -10,7 +10,7 @@
     "Name": "スタンダード1"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 9,
     "DefaultRoofUniqueID": 19,
     "DefaultWallUniqueID": 14,
@@ -20,7 +20,7 @@
     "Name": "NPCスタンダード１"
   },
   {
-    "AppearanceLevel*": "Tent",
+    "AppearanceLevel": "Tent",
     "DefaultDoorUniqueID": 7,
     "DefaultRoofUniqueID": 4,
     "DefaultWallUniqueID": 7,
@@ -30,7 +30,7 @@
     "Name": "プレイヤテント"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 8,
     "DefaultRoofUniqueID": 5,
     "DefaultWallUniqueID": 8,
@@ -40,7 +40,7 @@
     "Name": "NPCテント"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 24,
     "DefaultRoofUniqueID": 9,
     "DefaultWallUniqueID": 11,
@@ -50,7 +50,7 @@
     "Name": "NPC売地"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 25,
     "DefaultRoofUniqueID": 18,
     "DefaultWallUniqueID": 12,
@@ -60,7 +60,7 @@
     "Name": "NPC売約済み"
   },
   {
-    "AppearanceLevel*": "Level00",
+    "AppearanceLevel": "Level00",
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 10,
     "DefaultWallUniqueID": 13,
@@ -70,7 +70,7 @@
     "Name": "成長段階00"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 27,
     "DefaultWallUniqueID": 24,
@@ -80,7 +80,7 @@
     "Name": "NPCスタンダード２"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 32,
     "DefaultRoofUniqueID": 30,
     "DefaultWallUniqueID": 27,
@@ -90,7 +90,7 @@
     "Name": "NPCオリエンタル１"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 37,
     "DefaultRoofUniqueID": 33,
     "DefaultWallUniqueID": 30,
@@ -100,7 +100,7 @@
     "Name": "プレイヤ家移設予定地"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 38,
     "DefaultRoofUniqueID": 34,
     "DefaultWallUniqueID": 31,
@@ -110,7 +110,7 @@
     "Name": "NPC家移設予定地"
   },
   {
-    "AppearanceLevel*": "Invalid",
+    "AppearanceLevel": "Invalid",
     "DefaultDoorUniqueID": 35,
     "DefaultRoofUniqueID": 35,
     "DefaultWallUniqueID": 32,
@@ -120,7 +120,7 @@
     "Name": "NPCファンタジー１"
   },
   {
-    "AppearanceLevel*": "Level01",
+    "AppearanceLevel": "Level01",
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 38,
     "DefaultWallUniqueID": 35,
@@ -130,7 +130,7 @@
     "Name": "成長段階01"
   },
   {
-    "AppearanceLevel*": "Level02",
+    "AppearanceLevel": "Level02",
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 47,
     "DefaultWallUniqueID": 64,
@@ -140,7 +140,7 @@
     "Name": "成長段階02"
   },
   {
-    "AppearanceLevel*": "Level03",
+    "AppearanceLevel": "Level03",
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 39,
     "DefaultWallUniqueID": 37,

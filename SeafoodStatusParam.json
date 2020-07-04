@@ -1,9 +1,9 @@
 [
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Weed",
-    "CaptureLevel*": "5",
-    "ShadowType*": "L",
+    "ActionType": "Stop",
+    "CaptureCategory": "Weed",
+    "CaptureLevel": "5",
+    "ShadowType": "L",
     "ItemID": 2620,
     "d42df0b4 u16": 0,
     "UniqueID": 0,
@@ -13,10 +13,10 @@
     "ResNameMuseum": "DiveFishWakameMuseum"
   },
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Weed",
-    "CaptureLevel*": "5",
-    "ShadowType*": "S",
+    "ActionType": "Stop",
+    "CaptureCategory": "Weed",
+    "CaptureLevel": "5",
+    "ShadowType": "S",
     "ItemID": 2830,
     "d42df0b4 u16": 0,
     "UniqueID": 34,
@@ -26,10 +26,10 @@
     "ResNameMuseum": "DiveFishUmibudouMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 2831,
     "d42df0b4 u16": 0,
     "UniqueID": 9,
@@ -39,10 +39,10 @@
     "ResNameMuseum": "DiveFishUni"
   },
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "SS",
+    "ActionType": "Stop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "SS",
     "ItemID": 2832,
     "d42df0b4 u16": 0,
     "UniqueID": 35,
@@ -52,10 +52,10 @@
     "ResNameMuseum": "DiveFishFujitsuboMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 2834,
     "d42df0b4 u16": 0,
     "UniqueID": 30,
@@ -65,10 +65,10 @@
     "ResNameMuseum": "DiveFishSazae"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 2835,
     "d42df0b4 u16": 20,
     "UniqueID": 13,
@@ -78,10 +78,10 @@
     "ResNameMuseum": "DiveFishAwabi"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "S",
     "ItemID": 2838,
     "d42df0b4 u16": 20,
     "UniqueID": 16,
@@ -91,10 +91,10 @@
     "ResNameMuseum": "DiveFishAkoyagaiMuseum"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "M",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "M",
     "ItemID": 2839,
     "d42df0b4 u16": 5,
     "UniqueID": 8,
@@ -104,10 +104,10 @@
     "ResNameMuseum": "DiveFishHotate"
   },
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "L",
+    "ActionType": "Stop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "L",
     "ItemID": 2840,
     "d42df0b4 u16": 0,
     "UniqueID": 17,
@@ -117,10 +117,10 @@
     "ResNameMuseum": "DiveFishIsogintyakuMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "S",
     "ItemID": 2841,
     "d42df0b4 u16": 0,
     "UniqueID": 4,
@@ -130,10 +130,10 @@
     "ResNameMuseum": "DiveFishHitode"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "M",
     "ItemID": 2842,
     "d42df0b4 u16": 0,
     "UniqueID": 15,
@@ -143,10 +143,10 @@
     "ResNameMuseum": "DiveFishNamako"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "SS",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "SS",
     "ItemID": 2843,
     "d42df0b4 u16": 0,
     "UniqueID": 31,
@@ -156,10 +156,10 @@
     "ResNameMuseum": "DiveFishUmiushi"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "SS",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "SS",
     "ItemID": 2844,
     "d42df0b4 u16": 0,
     "UniqueID": 33,
@@ -169,10 +169,10 @@
     "ResNameMuseum": "DiveFishHiramushi"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "S",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "S",
     "ItemID": 2845,
     "d42df0b4 u16": 20,
     "UniqueID": 6,
@@ -182,10 +182,10 @@
     "ResNameMuseum": "DiveFishSyako"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 2846,
     "d42df0b4 u16": 0,
     "UniqueID": 29,
@@ -195,10 +195,10 @@
     "ResNameMuseum": "DiveFishAmaebi"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "S",
     "ItemID": 2847,
     "d42df0b4 u16": 20,
     "UniqueID": 28,
@@ -208,10 +208,10 @@
     "ResNameMuseum": "DiveFishKurumaebi"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "2",
-    "ShadowType*": "L",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "2",
+    "ShadowType": "L",
     "ItemID": 2848,
     "d42df0b4 u16": 40,
     "UniqueID": 5,
@@ -221,10 +221,10 @@
     "ResNameMuseum": "DiveFishIseebi"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "2",
-    "ShadowType*": "L",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "2",
+    "ShadowType": "L",
     "ItemID": 2849,
     "d42df0b4 u16": 40,
     "UniqueID": 1,
@@ -234,10 +234,10 @@
     "ResNameMuseum": "DiveFishLobster"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "2",
-    "ShadowType*": "L",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "2",
+    "ShadowType": "L",
     "ItemID": 2850,
     "d42df0b4 u16": 40,
     "UniqueID": 27,
@@ -247,10 +247,10 @@
     "ResNameMuseum": "DiveFishZuwaiganiMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "L",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "L",
     "ItemID": 2852,
     "d42df0b4 u16": 80,
     "UniqueID": 10,
@@ -260,10 +260,10 @@
     "ResNameMuseum": "DiveFishTarabagani"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "LL",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "LL",
     "ItemID": 2853,
     "d42df0b4 u16": 80,
     "UniqueID": 7,
@@ -273,10 +273,10 @@
     "ResNameMuseum": "DiveFishTakaashigani"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "M",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "M",
     "ItemID": 2854,
     "d42df0b4 u16": 0,
     "UniqueID": 11,
@@ -286,10 +286,10 @@
     "ResNameMuseum": "DiveFishTakoMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 2857,
     "d42df0b4 u16": 20,
     "UniqueID": 2,
@@ -299,10 +299,10 @@
     "ResNameMuseum": "DiveFishKabutogani"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 2855,
     "d42df0b4 u16": 0,
     "UniqueID": 32,
@@ -312,10 +312,10 @@
     "ResNameMuseum": "DiveFishChinanagoMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 2856,
     "d42df0b4 u16": 20,
     "UniqueID": 3,
@@ -325,10 +325,10 @@
     "ResNameMuseum": "DiveFishOumugai"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "M",
     "ItemID": 2858,
     "d42df0b4 u16": 80,
     "UniqueID": 12,
@@ -338,10 +338,10 @@
     "ResNameMuseum": "DiveFishDaiougusokumushi"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 2833,
     "d42df0b4 u16": 0,
     "UniqueID": 14,
@@ -351,10 +351,10 @@
     "ResNameMuseum": "DiveFishOysterMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 7191,
     "d42df0b4 u16": 20,
     "UniqueID": 38,
@@ -364,10 +364,10 @@
     "ResNameMuseum": "DiveFishGazami"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 7228,
     "d42df0b4 u16": 0,
     "UniqueID": 42,
@@ -377,10 +377,10 @@
     "ResNameMuseum": "DiveFishHoya"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "2",
-    "ShadowType*": "S",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "2",
+    "ShadowType": "S",
     "ItemID": 7252,
     "d42df0b4 u16": 40,
     "UniqueID": 45,
@@ -390,10 +390,10 @@
     "ResNameMuseum": "DiveFishMendako"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 7278,
     "d42df0b4 u16": 0,
     "UniqueID": 48,
@@ -403,10 +403,10 @@
     "ResNameMuseum": "DiveFishBaigai"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "2",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "2",
+    "ShadowType": "M",
     "ItemID": 7318,
     "d42df0b4 u16": 40,
     "UniqueID": 52,
@@ -416,10 +416,10 @@
     "ResNameMuseum": "DiveFishKairoudouketsu"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "S",
     "ItemID": 7411,
     "d42df0b4 u16": 0,
     "UniqueID": 53,
@@ -429,10 +429,10 @@
     "ResNameMuseum": "DiveFishMuhrugaiMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 7308,
     "d42df0b4 u16": 20,
     "UniqueID": 51,
@@ -442,10 +442,10 @@
     "ResNameMuseum": "DiveFishDungenessCrab"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "S",
     "ItemID": 7303,
     "d42df0b4 u16": 80,
     "UniqueID": 49,
@@ -455,10 +455,10 @@
     "ResNameMuseum": "DiveFishSenjunamako"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "3",
-    "ShadowType*": "M",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "3",
+    "ShadowType": "M",
     "ItemID": 7267,
     "d42df0b4 u16": 20,
     "UniqueID": 47,
@@ -468,10 +468,10 @@
     "ResNameMuseum": "DiveFishPaipuuni"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "LL",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "LL",
     "ItemID": 7214,
     "d42df0b4 u16": 80,
     "UniqueID": 41,
@@ -481,10 +481,10 @@
     "ResNameMuseum": "DiveFishShakogai"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "1",
-    "ShadowType*": "M",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "1",
+    "ShadowType": "M",
     "ItemID": 7203,
     "d42df0b4 u16": 80,
     "UniqueID": 39,
@@ -494,10 +494,10 @@
     "ResNameMuseum": "DiveFishKoumoridako"
   },
   {
-    "ActionType*": "GoStop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "4",
-    "ShadowType*": "SS",
+    "ActionType": "GoStop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "4",
+    "ShadowType": "SS",
     "ItemID": 6920,
     "d42df0b4 u16": 0,
     "UniqueID": 36,
@@ -507,10 +507,10 @@
     "ResNameMuseum": "DiveFishHotaruikaMuseum"
   },
   {
-    "ActionType*": "Flick",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "S",
+    "ActionType": "Flick",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "S",
     "ItemID": 7245,
     "d42df0b4 u16": 0,
     "UniqueID": 44,
@@ -520,10 +520,10 @@
     "ResNameMuseum": "DiveFishMizukurageMuseum"
   },
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "SS",
+    "ActionType": "Stop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "SS",
     "ItemID": 13105,
     "d42df0b4 u16": 0,
     "UniqueID": 54,
@@ -533,10 +533,10 @@
     "ResNameMuseum": "cvrt_fsh_aji"
   },
   {
-    "ActionType*": "Stop",
-    "CaptureCategory*": "Aquatic",
-    "CaptureLevel*": "5",
-    "ShadowType*": "SS",
+    "ActionType": "Stop",
+    "CaptureCategory": "Aquatic",
+    "CaptureLevel": "5",
+    "ShadowType": "SS",
     "ItemID": 12968,
     "d42df0b4 u16": 0,
     "UniqueID": 55,

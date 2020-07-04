@@ -1,6 +1,6 @@
 [
   {
-    "RegionEventCountry1*": "EachCountry",
+    "RegionEventCountry1": "EachCountry",
     "SortID": 501,
     "af2602cd u16": 0,
     "92462b7d u16": 0,
@@ -11,7 +11,7 @@
     "ItemFrom": "MotherDay"
   },
   {
-    "RegionEventCountry1*": "EachCountry",
+    "RegionEventCountry1": "EachCountry",
     "SortID": 600,
     "af2602cd u16": 0,
     "92462b7d u16": 0,
@@ -22,7 +22,7 @@
     "ItemFrom": "WoldChildDay"
   },
   {
-    "RegionEventCountry1*": "EachCountry",
+    "RegionEventCountry1": "EachCountry",
     "SortID": 601,
     "af2602cd u16": 0,
     "92462b7d u16": 0,
@@ -33,7 +33,7 @@
     "ItemFrom": "FatherDay"
   },
   {
-    "RegionEventCountry1*": "Northern",
+    "RegionEventCountry1": "Northern",
     "SortID": 610,
     "af2602cd u16": 0,
     "92462b7d u16": 0,
@@ -44,7 +44,7 @@
     "ItemFrom": "SummerSolstice"
   },
   {
-    "RegionEventCountry1*": "Southern",
+    "RegionEventCountry1": "Southern",
     "SortID": 611,
     "af2602cd u16": 0,
     "92462b7d u16": 0,
@@ -55,7 +55,7 @@
     "ItemFrom": "WinterSolstice_Southern"
   },
   {
-    "RegionEventCountry1*": "Japan",
+    "RegionEventCountry1": "Japan",
     "SortID": 700,
     "af2602cd u16": 0,
     "92462b7d u16": 0,

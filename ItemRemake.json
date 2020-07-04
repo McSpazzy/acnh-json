@@ -1,6 +1,6 @@
 [
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -59,7 +59,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -118,7 +118,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -177,7 +177,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -236,7 +236,7 @@
     "ReFabricPatternNum": "\u0005"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -295,7 +295,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -354,7 +354,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -413,7 +413,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "LightBlue",
     "924c8d08 u32": 5,
     "8331e771 u32": 3,
@@ -472,7 +472,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -531,7 +531,7 @@
     "ReFabricPatternNum": "\u0005"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -590,7 +590,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -649,7 +649,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -708,7 +708,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -767,7 +767,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -826,7 +826,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -885,7 +885,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -944,7 +944,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1003,7 +1003,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1062,7 +1062,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1121,7 +1121,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1180,7 +1180,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1239,7 +1239,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1298,7 +1298,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1357,7 +1357,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1416,7 +1416,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1475,7 +1475,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1534,7 +1534,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1593,7 +1593,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1652,7 +1652,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1711,7 +1711,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1770,7 +1770,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1829,7 +1829,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1888,7 +1888,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -1947,7 +1947,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2006,7 +2006,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2065,7 +2065,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2124,7 +2124,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2183,7 +2183,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2242,7 +2242,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2301,7 +2301,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2360,7 +2360,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2419,7 +2419,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2478,7 +2478,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2537,7 +2537,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2596,7 +2596,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2655,7 +2655,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2714,7 +2714,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2773,7 +2773,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2832,7 +2832,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2891,7 +2891,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -2950,7 +2950,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3009,7 +3009,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3068,7 +3068,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3127,7 +3127,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3186,7 +3186,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3245,7 +3245,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3304,7 +3304,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3363,7 +3363,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3422,7 +3422,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3481,7 +3481,7 @@
     "ReFabricPatternNum": "\u0005"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3540,7 +3540,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3599,7 +3599,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3658,7 +3658,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3717,7 +3717,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3776,7 +3776,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3835,7 +3835,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3894,7 +3894,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -3953,7 +3953,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4012,7 +4012,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4071,7 +4071,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4130,7 +4130,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4189,7 +4189,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4248,7 +4248,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4307,7 +4307,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4366,7 +4366,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4425,7 +4425,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4484,7 +4484,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4543,7 +4543,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4602,7 +4602,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4661,7 +4661,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4720,7 +4720,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4779,7 +4779,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4838,7 +4838,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4897,7 +4897,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -4956,7 +4956,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5015,7 +5015,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5074,7 +5074,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5133,7 +5133,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5192,7 +5192,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5251,7 +5251,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5310,7 +5310,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5369,7 +5369,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5428,7 +5428,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5487,7 +5487,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5546,7 +5546,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5605,7 +5605,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5664,7 +5664,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5723,7 +5723,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5782,7 +5782,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5841,7 +5841,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -5900,7 +5900,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 7,
     "8331e771 u32": 3,
@@ -5959,7 +5959,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6018,7 +6018,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6077,7 +6077,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6136,7 +6136,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6195,7 +6195,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6254,7 +6254,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6313,7 +6313,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6372,7 +6372,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6431,7 +6431,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6490,7 +6490,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6549,7 +6549,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6608,7 +6608,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6667,7 +6667,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6726,7 +6726,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6785,7 +6785,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6844,7 +6844,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6903,7 +6903,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -6962,7 +6962,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7021,7 +7021,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7080,7 +7080,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7139,7 +7139,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7198,7 +7198,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7257,7 +7257,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7316,7 +7316,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7375,7 +7375,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7434,7 +7434,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7493,7 +7493,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7552,7 +7552,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7611,7 +7611,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7670,7 +7670,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7729,7 +7729,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7788,7 +7788,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7847,7 +7847,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7906,7 +7906,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -7965,7 +7965,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8024,7 +8024,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8083,7 +8083,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8142,7 +8142,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8201,7 +8201,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8260,7 +8260,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8319,7 +8319,7 @@
     "ReFabricPatternNum": "\u0001"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8378,7 +8378,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8437,7 +8437,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8496,7 +8496,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8555,7 +8555,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8614,7 +8614,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8673,7 +8673,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8732,7 +8732,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8791,7 +8791,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8850,7 +8850,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8909,7 +8909,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -8968,7 +8968,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9027,7 +9027,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9086,7 +9086,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9145,7 +9145,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9204,7 +9204,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9263,7 +9263,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9322,7 +9322,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9381,7 +9381,7 @@
     "ReFabricPatternNum": "\u0005"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9440,7 +9440,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9499,7 +9499,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9558,7 +9558,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9617,7 +9617,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9676,7 +9676,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9735,7 +9735,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9794,7 +9794,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9853,7 +9853,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9912,7 +9912,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -9971,7 +9971,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10030,7 +10030,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10089,7 +10089,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10148,7 +10148,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10207,7 +10207,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10266,7 +10266,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10325,7 +10325,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10384,7 +10384,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10443,7 +10443,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10502,7 +10502,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10561,7 +10561,7 @@
     "ReFabricPatternNum": "\u0001"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10620,7 +10620,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10679,7 +10679,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10738,7 +10738,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10797,7 +10797,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10856,7 +10856,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10915,7 +10915,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -10974,7 +10974,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11033,7 +11033,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11092,7 +11092,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11151,7 +11151,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11210,7 +11210,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11269,7 +11269,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11328,7 +11328,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11387,7 +11387,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11446,7 +11446,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11505,7 +11505,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11564,7 +11564,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11623,7 +11623,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11682,7 +11682,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11741,7 +11741,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11800,7 +11800,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11859,7 +11859,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11918,7 +11918,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -11977,7 +11977,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12036,7 +12036,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12095,7 +12095,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12154,7 +12154,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12213,7 +12213,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12272,7 +12272,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12331,7 +12331,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12390,7 +12390,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12449,7 +12449,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12508,7 +12508,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12567,7 +12567,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12626,7 +12626,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12685,7 +12685,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12744,7 +12744,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12803,7 +12803,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12862,7 +12862,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12921,7 +12921,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -12980,7 +12980,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Green",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13039,7 +13039,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13098,7 +13098,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13157,7 +13157,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13216,7 +13216,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13275,7 +13275,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13334,7 +13334,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13393,7 +13393,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13452,7 +13452,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13511,7 +13511,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13570,7 +13570,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13629,7 +13629,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13688,7 +13688,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13747,7 +13747,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13806,7 +13806,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13865,7 +13865,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13924,7 +13924,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -13983,7 +13983,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14042,7 +14042,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14101,7 +14101,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Green",
     "924c8d08 u32": 2,
     "8331e771 u32": 9,
@@ -14160,7 +14160,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14219,7 +14219,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14278,7 +14278,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14337,7 +14337,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14396,7 +14396,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14455,7 +14455,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14514,7 +14514,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14573,7 +14573,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14632,7 +14632,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14691,7 +14691,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14750,7 +14750,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14809,7 +14809,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14868,7 +14868,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14927,7 +14927,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -14986,7 +14986,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15045,7 +15045,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15104,7 +15104,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15163,7 +15163,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15222,7 +15222,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15281,7 +15281,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15340,7 +15340,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15399,7 +15399,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15458,7 +15458,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15517,7 +15517,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Green",
     "924c8d08 u32": 6,
     "8331e771 u32": 8,
@@ -15576,7 +15576,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 6,
     "8331e771 u32": 8,
@@ -15635,7 +15635,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 6,
     "8331e771 u32": 8,
@@ -15694,7 +15694,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "LightBlue",
     "924c8d08 u32": 6,
     "8331e771 u32": 3,
@@ -15753,7 +15753,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15812,7 +15812,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15871,7 +15871,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15930,7 +15930,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -15989,7 +15989,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16048,7 +16048,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16107,7 +16107,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16166,7 +16166,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16225,7 +16225,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16284,7 +16284,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16343,7 +16343,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Pink",
     "924c8d08 u32": 7,
     "8331e771 u32": 3,
@@ -16402,7 +16402,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16461,7 +16461,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16520,7 +16520,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16579,7 +16579,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16638,7 +16638,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16697,7 +16697,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16756,7 +16756,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16815,7 +16815,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16874,7 +16874,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16933,7 +16933,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -16992,7 +16992,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17051,7 +17051,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17110,7 +17110,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17169,7 +17169,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17228,7 +17228,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17287,7 +17287,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17346,7 +17346,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17405,7 +17405,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17464,7 +17464,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17523,7 +17523,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17582,7 +17582,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17641,7 +17641,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17700,7 +17700,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17759,7 +17759,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17818,7 +17818,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17877,7 +17877,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17936,7 +17936,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -17995,7 +17995,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18054,7 +18054,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18113,7 +18113,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18172,7 +18172,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18231,7 +18231,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18290,7 +18290,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18349,7 +18349,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18408,7 +18408,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18467,7 +18467,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18526,7 +18526,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18585,7 +18585,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18644,7 +18644,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18703,7 +18703,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18762,7 +18762,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18821,7 +18821,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18880,7 +18880,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18939,7 +18939,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -18998,7 +18998,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19057,7 +19057,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19116,7 +19116,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19175,7 +19175,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19234,7 +19234,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19293,7 +19293,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19352,7 +19352,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19411,7 +19411,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19470,7 +19470,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19529,7 +19529,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19588,7 +19588,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19647,7 +19647,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19706,7 +19706,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19765,7 +19765,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19824,7 +19824,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19883,7 +19883,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -19942,7 +19942,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20001,7 +20001,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20060,7 +20060,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20119,7 +20119,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20178,7 +20178,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20237,7 +20237,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20296,7 +20296,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20355,7 +20355,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20414,7 +20414,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20473,7 +20473,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20532,7 +20532,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Orange",
     "924c8d08 u32": 4,
     "8331e771 u32": 4,
@@ -20591,7 +20591,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20650,7 +20650,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20709,7 +20709,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20768,7 +20768,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20827,7 +20827,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20886,7 +20886,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -20945,7 +20945,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21004,7 +21004,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21063,7 +21063,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21122,7 +21122,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21181,7 +21181,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21240,7 +21240,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "Red",
     "924c8d08 u32": 8,
     "8331e771 u32": 3,
@@ -21299,7 +21299,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21358,7 +21358,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21417,7 +21417,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21476,7 +21476,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21535,7 +21535,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21594,7 +21594,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21653,7 +21653,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21712,7 +21712,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21771,7 +21771,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21830,7 +21830,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 8,
     "8331e771 u32": 5,
@@ -21889,7 +21889,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -21948,7 +21948,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22007,7 +22007,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22066,7 +22066,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22125,7 +22125,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22184,7 +22184,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22243,7 +22243,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22302,7 +22302,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22361,7 +22361,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22420,7 +22420,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22479,7 +22479,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22538,7 +22538,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22597,7 +22597,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22656,7 +22656,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22715,7 +22715,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22774,7 +22774,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22833,7 +22833,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22892,7 +22892,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -22951,7 +22951,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23010,7 +23010,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23069,7 +23069,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23128,7 +23128,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23187,7 +23187,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23246,7 +23246,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23305,7 +23305,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23364,7 +23364,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23423,7 +23423,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23482,7 +23482,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23541,7 +23541,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23600,7 +23600,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23659,7 +23659,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23718,7 +23718,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23777,7 +23777,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23836,7 +23836,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23895,7 +23895,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -23954,7 +23954,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24013,7 +24013,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 1,
     "8331e771 u32": 6,
@@ -24072,7 +24072,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24131,7 +24131,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24190,7 +24190,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24249,7 +24249,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24308,7 +24308,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24367,7 +24367,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24426,7 +24426,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24485,7 +24485,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24544,7 +24544,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24603,7 +24603,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24662,7 +24662,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24721,7 +24721,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24780,7 +24780,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24839,7 +24839,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24898,7 +24898,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -24957,7 +24957,7 @@
     "ReFabricPatternNum": "\u0002"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25016,7 +25016,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25075,7 +25075,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25134,7 +25134,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25193,7 +25193,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25252,7 +25252,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25311,7 +25311,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25370,7 +25370,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25429,7 +25429,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25488,7 +25488,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25547,7 +25547,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25606,7 +25606,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25665,7 +25665,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25724,7 +25724,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25783,7 +25783,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25842,7 +25842,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -25901,7 +25901,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Red",
     "924c8d08 u32": 5,
     "8331e771 u32": 0,
@@ -25960,7 +25960,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26019,7 +26019,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26078,7 +26078,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26137,7 +26137,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26196,7 +26196,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26255,7 +26255,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26314,7 +26314,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26373,7 +26373,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26432,7 +26432,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26491,7 +26491,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26550,7 +26550,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26609,7 +26609,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26668,7 +26668,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26727,7 +26727,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26786,7 +26786,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26845,7 +26845,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26904,7 +26904,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -26963,7 +26963,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27022,7 +27022,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27081,7 +27081,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 10,
     "8331e771 u32": 9,
@@ -27140,7 +27140,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27199,7 +27199,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27258,7 +27258,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Pink",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27317,7 +27317,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27376,7 +27376,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27435,7 +27435,7 @@
     "ReFabricPatternNum": "\u0006"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27494,7 +27494,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27553,7 +27553,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27612,7 +27612,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27671,7 +27671,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27730,7 +27730,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27789,7 +27789,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27848,7 +27848,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27907,7 +27907,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -27966,7 +27966,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28025,7 +28025,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28084,7 +28084,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28143,7 +28143,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28202,7 +28202,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 4,
     "8331e771 u32": 5,
@@ -28261,7 +28261,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28320,7 +28320,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28379,7 +28379,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 3,
     "8331e771 u32": 4,
@@ -28438,7 +28438,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 3,
     "8331e771 u32": 4,
@@ -28497,7 +28497,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28556,7 +28556,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28615,7 +28615,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28674,7 +28674,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28733,7 +28733,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28792,7 +28792,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Purple",
     "924c8d08 u32": 8,
     "8331e771 u32": 4,
@@ -28851,7 +28851,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28910,7 +28910,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -28969,7 +28969,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29028,7 +29028,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29087,7 +29087,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29146,7 +29146,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 10,
     "8331e771 u32": 9,
@@ -29205,7 +29205,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29264,7 +29264,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29323,7 +29323,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29382,7 +29382,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29441,7 +29441,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Orange",
     "924c8d08 u32": 1,
     "8331e771 u32": 0,
@@ -29500,7 +29500,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29559,7 +29559,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29618,7 +29618,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29677,7 +29677,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29736,7 +29736,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29795,7 +29795,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29854,7 +29854,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29913,7 +29913,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -29972,7 +29972,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30031,7 +30031,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30090,7 +30090,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30149,7 +30149,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30208,7 +30208,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30267,7 +30267,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30326,7 +30326,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30385,7 +30385,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30444,7 +30444,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30503,7 +30503,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30562,7 +30562,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30621,7 +30621,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30680,7 +30680,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30739,7 +30739,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30798,7 +30798,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30857,7 +30857,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30916,7 +30916,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -30975,7 +30975,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31034,7 +31034,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31093,7 +31093,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31152,7 +31152,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31211,7 +31211,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31270,7 +31270,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31329,7 +31329,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31388,7 +31388,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31447,7 +31447,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31506,7 +31506,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31565,7 +31565,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31624,7 +31624,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Yellow",
     "924c8d08 u32": 10,
     "8331e771 u32": 9,
@@ -31683,7 +31683,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31742,7 +31742,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31801,7 +31801,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31860,7 +31860,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31919,7 +31919,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -31978,7 +31978,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32037,7 +32037,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32096,7 +32096,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32155,7 +32155,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32214,7 +32214,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32273,7 +32273,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32332,7 +32332,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32391,7 +32391,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32450,7 +32450,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32509,7 +32509,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32568,7 +32568,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32627,7 +32627,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32686,7 +32686,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32745,7 +32745,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32804,7 +32804,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32863,7 +32863,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32922,7 +32922,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -32981,7 +32981,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33040,7 +33040,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33099,7 +33099,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33158,7 +33158,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33217,7 +33217,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33276,7 +33276,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33335,7 +33335,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33394,7 +33394,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33453,7 +33453,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33512,7 +33512,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33571,7 +33571,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33630,7 +33630,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33689,7 +33689,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33748,7 +33748,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33807,7 +33807,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33866,7 +33866,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33925,7 +33925,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -33984,7 +33984,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34043,7 +34043,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34102,7 +34102,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34161,7 +34161,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34220,7 +34220,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34279,7 +34279,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34338,7 +34338,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34397,7 +34397,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34456,7 +34456,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34515,7 +34515,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34574,7 +34574,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34633,7 +34633,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34692,7 +34692,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34751,7 +34751,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34810,7 +34810,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34869,7 +34869,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34928,7 +34928,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -34987,7 +34987,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Orange",
     "924c8d08 u32": 5,
     "8331e771 u32": 2,
@@ -35046,7 +35046,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35105,7 +35105,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35164,7 +35164,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35223,7 +35223,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35282,7 +35282,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35341,7 +35341,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35400,7 +35400,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35459,7 +35459,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35518,7 +35518,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35577,7 +35577,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35636,7 +35636,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35695,7 +35695,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35754,7 +35754,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35813,7 +35813,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35872,7 +35872,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35931,7 +35931,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -35990,7 +35990,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36049,7 +36049,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36108,7 +36108,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36167,7 +36167,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36226,7 +36226,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36285,7 +36285,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36344,7 +36344,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36403,7 +36403,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36462,7 +36462,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36521,7 +36521,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36580,7 +36580,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36639,7 +36639,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36698,7 +36698,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36757,7 +36757,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36816,7 +36816,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36875,7 +36875,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36934,7 +36934,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -36993,7 +36993,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37052,7 +37052,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37111,7 +37111,7 @@
     "ReFabricPatternNum": "\u0003"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37170,7 +37170,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37229,7 +37229,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37288,7 +37288,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37347,7 +37347,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37406,7 +37406,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37465,7 +37465,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37524,7 +37524,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37583,7 +37583,7 @@
     "ReFabricPatternNum": "\u0004"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37642,7 +37642,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37701,7 +37701,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37760,7 +37760,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "CommonAndMyDesign",
+    "ItemReFabricType": "CommonAndMyDesign",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37819,7 +37819,7 @@
     "ReFabricPatternNum": "\u0007"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37878,7 +37878,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37937,7 +37937,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -37996,7 +37996,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "White",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38055,7 +38055,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38114,7 +38114,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38173,7 +38173,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38232,7 +38232,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38291,7 +38291,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38350,7 +38350,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Green",
     "924c8d08 u32": 4,
     "8331e771 u32": 6,
@@ -38409,7 +38409,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38468,7 +38468,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38527,7 +38527,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38586,7 +38586,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38645,7 +38645,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38704,7 +38704,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38763,7 +38763,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38822,7 +38822,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38881,7 +38881,7 @@
     "ReFabricPatternNum": "\u0001"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38940,7 +38940,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -38999,7 +38999,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39058,7 +39058,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39117,7 +39117,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "Warm",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39176,7 +39176,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39235,7 +39235,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39294,7 +39294,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39353,7 +39353,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "None",
+    "ItemReFabricType": "None",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,
@@ -39412,7 +39412,7 @@
     "ReFabricPatternNum": "�"
   },
   {
-    "ItemReFabricType*": "MyDesign",
+    "ItemReFabricType": "MyDesign",
     "c54eaad9 string": "None",
     "924c8d08 u32": 0,
     "8331e771 u32": 0,

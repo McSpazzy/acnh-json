@@ -1,6 +1,6 @@
 [
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4911,
     "PosX": 0,
     "PosZ": 0,
@@ -10,7 +10,7 @@
     "UniqueID": 2
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 5049,
     "PosX": 0,
     "PosZ": 0,
@@ -20,7 +20,7 @@
     "UniqueID": 3
   },
   {
-    "Dir*": "E",
+    "Dir": "E",
     "ItemID": 2554,
     "PosX": 1,
     "PosZ": 2,
@@ -30,7 +30,7 @@
     "UniqueID": 4
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 3971,
     "PosX": 0,
     "PosZ": 8,
@@ -40,7 +40,7 @@
     "UniqueID": 5
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 7189,
     "PosX": 10,
     "PosZ": 0,
@@ -50,7 +50,7 @@
     "UniqueID": 6
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 2020,
     "PosX": 10,
     "PosZ": 3,
@@ -60,7 +60,7 @@
     "UniqueID": 7
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 7189,
     "PosX": 10,
     "PosZ": 6,
@@ -70,7 +70,7 @@
     "UniqueID": 8
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 4053,
     "PosX": 14,
     "PosZ": 1,
@@ -80,7 +80,7 @@
     "UniqueID": 9
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 4053,
     "PosX": 14,
     "PosZ": 4,
@@ -90,7 +90,7 @@
     "UniqueID": 10
   },
   {
-    "Dir*": "W",
+    "Dir": "W",
     "ItemID": 4049,
     "PosX": 14,
     "PosZ": 14,
@@ -100,7 +100,7 @@
     "UniqueID": 11
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 5031,
     "PosX": 0,
     "PosZ": 0,
@@ -110,7 +110,7 @@
     "UniqueID": 12
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4928,
     "PosX": 0,
     "PosZ": 0,
@@ -120,7 +120,7 @@
     "UniqueID": 13
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4955,
     "PosX": 0,
     "PosZ": 0,
@@ -130,7 +130,7 @@
     "UniqueID": 14
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4888,
     "PosX": 0,
     "PosZ": 0,
@@ -140,7 +140,7 @@
     "UniqueID": 15
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 5000,
     "PosX": 0,
     "PosZ": 0,
@@ -150,7 +150,7 @@
     "UniqueID": 16
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4891,
     "PosX": 0,
     "PosZ": 0,
@@ -160,7 +160,7 @@
     "UniqueID": 17
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4979,
     "PosX": 0,
     "PosZ": 0,
@@ -170,7 +170,7 @@
     "UniqueID": 18
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 5481,
     "PosX": 0,
     "PosZ": 0,
@@ -180,7 +180,7 @@
     "UniqueID": 19
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4890,
     "PosX": 0,
     "PosZ": 0,
@@ -190,7 +190,7 @@
     "UniqueID": 20
   },
   {
-    "Dir*": "S",
+    "Dir": "S",
     "ItemID": 4951,
     "PosX": 0,
     "PosZ": 0,

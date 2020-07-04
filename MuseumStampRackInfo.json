@@ -1,6 +1,6 @@
 [
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 59,
     "e23f2c58 u32": 5,
     "StampRackItemNameA": 612,
@@ -15,7 +15,7 @@
     "ed4b6070 u8": 1
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 54,
     "e23f2c58 u32": 25,
     "StampRackItemNameA": 652,
@@ -30,7 +30,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 13,
     "e23f2c58 u32": 48,
     "StampRackItemNameA": 623,
@@ -45,7 +45,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 38,
     "e23f2c58 u32": 62,
     "StampRackItemNameA": 582,
@@ -60,7 +60,7 @@
     "ed4b6070 u8": 1
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 19,
     "e23f2c58 u32": 5,
     "StampRackItemNameA": 5339,
@@ -75,7 +75,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 19,
     "e23f2c58 u32": 22,
     "StampRackItemNameA": 650,
@@ -90,7 +90,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_0",
+    "StageName": "IdrMuseumInsect_0",
     "98ff7f38 u32": 35,
     "e23f2c58 u32": 43,
     "StampRackItemNameA": 3479,
@@ -105,7 +105,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_1",
+    "StageName": "IdrMuseumInsect_1",
     "98ff7f38 u32": 30,
     "e23f2c58 u32": 40,
     "StampRackItemNameA": 627,
@@ -120,7 +120,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_2",
+    "StageName": "IdrMuseumInsect_2",
     "98ff7f38 u32": 35,
     "e23f2c58 u32": 24,
     "StampRackItemNameA": 613,
@@ -135,7 +135,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_2",
+    "StageName": "IdrMuseumInsect_2",
     "98ff7f38 u32": 57,
     "e23f2c58 u32": 24,
     "StampRackItemNameA": 606,
@@ -150,7 +150,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumInsect_2",
+    "StageName": "IdrMuseumInsect_2",
     "98ff7f38 u32": 15,
     "e23f2c58 u32": 36,
     "StampRackItemNameA": 598,
@@ -165,7 +165,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_2",
+    "StageName": "IdrMuseumFish_2",
     "98ff7f38 u32": 43,
     "e23f2c58 u32": 26,
     "StampRackItemNameA": 2238,
@@ -180,7 +180,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_2",
+    "StageName": "IdrMuseumFish_2",
     "98ff7f38 u32": 33,
     "e23f2c58 u32": 46,
     "StampRackItemNameA": 2220,
@@ -195,7 +195,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_2",
+    "StageName": "IdrMuseumFish_2",
     "98ff7f38 u32": 43,
     "e23f2c58 u32": 37,
     "StampRackItemNameA": 2253,
@@ -210,7 +210,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_2",
+    "StageName": "IdrMuseumFish_2",
     "98ff7f38 u32": 7,
     "e23f2c58 u32": 48,
     "StampRackItemNameA": 2245,
@@ -225,7 +225,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_0",
+    "StageName": "IdrMuseumFish_0",
     "98ff7f38 u32": 17,
     "e23f2c58 u32": 46,
     "StampRackItemNameA": 2270,
@@ -240,7 +240,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_0",
+    "StageName": "IdrMuseumFish_0",
     "98ff7f38 u32": 23,
     "e23f2c58 u32": 21,
     "StampRackItemNameA": 2257,
@@ -255,7 +255,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_0",
+    "StageName": "IdrMuseumFish_0",
     "98ff7f38 u32": 48,
     "e23f2c58 u32": 14,
     "StampRackItemNameA": 2255,
@@ -270,7 +270,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_0",
+    "StageName": "IdrMuseumFish_0",
     "98ff7f38 u32": 48,
     "e23f2c58 u32": 33,
     "StampRackItemNameA": -2,
@@ -285,7 +285,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_1",
+    "StageName": "IdrMuseumFish_1",
     "98ff7f38 u32": 21,
     "e23f2c58 u32": 30,
     "StampRackItemNameA": 4201,
@@ -300,7 +300,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFish_1",
+    "StageName": "IdrMuseumFish_1",
     "98ff7f38 u32": 57,
     "e23f2c58 u32": 33,
     "StampRackItemNameA": 2283,
@@ -315,7 +315,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_0",
+    "StageName": "IdrMuseumFossil_0",
     "98ff7f38 u32": 41,
     "e23f2c58 u32": 38,
     "StampRackItemNameA": 4660,
@@ -330,7 +330,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_0",
+    "StageName": "IdrMuseumFossil_0",
     "98ff7f38 u32": 22,
     "e23f2c58 u32": 38,
     "StampRackItemNameA": 303,
@@ -345,7 +345,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_1",
+    "StageName": "IdrMuseumFossil_1",
     "98ff7f38 u32": 10,
     "e23f2c58 u32": 44,
     "StampRackItemNameA": 192,
@@ -360,7 +360,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_1",
+    "StageName": "IdrMuseumFossil_1",
     "98ff7f38 u32": 12,
     "e23f2c58 u32": 28,
     "StampRackItemNameA": 4697,
@@ -375,7 +375,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_1",
+    "StageName": "IdrMuseumFossil_1",
     "98ff7f38 u32": 32,
     "e23f2c58 u32": 45,
     "StampRackItemNameA": 216,
@@ -390,7 +390,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_1",
+    "StageName": "IdrMuseumFossil_1",
     "98ff7f38 u32": 49,
     "e23f2c58 u32": 52,
     "StampRackItemNameA": 184,
@@ -405,7 +405,7 @@
     "ed4b6070 u8": 0
   },
   {
-    "StageName*": "IdrMuseumFossil_2",
+    "StageName": "IdrMuseumFossil_2",
     "98ff7f38 u32": 32,
     "e23f2c58 u32": 39,
     "StampRackItemNameA": 301,

@@ -1,7 +1,7 @@
 [
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 0,
     "Social": 0,
     "NpcSpClothSet": 25,
@@ -25,8 +25,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 1,
     "Social": 0,
     "NpcSpClothSet": 24,
@@ -50,8 +50,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 2,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -75,8 +75,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 3,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -100,8 +100,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 4,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -125,8 +125,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 5,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -150,8 +150,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 6,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -175,8 +175,8 @@
     "VmRhythmType": 2
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Female",
     "PacketId": 7,
     "Social": 1,
     "NpcSpClothSet": -2,
@@ -200,8 +200,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 8,
     "Social": 0,
     "NpcSpClothSet": 7,
@@ -225,8 +225,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 9,
     "Social": 3,
     "NpcSpClothSet": 23,
@@ -250,8 +250,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Female",
     "PacketId": 10,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -275,8 +275,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 11,
     "Social": 3,
     "NpcSpClothSet": 19,
@@ -300,8 +300,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 12,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -325,8 +325,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 13,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -350,8 +350,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 14,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -375,8 +375,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 15,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -400,8 +400,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 16,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -425,8 +425,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 17,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -450,8 +450,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 18,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -475,8 +475,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 19,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -500,8 +500,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 20,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -525,8 +525,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 21,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -550,8 +550,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 22,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -575,8 +575,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 23,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -600,8 +600,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 24,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -625,8 +625,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 25,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -650,8 +650,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 26,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -675,8 +675,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 27,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -700,8 +700,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 28,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -725,8 +725,8 @@
     "VmRhythmType": 2
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 29,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -750,8 +750,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 30,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -775,8 +775,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 31,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -800,8 +800,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 32,
     "Social": 3,
     "NpcSpClothSet": 2,
@@ -825,8 +825,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 33,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -850,8 +850,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 34,
     "Social": 1,
     "NpcSpClothSet": -2,
@@ -875,8 +875,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 35,
     "Social": 1,
     "NpcSpClothSet": -2,
@@ -900,8 +900,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 36,
     "Social": 3,
     "NpcSpClothSet": 0,
@@ -925,8 +925,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 37,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -950,8 +950,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 38,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -975,8 +975,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 39,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1000,8 +1000,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 40,
     "Social": 3,
     "NpcSpClothSet": 22,
@@ -1025,8 +1025,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 41,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -1050,8 +1050,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Female",
     "PacketId": 42,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1075,8 +1075,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 43,
     "Social": 1,
     "NpcSpClothSet": -2,
@@ -1100,8 +1100,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 44,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1125,8 +1125,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 45,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1150,8 +1150,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 46,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1175,8 +1175,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 47,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1200,8 +1200,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 48,
     "Social": 1,
     "NpcSpClothSet": -2,
@@ -1225,8 +1225,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 49,
     "Social": 3,
     "NpcSpClothSet": 6,
@@ -1250,8 +1250,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 50,
     "Social": 3,
     "NpcSpClothSet": 6,
@@ -1275,8 +1275,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 53,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1300,8 +1300,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 54,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1325,8 +1325,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 55,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1350,8 +1350,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 56,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -1375,8 +1375,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 57,
     "Social": 3,
     "NpcSpClothSet": 18,
@@ -1400,8 +1400,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Female",
-    "GenderUsEu*": "Female",
+    "GenderAsia": "Female",
+    "GenderUsEu": "Female",
     "PacketId": 58,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -1425,8 +1425,8 @@
     "VmRhythmType": 1
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 59,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -1450,8 +1450,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 60,
     "Social": 1,
     "NpcSpClothSet": 17,
@@ -1475,8 +1475,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 61,
     "Social": 3,
     "NpcSpClothSet": -2,
@@ -1500,8 +1500,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 62,
     "Social": 0,
     "NpcSpClothSet": -2,
@@ -1525,8 +1525,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 63,
     "Social": 3,
     "NpcSpClothSet": 15,
@@ -1550,8 +1550,8 @@
     "VmRhythmType": 0
   },
   {
-    "GenderAsia*": "Male",
-    "GenderUsEu*": "Male",
+    "GenderAsia": "Male",
+    "GenderUsEu": "Male",
     "PacketId": 0,
     "Social": 3,
     "NpcSpClothSet": -2,
