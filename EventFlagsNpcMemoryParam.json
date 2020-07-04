@@ -2,7 +2,7 @@
   {
     "UniqueID": 0,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -13,7 +13,7 @@
   {
     "UniqueID": 1,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -24,7 +24,7 @@
   {
     "UniqueID": 2,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -35,7 +35,7 @@
   {
     "UniqueID": 3,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -46,7 +46,7 @@
   {
     "UniqueID": 4,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -57,7 +57,7 @@
   {
     "UniqueID": 5,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -68,7 +68,7 @@
   {
     "UniqueID": 6,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -79,7 +79,7 @@
   {
     "UniqueID": 7,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -90,7 +90,7 @@
   {
     "UniqueID": 8,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -101,7 +101,7 @@
   {
     "UniqueID": 9,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -112,7 +112,7 @@
   {
     "UniqueID": 10,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 25,
     "fa93f14b u8": 1,
@@ -123,7 +123,7 @@
   {
     "UniqueID": 11,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -134,7 +134,7 @@
   {
     "UniqueID": 12,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -145,7 +145,7 @@
   {
     "UniqueID": 13,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -156,7 +156,7 @@
   {
     "UniqueID": 14,
     "5f77b61a u8": 0,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -167,7 +167,7 @@
   {
     "UniqueID": 18,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -178,7 +178,7 @@
   {
     "UniqueID": 19,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -189,7 +189,7 @@
   {
     "UniqueID": 20,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -200,7 +200,7 @@
   {
     "UniqueID": 21,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -211,7 +211,7 @@
   {
     "UniqueID": 22,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -222,7 +222,7 @@
   {
     "UniqueID": 23,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -233,7 +233,7 @@
   {
     "UniqueID": 24,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -244,7 +244,7 @@
   {
     "UniqueID": 25,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -255,7 +255,7 @@
   {
     "UniqueID": 26,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -266,7 +266,7 @@
   {
     "UniqueID": 27,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -277,7 +277,7 @@
   {
     "UniqueID": 28,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -288,7 +288,7 @@
   {
     "UniqueID": 29,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -299,7 +299,7 @@
   {
     "UniqueID": 30,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -310,7 +310,7 @@
   {
     "UniqueID": 31,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 0,
@@ -321,7 +321,7 @@
   {
     "UniqueID": 32,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -332,7 +332,7 @@
   {
     "UniqueID": 33,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -343,7 +343,7 @@
   {
     "UniqueID": 34,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -354,7 +354,7 @@
   {
     "UniqueID": 35,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -365,7 +365,7 @@
   {
     "UniqueID": 36,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -376,7 +376,7 @@
   {
     "UniqueID": 37,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 0,
@@ -387,7 +387,7 @@
   {
     "UniqueID": 38,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -398,7 +398,7 @@
   {
     "UniqueID": 39,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -409,7 +409,7 @@
   {
     "UniqueID": 40,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -420,7 +420,7 @@
   {
     "UniqueID": 41,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -431,7 +431,7 @@
   {
     "UniqueID": 42,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -442,7 +442,7 @@
   {
     "UniqueID": 43,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -453,7 +453,7 @@
   {
     "UniqueID": 44,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -464,7 +464,7 @@
   {
     "UniqueID": 45,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -475,7 +475,7 @@
   {
     "UniqueID": 46,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -486,7 +486,7 @@
   {
     "UniqueID": 47,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -497,7 +497,7 @@
   {
     "UniqueID": 48,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -508,7 +508,7 @@
   {
     "UniqueID": 49,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -519,7 +519,7 @@
   {
     "UniqueID": 50,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -530,7 +530,7 @@
   {
     "UniqueID": 51,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 1,
@@ -541,7 +541,7 @@
   {
     "UniqueID": 52,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 0,
@@ -552,7 +552,7 @@
   {
     "UniqueID": 53,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -563,7 +563,7 @@
   {
     "UniqueID": 55,
     "5f77b61a u8": 1,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -574,7 +574,7 @@
   {
     "UniqueID": 56,
     "5f77b61a u8": 1,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -585,7 +585,7 @@
   {
     "UniqueID": 57,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -596,7 +596,7 @@
   {
     "UniqueID": 59,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -607,7 +607,7 @@
   {
     "UniqueID": 60,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -618,7 +618,7 @@
   {
     "UniqueID": 61,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -629,7 +629,7 @@
   {
     "UniqueID": 62,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -640,7 +640,7 @@
   {
     "UniqueID": 63,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -651,7 +651,7 @@
   {
     "UniqueID": 64,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -662,7 +662,7 @@
   {
     "UniqueID": 65,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -673,7 +673,7 @@
   {
     "UniqueID": 66,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -684,7 +684,7 @@
   {
     "UniqueID": 67,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -695,7 +695,7 @@
   {
     "UniqueID": 68,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -706,7 +706,7 @@
   {
     "UniqueID": 69,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -717,7 +717,7 @@
   {
     "UniqueID": 70,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -728,7 +728,7 @@
   {
     "UniqueID": 71,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -739,7 +739,7 @@
   {
     "UniqueID": 72,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -750,7 +750,7 @@
   {
     "UniqueID": 73,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -761,7 +761,7 @@
   {
     "UniqueID": 74,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -772,7 +772,7 @@
   {
     "UniqueID": 75,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -783,7 +783,7 @@
   {
     "UniqueID": 76,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -794,7 +794,7 @@
   {
     "UniqueID": 78,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -805,7 +805,7 @@
   {
     "UniqueID": 79,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -816,7 +816,7 @@
   {
     "UniqueID": 80,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -827,7 +827,7 @@
   {
     "UniqueID": 81,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -838,7 +838,7 @@
   {
     "UniqueID": 82,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -849,7 +849,7 @@
   {
     "UniqueID": 83,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -860,7 +860,7 @@
   {
     "UniqueID": 84,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -871,7 +871,7 @@
   {
     "UniqueID": 85,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -882,7 +882,7 @@
   {
     "UniqueID": 86,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -893,7 +893,7 @@
   {
     "UniqueID": 87,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -904,7 +904,7 @@
   {
     "UniqueID": 88,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -915,7 +915,7 @@
   {
     "UniqueID": 90,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -926,7 +926,7 @@
   {
     "UniqueID": 91,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -937,7 +937,7 @@
   {
     "UniqueID": 92,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 0,
@@ -948,7 +948,7 @@
   {
     "UniqueID": 93,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -959,7 +959,7 @@
   {
     "UniqueID": 94,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -970,7 +970,7 @@
   {
     "UniqueID": 95,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -981,7 +981,7 @@
   {
     "UniqueID": 96,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -992,7 +992,7 @@
   {
     "UniqueID": 97,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1003,7 +1003,7 @@
   {
     "UniqueID": 98,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1014,7 +1014,7 @@
   {
     "UniqueID": 99,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1025,7 +1025,7 @@
   {
     "UniqueID": 100,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1036,7 +1036,7 @@
   {
     "UniqueID": 101,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1047,7 +1047,7 @@
   {
     "UniqueID": 102,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1058,7 +1058,7 @@
   {
     "UniqueID": 103,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1069,7 +1069,7 @@
   {
     "UniqueID": 104,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1080,7 +1080,7 @@
   {
     "UniqueID": 105,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1091,7 +1091,7 @@
   {
     "UniqueID": 106,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1102,7 +1102,7 @@
   {
     "UniqueID": 107,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1113,7 +1113,7 @@
   {
     "UniqueID": 108,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1124,7 +1124,7 @@
   {
     "UniqueID": 109,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1135,7 +1135,7 @@
   {
     "UniqueID": 110,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1146,7 +1146,7 @@
   {
     "UniqueID": 111,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1157,7 +1157,7 @@
   {
     "UniqueID": 112,
     "5f77b61a u8": 0,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1168,7 +1168,7 @@
   {
     "UniqueID": 113,
     "5f77b61a u8": 0,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1179,7 +1179,7 @@
   {
     "UniqueID": 114,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1190,7 +1190,7 @@
   {
     "UniqueID": 115,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1201,7 +1201,7 @@
   {
     "UniqueID": 116,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1212,7 +1212,7 @@
   {
     "UniqueID": 117,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1223,7 +1223,7 @@
   {
     "UniqueID": 118,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1234,7 +1234,7 @@
   {
     "UniqueID": 119,
     "5f77b61a u8": 0,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1245,7 +1245,7 @@
   {
     "UniqueID": 120,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1256,7 +1256,7 @@
   {
     "UniqueID": 121,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1267,7 +1267,7 @@
   {
     "UniqueID": 122,
     "5f77b61a u8": 0,
-    "Folded_Season": 3,
+    "5140e4b4 u8": 3,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1278,7 +1278,7 @@
   {
     "UniqueID": 123,
     "5f77b61a u8": 0,
-    "Folded_Season": 2,
+    "5140e4b4 u8": 2,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1289,7 +1289,7 @@
   {
     "UniqueID": 124,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1300,7 +1300,7 @@
   {
     "UniqueID": 125,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "5140e4b4 u8": 0,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1311,7 +1311,7 @@
   {
     "UniqueID": 126,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -1322,7 +1322,7 @@
   {
     "UniqueID": 127,
     "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5140e4b4 u8": 1,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,

@@ -1,6 +1,6 @@
 [
   {
-    "FieldProjection": "None",
+    "EventType*": "None",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -147,7 +147,7 @@
     "NameShort": "イベントなし",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -157,7 +157,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -304,7 +304,7 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 5,
     "ReadyDays": 0,
@@ -314,7 +314,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -461,7 +461,7 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 5,
     "ReadyDays": 0,
@@ -471,7 +471,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -618,7 +618,7 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 5,
     "ReadyDays": 0,
@@ -628,7 +628,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -775,7 +775,7 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 5,
     "ReadyDays": 0,
@@ -785,7 +785,7 @@
     "WeekSouth": "\u0002"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -932,7 +932,7 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 7,
     "ReadyDays": 0,
@@ -942,7 +942,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1089,7 +1089,7 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 7,
     "ReadyDays": 0,
@@ -1099,7 +1099,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1246,7 +1246,7 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 7,
     "ReadyDays": 0,
@@ -1256,7 +1256,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1403,7 +1403,7 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 7,
     "ReadyDays": 0,
@@ -1413,7 +1413,7 @@
     "WeekSouth": "\u0003"
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1560,7 +1560,7 @@
     "NameShort": "カウントダウン",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 19,
     "ReadyDays": 0,
@@ -1570,7 +1570,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Global",
+    "EventType*": "Global",
     "FlagLand1": 290,
     "FlagLand2": -1,
     "52c75c1e string": "After",
@@ -1717,7 +1717,7 @@
     "NameShort": "イースター(ウサギの日)",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 11,
@@ -1727,7 +1727,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Other",
+    "EventType*": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -1874,7 +1874,7 @@
     "NameShort": "元旦",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -1884,7 +1884,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Other",
+    "EventType*": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2031,7 +2031,7 @@
     "NameShort": "プレイヤーの誕生日",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2041,7 +2041,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Other",
+    "EventType*": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2188,7 +2188,7 @@
     "NameShort": "NPCの誕生日",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2198,7 +2198,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Other",
+    "EventType*": "Other",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2345,7 +2345,7 @@
     "NameShort": "旧暦正月",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2355,7 +2355,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Totakeke",
+    "EventType*": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2502,7 +2502,7 @@
     "NameShort": "とたけけライブ",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2512,7 +2512,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Totakeke",
+    "EventType*": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2659,7 +2659,7 @@
     "NameShort": "とたけけライブ",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2669,7 +2669,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Totakeke",
+    "EventType*": "Totakeke",
     "FlagLand1": 37,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2816,7 +2816,7 @@
     "NameShort": "とたけけ初回ライブ",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 1,
+    "OpenAllYear": 1,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2826,7 +2826,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Term",
+    "EventType*": "Term",
     "FlagLand1": 290,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -2973,7 +2973,7 @@
     "NameShort": "アースデー",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -2983,7 +2983,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Term",
+    "EventType*": "Term",
     "FlagLand1": 347,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3130,7 +3130,7 @@
     "NameShort": "ジューンブライド",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -3140,7 +3140,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Term",
+    "EventType*": "Term",
     "FlagLand1": 319,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3287,7 +3287,7 @@
     "NameShort": "メーデー",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 101,
     "ReadyDays": 0,
@@ -3297,7 +3297,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Term",
+    "EventType*": "Term",
     "FlagLand1": 34,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3444,7 +3444,7 @@
     "NameShort": "国際ミュージアム",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -3454,7 +3454,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3601,7 +3601,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -3611,7 +3611,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3758,7 +3758,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -3768,7 +3768,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -3915,7 +3915,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -3925,7 +3925,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -4072,7 +4072,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -4082,7 +4082,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -4229,7 +4229,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,
@@ -4239,7 +4239,7 @@
     "WeekSouth": ""
   },
   {
-    "FieldProjection": "Region",
+    "EventType*": "Region",
     "FlagLand1": -1,
     "FlagLand2": -1,
     "52c75c1e string": "Same",
@@ -4386,7 +4386,7 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "Stage_Success": 0,
+    "OpenAllYear": 0,
     "Output": 1,
     "b92288a3 u8": 0,
     "ReadyDays": 0,

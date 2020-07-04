@@ -1,7 +1,7 @@
 [
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -18,7 +18,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -35,7 +35,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -52,7 +52,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -69,7 +69,7 @@
   },
   {
     "36dd90c string": "InsectConvention",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -86,7 +86,7 @@
   },
   {
     "36dd90c string": "FishingConvention",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -103,7 +103,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -120,7 +120,7 @@
   },
   {
     "36dd90c string": "InsectConvention",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -137,7 +137,7 @@
   },
   {
     "36dd90c string": "FishingConvention",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -154,7 +154,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -171,7 +171,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -188,7 +188,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 22,
@@ -205,7 +205,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 22,
@@ -222,7 +222,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 22,
@@ -239,7 +239,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 21,
@@ -256,7 +256,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 11,
@@ -273,7 +273,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 11,
@@ -290,7 +290,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 11,
@@ -307,7 +307,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 21,
@@ -324,7 +324,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -341,7 +341,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -358,7 +358,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -375,7 +375,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 3,
@@ -392,7 +392,7 @@
   },
   {
     "36dd90c string": "TotakekeLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 4,
@@ -409,7 +409,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 5,
@@ -426,7 +426,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 6,
@@ -443,7 +443,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 6,
@@ -460,7 +460,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 3,
@@ -477,7 +477,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 5,
@@ -494,7 +494,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 3,
@@ -511,7 +511,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 5,
@@ -528,7 +528,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 6,
@@ -545,7 +545,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 3,
@@ -562,7 +562,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 5,
@@ -579,7 +579,7 @@
   },
   {
     "36dd90c string": "Countdown",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -596,7 +596,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "VisitorNpc",
+    "EventType*": "VisitorNpc",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -613,7 +613,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 12,
@@ -630,7 +630,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 13,
@@ -647,7 +647,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 13,
@@ -664,7 +664,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 14,
@@ -681,7 +681,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 15,
@@ -698,7 +698,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 17,
@@ -715,7 +715,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 18,
@@ -732,7 +732,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 19,
@@ -749,7 +749,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "VisitorNpc",
+    "EventType*": "VisitorNpc",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -766,7 +766,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "VisitorNpc",
+    "EventType*": "VisitorNpc",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -783,7 +783,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 20,
@@ -800,7 +800,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "Picnic",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -817,7 +817,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "Picnic",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -834,7 +834,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "Picnic",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -851,7 +851,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d f32": -31335.5078,
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 24,
@@ -868,7 +868,7 @@
   },
   {
     "36dd90c string": "FirstLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -885,7 +885,7 @@
   },
   {
     "36dd90c string": "FirstLive",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 4,
@@ -902,7 +902,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "BenchResting",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 25,
@@ -919,7 +919,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d f32": -0.00179619365,
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 25,
@@ -936,7 +936,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicSpring",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -953,7 +953,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicSpring",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -970,7 +970,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicSpring",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -987,7 +987,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicAutumn",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 26,
@@ -1004,7 +1004,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicWinter",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -1021,7 +1021,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicWinter",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -1038,7 +1038,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "PicnicWinter",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 23,
@@ -1055,7 +1055,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "NpcGroupActivity",
+    "EventType*": "NpcGroupActivity",
     "24e5b19d string": "GroupCleaning",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 27,
@@ -1072,7 +1072,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "PermanentObj",
+    "EventType*": "PermanentObj",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 25,
@@ -1089,7 +1089,7 @@
   },
   {
     "36dd90c string": "Easter",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "NPC",
     "EventFtrUniqueID": 0,
@@ -1106,7 +1106,7 @@
   },
   {
     "36dd90c string": "EventNone",
-    "FieldProjection": "VisitorNpc",
+    "EventType*": "VisitorNpc",
     "24e5b19d string": "None",
     "PlacementKind*": "EventObj",
     "EventFtrUniqueID": 0,
@@ -1123,7 +1123,7 @@
   },
   {
     "36dd90c string": "Easter",
-    "FieldProjection": "CalendarEvent",
+    "EventType*": "CalendarEvent",
     "24e5b19d string": "None",
     "PlacementKind*": "Ftr",
     "EventFtrUniqueID": 30,
