@@ -61,7 +61,7 @@
     "UmbrellaID": -2,
     "UniqueID": 2,
     "7991b277 u16": 2,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "CapOrHelmet",
@@ -93,7 +93,7 @@
     "UmbrellaID": -2,
     "UniqueID": 3,
     "7991b277 u16": 3,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "Accessory",
@@ -125,7 +125,7 @@
     "UmbrellaID": -2,
     "UniqueID": 5,
     "7991b277 u16": 4,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "Bottoms",
@@ -157,7 +157,7 @@
     "UmbrellaID": -2,
     "UniqueID": 6,
     "7991b277 u16": 5,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "Shoes",
@@ -189,7 +189,7 @@
     "UmbrellaID": -2,
     "UniqueID": 7,
     "7991b277 u16": 6,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "MyDesignTopsByPlayer",
@@ -221,7 +221,7 @@
     "UmbrellaID": -2,
     "UniqueID": 8,
     "7991b277 u16": 7,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "MyDesignTopsByOtherPlayer",
@@ -253,7 +253,7 @@
     "UmbrellaID": -2,
     "UniqueID": 9,
     "7991b277 u16": 8,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "MyDesignTopsByOtherVillage",
@@ -285,7 +285,7 @@
     "UmbrellaID": -2,
     "UniqueID": 10,
     "7991b277 u16": 9,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "SprintTopsInSpring",
@@ -1437,7 +1437,7 @@
     "UmbrellaID": -2,
     "UniqueID": 50,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1469,7 +1469,7 @@
     "UmbrellaID": -2,
     "UniqueID": 51,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1501,7 +1501,7 @@
     "UmbrellaID": -2,
     "UniqueID": 52,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1533,7 +1533,7 @@
     "UmbrellaID": -2,
     "UniqueID": 53,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1565,7 +1565,7 @@
     "UmbrellaID": -2,
     "UniqueID": 54,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1597,7 +1597,7 @@
     "UmbrellaID": -2,
     "UniqueID": 55,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1629,7 +1629,7 @@
     "UmbrellaID": -2,
     "UniqueID": 56,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1661,7 +1661,7 @@
     "UmbrellaID": -2,
     "UniqueID": 57,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1693,7 +1693,7 @@
     "UmbrellaID": -2,
     "UniqueID": 58,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1725,7 +1725,7 @@
     "UmbrellaID": -2,
     "UniqueID": 59,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1757,7 +1757,7 @@
     "UmbrellaID": -2,
     "UniqueID": 60,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1789,7 +1789,7 @@
     "UmbrellaID": -2,
     "UniqueID": 61,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1821,7 +1821,7 @@
     "UmbrellaID": -2,
     "UniqueID": 62,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1853,7 +1853,7 @@
     "UmbrellaID": -2,
     "UniqueID": 63,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1885,7 +1885,7 @@
     "UmbrellaID": -2,
     "UniqueID": 64,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1917,7 +1917,7 @@
     "UmbrellaID": -2,
     "UniqueID": 65,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1949,7 +1949,7 @@
     "UmbrellaID": -2,
     "UniqueID": 66,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -1981,7 +1981,7 @@
     "UmbrellaID": -2,
     "UniqueID": 67,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2013,7 +2013,7 @@
     "UmbrellaID": -2,
     "UniqueID": 68,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2045,7 +2045,7 @@
     "UmbrellaID": -2,
     "UniqueID": 69,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2077,7 +2077,7 @@
     "UmbrellaID": -2,
     "UniqueID": 70,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2109,7 +2109,7 @@
     "UmbrellaID": -2,
     "UniqueID": 71,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2397,7 +2397,7 @@
     "UmbrellaID": -2,
     "UniqueID": 80,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2429,7 +2429,7 @@
     "UmbrellaID": -2,
     "UniqueID": 81,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2461,7 +2461,7 @@
     "UmbrellaID": -2,
     "UniqueID": 82,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2493,7 +2493,7 @@
     "UmbrellaID": -2,
     "UniqueID": 83,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2525,7 +2525,7 @@
     "UmbrellaID": -2,
     "UniqueID": 84,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2557,7 +2557,7 @@
     "UmbrellaID": -2,
     "UniqueID": 85,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2589,7 +2589,7 @@
     "UmbrellaID": -2,
     "UniqueID": 86,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2621,7 +2621,7 @@
     "UmbrellaID": -2,
     "UniqueID": 87,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2653,7 +2653,7 @@
     "UmbrellaID": 7176,
     "UniqueID": 88,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2685,7 +2685,7 @@
     "UmbrellaID": 12134,
     "UniqueID": 89,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2717,7 +2717,7 @@
     "UmbrellaID": 12133,
     "UniqueID": 90,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2749,7 +2749,7 @@
     "UmbrellaID": 12133,
     "UniqueID": 91,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2781,7 +2781,7 @@
     "UmbrellaID": 12135,
     "UniqueID": 92,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2813,7 +2813,7 @@
     "UmbrellaID": 7176,
     "UniqueID": 93,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2845,7 +2845,7 @@
     "UmbrellaID": -2,
     "UniqueID": 94,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2877,7 +2877,7 @@
     "UmbrellaID": -2,
     "UniqueID": 95,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2909,7 +2909,7 @@
     "UmbrellaID": -2,
     "UniqueID": 96,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2941,7 +2941,7 @@
     "UmbrellaID": -2,
     "UniqueID": 97,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -2973,7 +2973,7 @@
     "UmbrellaID": -2,
     "UniqueID": 98,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3005,7 +3005,7 @@
     "UmbrellaID": -2,
     "UniqueID": 99,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3037,7 +3037,7 @@
     "UmbrellaID": -2,
     "UniqueID": 100,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3069,7 +3069,7 @@
     "UmbrellaID": -2,
     "UniqueID": 101,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3101,7 +3101,7 @@
     "UmbrellaID": -2,
     "UniqueID": 102,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3133,7 +3133,7 @@
     "UmbrellaID": -2,
     "UniqueID": 103,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3165,7 +3165,7 @@
     "UmbrellaID": -2,
     "UniqueID": 104,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3197,7 +3197,7 @@
     "UmbrellaID": -2,
     "UniqueID": 105,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3229,7 +3229,7 @@
     "UmbrellaID": -2,
     "UniqueID": 106,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3261,7 +3261,7 @@
     "UmbrellaID": -2,
     "UniqueID": 107,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3293,7 +3293,7 @@
     "UmbrellaID": -2,
     "UniqueID": 108,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3325,7 +3325,7 @@
     "UmbrellaID": -2,
     "UniqueID": 109,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3357,7 +3357,7 @@
     "UmbrellaID": -2,
     "UniqueID": 110,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3389,7 +3389,7 @@
     "UmbrellaID": -2,
     "UniqueID": 111,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3421,7 +3421,7 @@
     "UmbrellaID": -2,
     "UniqueID": 112,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3453,7 +3453,7 @@
     "UmbrellaID": -2,
     "UniqueID": 113,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3485,7 +3485,7 @@
     "UmbrellaID": -2,
     "UniqueID": 114,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3517,7 +3517,7 @@
     "UmbrellaID": -2,
     "UniqueID": 115,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3549,7 +3549,7 @@
     "UmbrellaID": -2,
     "UniqueID": 116,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3581,7 +3581,7 @@
     "UmbrellaID": -2,
     "UniqueID": 117,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3613,7 +3613,7 @@
     "UmbrellaID": -2,
     "UniqueID": 118,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3741,7 +3741,7 @@
     "UmbrellaID": -2,
     "UniqueID": 123,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3773,7 +3773,7 @@
     "UmbrellaID": -2,
     "UniqueID": 124,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3805,7 +3805,7 @@
     "UmbrellaID": -2,
     "UniqueID": 125,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3837,7 +3837,7 @@
     "UmbrellaID": -2,
     "UniqueID": 126,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3869,7 +3869,7 @@
     "UmbrellaID": -2,
     "UniqueID": 127,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3901,7 +3901,7 @@
     "UmbrellaID": -2,
     "UniqueID": 128,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3933,7 +3933,7 @@
     "UmbrellaID": -2,
     "UniqueID": 129,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3965,7 +3965,7 @@
     "UmbrellaID": -2,
     "UniqueID": 130,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -3997,7 +3997,7 @@
     "UmbrellaID": -2,
     "UniqueID": 131,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4029,7 +4029,7 @@
     "UmbrellaID": -2,
     "UniqueID": 132,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4061,7 +4061,7 @@
     "UmbrellaID": -2,
     "UniqueID": 133,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4093,7 +4093,7 @@
     "UmbrellaID": -2,
     "UniqueID": 134,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4125,7 +4125,7 @@
     "UmbrellaID": -2,
     "UniqueID": 135,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4157,7 +4157,7 @@
     "UmbrellaID": -2,
     "UniqueID": 136,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4189,7 +4189,7 @@
     "UmbrellaID": -2,
     "UniqueID": 137,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4221,7 +4221,7 @@
     "UmbrellaID": -2,
     "UniqueID": 138,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4253,7 +4253,7 @@
     "UmbrellaID": -2,
     "UniqueID": 139,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4285,7 +4285,7 @@
     "UmbrellaID": -2,
     "UniqueID": 140,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4317,7 +4317,7 @@
     "UmbrellaID": -2,
     "UniqueID": 141,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4349,7 +4349,7 @@
     "UmbrellaID": -2,
     "UniqueID": 142,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4381,7 +4381,7 @@
     "UmbrellaID": -2,
     "UniqueID": 143,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4413,7 +4413,7 @@
     "UmbrellaID": -2,
     "UniqueID": 144,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4445,7 +4445,7 @@
     "UmbrellaID": -2,
     "UniqueID": 145,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4477,7 +4477,7 @@
     "UmbrellaID": -2,
     "UniqueID": 146,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4509,7 +4509,7 @@
     "UmbrellaID": -2,
     "UniqueID": 147,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4541,7 +4541,7 @@
     "UmbrellaID": -2,
     "UniqueID": 148,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4573,7 +4573,7 @@
     "UmbrellaID": -2,
     "UniqueID": 149,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4605,7 +4605,7 @@
     "UmbrellaID": -2,
     "UniqueID": 150,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4637,7 +4637,7 @@
     "UmbrellaID": -2,
     "UniqueID": 151,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4669,7 +4669,7 @@
     "UmbrellaID": -2,
     "UniqueID": 152,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4701,7 +4701,7 @@
     "UmbrellaID": -2,
     "UniqueID": 153,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4733,7 +4733,7 @@
     "UmbrellaID": -2,
     "UniqueID": 154,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4765,7 +4765,7 @@
     "UmbrellaID": -2,
     "UniqueID": 155,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4797,7 +4797,7 @@
     "UmbrellaID": -2,
     "UniqueID": 156,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4829,7 +4829,7 @@
     "UmbrellaID": -2,
     "UniqueID": 157,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4861,7 +4861,7 @@
     "UmbrellaID": -2,
     "UniqueID": 158,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4893,7 +4893,7 @@
     "UmbrellaID": -2,
     "UniqueID": 159,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4925,7 +4925,7 @@
     "UmbrellaID": -2,
     "UniqueID": 160,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4957,7 +4957,7 @@
     "UmbrellaID": -2,
     "UniqueID": 161,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -4989,7 +4989,7 @@
     "UmbrellaID": -2,
     "UniqueID": 162,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5021,7 +5021,7 @@
     "UmbrellaID": -2,
     "UniqueID": 163,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5053,7 +5053,7 @@
     "UmbrellaID": -2,
     "UniqueID": 164,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5085,7 +5085,7 @@
     "UmbrellaID": -2,
     "UniqueID": 165,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5117,7 +5117,7 @@
     "UmbrellaID": -2,
     "UniqueID": 166,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5149,7 +5149,7 @@
     "UmbrellaID": -2,
     "UniqueID": 167,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5181,7 +5181,7 @@
     "UmbrellaID": -2,
     "UniqueID": 168,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5213,7 +5213,7 @@
     "UmbrellaID": -2,
     "UniqueID": 169,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5693,7 +5693,7 @@
     "UmbrellaID": -2,
     "UniqueID": 184,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5725,7 +5725,7 @@
     "UmbrellaID": -2,
     "UniqueID": 185,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5757,7 +5757,7 @@
     "UmbrellaID": -2,
     "UniqueID": 186,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5789,7 +5789,7 @@
     "UmbrellaID": -2,
     "UniqueID": 187,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5821,7 +5821,7 @@
     "UmbrellaID": -2,
     "UniqueID": 188,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5853,7 +5853,7 @@
     "UmbrellaID": -2,
     "UniqueID": 189,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5885,7 +5885,7 @@
     "UmbrellaID": -2,
     "UniqueID": 190,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5917,7 +5917,7 @@
     "UmbrellaID": -2,
     "UniqueID": 191,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5949,7 +5949,7 @@
     "UmbrellaID": -2,
     "UniqueID": 192,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -5981,7 +5981,7 @@
     "UmbrellaID": -2,
     "UniqueID": 193,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6013,7 +6013,7 @@
     "UmbrellaID": -2,
     "UniqueID": 194,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6045,7 +6045,7 @@
     "UmbrellaID": -2,
     "UniqueID": 195,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6077,7 +6077,7 @@
     "UmbrellaID": -2,
     "UniqueID": 196,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6109,7 +6109,7 @@
     "UmbrellaID": -2,
     "UniqueID": 197,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6141,7 +6141,7 @@
     "UmbrellaID": -2,
     "UniqueID": 198,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6173,7 +6173,7 @@
     "UmbrellaID": -2,
     "UniqueID": 199,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6205,7 +6205,7 @@
     "UmbrellaID": -2,
     "UniqueID": 200,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6237,7 +6237,7 @@
     "UmbrellaID": -2,
     "UniqueID": 201,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6269,7 +6269,7 @@
     "UmbrellaID": -2,
     "UniqueID": 460,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6301,7 +6301,7 @@
     "UmbrellaID": -2,
     "UniqueID": 461,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6333,7 +6333,7 @@
     "UmbrellaID": -2,
     "UniqueID": 462,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6365,7 +6365,7 @@
     "UmbrellaID": -2,
     "UniqueID": 463,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6397,7 +6397,7 @@
     "UmbrellaID": -2,
     "UniqueID": 464,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6429,7 +6429,7 @@
     "UmbrellaID": -2,
     "UniqueID": 465,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6461,7 +6461,7 @@
     "UmbrellaID": -2,
     "UniqueID": 466,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6493,7 +6493,7 @@
     "UmbrellaID": -2,
     "UniqueID": 467,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6525,7 +6525,7 @@
     "UmbrellaID": -2,
     "UniqueID": 468,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",
@@ -6557,7 +6557,7 @@
     "UmbrellaID": -2,
     "UniqueID": 469,
     "7991b277 u16": -1,
-    "92a60974 string": "FFFF"
+    "92a60974 u32": 65535
   },
   {
     "NpcMsgBullfestCondition*": "None",

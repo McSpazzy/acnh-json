@@ -6768,8 +6768,8 @@
     "SendPlayReport": 1
   },
   {
-    "DefaultValue": "FFFF",
-    "MaxValue": "FFFF",
+    "DefaultValue": 65535,
+    "MaxValue": 65535,
     "UniqueID": 709,
     "Folded_Season": 1,
     "bed25a86 u8": 1,
@@ -6780,8 +6780,8 @@
     "SendPlayReport": 1
   },
   {
-    "DefaultValue": "FFFF",
-    "MaxValue": "FFFF",
+    "DefaultValue": 65535,
+    "MaxValue": 65535,
     "UniqueID": 710,
     "Folded_Season": 1,
     "bed25a86 u8": 1,
@@ -6792,8 +6792,8 @@
     "SendPlayReport": 1
   },
   {
-    "DefaultValue": "FFFF",
-    "MaxValue": "FFFF",
+    "DefaultValue": 65535,
+    "MaxValue": 65535,
     "UniqueID": 711,
     "Folded_Season": 1,
     "bed25a86 u8": 1,
@@ -6804,8 +6804,8 @@
     "SendPlayReport": 1
   },
   {
-    "DefaultValue": "FFFF",
-    "MaxValue": "FFFF",
+    "DefaultValue": 65535,
+    "MaxValue": 65535,
     "UniqueID": 712,
     "Folded_Season": 1,
     "bed25a86 u8": 1,
@@ -6817,7 +6817,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": "FFFF",
+    "MaxValue": 65535,
     "UniqueID": 713,
     "Folded_Season": 1,
     "bed25a86 u8": 1,
@@ -7009,7 +7009,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": "FFFF",
+    "MaxValue": 65535,
     "UniqueID": 743,
     "Folded_Season": 0,
     "bed25a86 u8": 0,
@@ -7657,7 +7657,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": "FFFF",
+    "MaxValue": 65535,
     "UniqueID": 798,
     "Folded_Season": 0,
     "bed25a86 u8": 1,
@@ -7693,7 +7693,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": "FFFF",
+    "MaxValue": 65535,
     "UniqueID": 801,
     "Folded_Season": 0,
     "bed25a86 u8": 1,
@@ -10297,7 +10297,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": "FFFF",
+    "MaxValue": 65535,
     "UniqueID": 1070,
     "Folded_Season": 0,
     "bed25a86 u8": 0,
