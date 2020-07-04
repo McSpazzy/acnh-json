@@ -201,7 +201,7 @@
     "fa93f14b u8": 2,
     "4f7333fd u8": 0,
     "Key": "JohnnyTalkShareplay",
-    "Name": "ジョニー|ジョニーはパーツ探し中？"
+    "Name": "ジョニー|ジョニーはパーツ探し中？(海賊ジョニーは別フラグ)"
   },
   {
     "DefaultValue": 0,
@@ -213,7 +213,7 @@
     "fa93f14b u8": 2,
     "4f7333fd u8": 0,
     "Key": "JohnnyClearShareplay",
-    "Name": "ジョニー|おすそわけ中に誰かクリアした？"
+    "Name": "ジョニー|おすそわけ中に誰かクリアした？(海賊ジョニーは別フラグ)"
   },
   {
     "DefaultValue": 0,
@@ -670,5 +670,41 @@
     "4f7333fd u8": 1,
     "Key": "RemakeJuneBrideTalkTimeAfterNow",
     "Name": "ジューンブライド歓談直後か？(リメイク解禁後)"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 72,
+    "Folded_Season": 0,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "fa93f14b u8": 2,
+    "4f7333fd u8": 0,
+    "Key": "GulBTalkShareplay",
+    "Name": "海賊ジョニー|海賊ジョニーはパーツ探し中？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 73,
+    "Folded_Season": 0,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "fa93f14b u8": 2,
+    "4f7333fd u8": 0,
+    "Key": "GulBClearShareplay",
+    "Name": "海賊ジョニー|おすそわけ中に誰かクリアした？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 78,
+    "Folded_Season": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "fa93f14b u8": 2,
+    "4f7333fd u8": 5,
+    "Key": "NpcVisitPlayerHouse",
+    "Name": "NPCがプレイヤーの家に訪問中か"
   }
 ]

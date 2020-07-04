@@ -1003,7 +1003,7 @@
     "MaxValue": 1,
     "UniqueID": 96,
     "Key": "JohnnySitUpFlag",
-    "Name": "ジョニー|起きたかフラグ",
+    "Name": "ジョニー|起きたかフラグ(海賊ジョニーでも使用)",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -1135,7 +1135,7 @@
     "MaxValue": 1,
     "UniqueID": 116,
     "Key": "JohnnyTalkAnyPlayerFlag",
-    "Name": "ジョニー|村の誰か話しかけたか",
+    "Name": "ジョニー|村の誰か話しかけたか(海賊ジョニー不使用)",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -1723,7 +1723,7 @@
     "MaxValue": 9,
     "UniqueID": 169,
     "Key": "JohnnyRequirePartsNum",
-    "Name": "ジョニー|必要なパーツの個数",
+    "Name": "ジョニー|必要なパーツの個数(海賊ジョニー不使用)",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -2755,7 +2755,7 @@
     "MaxValue": 1,
     "UniqueID": 265,
     "Key": "Market2Built",
-    "Name": "まめつぶ商店が倉庫になった",
+    "Name": "まめつぶ商店が大になった",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3019,7 +3019,7 @@
     "MaxValue": 1,
     "UniqueID": 288,
     "Key": "JohnnyQuestFinishFlagIsland",
-    "Name": "ジョニー|その日に村で誰かがジョニーを助けたか？",
+    "Name": "ジョニー|その日に村で誰かがジョニーを助けたか？(海賊ジョニーでも使用)",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3182,12 +3182,36 @@
   {
     "fdb1f290 string": "None",
     "DefaultValue": 0,
+    "fca0adb0 string": "EnableReadWrite",
+    "93f49ec4 string": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 312,
+    "Key": "GrowUpAfterPatch1_3",
+    "Name": "1.3適用して成長処理をした",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290 string": "None",
+    "DefaultValue": 0,
     "fca0adb0 string": "DisableAccess",
     "93f49ec4 string": "ReadOnly",
     "MaxValue": 1,
     "UniqueID": 315,
     "Key": "EarthdaySloFirstVisit",
     "Name": "アースデーの初回レイジを予約した",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290 string": "None",
+    "DefaultValue": 0,
+    "fca0adb0 string": "EnableReadWrite",
+    "93f49ec4 string": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 316,
+    "Key": "OwlFoundDiveFish",
+    "Name": "フータ|誰かが海の幸を見せたことがある",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3543,7 +3567,7 @@
     "fdb1f290 string": "Pre",
     "DefaultValue": 0,
     "fca0adb0 string": "EnableReadWrite",
-    "93f49ec4 string": "ReadOnly",
+    "93f49ec4 string": "SpNpcOnly",
     "MaxValue": 1,
     "UniqueID": 352,
     "Key": "FoxPreVisitAlreadyBuyToday",
@@ -3560,6 +3584,42 @@
     "UniqueID": 353,
     "Key": "RcoHasResolvedMoveKitBug",
     "Name": "いせつキットバグを解消したか",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290 string": "None",
+    "DefaultValue": 0,
+    "fca0adb0 string": "DisableAccess",
+    "93f49ec4 string": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 357,
+    "Key": "GulBVisitEnable",
+    "Name": "海賊ジョニーが来訪する条件を満たしたか",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290 string": "None",
+    "DefaultValue": 0,
+    "fca0adb0 string": "EnableReadWrite",
+    "93f49ec4 string": "NoCheck",
+    "MaxValue": 1,
+    "UniqueID": 363,
+    "Key": "JohnnyInvisible",
+    "Name": "ジョニー非表示状態か",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290 string": "None",
+    "DefaultValue": 0,
+    "fca0adb0 string": "DisableAccess",
+    "93f49ec4 string": "ManualSend",
+    "MaxValue": 5000,
+    "UniqueID": 365,
+    "Key": "DiveFishNetHostCatchNumResult",
+    "Name": "通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   }

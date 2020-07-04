@@ -13,7 +13,6 @@
     "WindowUniqueID": 8,
     "ItemName": "よくあるかべ",
     "ResourceName": "RoomTexWallCommon00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -30,7 +29,6 @@
     "WindowUniqueID": 30,
     "ItemName": "コンクリートのかべ",
     "ResourceName": "RoomTexWallConcrete00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -47,7 +45,6 @@
     "WindowUniqueID": 6,
     "ItemName": "おうごんのかべ",
     "ResourceName": "RoomTexWallGold00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -64,7 +61,6 @@
     "WindowUniqueID": 28,
     "ItemName": "ミックスウッドのかべ",
     "ResourceName": "RoomTexWallMixwood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -81,7 +77,6 @@
     "WindowUniqueID": 8,
     "ItemName": "キャッチーなかべ",
     "ResourceName": "RoomTexWallMod00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -98,7 +93,6 @@
     "WindowUniqueID": 16,
     "ItemName": "しろいシンプルクロス",
     "ResourceName": "RoomTexWallSimple00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -115,7 +109,6 @@
     "WindowUniqueID": 6,
     "ItemName": "てっこつのかべ",
     "ResourceName": "RoomTexWallSteel00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -132,7 +125,6 @@
     "WindowUniqueID": 8,
     "ItemName": "ベージュのくさばなもようのかべ",
     "ResourceName": "RoomTexWallCountry00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -149,7 +141,6 @@
     "WindowUniqueID": 9,
     "ItemName": "しろいこばながらのかべがみ",
     "ResourceName": "RoomTexWallManor00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -166,7 +157,6 @@
     "WindowUniqueID": 9,
     "ItemName": "モノクロドットのかべがみ",
     "ResourceName": "RoomTexWallDot00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -183,7 +173,6 @@
     "WindowUniqueID": 8,
     "ItemName": "ピンクのはながらのかべがみ",
     "ResourceName": "RoomTexWallFlower00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -200,7 +189,6 @@
     "WindowUniqueID": 9,
     "ItemName": "ピンクのくさばなもようのかべ",
     "ResourceName": "RoomTexWallCountry01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -217,7 +205,6 @@
     "WindowUniqueID": 10,
     "ItemName": "あおいくさばなもようのかべ",
     "ResourceName": "RoomTexWallCountry02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -234,7 +221,6 @@
     "WindowUniqueID": 9,
     "ItemName": "あかいこばながらのかべがみ",
     "ResourceName": "RoomTexWallManor01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -251,7 +237,6 @@
     "WindowUniqueID": 9,
     "ItemName": "グリーンのこばながらのかべがみ",
     "ResourceName": "RoomTexWallManor02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -268,7 +253,6 @@
     "WindowUniqueID": 9,
     "ItemName": "パステルドットのかべがみ",
     "ResourceName": "RoomTexWallDot01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -285,7 +269,6 @@
     "WindowUniqueID": 39,
     "ItemName": "レッドドットのかべがみ",
     "ResourceName": "RoomTexWallDot02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -302,7 +285,6 @@
     "WindowUniqueID": 8,
     "ItemName": "パープルドットのかべがみ",
     "ResourceName": "RoomTexWallDot04",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -319,7 +301,6 @@
     "WindowUniqueID": 16,
     "ItemName": "みどりのくさばなもようのかべ",
     "ResourceName": "RoomTexWallCountry03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -336,7 +317,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こうようのかべ",
     "ResourceName": "RoomSpWallAutumun00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -353,7 +333,6 @@
     "WindowUniqueID": 22,
     "ItemName": "バラのかべがみ",
     "ResourceName": "RoomTexWallRose00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -370,7 +349,6 @@
     "WindowUniqueID": 23,
     "ItemName": "むらさきのバラのかべがみ",
     "ResourceName": "RoomTexWallRose01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -387,7 +365,6 @@
     "WindowUniqueID": 20,
     "ItemName": "ハニカムタイルのかべ",
     "ResourceName": "RoomTexWallHoneycomb00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -404,7 +381,6 @@
     "WindowUniqueID": 34,
     "ItemName": "モノクロタイルのかべ",
     "ResourceName": "RoomTexWallTile00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -421,7 +397,6 @@
     "WindowUniqueID": 8,
     "ItemName": "ふしありウッドウォール",
     "ResourceName": "RoomTexWallCedar00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -438,7 +413,6 @@
     "WindowUniqueID": 20,
     "ItemName": "あおいハニカムタイルのかべ",
     "ResourceName": "RoomTexWallHoneycomb01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -455,7 +429,6 @@
     "WindowUniqueID": 19,
     "ItemName": "みどりのハニカムタイルのかべ",
     "ResourceName": "RoomTexWallHoneycomb02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -472,7 +445,6 @@
     "WindowUniqueID": 21,
     "ItemName": "しろいハニカムタイルのかべ",
     "ResourceName": "RoomTexWallHoneycomb03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -489,7 +461,6 @@
     "WindowUniqueID": 10,
     "ItemName": "オレンジのかべがみ",
     "ResourceName": "RoomTexWallOrange00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -506,7 +477,6 @@
     "WindowUniqueID": 10,
     "ItemName": "リンゴのかべがみ",
     "ResourceName": "RoomTexWallApple00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -523,7 +493,6 @@
     "WindowUniqueID": 10,
     "ItemName": "ナシのかべがみ",
     "ResourceName": "RoomTexWallPear00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -540,7 +509,6 @@
     "WindowUniqueID": 10,
     "ItemName": "モモのかべがみ",
     "ResourceName": "RoomTexWallPeach00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -557,7 +525,6 @@
     "WindowUniqueID": 10,
     "ItemName": "さくらんぼのかべがみ",
     "ResourceName": "RoomTexWallCherry00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -574,7 +541,6 @@
     "WindowUniqueID": 6,
     "ItemName": "しろいパンチングボードのかべ",
     "ResourceName": "RoomTexWallPegboard00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -591,7 +557,6 @@
     "WindowUniqueID": 6,
     "ItemName": "パンチングボードのかべ",
     "ResourceName": "RoomTexWallPegboard01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -608,7 +573,6 @@
     "WindowUniqueID": 6,
     "ItemName": "くろいパンチングボードのかべ",
     "ResourceName": "RoomTexWallPegboard02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -625,7 +589,6 @@
     "WindowUniqueID": 30,
     "ItemName": "グレーのトタンかべ",
     "ResourceName": "RoomTexWallTin00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -642,7 +605,6 @@
     "WindowUniqueID": 30,
     "ItemName": "ピンクのトタンかべ",
     "ResourceName": "RoomTexWallTin01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -659,7 +621,6 @@
     "WindowUniqueID": 30,
     "ItemName": "ブルーのトタンかべ",
     "ResourceName": "RoomTexWallTin02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -676,7 +637,6 @@
     "WindowUniqueID": 30,
     "ItemName": "ちゃいろのトタンかべ",
     "ResourceName": "RoomTexWallTin03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -693,7 +653,6 @@
     "WindowUniqueID": 39,
     "ItemName": "しろレンガのかべ",
     "ResourceName": "RoomTexWallBrick00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -710,7 +669,6 @@
     "WindowUniqueID": 9,
     "ItemName": "あかレンガのかべ",
     "ResourceName": "RoomTexWallBrick01",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -727,7 +685,6 @@
     "WindowUniqueID": 9,
     "ItemName": "くろレンガのかべ",
     "ResourceName": "RoomTexWallBrick02",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -744,7 +701,6 @@
     "WindowUniqueID": 34,
     "ItemName": "みずいろタイルのかべ",
     "ResourceName": "RoomTexWallTile01",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -761,7 +717,6 @@
     "WindowUniqueID": 34,
     "ItemName": "カラフルタイルのかべ",
     "ResourceName": "RoomTexWallTile02",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -778,7 +733,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ビターチョコなかべ",
     "ResourceName": "RoomTexWallChocolate00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -795,7 +749,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ホワイトチョコなかべ",
     "ResourceName": "RoomTexWallChocolate01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -812,7 +765,6 @@
     "WindowUniqueID": 6,
     "ItemName": "いちごチョコなかべ",
     "ResourceName": "RoomTexWallChocolate02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -829,7 +781,6 @@
     "WindowUniqueID": 39,
     "ItemName": "グリーンのはながらかべがみ",
     "ResourceName": "RoomTexWallFlower01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -846,7 +797,6 @@
     "WindowUniqueID": 6,
     "ItemName": "エジプトなかべ",
     "ResourceName": "RoomTexWallEgypt00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -863,7 +813,6 @@
     "WindowUniqueID": 21,
     "ItemName": "あおいメトロタイルのかべ",
     "ResourceName": "RoomTexWallMetro00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -880,7 +829,6 @@
     "WindowUniqueID": 21,
     "ItemName": "しろいメトロタイルのかべ",
     "ResourceName": "RoomTexWallMetro01",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -897,7 +845,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ピンクストライプのかべがみ",
     "ResourceName": "RoomTexWallStripe01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -914,7 +861,6 @@
     "WindowUniqueID": 39,
     "ItemName": "モノクロストライプのかべがみ",
     "ResourceName": "RoomTexWallStripe02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -931,7 +877,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ブルーストライプのかべがみ",
     "ResourceName": "RoomTexWallStripe03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -948,7 +893,6 @@
     "WindowUniqueID": 39,
     "ItemName": "イエローストライプのかべがみ",
     "ResourceName": "RoomTexWallStripe04",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -965,7 +909,6 @@
     "WindowUniqueID": 10,
     "ItemName": "さくらのウッドウォール",
     "ResourceName": "RoomTexWallSolidWood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -982,7 +925,6 @@
     "WindowUniqueID": 39,
     "ItemName": "あおいペイントウッドのかべ",
     "ResourceName": "RoomTexWallPaintWood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -999,7 +941,6 @@
     "WindowUniqueID": 39,
     "ItemName": "みどりのペイントウッドのかべ",
     "ResourceName": "RoomTexWallPaintWood01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1016,7 +957,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ピンクのペイントウッドのかべ",
     "ResourceName": "RoomTexWallPaintWood02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1033,7 +973,6 @@
     "WindowUniqueID": 39,
     "ItemName": "しろいペイントウッドのかべ",
     "ResourceName": "RoomTexWallPaintWood03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1050,7 +989,6 @@
     "WindowUniqueID": 28,
     "ItemName": "ちゃいろいヘリンボーンのかべ",
     "ResourceName": "RoomTexWallHerringbone00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1067,7 +1005,6 @@
     "WindowUniqueID": 29,
     "ItemName": "こげちゃのヘリンボーンのかべ",
     "ResourceName": "RoomTexWallHerringbone01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1084,7 +1021,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ちゃいろいホールのかべ",
     "ResourceName": "RoomTexWallHall00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1101,7 +1037,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こげちゃのホールのかべ",
     "ResourceName": "RoomTexWallHall01",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1118,7 +1053,6 @@
     "WindowUniqueID": 8,
     "ItemName": "きいろいペイントウォール",
     "ResourceName": "RoomTexWallStucco00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1135,7 +1069,6 @@
     "WindowUniqueID": 8,
     "ItemName": "オレンジのペイントウォール",
     "ResourceName": "RoomTexWallStucco01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1152,7 +1085,6 @@
     "WindowUniqueID": 9,
     "ItemName": "あおいペイントウォール",
     "ResourceName": "RoomTexWallStucco03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1169,7 +1101,6 @@
     "WindowUniqueID": 9,
     "ItemName": "みどりのペイントウォール",
     "ResourceName": "RoomTexWallStucco04",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1186,7 +1117,6 @@
     "WindowUniqueID": 9,
     "ItemName": "ランダムストーンのかべ",
     "ResourceName": "RoomTexWallStone00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1203,7 +1133,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ブルークラウンのかべがみ",
     "ResourceName": "RoomTexWallCrown00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1220,7 +1149,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ブラッククラウンのかべがみ",
     "ResourceName": "RoomTexWallCrown01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1237,7 +1165,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ピンククラウンのかべがみ",
     "ResourceName": "RoomTexWallCrown02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1254,7 +1181,6 @@
     "WindowUniqueID": 22,
     "ItemName": "ベージュのアールデコかべがみ",
     "ResourceName": "RoomTexWallArtDeco00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1271,7 +1197,6 @@
     "WindowUniqueID": 23,
     "ItemName": "レッドのアールデコかべがみ",
     "ResourceName": "RoomTexWallArtDeco01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1288,7 +1213,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ふすま",
     "ResourceName": "RoomTexWallFusuma00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1305,7 +1229,6 @@
     "WindowUniqueID": 6,
     "ItemName": "きんぱくのふすま",
     "ResourceName": "RoomTexWallFusumaGorgeous00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1322,7 +1245,6 @@
     "WindowUniqueID": 6,
     "ItemName": "きばんのかべ",
     "ResourceName": "RoomTexWallGeek00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1339,7 +1261,6 @@
     "WindowUniqueID": 6,
     "ItemName": "シャッターのかべ",
     "ResourceName": "RoomTexWallShutter00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1356,7 +1277,6 @@
     "WindowUniqueID": 31,
     "ItemName": "しろいボタニカルタイルのかべ",
     "ResourceName": "RoomTexWallWoodTile00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1373,7 +1293,6 @@
     "WindowUniqueID": 29,
     "ItemName": "ブラウンボタニカルタイルのかべ",
     "ResourceName": "RoomTexWallWoodTile01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1390,7 +1309,6 @@
     "WindowUniqueID": 39,
     "ItemName": "クラシックなかべがみ",
     "ResourceName": "RoomTexWallClassic00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1407,7 +1325,6 @@
     "WindowUniqueID": 6,
     "ItemName": "オリエンタルなラティス",
     "ResourceName": "RoomTexWallLattice00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1424,7 +1341,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ウェーブタイルのかべ",
     "ResourceName": "RoomTexWallWaveTile00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1441,7 +1357,6 @@
     "WindowUniqueID": 6,
     "ItemName": "バンブーなかべ",
     "ResourceName": "RoomTexWallBamboo00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1458,7 +1373,6 @@
     "WindowUniqueID": 21,
     "ItemName": "ベージュのモロッカンタイルかべ",
     "ResourceName": "RoomTexWallMorocco00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1475,7 +1389,6 @@
     "WindowUniqueID": 21,
     "ItemName": "ブルーのモロッカンタイルかべ",
     "ResourceName": "RoomTexWallMorocco01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1492,7 +1405,6 @@
     "WindowUniqueID": 6,
     "ItemName": "すだれのかべ",
     "ResourceName": "RoomTexWallRattan00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1509,7 +1421,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ライブラリーなかべ",
     "ResourceName": "RoomTexWallLibrary00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1526,7 +1437,6 @@
     "WindowUniqueID": 6,
     "ItemName": "マンガライブラリーなかべ",
     "ResourceName": "RoomTexWallLibrary01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1543,7 +1453,6 @@
     "WindowUniqueID": 6,
     "ItemName": "かしきんこのかべ",
     "ResourceName": "RoomTexWallSafeBox00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1560,7 +1469,6 @@
     "WindowUniqueID": 8,
     "ItemName": "ログハウスのかべ",
     "ResourceName": "RoomTexWallLog00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1577,7 +1485,6 @@
     "WindowUniqueID": 37,
     "ItemName": "ちりめんもようのかべがみ",
     "ResourceName": "RoomTexWallCrepe00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1594,7 +1501,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こうじげんばのかべ",
     "ResourceName": "RoomTexWallBlueSheet00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1611,7 +1517,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ウッディなかべ",
     "ResourceName": "RoomTexWallFireWood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1628,7 +1533,6 @@
     "WindowUniqueID": 6,
     "ItemName": "はんちくのかべ",
     "ResourceName": "RoomTexWallHanchiku00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1645,7 +1549,6 @@
     "WindowUniqueID": 28,
     "ItemName": "サイケなかべがみ",
     "ResourceName": "RoomTexWallPsyche00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1662,7 +1565,6 @@
     "WindowUniqueID": 39,
     "ItemName": "レトロなはながらのかべがみ",
     "ResourceName": "RoomTexWallKitsch00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1679,7 +1581,6 @@
     "WindowUniqueID": 10,
     "ItemName": "あおいテキスタイルのかべ",
     "ResourceName": "RoomTexWallFlowerPop00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1696,7 +1597,6 @@
     "WindowUniqueID": 10,
     "ItemName": "きいろいテキスタイルのかべ",
     "ResourceName": "RoomTexWallFlowerPop01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1713,7 +1613,6 @@
     "WindowUniqueID": 6,
     "ItemName": "つたのかべ",
     "ResourceName": "RoomTexWallIvy00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1730,7 +1629,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ボルダリングのかべ",
     "ResourceName": "RoomTexWallBouldering00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1747,7 +1645,6 @@
     "WindowUniqueID": 6,
     "ItemName": "まてんろうのかべ",
     "ResourceName": "RoomTexWallSkyscraper00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1764,7 +1661,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ちくりんのかべ",
     "ResourceName": "RoomTexWallChikurin00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1781,7 +1677,6 @@
     "WindowUniqueID": 32,
     "ItemName": "アトリエのかべ",
     "ResourceName": "RoomTexWallAtelier00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1798,7 +1693,6 @@
     "WindowUniqueID": 10,
     "ItemName": "スノーフレークのかべがみ",
     "ResourceName": "RoomTexWallSnowCrystal00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1815,7 +1709,6 @@
     "WindowUniqueID": 36,
     "ItemName": "ボロいつちかべ",
     "ResourceName": "RoomTexWallOldSoil00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1832,7 +1725,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ボロいかべがみ",
     "ResourceName": "RoomTexWallOld00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1849,7 +1741,6 @@
     "WindowUniqueID": 29,
     "ItemName": "ワイルドウッドのかべ",
     "ResourceName": "RoomTexWallWildWood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1866,7 +1757,6 @@
     "WindowUniqueID": 28,
     "ItemName": "よせぎのかべ",
     "ResourceName": "RoomTexWallMixPlankWood00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1883,7 +1773,6 @@
     "WindowUniqueID": 29,
     "ItemName": "ダークなよせぎのかべ",
     "ResourceName": "RoomTexWallMixPlankWood01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1900,7 +1789,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ルネッサンスなかべ",
     "ResourceName": "RoomTexWallRenaissance00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -1917,7 +1805,6 @@
     "WindowUniqueID": 10,
     "ItemName": "アートモザイクタイルのかべ",
     "ResourceName": "RoomTexWallMosaicTile00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1934,7 +1821,6 @@
     "WindowUniqueID": 6,
     "ItemName": "しょうじ",
     "ResourceName": "RoomSpWallShoji00",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -1951,7 +1837,6 @@
     "WindowUniqueID": 6,
     "ItemName": "モダンなしょうじ",
     "ResourceName": "RoomSpWallShojiModem00",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -1968,7 +1853,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ビーハイブなかべ",
     "ResourceName": "RoomTexWallHoney00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -1985,7 +1869,6 @@
     "WindowUniqueID": 6,
     "ItemName": "チャイナなかべ",
     "ResourceName": "RoomTexWallChina00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2002,7 +1885,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ベージュのシンプルクロス",
     "ResourceName": "RoomTexWallSimple01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2019,7 +1901,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ピンクのシンプルクロス",
     "ResourceName": "RoomTexWallSimple02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2036,7 +1917,6 @@
     "WindowUniqueID": 39,
     "ItemName": "あおいシンプルクロス",
     "ResourceName": "RoomTexWallSimple03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2053,7 +1933,6 @@
     "WindowUniqueID": 21,
     "ItemName": "オレンジのパネルモールドかべ",
     "ResourceName": "RoomTexWallPanelMold00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2070,7 +1949,6 @@
     "WindowUniqueID": 21,
     "ItemName": "あおいパネルモールドかべ",
     "ResourceName": "RoomTexWallPanelMold01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2087,7 +1965,6 @@
     "WindowUniqueID": 20,
     "ItemName": "グレーのパネルモールドかべ",
     "ResourceName": "RoomTexWallPanelMold02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2104,7 +1981,6 @@
     "WindowUniqueID": 10,
     "ItemName": "アブストラクトなかべ",
     "ResourceName": "RoomTexWallAbstract00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2121,7 +1997,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ブルーハートのかべがみ",
     "ResourceName": "RoomTexWallHeart00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2138,7 +2013,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ピンクハートのかべがみ",
     "ResourceName": "RoomTexWallHeart01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2155,7 +2029,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ファクトリーなかべ",
     "ResourceName": "RoomTexWallFactory00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2172,7 +2045,6 @@
     "WindowUniqueID": 8,
     "ItemName": "たまのれんのかべ",
     "ResourceName": "RoomTexWallBeadsCurtain00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2189,7 +2061,6 @@
     "WindowUniqueID": 6,
     "ItemName": "どんちょうのかべ",
     "ResourceName": "RoomTexWallThickCurtain00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2206,7 +2077,6 @@
     "WindowUniqueID": 10,
     "ItemName": "おサカナのかべがみ",
     "ResourceName": "RoomTexWallFish00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2223,7 +2093,6 @@
     "WindowUniqueID": 39,
     "ItemName": "バタフライなかべがみ",
     "ResourceName": "RoomTexWallInsect00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2240,7 +2109,6 @@
     "WindowUniqueID": 34,
     "ItemName": "キッスのかべがみ",
     "ResourceName": "RoomTexWallKiss00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2257,7 +2125,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こくばんのかべ",
     "ResourceName": "RoomTexWallBlackBoard00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2274,7 +2141,6 @@
     "WindowUniqueID": 30,
     "ItemName": "めいさいのかべがみ",
     "ResourceName": "RoomTexWallCamouflage00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2291,7 +2157,6 @@
     "WindowUniqueID": 30,
     "ItemName": "ブルーめいさいのかべがみ",
     "ResourceName": "RoomTexWallCamouflage01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2308,7 +2173,6 @@
     "WindowUniqueID": 34,
     "ItemName": "パープルめいさいのかべがみ",
     "ResourceName": "RoomTexWallCamouflage02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2325,7 +2189,6 @@
     "WindowUniqueID": 34,
     "ItemName": "パステルパズルかべがみ",
     "ResourceName": "RoomTexWallPuzzle00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2342,7 +2205,6 @@
     "WindowUniqueID": 34,
     "ItemName": "カラフルパズルかべがみ",
     "ResourceName": "RoomTexWallPuzzle01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2359,7 +2221,6 @@
     "WindowUniqueID": 21,
     "ItemName": "あおいキッズルームのかべがみ",
     "ResourceName": "RoomTexWallToy00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2376,7 +2237,6 @@
     "WindowUniqueID": 21,
     "ItemName": "ピンクのキッズルームのかべがみ",
     "ResourceName": "RoomTexWallToy01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2393,7 +2253,6 @@
     "WindowUniqueID": 39,
     "ItemName": "キノコのかべがみ",
     "ResourceName": "RoomTexWallMush00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2410,7 +2269,6 @@
     "WindowUniqueID": 6,
     "ItemName": "しっくいのへい",
     "ResourceName": "RoomTexWallPlaster00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2427,7 +2285,6 @@
     "WindowUniqueID": 6,
     "ItemName": "いしのかべ",
     "ResourceName": "RoomTexWallBasement00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2444,7 +2301,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ストローなかべ",
     "ResourceName": "RoomTexWallStraw00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2461,7 +2317,6 @@
     "WindowUniqueID": 6,
     "ItemName": "オフィスのかべ",
     "ResourceName": "RoomTexWallOffice00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2478,7 +2333,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ストリートアートのかべ",
     "ResourceName": "RoomTexWallStreetArt00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2495,7 +2349,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ちそうのかべがみ",
     "ResourceName": "RoomTexWallStratum00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2512,7 +2365,6 @@
     "WindowUniqueID": 6,
     "ItemName": "じゅかいなかべ",
     "ResourceName": "RoomTexWallJukai00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2529,7 +2381,6 @@
     "WindowUniqueID": 6,
     "ItemName": "おうちょうのかべ",
     "ResourceName": "RoomTexWallDynasty00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2546,7 +2397,6 @@
     "WindowUniqueID": 9,
     "ItemName": "はいきょのかべ",
     "ResourceName": "RoomTexWallRuins00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2563,7 +2413,6 @@
     "WindowUniqueID": 9,
     "ItemName": "パーティーなかべがみ",
     "ResourceName": "RoomTexWallParty00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2580,7 +2429,6 @@
     "WindowUniqueID": 6,
     "ItemName": "けいこべやのかべ",
     "ResourceName": "RoomTexWallBaseboards00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2597,7 +2445,6 @@
     "WindowUniqueID": 6,
     "ItemName": "いせきのかべ",
     "ResourceName": "RoomTexWallRemains00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2614,7 +2461,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ゴミのやまなかべ",
     "ResourceName": "RoomTexWallGarbage00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2631,7 +2477,6 @@
     "WindowUniqueID": 6,
     "ItemName": "クリスマスなかべ",
     "ResourceName": "RoomSpWallXmas00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2648,7 +2493,6 @@
     "WindowUniqueID": 39,
     "ItemName": "イースターなかべがみ",
     "ResourceName": "RoomTexWallEaster00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2665,7 +2509,6 @@
     "WindowUniqueID": 6,
     "ItemName": "やけいのかべ",
     "ResourceName": "RoomSpWallNightView00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2682,7 +2525,6 @@
     "WindowUniqueID": 6,
     "ItemName": "がいろじゅのかべ",
     "ResourceName": "RoomTexWallRoadsideTree00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2699,7 +2541,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ジャングルのかべがみ",
     "ResourceName": "RoomTexWallJungle00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2716,7 +2557,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こけにわのかべ",
     "ResourceName": "RoomTexWallMoss00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2733,7 +2573,6 @@
     "WindowUniqueID": 6,
     "ItemName": "うらにわのかべ",
     "ResourceName": "RoomSpWallBackyard00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2750,7 +2589,6 @@
     "WindowUniqueID": 6,
     "ItemName": "きれいなガラスのかべ",
     "ResourceName": "RoomSpWallGlass00",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -2767,7 +2605,6 @@
     "WindowUniqueID": 6,
     "ItemName": "カフェカーテンのかべ",
     "ResourceName": "RoomSpWallCafe00",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -2784,7 +2621,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こうげんなかべ",
     "ResourceName": "RoomSpWallHighLands00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2801,7 +2637,6 @@
     "WindowUniqueID": 6,
     "ItemName": "あきちのかべ",
     "ResourceName": "RoomSpWallEmptyLot00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2818,7 +2653,6 @@
     "WindowUniqueID": 6,
     "ItemName": "すいへいせんのかべ",
     "ResourceName": "RoomSpWallHorizon00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2835,7 +2669,6 @@
     "WindowUniqueID": 6,
     "ItemName": "でんえんふうけいのかべ",
     "ResourceName": "RoomSpWallFarm00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2852,7 +2685,6 @@
     "WindowUniqueID": 6,
     "ItemName": "さばくなかべ",
     "ResourceName": "RoomSpWallDesert00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2869,7 +2701,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こうやのかべ",
     "ResourceName": "RoomSpWallWilderness00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2886,7 +2717,6 @@
     "WindowUniqueID": 6,
     "ItemName": "サーバールームのかべ",
     "ResourceName": "RoomSpWallServer00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2903,7 +2733,6 @@
     "WindowUniqueID": 6,
     "ItemName": "モニタールームのかべ",
     "ResourceName": "RoomSpWallMonitor00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2920,7 +2749,6 @@
     "WindowUniqueID": 6,
     "ItemName": "オーバーテクノロジーなかべ",
     "ResourceName": "RoomSpWallTechnology00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2937,7 +2765,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ラボのかべ",
     "ResourceName": "RoomSpWallLabo00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -2954,7 +2781,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ゲレンデなかべがみ",
     "ResourceName": "RoomSpWallGelande00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2971,7 +2797,6 @@
     "WindowUniqueID": 6,
     "ItemName": "あらしのよるのかべ",
     "ResourceName": "RoomSpWallThunder00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -2988,7 +2813,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ほしぞらのかべ",
     "ResourceName": "RoomSpWallStarSky00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3005,7 +2829,6 @@
     "WindowUniqueID": 6,
     "ItemName": "おおうなばらのかべ",
     "ResourceName": "RoomSpWallSeaView00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3022,7 +2845,6 @@
     "WindowUniqueID": 6,
     "ItemName": "きゅうでんのかべ",
     "ResourceName": "RoomSpWallPalace00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3039,7 +2861,6 @@
     "WindowUniqueID": 6,
     "ItemName": "スタジアムのかべ",
     "ResourceName": "RoomSpWallStadium00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3056,7 +2877,6 @@
     "WindowUniqueID": 6,
     "ItemName": "くものうえのかべ",
     "ResourceName": "RoomSpWallCloud00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3073,7 +2893,6 @@
     "WindowUniqueID": 6,
     "ItemName": "アイスなかべがみ",
     "ResourceName": "RoomSpWallIce00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3090,7 +2909,6 @@
     "WindowUniqueID": 6,
     "ItemName": "かざんどうくつのかべ",
     "ResourceName": "RoomSpWallVolcano00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3107,7 +2925,6 @@
     "WindowUniqueID": 6,
     "ItemName": "すいちゅうのかべがみ",
     "ResourceName": "RoomSpWallFishTank00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3124,7 +2941,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ちかろうのかべ",
     "ResourceName": "RoomSpWallJail00",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3141,7 +2957,6 @@
     "WindowUniqueID": 6,
     "ItemName": "うちゅうせんのかべ",
     "ResourceName": "RoomSpWallSF00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3158,7 +2973,6 @@
     "WindowUniqueID": 6,
     "ItemName": "プロレスのかべ",
     "ResourceName": "RoomSpWallWrestling00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3175,7 +2989,6 @@
     "WindowUniqueID": 6,
     "ItemName": "さんちょうのかべ",
     "ResourceName": "RoomSpWallMountainTop00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3192,7 +3005,6 @@
     "WindowUniqueID": 6,
     "ItemName": "マングローブのかべ",
     "ResourceName": "RoomTexWallMangrove00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3209,7 +3021,6 @@
     "WindowUniqueID": 33,
     "ItemName": "スカルなかべがみ",
     "ResourceName": "RoomSpWallSkull00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3226,7 +3037,6 @@
     "WindowUniqueID": 26,
     "ItemName": "スタンダードなちゃしつのかべ",
     "ResourceName": "RoomTexWallMud00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3243,7 +3053,6 @@
     "WindowUniqueID": 39,
     "ItemName": "スターなかべ",
     "ResourceName": "RoomSpWallStarPrint00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3260,7 +3069,6 @@
     "WindowUniqueID": 6,
     "ItemName": "シンプルパネルのかべ",
     "ResourceName": "RoomSpWallSimplePanel00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3277,7 +3085,6 @@
     "WindowUniqueID": 6,
     "ItemName": "みなみのうみなかべ",
     "ResourceName": "RoomSpWallTropical00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3294,7 +3101,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ひょうざんのかべ",
     "ResourceName": "RoomTexWallIceFloe00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3311,7 +3117,6 @@
     "WindowUniqueID": 9,
     "ItemName": "たぬきかいはつのかべがみ",
     "ResourceName": "RoomTexWallFirst00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3328,7 +3133,6 @@
     "WindowUniqueID": 8,
     "ItemName": "ちゃいろいレンガのかべ",
     "ResourceName": "RoomTexWallBrick03",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3345,7 +3149,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ブラウンクラウンのかべがみ",
     "ResourceName": "RoomTexWallCrown03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3362,7 +3165,6 @@
     "WindowUniqueID": 9,
     "ItemName": "あおいこばながらのかべがみ",
     "ResourceName": "RoomTexWallManor03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3379,7 +3181,6 @@
     "WindowUniqueID": 6,
     "ItemName": "あかいパンチングボードのかべ",
     "ResourceName": "RoomTexWallPegboard03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3396,7 +3197,6 @@
     "WindowUniqueID": 21,
     "ItemName": "みどりのパネルモールドかべ",
     "ResourceName": "RoomTexWallPanelMold03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3413,7 +3213,6 @@
     "WindowUniqueID": 30,
     "ItemName": "オレンジめいさいのかべがみ",
     "ResourceName": "RoomTexWallCamouflage03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3430,7 +3229,6 @@
     "WindowUniqueID": 21,
     "ItemName": "あかいツートンタイルのかべ",
     "ResourceName": "RoomTexWallTwoToneTile03",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3447,7 +3245,6 @@
     "WindowUniqueID": 21,
     "ItemName": "ももいろツートンタイルのかべ",
     "ResourceName": "RoomTexWallTwoToneTile04",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3464,7 +3261,6 @@
     "WindowUniqueID": 21,
     "ItemName": "あおいツートンタイルのかべ",
     "ResourceName": "RoomTexWallTwoToneTile05",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3481,7 +3277,6 @@
     "WindowUniqueID": 21,
     "ItemName": "モノクロツートンタイルのかべ",
     "ResourceName": "RoomTexWallTwoToneTile06",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3498,7 +3293,6 @@
     "WindowUniqueID": 6,
     "ItemName": "しろいホールのかべ",
     "ResourceName": "RoomTexWallHall02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3515,7 +3309,6 @@
     "WindowUniqueID": 6,
     "ItemName": "くろいホールのかべ",
     "ResourceName": "RoomTexWallHall03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3532,7 +3325,6 @@
     "WindowUniqueID": 21,
     "ItemName": "きみどりモロッカンタイルかべ",
     "ResourceName": "RoomTexWallMorocco03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3549,7 +3341,6 @@
     "WindowUniqueID": 21,
     "ItemName": "むらさきのモロッカンタイルかべ",
     "ResourceName": "RoomTexWallMorocco02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3566,7 +3357,6 @@
     "WindowUniqueID": 21,
     "ItemName": "きいろいキッズルームのかべがみ",
     "ResourceName": "RoomTexWallToy03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3583,7 +3373,6 @@
     "WindowUniqueID": 21,
     "ItemName": "みどりのキッズルームのかべがみ",
     "ResourceName": "RoomTexWallToy02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3600,7 +3389,6 @@
     "WindowUniqueID": 23,
     "ItemName": "しろいバラのかべがみ",
     "ResourceName": "RoomTexWallRose02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3617,7 +3405,6 @@
     "WindowUniqueID": 23,
     "ItemName": "あおいバラのかべがみ",
     "ResourceName": "RoomTexWallRose03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3634,7 +3421,6 @@
     "WindowUniqueID": 39,
     "ItemName": "レッドハートのかべがみ",
     "ResourceName": "RoomTexWallHeart03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3651,7 +3437,6 @@
     "WindowUniqueID": 39,
     "ItemName": "イエローハートのかべがみ",
     "ResourceName": "RoomTexWallHeart02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3668,7 +3453,6 @@
     "WindowUniqueID": 9,
     "ItemName": "きいろいはながらかべがみ",
     "ResourceName": "RoomTexWallFlower02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3685,7 +3469,6 @@
     "WindowUniqueID": 9,
     "ItemName": "ブルーのはながらかべがみ",
     "ResourceName": "RoomTexWallFlower03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3702,7 +3485,6 @@
     "WindowUniqueID": 34,
     "ItemName": "セピアパズルかべがみ",
     "ResourceName": "RoomTexWallPuzzle02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3719,7 +3501,6 @@
     "WindowUniqueID": 34,
     "ItemName": "パープルパズルかべがみ",
     "ResourceName": "RoomTexWallPuzzle03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3736,7 +3517,6 @@
     "WindowUniqueID": 28,
     "ItemName": "ボタニカルタイルのかべ",
     "ResourceName": "RoomTexWallWoodTile02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3753,7 +3533,6 @@
     "WindowUniqueID": 33,
     "ItemName": "くろいボタニカルタイルのかべ",
     "ResourceName": "RoomTexWallWoodTile03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3770,7 +3549,6 @@
     "WindowUniqueID": 10,
     "ItemName": "みどりのテキスタイルのかべ",
     "ResourceName": "RoomTexWallFlowerPop02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3787,7 +3565,6 @@
     "WindowUniqueID": 10,
     "ItemName": "あかいテキスタイルのかべ",
     "ResourceName": "RoomTexWallFlowerPop03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3804,7 +3581,6 @@
     "WindowUniqueID": 34,
     "ItemName": "あおいタイルのかべ",
     "ResourceName": "RoomTexWallTile03",
-    "Reverberation": 1,
     "TextureWindow": 0
   },
   {
@@ -3821,7 +3597,6 @@
     "WindowUniqueID": 6,
     "ItemName": "キノコのもりのかべ",
     "ResourceName": "RoomTexWallMushForest00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3838,7 +3613,6 @@
     "WindowUniqueID": 6,
     "ItemName": "さくらなみきのかべ",
     "ResourceName": "RoomSpWallSakura00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3855,7 +3629,6 @@
     "WindowUniqueID": 10,
     "ItemName": "しろいキュートなかべ",
     "ResourceName": "RoomTexWallCute00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3872,7 +3645,6 @@
     "WindowUniqueID": 10,
     "ItemName": "あかいキュートなかべ",
     "ResourceName": "RoomTexWallCute01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3889,7 +3661,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ブルーなキュートのかべ",
     "ResourceName": "RoomTexWallCute02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3906,7 +3677,6 @@
     "WindowUniqueID": 39,
     "ItemName": "きいろいキュートなかべ",
     "ResourceName": "RoomTexWallCute03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3923,7 +3693,6 @@
     "WindowUniqueID": 34,
     "ItemName": "あおいダイナーのかべ",
     "ResourceName": "RoomTexWallDiner00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3940,7 +3709,6 @@
     "WindowUniqueID": 34,
     "ItemName": "ももいろダイナーのかべ",
     "ResourceName": "RoomTexWallDiner01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3957,7 +3725,6 @@
     "WindowUniqueID": 34,
     "ItemName": "しろいダイナーのかべ",
     "ResourceName": "RoomTexWallDiner02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3974,7 +3741,6 @@
     "WindowUniqueID": 34,
     "ItemName": "ちゃいろいダイナーのかべ",
     "ResourceName": "RoomTexWallDiner03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -3991,7 +3757,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ピンクキルトのかべ",
     "ResourceName": "RoomTexWallDollhouse00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4008,7 +3773,6 @@
     "WindowUniqueID": 39,
     "ItemName": "パープルキルトのかべ",
     "ResourceName": "RoomTexWallDollhouse03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4025,7 +3789,6 @@
     "WindowUniqueID": 39,
     "ItemName": "イエローキルトのかべ",
     "ResourceName": "RoomTexWallDollhouse02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4042,7 +3805,6 @@
     "WindowUniqueID": 39,
     "ItemName": "ブルーキルトのかべ",
     "ResourceName": "RoomTexWallDollhouse01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4059,7 +3821,6 @@
     "WindowUniqueID": 6,
     "ItemName": "マイデザインのかべ",
     "ResourceName": "RoomTexWallMyDesign00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4076,7 +3837,6 @@
     "WindowUniqueID": 35,
     "ItemName": "シックなちゃしつのかべ",
     "ResourceName": "RoomTexWallMud03",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4093,7 +3853,6 @@
     "WindowUniqueID": 26,
     "ItemName": "おちついたちゃしつのかべ",
     "ResourceName": "RoomTexWallMud01",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4110,7 +3869,6 @@
     "WindowUniqueID": 35,
     "ItemName": "モダンなちゃしつのかべ",
     "ResourceName": "RoomTexWallMud02",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4127,7 +3885,6 @@
     "WindowUniqueID": 6,
     "ItemName": "オリエンタルなかべ",
     "ResourceName": "RoomTexWallOriental00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4144,7 +3901,6 @@
     "WindowUniqueID": 6,
     "ItemName": "こさめのふるかべ",
     "ResourceName": "RoomSpWallRain00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4161,7 +3917,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ウェディングパーティーのかべ",
     "ResourceName": "RoomTexWallJuneBride00",
-    "Reverberation": 0,
     "TextureWindow": 0
   },
   {
@@ -4178,7 +3933,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ウェディングなかべ・ホワイト",
     "ResourceName": "RoomSpWallChurch00",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -4195,7 +3949,6 @@
     "WindowUniqueID": 6,
     "ItemName": "ウェディングなかべ・ブラウン",
     "ResourceName": "RoomSpWallChurch01",
-    "Reverberation": 0,
     "TextureWindow": 1
   },
   {
@@ -4212,7 +3965,38 @@
     "WindowUniqueID": 6,
     "ItemName": "ウェディングなかべ・グリーン",
     "ResourceName": "RoomSpWallChurch02",
-    "Reverberation": 0,
+    "TextureWindow": 1
+  },
+  {
+    "AO*": "None",
+    "Act*": "Random",
+    "Light*": "White",
+    "Price": 888,
+    "ArchUniqueID": 0,
+    "CeilingUniqueID": 3,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 12566,
+    "UniqueID": 335,
+    "WindowUniqueID": 6,
+    "ItemName": "マーメイドなかべがみ",
+    "ResourceName": "RoomSpWallMermaid00",
+    "TextureWindow": 0
+  },
+  {
+    "AO*": "UseAO",
+    "Act*": "None",
+    "Light*": "Orange",
+    "Price": 888,
+    "ArchUniqueID": 6,
+    "CeilingUniqueID": 0,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 12567,
+    "UniqueID": 336,
+    "WindowUniqueID": 6,
+    "ItemName": "かいぞくのかべがみ",
+    "ResourceName": "RoomSpWallPirates00",
     "TextureWindow": 1
   }
 ]

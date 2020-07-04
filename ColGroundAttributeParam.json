@@ -1022,5 +1022,21 @@
     "PlayerNoEntry": 0,
     "Sand": 0,
     "WaterCheck": 0
+  },
+  {
+    "EffectAttribute": 3,
+    "SoundAttribute": 50,
+    "UniqueID": 68,
+    "ViewSortID": 8,
+    "CanBury": 0,
+    "DebugName": "海進入禁止",
+    "FtrPlace": 1,
+    "2e1e45c3 string16": "#FFFFFF",
+    "bd859433 string16": "#FFFFFF",
+    "254bd05 u8": 0,
+    "NpcNoEntry": 1,
+    "PlayerNoEntry": 1,
+    "Sand": 0,
+    "WaterCheck": 1
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "Category*": "Bouquet",
-    "FloorScale": 1.0,
-    "RotateOffsetX": 0,
-    "RotateOffsetY": 0,
-    "RotateOffsetZ": 0,
-    "TransOffsetX": 0,
-    "TransOffsetY": 0,
-    "TransOffsetZ": 0,
-    "WallScale": 1.0,
-    "BreakDamage": 0,
-    "UniqueID": 153,
-    "Label": "Bouquet",
-    "Name": "ブーケ",
-    "SpecialELink": 0,
-    "SpecialSLink": 0,
-    "Storage": 256
-  },
-  {
     "Category*": "AccessoryEye",
     "FloorScale": 0.75,
     "RotateOffsetX": -98.9,
@@ -29,11 +11,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 110,
+    "46489ce7 u8": 3,
     "Label": "AccessoryOneEye",
     "Name": "アクセサリ：片目",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 4
+    "Storage": "\u0004"
   },
   {
     "Category*": "AccessoryMouth",
@@ -47,11 +30,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 8,
+    "46489ce7 u8": 4,
     "Label": "AccessoryMouth",
     "Name": "アクセサリ：口",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 8
+    "Storage": "\b"
   },
   {
     "Category*": "AccessoryMouth",
@@ -65,11 +49,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 74,
+    "46489ce7 u8": 4,
     "Label": "AccessoryMouthInvisibleNose",
     "Name": "アクセサリ：口(鼻なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 8
+    "Storage": "\b"
   },
   {
     "Category*": "AccessoryMouth",
@@ -83,11 +68,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 109,
+    "46489ce7 u8": 4,
     "Label": "AccessoryMouthEarJaw",
     "Name": "アクセサリ：口耳アゴ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2056
+    "Storage": "\b\u0010"
   },
   {
     "Category*": "AccessoryEye",
@@ -101,11 +87,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 7,
+    "46489ce7 u8": 3,
     "Label": "AccessoryEye",
     "Name": "アクセサリ：目",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 4
+    "Storage": "\u0004"
   },
   {
     "Category*": "AccessoryEye",
@@ -119,11 +106,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 24,
+    "46489ce7 u8": 5,
     "Label": "AcceEyeMouth",
     "Name": "アクセサリ：目/口",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 4108
+    "Storage": "\f "
   },
   {
     "Category*": "AccessoryEye",
@@ -137,11 +125,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 143,
+    "46489ce7 u8": 5,
     "Label": "AccessoryEyeMouthInvisibleNose",
     "Name": "アクセサリ：目/口(鼻なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 4108
+    "Storage": "\f "
   },
   {
     "Category*": "Cap",
@@ -155,11 +144,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 47,
+    "46489ce7 u8": 6,
     "Label": "HeadFace",
     "Name": "頭：お面",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 14
+    "Storage": "\u000e"
   },
   {
     "Category*": "Cap",
@@ -173,11 +163,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 94,
+    "46489ce7 u8": 7,
     "Label": "Headgear_HasBang",
     "Name": "頭：被り物(前髪あり)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 6146
+    "Storage": "\u00020"
   },
   {
     "Category*": "Cap",
@@ -191,11 +182,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 44,
+    "46489ce7 u8": 7,
     "Label": "Headgear_HasEar",
     "Name": "頭：被り物(耳あり)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -209,11 +201,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 45,
+    "46489ce7 u8": 7,
     "Label": "Headgear_NoEar",
     "Name": "頭：被り物(耳なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2050
+    "Storage": "\u0002\u0010"
   },
   {
     "Category*": "Cap",
@@ -227,11 +220,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 46,
+    "46489ce7 u8": 7,
     "Label": "Headgear_NoEarNoJaw",
     "Name": "頭：被り物(耳なし/アゴなし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2058
+    "Storage": "\n\u0010"
   },
   {
     "Category*": "Cap",
@@ -245,11 +239,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 122,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Front",
     "Name": "頭：髪飾り(おでこ)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -263,11 +258,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 57,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Back",
     "Name": "頭：髪飾り(後頭部)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -281,11 +277,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 56,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Top",
     "Name": "頭：髪飾り(頭上)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -299,11 +296,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 139,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Peak",
     "Name": "頭：髪飾り(頂上)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -317,11 +315,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 55,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Left",
     "Name": "頭：髪飾り(左頭)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -335,11 +334,12 @@
     "WallScale": 0.85,
     "BreakDamage": 0,
     "UniqueID": 54,
+    "46489ce7 u8": 8,
     "Label": "HeadHairOrnament_Right",
     "Name": "頭：髪飾り(右頭)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Cap",
@@ -353,11 +353,12 @@
     "WallScale": 0.75,
     "BreakDamage": 0,
     "UniqueID": 48,
+    "46489ce7 u8": 7,
     "Label": "HeadFullFace",
     "Name": "頭：フルフェイス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 14
+    "Storage": "\u000e"
   },
   {
     "Category*": "Cap",
@@ -371,11 +372,12 @@
     "WallScale": 0.7,
     "BreakDamage": 0,
     "UniqueID": 43,
+    "46489ce7 u8": 9,
     "Label": "HeadCap",
     "Name": "頭：帽子",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 2
+    "Storage": "\u0002"
   },
   {
     "Category*": "Bag",
@@ -389,11 +391,12 @@
     "WallScale": 1.4,
     "BreakDamage": 0,
     "UniqueID": 53,
+    "46489ce7 u8": 10,
     "Label": "BagShoulder",
     "Name": "カバン：ショルダー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 512
+    "Storage": ""
   },
   {
     "Category*": "Bag",
@@ -407,11 +410,12 @@
     "WallScale": 1.4,
     "BreakDamage": 0,
     "UniqueID": 41,
+    "46489ce7 u8": 10,
     "Label": "BagBackpack",
     "Name": "カバン：バックパック",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 512
+    "Storage": ""
   },
   {
     "Category*": "Shoes",
@@ -425,11 +429,12 @@
     "WallScale": 1.5,
     "BreakDamage": 0,
     "UniqueID": 35,
+    "46489ce7 u8": 11,
     "Label": "ShoesHard",
     "Name": "靴：かたい",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 128
+    "Storage": ""
   },
   {
     "Category*": "Shoes",
@@ -443,11 +448,12 @@
     "WallScale": 1.5,
     "BreakDamage": 0,
     "UniqueID": 116,
+    "46489ce7 u8": 11,
     "Label": "ShoesSlippers",
     "Name": "靴：スリッパ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 128
+    "Storage": ""
   },
   {
     "Category*": "Shoes",
@@ -461,11 +467,12 @@
     "WallScale": 1.5,
     "BreakDamage": 0,
     "UniqueID": 70,
+    "46489ce7 u8": 11,
     "Label": "ShoesGeta",
     "Name": "靴：げた",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 128
+    "Storage": ""
   },
   {
     "Category*": "Shoes",
@@ -479,11 +486,12 @@
     "WallScale": 1.5,
     "BreakDamage": 0,
     "UniqueID": 115,
+    "46489ce7 u8": 11,
     "Label": "ShoesPumps",
     "Name": "靴：パンプス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 128
+    "Storage": ""
   },
   {
     "Category*": "Shoes",
@@ -497,11 +505,12 @@
     "WallScale": 1.5,
     "BreakDamage": 0,
     "UniqueID": 39,
+    "46489ce7 u8": 11,
     "Label": "ShoesSoft",
     "Name": "靴：やわらかい",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 128
+    "Storage": ""
   },
   {
     "Category*": "Socks",
@@ -515,11 +524,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 34,
+    "46489ce7 u8": 12,
     "Label": "Socks",
     "Name": "靴下",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 64
+    "Storage": "�"
   },
   {
     "Category*": "Tops",
@@ -533,11 +543,31 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 96,
+    "46489ce7 u8": 1,
     "Label": "Tops",
     "Name": "トップス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 16
+    "Storage": " "
+  },
+  {
+    "Category*": "Marinesuit",
+    "FloorScale": 1.0,
+    "RotateOffsetX": 0,
+    "RotateOffsetY": 0,
+    "RotateOffsetZ": 0,
+    "TransOffsetX": 0,
+    "TransOffsetY": 0,
+    "TransOffsetZ": 0,
+    "WallScale": 1.0,
+    "BreakDamage": 0,
+    "UniqueID": 40,
+    "46489ce7 u8": 1,
+    "Label": "Marinesuit",
+    "Name": "マリンスーツ",
+    "SpecialELink": 0,
+    "SpecialSLink": 0,
+    "Storage": "p"
   },
   {
     "Category*": "Tops",
@@ -551,11 +581,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 97,
+    "46489ce7 u8": 1,
     "Label": "Onepiece",
     "Name": "ワンピース",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 48
+    "Storage": "`"
   },
   {
     "Category*": "None",
@@ -569,11 +600,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 0,
+    "46489ce7 u8": 0,
     "Label": "None",
     "Name": "なし",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 0
+    "Storage": ""
   },
   {
     "Category*": "Bottoms",
@@ -587,11 +619,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 98,
+    "46489ce7 u8": 2,
     "Label": "Bottoms",
     "Name": "ボトムス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 32
+    "Storage": "@"
   },
   {
     "Category*": "Ocarina",
@@ -605,11 +638,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 103,
+    "46489ce7 u8": 0,
     "Label": "Ocarina",
     "Name": "オカリナ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Tambourine",
@@ -623,11 +657,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 105,
+    "46489ce7 u8": 0,
     "Label": "Tambourine",
     "Name": "タンバリン",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Panpipe",
@@ -641,11 +676,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 104,
+    "46489ce7 u8": 0,
     "Label": "Panpipe",
     "Name": "パンフルート",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "CliffMaker",
@@ -659,11 +695,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 49,
+    "46489ce7 u8": 0,
     "Label": "CliffMaker",
     "Name": "崖造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "RiverMaker",
@@ -677,11 +714,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 67,
+    "46489ce7 u8": 0,
     "Label": "RiverMaker",
     "Name": "川造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FenceMaker",
@@ -695,11 +733,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 63,
+    "46489ce7 u8": 0,
     "Label": "FenceMaker",
     "Name": "柵造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "GroundMaker",
@@ -713,11 +752,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 18,
+    "46489ce7 u8": 0,
     "Label": "GroundMaker",
     "Name": "道造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Net",
@@ -731,11 +771,12 @@
     "WallScale": 1.0,
     "BreakDamage": 10,
     "UniqueID": 31,
+    "46489ce7 u8": 0,
     "Label": "Net",
     "Name": "アミ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Net",
@@ -749,11 +790,12 @@
     "WallScale": 1.0,
     "BreakDamage": 30,
     "UniqueID": 75,
+    "46489ce7 u8": 0,
     "Label": "NetMiddleLevel",
     "Name": "アミ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Net",
@@ -767,11 +809,12 @@
     "WallScale": 1.0,
     "BreakDamage": 90,
     "UniqueID": 76,
+    "46489ce7 u8": 0,
     "Label": "NetUpperLevel",
     "Name": "アミ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -785,11 +828,12 @@
     "WallScale": 1.0,
     "BreakDamage": 3,
     "UniqueID": 150,
+    "46489ce7 u8": 0,
     "Label": "AxeFragile",
     "Name": "オノ：壊れかけ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -803,11 +847,12 @@
     "WallScale": 1.0,
     "BreakDamage": 40,
     "UniqueID": 2,
+    "46489ce7 u8": 0,
     "Label": "Axe",
     "Name": "オノ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -821,11 +866,12 @@
     "WallScale": 1.0,
     "BreakDamage": 100,
     "UniqueID": 77,
+    "46489ce7 u8": 0,
     "Label": "AxeMiddleLevel",
     "Name": "オノ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -839,11 +885,12 @@
     "WallScale": 1.0,
     "BreakDamage": 200,
     "UniqueID": 78,
+    "46489ce7 u8": 0,
     "Label": "AxeUpperLevel",
     "Name": "オノ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -857,11 +904,12 @@
     "WallScale": 1.0,
     "BreakDamage": 40,
     "UniqueID": 99,
+    "46489ce7 u8": 0,
     "Label": "AxeDull",
     "Name": "切れないオノ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Axe",
@@ -875,11 +923,12 @@
     "WallScale": 1.0,
     "BreakDamage": 100,
     "UniqueID": 117,
+    "46489ce7 u8": 0,
     "Label": "AxeDullMiddleLevel",
     "Name": "切れないオノ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Watering",
@@ -893,11 +942,12 @@
     "WallScale": 1.0,
     "BreakDamage": 20,
     "UniqueID": 19,
+    "46489ce7 u8": 0,
     "Label": "Watering",
     "Name": "ジョウロ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Watering",
@@ -911,11 +961,12 @@
     "WallScale": 1.0,
     "BreakDamage": 60,
     "UniqueID": 79,
+    "46489ce7 u8": 0,
     "Label": "WateringMiddleLevel",
     "Name": "ジョウロ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Watering",
@@ -929,11 +980,12 @@
     "WallScale": 1.0,
     "BreakDamage": 180,
     "UniqueID": 80,
+    "46489ce7 u8": 0,
     "Label": "WateringUpperLevel",
     "Name": "ジョウロ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Scoop",
@@ -947,11 +999,12 @@
     "WallScale": 1.0,
     "BreakDamage": 50,
     "UniqueID": 38,
+    "46489ce7 u8": 0,
     "Label": "ScoopHandMade",
     "Name": "スコップ：てづくり",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Scoop",
@@ -965,11 +1018,12 @@
     "WallScale": 1.0,
     "BreakDamage": 40,
     "UniqueID": 1,
+    "46489ce7 u8": 0,
     "Label": "Scoop",
     "Name": "スコップ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Scoop",
@@ -983,11 +1037,12 @@
     "WallScale": 1.0,
     "BreakDamage": 100,
     "UniqueID": 81,
+    "46489ce7 u8": 0,
     "Label": "ScoopMiddleLevel",
     "Name": "スコップ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Scoop",
@@ -1001,11 +1056,12 @@
     "WallScale": 1.0,
     "BreakDamage": 200,
     "UniqueID": 82,
+    "46489ce7 u8": 0,
     "Label": "ScoopUpperLevel",
     "Name": "スコップ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FishingRod",
@@ -1019,11 +1075,12 @@
     "WallScale": 1.0,
     "BreakDamage": 10,
     "UniqueID": 15,
+    "46489ce7 u8": 0,
     "Label": "FishingRod",
     "Name": "つりざお：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FishingRod",
@@ -1037,11 +1094,12 @@
     "WallScale": 1.0,
     "BreakDamage": 30,
     "UniqueID": 83,
+    "46489ce7 u8": 0,
     "Label": "FishingRodMiddleLevel",
     "Name": "つりざお：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FishingRod",
@@ -1055,11 +1113,12 @@
     "WallScale": 1.0,
     "BreakDamage": 90,
     "UniqueID": 84,
+    "46489ce7 u8": 0,
     "Label": "FishingRodUpperLevel",
     "Name": "つりざお：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FishingRod",
@@ -1073,11 +1132,12 @@
     "WallScale": 1.0,
     "BreakDamage": 60,
     "UniqueID": 140,
+    "46489ce7 u8": 0,
     "Label": "FishingRodAndFloat",
     "Name": "つりざお：一体型",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Slingshot",
@@ -1091,11 +1151,12 @@
     "WallScale": 1.0,
     "BreakDamage": 10,
     "UniqueID": 60,
+    "46489ce7 u8": 0,
     "Label": "Slingshot",
     "Name": "パチンコ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Slingshot",
@@ -1109,11 +1170,12 @@
     "WallScale": 1.0,
     "BreakDamage": 20,
     "UniqueID": 85,
+    "46489ce7 u8": 0,
     "Label": "SlingshotMiddleLevel",
     "Name": "パチンコ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Slingshot",
@@ -1127,11 +1189,12 @@
     "WallScale": 1.0,
     "BreakDamage": 60,
     "UniqueID": 86,
+    "46489ce7 u8": 0,
     "Label": "SlingshotUpperLevel",
     "Name": "パチンコ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "JumpStick",
@@ -1145,11 +1208,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 95,
+    "46489ce7 u8": 0,
     "Label": "JumpStick",
     "Name": "ジャンプ棒",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Ladder",
@@ -1163,11 +1227,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 51,
+    "46489ce7 u8": 0,
     "Label": "Ladder",
     "Name": "はしご",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "ChangeStick",
@@ -1181,11 +1246,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 52,
+    "46489ce7 u8": 0,
     "Label": "ChangeStick",
     "Name": "変身ステッキ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "PaperFan",
@@ -1196,14 +1262,15 @@
     "TransOffsetX": 0,
     "TransOffsetY": 0,
     "TransOffsetZ": 0,
-    "WallScale": 1.0,
+    "WallScale": 1.15,
     "BreakDamage": 0,
     "UniqueID": 102,
+    "46489ce7 u8": 13,
     "Label": "PaperFan",
     "Name": "うちわ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Umbrella",
@@ -1217,11 +1284,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 14,
+    "46489ce7 u8": 0,
     "Label": "Umbrella",
     "Name": "カサ",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Umbrella",
@@ -1235,11 +1303,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 121,
+    "46489ce7 u8": 0,
     "Label": "Umbrella_NoUseToolCommonAnim",
     "Name": "カサ（自前アニメ）",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Umbrella",
@@ -1253,11 +1322,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 148,
+    "46489ce7 u8": 0,
     "Label": "Umbrella_NoSound",
     "Name": "カサ_開閉音無し",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Umbrella",
@@ -1271,11 +1341,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 133,
+    "46489ce7 u8": 0,
     "Label": "Umbrella_Leaf",
     "Name": "カサ_葉っぱ",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Umbrella",
@@ -1289,11 +1360,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 132,
+    "46489ce7 u8": 0,
     "Label": "Umbrella_Flower",
     "Name": "カサ_花",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Windmill",
@@ -1307,11 +1379,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 111,
+    "46489ce7 u8": 0,
     "Label": "Windmill",
     "Name": "かざぐるま",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Cracker",
@@ -1325,11 +1398,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 59,
+    "46489ce7 u8": 0,
     "Label": "Cracker",
     "Name": "クラッカー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "SoapBubble",
@@ -1343,11 +1417,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 89,
+    "46489ce7 u8": 0,
     "Label": "SoapBubble",
     "Name": "シャボン玉",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "StickLight",
@@ -1361,11 +1436,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 114,
+    "46489ce7 u8": 0,
     "Label": "StickLight",
     "Name": "スティックライト",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Spanner",
@@ -1379,11 +1455,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 120,
+    "46489ce7 u8": 0,
     "Label": "Spanner",
     "Name": "スパナとかなづち",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "SmartPhone",
@@ -1397,11 +1474,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 93,
+    "46489ce7 u8": 0,
     "Label": "SmartPhone",
     "Name": "スマホ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 1024
+    "Storage": ""
   },
   {
     "Category*": "None",
@@ -1415,11 +1493,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 151,
+    "46489ce7 u8": 0,
     "Label": "Brush",
     "Name": "はけ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Firework",
@@ -1433,11 +1512,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 112,
+    "46489ce7 u8": 0,
     "Label": "Fireworks",
     "Name": "手持ち花火",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "PinataStick",
@@ -1451,11 +1531,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 62,
+    "46489ce7 u8": 0,
     "Label": "PinataStick",
     "Name": "ピニャータ割り棒",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Balloon",
@@ -1469,11 +1550,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 142,
+    "46489ce7 u8": 0,
     "Label": "Balloon",
     "Name": "ふうせん",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "BlowStick",
@@ -1487,11 +1569,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 113,
+    "46489ce7 u8": 0,
     "Label": "Blowouts",
     "Name": "ふきもどし",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Ice",
@@ -1505,11 +1588,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 92,
+    "46489ce7 u8": 0,
     "Label": "Ice",
     "Name": "アイス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Branch",
@@ -1523,11 +1607,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 138,
+    "46489ce7 u8": 0,
     "Label": "Branch",
     "Name": "えだ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Hammer",
@@ -1541,11 +1626,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 147,
+    "46489ce7 u8": 0,
     "Label": "Hammer",
     "Name": "かなづち",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Canister",
@@ -1559,11 +1645,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 135,
+    "46489ce7 u8": 0,
     "Label": "Canister",
     "Name": "缶",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Candy",
@@ -1577,11 +1664,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 134,
+    "46489ce7 u8": 0,
     "Label": "Candy",
     "Name": "キャンディ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Sprayer",
@@ -1595,11 +1683,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 144,
+    "46489ce7 u8": 0,
     "Label": "Sprayer",
     "Name": "きりふき",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "FruitBasket",
@@ -1613,11 +1702,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 124,
+    "46489ce7 u8": 0,
     "Label": "FruitBasket",
     "Name": "果物カゴ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Coffee",
@@ -1631,11 +1721,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 91,
+    "46489ce7 u8": 0,
     "Label": "Coffee",
     "Name": "コーヒー",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Cop",
@@ -1649,11 +1740,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 145,
+    "46489ce7 u8": 0,
     "Label": "Cop",
     "Name": "コップ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Sandwich",
@@ -1667,11 +1759,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 136,
+    "46489ce7 u8": 0,
     "Label": "Sandwich",
     "Name": "サンドウィッチ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Sketchbook",
@@ -1685,11 +1778,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 141,
+    "46489ce7 u8": 0,
     "Label": "Sketchbook",
     "Name": "スケッチブック",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Smoothie",
@@ -1703,11 +1797,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 146,
+    "46489ce7 u8": 0,
     "Label": "Smoothie",
     "Name": "スムージー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Dumbbell",
@@ -1721,11 +1816,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 108,
+    "46489ce7 u8": 0,
     "Label": "Dumbbell",
     "Name": "ダンベル",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "LightDumbbell",
@@ -1739,11 +1835,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 131,
+    "46489ce7 u8": 0,
     "Label": "LightDumbbell",
     "Name": "ダンベル(軽い)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "RcmTourFlag",
@@ -1757,11 +1854,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 118,
+    "46489ce7 u8": 0,
     "Label": "RcmTourFlag",
     "Name": "つぶまめツアー旗",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "BagHand",
@@ -1775,11 +1873,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 87,
+    "46489ce7 u8": 0,
     "Label": "BagHand",
     "Name": "手提げカバン",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "CuteBagHand",
@@ -1793,11 +1892,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 126,
+    "46489ce7 u8": 0,
     "Label": "CuteBagHand",
     "Name": "手提げかばん(キュート)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "CoolBagHand",
@@ -1811,11 +1911,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 127,
+    "46489ce7 u8": 0,
     "Label": "CoolBagHand",
     "Name": "手提げかばん(クール)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "HighBagHand",
@@ -1829,11 +1930,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 129,
+    "46489ce7 u8": 0,
     "Label": "HighBagHand",
     "Name": "手提げかばん(生活度高)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "LowBagHand",
@@ -1847,11 +1949,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 128,
+    "46489ce7 u8": 0,
     "Label": "LowBagHand",
     "Name": "手提げかばん(生活度低)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Doughnut",
@@ -1865,11 +1968,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 137,
+    "46489ce7 u8": 0,
     "Label": "Doughnut",
     "Name": "ドーナッツ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "TkkGuitar",
@@ -1883,11 +1987,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 71,
+    "46489ce7 u8": 0,
     "Label": "TkkGuitar",
     "Name": "とたけけギター",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Duster",
@@ -1901,11 +2006,31 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 125,
+    "46489ce7 u8": 0,
     "Label": "Duster",
     "Name": "はたき",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
+  },
+  {
+    "Category*": "Bouquet",
+    "FloorScale": 1.0,
+    "RotateOffsetX": 0,
+    "RotateOffsetY": 0,
+    "RotateOffsetZ": 0,
+    "TransOffsetX": 0,
+    "TransOffsetY": 0,
+    "TransOffsetZ": 0,
+    "WallScale": 1.0,
+    "BreakDamage": 0,
+    "UniqueID": 153,
+    "46489ce7 u8": 0,
+    "Label": "Bouquet",
+    "Name": "ブーケ",
+    "SpecialELink": 0,
+    "SpecialSLink": 0,
+    "Storage": ""
   },
   {
     "Category*": "Broom",
@@ -1919,11 +2044,31 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 88,
+    "46489ce7 u8": 0,
     "Label": "Broom",
     "Name": "ほうき",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
+  },
+  {
+    "Category*": "Scallop",
+    "FloorScale": 1.0,
+    "RotateOffsetX": 0,
+    "RotateOffsetY": 0,
+    "RotateOffsetZ": 0,
+    "TransOffsetX": 0,
+    "TransOffsetY": 0,
+    "TransOffsetZ": 0,
+    "WallScale": 1.0,
+    "BreakDamage": 0,
+    "UniqueID": 155,
+    "46489ce7 u8": 0,
+    "Label": "Scallop",
+    "Name": "ホタテ",
+    "SpecialELink": 0,
+    "SpecialSLink": 0,
+    "Storage": ""
   },
   {
     "Category*": "Book",
@@ -1937,11 +2082,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 66,
+    "46489ce7 u8": 0,
     "Label": "Book",
     "Name": "本",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "SmallBook",
@@ -1955,11 +2101,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 130,
+    "46489ce7 u8": 0,
     "Label": "SmallBook",
     "Name": "本(小)",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "Firewood",
@@ -1973,11 +2120,12 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 119,
+    "46489ce7 u8": 0,
     "Label": "Firewood",
     "Name": "薪",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   },
   {
     "Category*": "HandLens",
@@ -1991,10 +2139,11 @@
     "WallScale": 1.0,
     "BreakDamage": 0,
     "UniqueID": 123,
+    "46489ce7 u8": 0,
     "Label": "HandLens",
     "Name": "虫眼鏡",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": 256
+    "Storage": ""
   }
 ]

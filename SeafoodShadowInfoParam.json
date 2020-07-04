@@ -1,0 +1,27 @@
+[
+  {
+    "ModelScale": 0.4,
+    "UniqueID": 0,
+    "ModelResName": "DiveFishShadow"
+  },
+  {
+    "ModelScale": 0.6,
+    "UniqueID": 1,
+    "ModelResName": "DiveFishShadow"
+  },
+  {
+    "ModelScale": 0.8,
+    "UniqueID": 2,
+    "ModelResName": "DiveFishShadow"
+  },
+  {
+    "ModelScale": 0.9,
+    "UniqueID": 3,
+    "ModelResName": "DiveFishShadow"
+  },
+  {
+    "ModelScale": 1.0,
+    "UniqueID": 4,
+    "ModelResName": "DiveFishShadow"
+  }
+]

@@ -868,5 +868,35 @@
     "DesignSummer2": -1,
     "DesignWinter1": -1,
     "DesignWinter2": -1
+  },
+  {
+    "37571146 string": "MAIL_SNpc_gulB",
+    "DesignAlways1": -1,
+    "DesignAlways2": -1,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": -1,
+    "DesignAutumn2": -1,
+    "DesignSpring1": -1,
+    "DesignSpring2": -1,
+    "DesignSummer1": -1,
+    "DesignSummer2": -1,
+    "DesignWinter1": -1,
+    "DesignWinter2": -1
+  },
+  {
+    "37571146 string": "CE8D84BC",
+    "DesignAlways1": 396,
+    "DesignAlways2": -1,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": -1,
+    "DesignAutumn2": -1,
+    "DesignSpring1": -1,
+    "DesignSpring2": -1,
+    "DesignSummer1": -1,
+    "DesignSummer2": -1,
+    "DesignWinter1": -1,
+    "DesignWinter2": -1
   }
 ]

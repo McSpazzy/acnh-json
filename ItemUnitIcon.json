@@ -22,6 +22,36 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 303,
+    "ColorIndex": 255,
+    "Label": "MarineSuit",
+    "ModelName": "UnitIconMarineSuit",
+    "Name": "マリンスーツ",
+    "ResName": "UnitIconMarineSuit"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 305,
+    "ColorIndex": 255,
+    "Label": "Pearl",
+    "ModelName": "UnitIconPearl",
+    "Name": "しんじゅ",
+    "ResName": "UnitIconPearl"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 306,
+    "ColorIndex": 255,
+    "Label": "PirateQuest",
+    "ModelName": "UnitIconPirateQuest",
+    "Name": "むせんき",
+    "ResName": "UnitIconPirateQuest"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 0,
     "ColorIndex": 0,
     "Label": "Leaf",

@@ -478,5 +478,15 @@
     "fa93f14b u8": 2,
     "Key": "EasterRecipeTalk",
     "Name": "イースター用レシピ会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 58,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "NotAddTalkCount",
+    "Name": "会話回数を加算しない"
   }
 ]

@@ -392,7 +392,7 @@
   {
     "MaxValue": 128,
     "MessageLabel": 131,
-    "ccd4c25f u16": 50,
+    "ccd4c25f u16": 100,
     "e6317726 u16": 0,
     "UniqueID": 50,
     "fa93f14b u8": 0,
@@ -402,7 +402,7 @@
   {
     "MaxValue": 720,
     "MessageLabel": 132,
-    "ccd4c25f u16": 60,
+    "ccd4c25f u16": 90,
     "e6317726 u16": 0,
     "UniqueID": 51,
     "fa93f14b u8": 0,
@@ -598,5 +598,15 @@
     "fa93f14b u8": 0,
     "Key": "TakePictureCount",
     "Name": "撮影モードで撮影した回数"
+  },
+  {
+    "MaxValue": 128,
+    "MessageLabel": 153,
+    "ccd4c25f u16": 40,
+    "e6317726 u16": 15,
+    "UniqueID": 71,
+    "fa93f14b u8": 0,
+    "Key": "GetDiveFishCount",
+    "Name": "海の幸を採った回数"
   }
 ]

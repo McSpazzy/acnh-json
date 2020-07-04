@@ -48,6 +48,12 @@
     "ResName": "Onepiece"
   },
   {
+    "UniqueID": 260,
+    "Label": "WetSuit",
+    "Name": "装備品：マリンスーツ",
+    "ResName": "WetSuit"
+  },
+  {
     "UniqueID": 256,
     "Label": "Socks",
     "Name": "装備品：靴下",
@@ -1920,6 +1926,246 @@
     "ResName": "Tire"
   },
   {
+    "UniqueID": 123,
+    "Label": "Fish54",
+    "Name": "ロブスター",
+    "ResName": "Fish54"
+  },
+  {
+    "UniqueID": 309,
+    "Label": "Wakame",
+    "Name": "ワカメ",
+    "ResName": "Wakame"
+  },
+  {
+    "UniqueID": 310,
+    "Label": "Umibudou",
+    "Name": "ウミブドウ",
+    "ResName": "Umibudou"
+  },
+  {
+    "UniqueID": 311,
+    "Label": "Uni",
+    "Name": "ウニ",
+    "ResName": "Uni"
+  },
+  {
+    "UniqueID": 312,
+    "Label": "Fujitsubo",
+    "Name": "フジツボ",
+    "ResName": "Fujitsubo"
+  },
+  {
+    "UniqueID": 313,
+    "Label": "Kaki",
+    "Name": "カキ",
+    "ResName": "Kaki"
+  },
+  {
+    "UniqueID": 314,
+    "Label": "Sazae",
+    "Name": "サザエ",
+    "ResName": "Sazae"
+  },
+  {
+    "UniqueID": 315,
+    "Label": "Awabi",
+    "Name": "アワビ",
+    "ResName": "Awabi"
+  },
+  {
+    "UniqueID": 318,
+    "Label": "Akoyagai",
+    "Name": "アコヤガイ",
+    "ResName": "Akoyagai"
+  },
+  {
+    "UniqueID": 319,
+    "Label": "Hotate",
+    "Name": "ホタテ",
+    "ResName": "Hotate"
+  },
+  {
+    "UniqueID": 320,
+    "Label": "Isogintyaku",
+    "Name": "イソギンチャク",
+    "ResName": "Isogintyaku"
+  },
+  {
+    "UniqueID": 321,
+    "Label": "Hitode",
+    "Name": "ヒトデ",
+    "ResName": "Hitode"
+  },
+  {
+    "UniqueID": 322,
+    "Label": "Namako",
+    "Name": "ナマコ",
+    "ResName": "Namako"
+  },
+  {
+    "UniqueID": 323,
+    "Label": "Umiushi",
+    "Name": "ウミウシ",
+    "ResName": "Umiushi"
+  },
+  {
+    "UniqueID": 324,
+    "Label": "Hiramushi",
+    "Name": "ヒラムシ",
+    "ResName": "Hiramushi"
+  },
+  {
+    "UniqueID": 325,
+    "Label": "Shako",
+    "Name": "シャコ",
+    "ResName": "Shako"
+  },
+  {
+    "UniqueID": 326,
+    "Label": "Amaebi",
+    "Name": "アマエビ",
+    "ResName": "Amaebi"
+  },
+  {
+    "UniqueID": 327,
+    "Label": "Kurumaebi",
+    "Name": "クルマエビ",
+    "ResName": "Kurumaebi"
+  },
+  {
+    "UniqueID": 328,
+    "Label": "Iseebi",
+    "Name": "イセエビ",
+    "ResName": "Iseebi"
+  },
+  {
+    "UniqueID": 329,
+    "Label": "Zuwaigani",
+    "Name": "ズワイガニ",
+    "ResName": "Zuwaigani"
+  },
+  {
+    "UniqueID": 331,
+    "Label": "Tarabagani",
+    "Name": "タラバガニ",
+    "ResName": "Tarabagani"
+  },
+  {
+    "UniqueID": 332,
+    "Label": "Takaashigani",
+    "Name": "タカアシガニ",
+    "ResName": "Takaashigani"
+  },
+  {
+    "UniqueID": 333,
+    "Label": "Tako",
+    "Name": "タコ",
+    "ResName": "Tako"
+  },
+  {
+    "UniqueID": 334,
+    "Label": "Chinanago",
+    "Name": "チンアナゴ",
+    "ResName": "Chinanago"
+  },
+  {
+    "UniqueID": 335,
+    "Label": "Oumugai",
+    "Name": "オウムガイ",
+    "ResName": "Oumugai"
+  },
+  {
+    "UniqueID": 336,
+    "Label": "Kabutogani",
+    "Name": "カブトガニ",
+    "ResName": "Kabutogani"
+  },
+  {
+    "UniqueID": 337,
+    "Label": "Daiougusokumushi",
+    "Name": "ダイオウグソクムシ",
+    "ResName": "Daiougusokumushi"
+  },
+  {
+    "UniqueID": 670,
+    "Label": "Hotaruika",
+    "Name": "ホタルイカ",
+    "ResName": "Hotaruika"
+  },
+  {
+    "UniqueID": 671,
+    "Label": "Gazami",
+    "Name": "ガザミ",
+    "ResName": "Gazami"
+  },
+  {
+    "UniqueID": 672,
+    "Label": "Koumoridako",
+    "Name": "コウモリダコ",
+    "ResName": "Koumoridako"
+  },
+  {
+    "UniqueID": 673,
+    "Label": "Shakogai",
+    "Name": "オオシャコガイ",
+    "ResName": "Shakogai"
+  },
+  {
+    "UniqueID": 674,
+    "Label": "Hoya",
+    "Name": "ホヤ",
+    "ResName": "Hoya"
+  },
+  {
+    "UniqueID": 675,
+    "Label": "Mizukurage",
+    "Name": "ミズクラゲ",
+    "ResName": "Mizukurage"
+  },
+  {
+    "UniqueID": 676,
+    "Label": "Mendako",
+    "Name": "メンダコ",
+    "ResName": "Mendako"
+  },
+  {
+    "UniqueID": 677,
+    "Label": "Paipuuni",
+    "Name": "パイプウニ",
+    "ResName": "Paipuuni"
+  },
+  {
+    "UniqueID": 678,
+    "Label": "Baigai",
+    "Name": "バイガイ",
+    "ResName": "Baigai"
+  },
+  {
+    "UniqueID": 679,
+    "Label": "Senjunamako",
+    "Name": "センジュナマコ",
+    "ResName": "Senjunamako"
+  },
+  {
+    "UniqueID": 680,
+    "Label": "DungenessCrab",
+    "Name": "ダンジネスクラブ",
+    "ResName": "DungenessCrab"
+  },
+  {
+    "UniqueID": 681,
+    "Label": "Kairoudouketsu",
+    "Name": "カイロウドウケツ",
+    "ResName": "Kairoudouketsu"
+  },
+  {
+    "UniqueID": 682,
+    "Label": "Muhrugai",
+    "Name": "ムールガイ",
+    "ResName": "Muhrugai"
+  },
+  {
     "UniqueID": 179,
     "Label": "Apple",
     "Name": "リンゴ",
@@ -2914,5 +3160,17 @@
     "Label": "Love",
     "Name": "あいのけっしょう",
     "ResName": "Love"
+  },
+  {
+    "UniqueID": 717,
+    "Label": "Pearl",
+    "Name": "しんじゅ",
+    "ResName": "Pearl"
+  },
+  {
+    "UniqueID": 718,
+    "Label": "PirateQuest",
+    "Name": "むせんき",
+    "ResName": "PirateQuest"
   }
 ]

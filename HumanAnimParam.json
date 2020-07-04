@@ -9,7 +9,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】会釈",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -23,7 +23,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】うなずく",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -37,7 +37,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首横ふり",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -51,7 +51,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首かしげ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -65,7 +65,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニコニコ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -79,7 +79,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ハッピー",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -93,7 +93,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】うきうき",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -107,7 +107,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】笑う",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -121,7 +121,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ラブ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -135,7 +135,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】おまかせ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -149,7 +149,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】シャキーン",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -163,7 +163,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】決めポーズ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -177,7 +177,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ドヤ顔",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -191,7 +191,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】大声",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -205,7 +205,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】拍手",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -219,7 +219,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】またこんど",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -233,7 +233,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ん？",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -247,7 +247,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】はて？",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -261,7 +261,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あっ！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -275,7 +275,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】驚／ハッ！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -289,7 +289,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひらめき",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -303,7 +303,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ガーン！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -317,7 +317,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】しまった！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -331,7 +331,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】テレる",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -345,7 +345,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】もじもじ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -359,7 +359,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】苦笑",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -373,7 +373,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニヤリ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -387,7 +387,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悪巧み",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -401,7 +401,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヤレヤレ…",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -415,7 +415,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】妄想中",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -429,7 +429,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悩／ムー",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -443,7 +443,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ねぼけ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -457,7 +457,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】立ち寝",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -471,7 +471,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】こまる",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -485,7 +485,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ため息",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -499,7 +499,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】落ち込む",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -513,7 +513,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】失恋",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -527,7 +527,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】号泣",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -541,7 +541,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ジロッ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -555,7 +555,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】怒／ムカッ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -569,7 +569,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヒュー",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -583,7 +583,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あせる",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -597,7 +597,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ブルブル…",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -611,7 +611,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】くしゃみ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -625,7 +625,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】不機嫌／ムッ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -639,7 +639,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】激怒／プンプン！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -653,7 +653,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひく／エッ？！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -667,7 +667,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】暑い",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -681,7 +681,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】微笑",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -695,7 +695,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニカッ！",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -709,7 +709,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】しどろもどろ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -723,7 +723,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ポリポリ",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -737,7 +737,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】まごまご",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -751,7 +751,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】真顔",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -765,7 +765,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】えっ？",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -779,7 +779,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】説明する",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -793,7 +793,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】解除",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -835,7 +835,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:道具変更(つける)",
-    "Misc": "�",
+    "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -891,7 +891,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具しまう",
-    "Misc": "�",
+    "Misc": "\u001c\u0001\f",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -905,7 +905,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具取り出す",
-    "Misc": "�",
+    "Misc": "\u0014\u0001\b",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -919,7 +919,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:メニューウェイト",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -933,7 +933,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:食べる",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1017,6 +1017,20 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドウェイト",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 17,
+    "9f5123d4 u8": 3,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonSwimWait",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "泳ぎウェイト",
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1269,7 +1283,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アイテムをしまう",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1451,7 +1465,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサをしまう",
-    "Misc": "�",
+    "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1465,7 +1479,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサを取り出す",
-    "Misc": "�",
+    "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1577,7 +1591,77 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：叩かれた",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 133,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerSwimStride",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:泳ぎひとかき移動",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 134,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveIn",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:水中に潜る",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 135,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveOut",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水状態から浮上",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 136,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveOutAndGet",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水状態から浮上してゲットデモ",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 137,
+    "9f5123d4 u8": 3,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerJumpInWater",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:海に飛び込む",
+    "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1703,7 +1787,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、達成アニメ",
-    "Misc": "",
+    "Misc": "\u0010",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1918,16 +2002,44 @@
     "ToolAsCommand": ""
   },
   {
-    "LowerSetting*": "DisableOnlyLowerBody",
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
     "2fe593c3 u16": -1,
-    "UniqueID": 173,
+    "UniqueID": 176,
     "9f5123d4 u8": 0,
     "d5217761 u8": 255,
-    "AsCommand": "PlayerDandelionBlow",
+    "AsCommand": "PlayerDiveMove",
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
-    "Comment": "Player:タンポポを吹く",
-    "Misc": "\u0006",
+    "Comment": "Player:潜水移動",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 179,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveWait",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水待機",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 180,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerSwimStride_Remote",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:泳ぎひとかき移動(リモート用)",
+    "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -1997,7 +2109,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ道具変更(はずす)",
-    "Misc": "�",
+    "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2207,7 +2319,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾った後のガサゴソ(入れ替え待ち)",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2221,7 +2333,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "アミを構えて立つ",
-    "Misc": "@B",
+    "Misc": "��",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2235,7 +2347,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、アミを構えて歩く",
-    "Misc": "@@\u0002",
+    "Misc": "��\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2319,6 +2431,20 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ、振りを止める",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 258,
+    "9f5123d4 u8": 3,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerJumpInWaterRun",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:走りながら海に飛び込む",
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2431,6 +2557,62 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成削除、準備後、待機",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 272,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonDiveWait",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水ウェイト",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 278,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveStride",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水、ひとかぎ泳ぎ",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 279,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveStride_Remote",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水、ひとかぎ泳ぎ(リモート専用)",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 280,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerSwimStand",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:立ち泳ぎ",
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2683,7 +2865,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター３拍子",
-    "Misc": " �",
+    "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2697,7 +2879,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター４拍子",
-    "Misc": " �",
+    "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -2949,6 +3131,20 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具壊れる姿勢キープ",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 329,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveOutAndGetKeep",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水状態から浮上してゲットデモキープ",
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3271,7 +3467,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギターウエイト",
-    "Misc": " �",
+    "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3677,7 +3873,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホしまう",
-    "Misc": "�",
+    "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3691,7 +3887,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ取り出す",
-    "Misc": "�",
+    "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3705,7 +3901,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：寝てる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3719,7 +3915,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：特殊漫符：うなされる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3733,7 +3929,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：起き上がる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3873,7 +4069,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3887,7 +4083,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り待ち",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -3971,7 +4167,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、電話中",
-    "Misc": "\u0006",
+    "Misc": "\u0016",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4167,7 +4363,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、データ交換中",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4237,7 +4433,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ話し掛ける",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4321,7 +4517,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：歩く",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4335,7 +4531,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：ウエイト",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4349,7 +4545,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：復活",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4363,7 +4559,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：飛び散る（デモ開始）",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4377,7 +4573,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：退場",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4489,7 +4685,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：飛び散った後",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4503,7 +4699,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：魂もらう",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4517,7 +4713,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：特殊漫符：驚く",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4559,7 +4755,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：おでかけ手続き",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4573,7 +4769,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：無線通信",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4587,7 +4783,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：ラジャー",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4685,7 +4881,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：ミシン",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4769,7 +4965,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(あっ！)",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4783,7 +4979,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(えっ？)",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4797,7 +4993,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：話のフリ(驚／ハッ！)",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4811,7 +5007,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：サブしまう",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4839,7 +5035,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター弾き終えウエイト",
-    "Misc": " �",
+    "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4853,7 +5049,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ叩かれ",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4965,7 +5161,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：スケッチウエイト",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4979,7 +5175,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：チェック",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -4993,7 +5189,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：雨の日チェック",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5119,7 +5315,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：リップシンク",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5147,7 +5343,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：はて？",
-    "Misc": " �",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5161,7 +5357,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：うなずく",
-    "Misc": " �",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5175,7 +5371,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：えっ？",
-    "Misc": " �",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5231,7 +5427,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：カメラに気づく",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5245,7 +5441,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：放送準備",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5273,7 +5469,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5287,7 +5483,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：PCカタカタ",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5301,7 +5497,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（立ち）",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5315,7 +5511,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（高）",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5329,7 +5525,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5343,7 +5539,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（中）",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5357,7 +5553,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（座り）",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5371,7 +5567,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：花に水やる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5385,7 +5581,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：眺める",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5399,7 +5595,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む（座り）",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5413,7 +5609,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つぶまめ：リズムに乗る",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5427,7 +5623,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "壊れたスマホ取り出す",
-    "Misc": "�",
+    "Misc": "\f\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5441,7 +5637,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "しずえハミング",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5511,7 +5707,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：タンバリンを鳴らす",
-    "Misc": "&",
+    "Misc": "F",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5525,7 +5721,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：写真撮る",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5581,7 +5777,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：サービス：ウキいじり",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5609,7 +5805,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミを構える",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5623,7 +5819,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ラジオ体操",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5665,7 +5861,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：空を見上げる",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5679,7 +5875,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腹を掻く",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5707,7 +5903,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：顔を掻く",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5721,7 +5917,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：髪をいじる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5749,7 +5945,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミ素振り",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5763,7 +5959,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "シャンク：サービス：コイン遊び",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5777,7 +5973,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腰に手を当てる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5875,7 +6071,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：ミシンをいじる",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5889,7 +6085,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：汗をぬぐう",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5903,7 +6099,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：エプロン整える",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5917,7 +6113,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：伸びをする",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5945,7 +6141,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：ささやかな笑顔",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5959,7 +6155,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ウリ：サービス：くしゃみ",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5973,7 +6169,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:DIY拾得しまい",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -5987,7 +6183,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：髪をいじる",
-    "Misc": "$",
+    "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6001,7 +6197,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ヨガ",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6015,7 +6211,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホを見る",
-    "Misc": "\u0004",
+    "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6057,7 +6253,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホ取り出す右手",
-    "Misc": "�",
+    "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6071,7 +6267,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホしまう右手",
-    "Misc": "�",
+    "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6085,7 +6281,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ（来訪）",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6295,7 +6491,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：椅子に座って時々アクション",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6379,7 +6575,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タマゴを食べる",
-    "Misc": "\u000e",
+    "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6393,7 +6589,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "ぴょんたろう：ダンス",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6421,7 +6617,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ぴょんたろう：ため息",
-    "Misc": " ",
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
@@ -6449,6 +6645,230 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台ゲットデモキープ",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 699,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "SeoSurface",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：浮上",
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 700,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "SeoDive",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：潜る",
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 701,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "SeoBackward",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：仰向けになる",
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 702,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "SeoSwim",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：泳ぐ（移動）",
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 703,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "SeoEat",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：食べる",
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 704,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerSwimGoOut",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:陸に上がる（泳ぎ）",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 709,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 8,
+    "AsCommand": "SeoSwimWait",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "ラコスケ：泳ぎウエイト",
+    "Misc": "P",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 717,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerJumpInWater_UpEnd",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:ジャンプして入水[浮上終了]（泳ぎ）",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 718,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerJumpInWater_Up",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:ジャンプして入水[浮上]（泳ぎ）",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 719,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerJumpInInWater_Down",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:ジャンプして入水[潜り]（泳ぎ）",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 720,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonToolHand10300",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "道具持ちアニメ夏",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 739,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerCatchDiveFish",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:海の幸捕獲アクション",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 740,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "GulBLostPhone",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ジョニー（海賊）：スマホをなくす",
+    "Misc": "N",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "DisableOnlyLowerBody",
+    "2fe593c3 u16": -1,
+    "UniqueID": 758,
+    "9f5123d4 u8": 3,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerEnterInWater",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:海に歩いて入る",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 759,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDiveStride_FlapFoot",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:潜水ひとかぎ移動(A長押し)",
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "LowerSetting*": "EnableOnlyLowerBody_Swim",
+    "2fe593c3 u16": -1,
+    "UniqueID": 760,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerSwimStride_FlapFoot",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:泳ぎひとかき移動(A長押し)",
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""

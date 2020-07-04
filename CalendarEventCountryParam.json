@@ -5,6 +5,36 @@
     "Label": "None"
   },
   {
+    "FlagAnim": 6,
+    "UniqueID": 6,
+    "Label": "Brazil"
+  },
+  {
+    "FlagAnim": 10,
+    "UniqueID": 10,
+    "Label": "Japan"
+  },
+  {
+    "FlagAnim": 25,
+    "UniqueID": 25,
+    "Label": "France"
+  },
+  {
+    "FlagAnim": 26,
+    "UniqueID": 26,
+    "Label": "Spain"
+  },
+  {
+    "FlagAnim": 28,
+    "UniqueID": 28,
+    "Label": "Italy"
+  },
+  {
+    "FlagAnim": 29,
+    "UniqueID": 29,
+    "Label": "Germany"
+  },
+  {
     "FlagAnim": 0,
     "UniqueID": 33,
     "Label": "Europe"
@@ -18,6 +48,11 @@
     "FlagAnim": 0,
     "UniqueID": 38,
     "Label": "World"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 39,
+    "Label": "Northern"
   },
   {
     "FlagAnim": 0,

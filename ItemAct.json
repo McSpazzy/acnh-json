@@ -5,8 +5,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 1,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "None",
-    "Name": "なし"
+    "Name": "なし",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -14,8 +16,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 14,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "Chair",
-    "Name": "イス：通常"
+    "Name": "イス：通常",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -23,8 +27,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 41,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairSp",
-    "Name": "イス：SP"
+    "Name": "イス：SP",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -32,8 +38,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 40,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairAll",
-    "Name": "イス：丸イス"
+    "Name": "イス：丸イス",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -41,8 +49,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 42,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairFL2Way",
-    "Name": "イス：前左2方向"
+    "Name": "イス：前左2方向",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -50,8 +60,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 45,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairFB",
-    "Name": "イス：前後"
+    "Name": "イス：前後",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -59,8 +71,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 61,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairLeftFB",
-    "Name": "イス：前後：左半分"
+    "Name": "イス：前後：左半分",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -68,8 +82,21 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 46,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairCenterF",
-    "Name": "イス：前：中央のみ"
+    "Name": "イス：前：中央のみ",
+    "e387a24 u32": 1
+  },
+  {
+    "AsName*": "FtrTriggerToLoopOnOff",
+    "CategoryName*": "Chair",
+    "8b1904b9 string": "Unknown",
+    "UniqueID": 37,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "ChairSwitch",
+    "Name": "イス：スイッチ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnOff",
@@ -77,8 +104,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 44,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChairFLRTouchSwitch",
-    "Name": "イス：SP：接触スイッチ"
+    "Name": "イス：SP：接触スイッチ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -86,8 +115,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 38,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "Bed",
-    "Name": "ベッド：通常"
+    "Name": "ベッド：通常",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -95,8 +126,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 39,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "BedSwitch",
-    "Name": "ベッド：スイッチ"
+    "Name": "ベッド：スイッチ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrChest",
@@ -104,8 +137,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 15,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "ChestPull",
-    "Name": "タンス"
+    "Name": "タンス",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrChest",
@@ -113,8 +148,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 23,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "ChestSingle",
-    "Name": "クローゼット：片開き"
+    "Name": "クローゼット：片開き",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrChest",
@@ -122,8 +159,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 24,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "ChestDouble",
-    "Name": "クローゼット：両開き"
+    "Name": "クローゼット：両開き",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrChest",
@@ -131,8 +170,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 60,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ChestDoubleCenter",
-    "Name": "クローゼット：両開き：中央のみ"
+    "Name": "クローゼット：両開き：中央のみ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrChest",
@@ -140,8 +181,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 25,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "ChestFlip",
-    "Name": "クローゼット：フリップ"
+    "Name": "クローゼット：フリップ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -149,8 +192,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 47,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "Dresser",
-    "Name": "ドレッサー"
+    "Name": "ドレッサー",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -158,8 +203,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 28,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "Audio",
-    "Name": "オーディオ"
+    "Name": "オーディオ",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -167,8 +214,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 43,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "RandomAudio",
-    "Name": "ラジオ"
+    "Name": "ラジオ",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -176,8 +225,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 50,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "MusicalInstrument",
-    "Name": "楽器"
+    "Name": "楽器",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTV",
@@ -185,8 +236,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 26,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "TV",
-    "Name": "テレビ"
+    "Name": "テレビ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -194,8 +247,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 9,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "Clock",
-    "Name": "時計：ノーマル"
+    "Name": "時計：ノーマル",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -203,8 +258,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 11,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ClockPendulum",
-    "Name": "時計：振り子"
+    "Name": "時計：振り子",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerOnce",
@@ -212,8 +269,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 10,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ClockPigeon",
-    "Name": "時計：ハト"
+    "Name": "時計：ハト",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -221,8 +280,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 33,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ClockDigital",
-    "Name": "時計：デジタル"
+    "Name": "時計：デジタル",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -230,8 +291,21 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 62,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "ClockSwitch",
-    "Name": "時計：スイッチ"
+    "Name": "時計：スイッチ",
+    "e387a24 u32": 1
+  },
+  {
+    "AsName*": "FtrTriggerOnce",
+    "CategoryName*": "None",
+    "8b1904b9 string": "Unknown",
+    "UniqueID": 72,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "ClockTrigger",
+    "Name": "時計：トリガー",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -239,8 +313,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 31,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "WorkBench",
-    "Name": "作業台"
+    "Name": "作業台",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -248,8 +324,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 2,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopAuto",
-    "Name": "ループ"
+    "Name": "ループ",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopSwitch",
@@ -257,8 +335,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 30,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopSwitch",
-    "Name": "ループ：スイッチ"
+    "Name": "ループ：スイッチ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopFade",
@@ -266,8 +346,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 5,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopOnOffFade",
-    "Name": "ループ：フェード"
+    "Name": "ループ：フェード",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopTrigger",
@@ -275,8 +357,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 51,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopTrigger",
-    "Name": "ループ：トリガー"
+    "Name": "ループ：トリガー",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -284,8 +368,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 64,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopAutoOnOff",
-    "Name": "ループ：オンオフ"
+    "Name": "ループ：オンオフ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopTrigger",
@@ -293,8 +379,21 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 63,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LoopTriggerOnOff",
-    "Name": "ループ：トリガー：オンオフ"
+    "Name": "ループ：トリガー：オンオフ",
+    "e387a24 u32": 1
+  },
+  {
+    "AsName*": "FtrLoopTriggerWaitEndOnKeep",
+    "CategoryName*": "None",
+    "8b1904b9 string": "Unknown",
+    "UniqueID": 71,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "LoopTriggerWaitEndOnKeep",
+    "Name": "ループ終了待ち：トリガー",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnce",
@@ -302,8 +401,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 3,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TriggerOnce",
-    "Name": "トリガー"
+    "Name": "トリガー",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnOff",
@@ -311,8 +412,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 6,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TriggerOnOff",
-    "Name": "トリガー：オンオフ"
+    "Name": "トリガー：オンオフ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnce",
@@ -320,8 +423,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 7,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TriggerRestart",
-    "Name": "トリガー：上書き"
+    "Name": "トリガー：上書き",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -329,8 +434,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 8,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TriggerOnOffAndLoop",
-    "Name": "トリガー：toループ オンオフ"
+    "Name": "トリガー：toループ オンオフ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -338,8 +445,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 18,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TriggerOnOffAndLoopWaitEnd",
-    "Name": "トリガー：toループ終了待ちオンオフ"
+    "Name": "トリガー：toループ終了待ちオンオフ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnce",
@@ -347,8 +456,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 17,
     "Collision": 0,
+    "DemoType": 0,
     "Label": "Pass",
-    "Name": "通過"
+    "Name": "通過",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerOnce",
@@ -356,8 +467,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 12,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "Touch",
-    "Name": "接触"
+    "Name": "接触",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopTriggerWaitEndOnKeep",
@@ -365,8 +478,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 59,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "TouchTriggerWaitEndOnKeep",
-    "Name": "接触：ループ終了待ち：トリガー"
+    "Name": "接触：ループ終了待ち：トリガー",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -374,8 +489,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 58,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "GrabHoldLoopWaitEnd",
-    "Name": "掴みホールド：ループ終了待ちオンオフ"
+    "Name": "掴みホールド：ループ終了待ちオンオフ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopOnOff",
@@ -383,8 +500,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 56,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "GrabHold",
-    "Name": "掴みホールド"
+    "Name": "掴みホールド",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrTriggerToLoopWaitEndOnOff",
@@ -392,8 +511,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 55,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "LightSensorSwitch",
-    "Name": "外灯（明るさセンサー）"
+    "Name": "外灯（明るさセンサー）",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrMailBox",
@@ -401,8 +522,10 @@
     "8b1904b9 string": "MailBoxTypeA",
     "UniqueID": 27,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "MailBoxTypeA",
-    "Name": "ポスト：タイプA"
+    "Name": "ポスト：タイプA",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrMailBox",
@@ -410,8 +533,10 @@
     "8b1904b9 string": "MailBoxTypeB",
     "UniqueID": 54,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "MailBoxTypeB",
-    "Name": "ポスト：タイプB"
+    "Name": "ポスト：タイプB",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrMailBox",
@@ -419,8 +544,10 @@
     "8b1904b9 string": "MailBoxTypeC",
     "UniqueID": 53,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "MailBoxTypeC",
-    "Name": "ポスト：タイプC"
+    "Name": "ポスト：タイプC",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrMailBox",
@@ -428,8 +555,10 @@
     "8b1904b9 string": "MailBoxTypeD",
     "UniqueID": 52,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "MailBoxTypeD",
-    "Name": "ポスト：タイプD"
+    "Name": "ポスト：タイプD",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrMailBox",
@@ -437,8 +566,10 @@
     "8b1904b9 string": "MailBoxTypeE",
     "UniqueID": 57,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "MailBoxTypeE",
-    "Name": "ポスト：タイプE"
+    "Name": "ポスト：タイプE",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrTriggerOnOff",
@@ -446,8 +577,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 21,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "TrashBox",
-    "Name": "ゴミ箱"
+    "Name": "ゴミ箱",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -455,8 +588,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 16,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "Bamboo",
-    "Name": "たなばたのささ"
+    "Name": "たなばたのささ",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrInsectSing",
@@ -464,8 +599,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 65,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "SingInsect",
-    "Name": "鳴くムシ"
+    "Name": "鳴くムシ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -473,8 +610,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 49,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "MoveBox",
-    "Name": "初期支給プレゼントBOX"
+    "Name": "初期支給プレゼントBOX",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -482,8 +621,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 66,
     "Collision": 0,
+    "DemoType": 0,
     "Label": "MyDesignRug",
-    "Name": "マイデザインラグ"
+    "Name": "マイデザインラグ",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrActionMusicJacket",
@@ -491,8 +632,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 67,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "MusicJacket",
-    "Name": "ミュージックジャケット"
+    "Name": "ミュージックジャケット",
+    "e387a24 u32": 0
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -500,8 +643,10 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 68,
     "Collision": 1,
+    "DemoType": 1,
     "Label": "Bromide",
-    "Name": "ブロマイド"
+    "Name": "ブロマイド",
+    "e387a24 u32": 1
   },
   {
     "AsName*": "FtrLoopAuto",
@@ -509,7 +654,9 @@
     "8b1904b9 string": "Unknown",
     "UniqueID": 70,
     "Collision": 1,
+    "DemoType": 0,
     "Label": "StampRack",
-    "Name": "スタンプ台(国際ミュージアム)"
+    "Name": "スタンプ台(国際ミュージアム)",
+    "e387a24 u32": 1
   }
 ]

@@ -270,6 +270,21 @@
     "ed4b6070 u8": 0
   },
   {
+    "StageName*": "IdrMuseumFish_0",
+    "98ff7f38 u32": 48,
+    "e23f2c58 u32": 33,
+    "StampRackItemNameA": -2,
+    "StampRackItemNameB": -2,
+    "StampRackItemNameC": -2,
+    "d4f5b3e6 u16": 90,
+    "UniqueID": 18,
+    "StampRackIdx": 18,
+    "512b63c string32": "116",
+    "StampRackNameTextLabel": "115",
+    "96d80132 string32": "108",
+    "ed4b6070 u8": 0
+  },
+  {
     "StageName*": "IdrMuseumFish_1",
     "98ff7f38 u32": 21,
     "e23f2c58 u32": 30,

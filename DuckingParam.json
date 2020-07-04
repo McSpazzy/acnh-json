@@ -60,14 +60,6 @@
     "Name": "EF_SEフェード_SE"
   },
   {
-    "UniqueID": 36,
-    "Name": "EF_SEフェードインロング_SE"
-  },
-  {
-    "UniqueID": 37,
-    "Name": "EF_SEフェードインショート_SE"
-  },
-  {
     "UniqueID": 38,
     "Name": "EF_ゲーム内BGMを消す_BGM"
   },

@@ -145,6 +145,12 @@
   },
   {
     "d62525d0 u16": 0,
+    "UniqueID": 178,
+    "Label": "ShopVarietyManieSuit",
+    "Name": "店_店売り：水着"
+  },
+  {
+    "d62525d0 u16": 0,
     "UniqueID": 72,
     "Label": "Shop_EnableShovel",
     "Name": "店_スコップ解禁"
@@ -492,6 +498,12 @@
     "Name": "ジョニークエスト報酬"
   },
   {
+    "d62525d0 u16": 451,
+    "UniqueID": 171,
+    "Label": "PirateQuestReward",
+    "Name": "海賊クエスト報酬"
+  },
+  {
     "d62525d0 u16": 501,
     "UniqueID": 25,
     "Label": "TournamentFishing",
@@ -520,6 +532,12 @@
     "UniqueID": 91,
     "Label": "ChyDailyInsectModel",
     "Name": "レオン(来訪)"
+  },
+  {
+    "d62525d0 u16": 251,
+    "UniqueID": 170,
+    "Label": "SeoReward",
+    "Name": "ラコスケ報酬"
   },
   {
     "d62525d0 u16": 53,
@@ -744,6 +762,12 @@
     "Name": "<DIY>イースターのたまご"
   },
   {
+    "d62525d0 u16": 451,
+    "UniqueID": 176,
+    "Label": "DIYPearl",
+    "Name": "<DIY>しんじゅ"
+  },
+  {
     "d62525d0 u16": 201,
     "UniqueID": 143,
     "Label": "MotherDay",
@@ -766,6 +790,12 @@
     "UniqueID": 146,
     "Label": "SummerSolstice",
     "Name": "<リージョン>夏至祭"
+  },
+  {
+    "d62525d0 u16": 201,
+    "UniqueID": 147,
+    "Label": "StarFestival",
+    "Name": "<リージョン>七夕"
   },
   {
     "d62525d0 u16": 201,

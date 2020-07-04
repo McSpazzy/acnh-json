@@ -4684,5 +4684,27 @@
     "NetPlaySelect": 0,
     "SpecialSelect": 0,
     "Weighting": 4
+  },
+  {
+    "b5761610 string": "Num",
+    "WaitFrame": 0,
+    "AppearValue": 0,
+    "GenreID": 30,
+    "ItemNameUniqueID": -2,
+    "MaxValue": 3,
+    "MsID": 30,
+    "Reward": 150,
+    "UniqueID": 222,
+    "BonusFive": 1,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 1,
+    "fa93f14b u8": 0,
+    "IsEDay": 0,
+    "Key": "CatchSeafood",
+    "Name": "海の幸GET促進活動",
+    "NetPlaySelect": 1,
+    "SpecialSelect": 0,
+    "Weighting": 3
   }
 ]

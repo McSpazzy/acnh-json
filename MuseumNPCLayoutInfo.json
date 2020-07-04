@@ -747,6 +747,96 @@
     "97be8767 string": "333130"
   },
   {
+    "UniqueID": 101,
+    "WatchItem": 2857,
+    "WatchPointID": 96,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 13107,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "313030"
+  },
+  {
+    "UniqueID": 102,
+    "WatchItem": 7228,
+    "WatchPointID": 97,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 13363,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "323030"
+  },
+  {
+    "UniqueID": 103,
+    "WatchItem": 2849,
+    "WatchPointID": 98,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 13107,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "333030"
+  },
+  {
+    "UniqueID": 104,
+    "WatchItem": 7214,
+    "WatchPointID": 99,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12595,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "343030"
+  },
+  {
+    "UniqueID": 105,
+    "WatchItem": 7252,
+    "WatchPointID": 100,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12339,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "353030"
+  },
+  {
+    "UniqueID": 106,
+    "WatchItem": 2852,
+    "WatchPointID": 101,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12851,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "363030"
+  },
+  {
+    "UniqueID": 107,
+    "WatchItem": 7245,
+    "WatchPointID": 102,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12339,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "373030"
+  },
+  {
+    "UniqueID": 108,
+    "WatchItem": 2856,
+    "WatchPointID": 103,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 13363,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "383030"
+  },
+  {
+    "UniqueID": 109,
+    "WatchItem": 2853,
+    "WatchPointID": 104,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12595,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "393030"
+  },
+  {
+    "UniqueID": 110,
+    "WatchItem": 2858,
+    "WatchPointID": 105,
+    "BalloonTalkKey": "BLN_Spot_Museum",
+    "b434805d u32": 12851,
+    "ReactionTalkKey": "BO_React_Watching_DFish",
+    "97be8767 string": "303130"
+  },
+  {
     "UniqueID": 111,
     "WatchItem": 12535,
     "WatchPointID": 106,

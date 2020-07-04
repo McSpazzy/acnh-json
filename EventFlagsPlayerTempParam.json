@@ -692,6 +692,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 75,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "GrowupNsoServerOptimization",
+    "Name": "成長処理時の独自サーバ最適化をおこなうか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 77,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,

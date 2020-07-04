@@ -12,7 +12,6 @@
     "Horizon": 0,
     "ItemName": "ちかしつのゆか",
     "ResourceName": "RoomTexFloorBasement00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -28,7 +27,6 @@
     "Horizon": 0,
     "ItemName": "よくあるゆかいた",
     "ResourceName": "RoomTexFloorCommon00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -44,7 +42,6 @@
     "Horizon": 0,
     "ItemName": "おうごんのゆか",
     "ResourceName": "RoomTexFloorGold00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -60,7 +57,6 @@
     "Horizon": 0,
     "ItemName": "ロビーのゆか",
     "ResourceName": "RoomTexFloorLobby00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -76,7 +72,6 @@
     "Horizon": 1,
     "ItemName": "ミックスウッドのフローリング",
     "ResourceName": "RoomTexFloorMixwood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -92,7 +87,6 @@
     "Horizon": 0,
     "ItemName": "きゅうでんのゆか",
     "ResourceName": "RoomTexFloorPalace00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -108,7 +102,6 @@
     "Horizon": 0,
     "ItemName": "かんぱんのゆか",
     "ResourceName": "RoomTexFloorSeaView00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -124,7 +117,6 @@
     "Horizon": 1,
     "ItemName": "てっぱんのゆか",
     "ResourceName": "RoomTexFloorSteel00",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -140,7 +132,6 @@
     "Horizon": 0,
     "ItemName": "テラコッタタイルのゆか",
     "ResourceName": "RoomTexFloorTileTerracotta00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -156,7 +147,6 @@
     "Horizon": 0,
     "ItemName": "プロレスのゆか",
     "ResourceName": "RoomTexFloorWrestling00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -172,7 +162,6 @@
     "Horizon": 1,
     "ItemName": "パインざいフローリング",
     "ResourceName": "RoomTexFloorSimple00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -188,7 +177,6 @@
     "Horizon": 0,
     "ItemName": "しろいモザイクタイルのゆか",
     "ResourceName": "RoomTexFloorTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -204,7 +192,6 @@
     "Horizon": 0,
     "ItemName": "ライトなパーケットフローリング",
     "ResourceName": "RoomTexFloorCountry00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -220,8 +207,7 @@
     "Horizon": 0,
     "ItemName": "モノクロドットカーペット",
     "ResourceName": "RoomTexFloorDot00",
-    "Reverberation": 255,
-    "Rotatable": 1
+    "Rotatable": 0
   },
   {
     "Act*": "None",
@@ -236,7 +222,6 @@
     "Horizon": 0,
     "ItemName": "なみもようのゆか",
     "ResourceName": "RoomTexFloorFishPop00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -252,7 +237,6 @@
     "Horizon": 0,
     "ItemName": "ダークなパーケットフローリング",
     "ResourceName": "RoomTexFloorCountry01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -268,7 +252,6 @@
     "Horizon": 0,
     "ItemName": "ミントドットカーペット",
     "ResourceName": "RoomTexFloorDot01",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -284,8 +267,7 @@
     "Horizon": 0,
     "ItemName": "レッドドットカーペット",
     "ResourceName": "RoomTexFloorDot02",
-    "Reverberation": 255,
-    "Rotatable": 1
+    "Rotatable": 0
   },
   {
     "Act*": "None",
@@ -300,7 +282,6 @@
     "Horizon": 0,
     "ItemName": "ブルードットカーペット",
     "ResourceName": "RoomTexFloorDot04",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -316,7 +297,6 @@
     "Horizon": 0,
     "ItemName": "みなものゆか",
     "ResourceName": "RoomSpFloorWater00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -332,7 +312,6 @@
     "Horizon": 0,
     "ItemName": "フラッグストーンなゆか",
     "ResourceName": "RoomTexFloorFlagStone00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -348,7 +327,6 @@
     "Horizon": 0,
     "ItemName": "しらきのフローリング",
     "ResourceName": "RoomTexFloorBirch00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -364,7 +342,6 @@
     "Horizon": 0,
     "ItemName": "ナチュラルフローリングブロック",
     "ResourceName": "RoomTexFloorParquet00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -380,7 +357,6 @@
     "Horizon": 0,
     "ItemName": "ダークなフローリングブロック",
     "ResourceName": "RoomTexFloorParquet01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -396,7 +372,6 @@
     "Horizon": 0,
     "ItemName": "みずいろモザイクタイルのゆか",
     "ResourceName": "RoomTexFloorTile01",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -412,7 +387,6 @@
     "Horizon": 0,
     "ItemName": "カラフルモザイクタイルのゆか",
     "ResourceName": "RoomTexFloorTile02",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -428,7 +402,6 @@
     "Horizon": 0,
     "ItemName": "ブラウンハニカムタイルのゆか",
     "ResourceName": "RoomTexFloorHoneycomb00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -444,7 +417,6 @@
     "Horizon": 0,
     "ItemName": "たたみ",
     "ResourceName": "RoomTexFloorTatami00",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -460,7 +432,6 @@
     "Horizon": 0,
     "ItemName": "ブルーハニカムタイルのゆか",
     "ResourceName": "RoomTexFloorHoneycomb01",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -476,7 +447,6 @@
     "Horizon": 0,
     "ItemName": "グリーンハニカムタイルのゆか",
     "ResourceName": "RoomTexFloorHoneycomb02",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -492,7 +462,6 @@
     "Horizon": 0,
     "ItemName": "ホワイトハニカムタイルのゆか",
     "ResourceName": "RoomTexFloorHoneycomb03",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -508,7 +477,6 @@
     "Horizon": 0,
     "ItemName": "オレンジレトロなゆか",
     "ResourceName": "RoomTexFloorKitchen00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -524,7 +492,6 @@
     "Horizon": 0,
     "ItemName": "グリーンレトロなゆか",
     "ResourceName": "RoomTexFloorKitchen01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -540,7 +507,6 @@
     "Horizon": 0,
     "ItemName": "モノクロピータイル",
     "ResourceName": "RoomTexFloorTileChecker00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -556,7 +522,6 @@
     "Horizon": 0,
     "ItemName": "あかくろピータイル",
     "ResourceName": "RoomTexFloorTileChecker01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -572,7 +537,6 @@
     "Horizon": 0,
     "ItemName": "みどりのピータイル",
     "ResourceName": "RoomTexFloorTileChecker02",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -588,7 +552,6 @@
     "Horizon": 1,
     "ItemName": "ふしありフローリング",
     "ResourceName": "RoomTexFloorCedar00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -604,7 +567,6 @@
     "Horizon": 0,
     "ItemName": "ビターチョコアソートなゆか",
     "ResourceName": "RoomTexFloorChocolate00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -620,7 +582,6 @@
     "Horizon": 0,
     "ItemName": "ホワイトチョコアソートなゆか",
     "ResourceName": "RoomTexFloorChocolate01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -636,7 +597,6 @@
     "Horizon": 0,
     "ItemName": "いちごチョコアソートなゆか",
     "ResourceName": "RoomTexFloorChocolate02",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -652,7 +612,6 @@
     "Horizon": 0,
     "ItemName": "ピラミッドのゆか",
     "ResourceName": "RoomTexFloorEgypt00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -668,7 +627,6 @@
     "Horizon": 1,
     "ItemName": "さくらのウッドフローリング",
     "ResourceName": "RoomTexFloorSolidWood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -684,7 +642,6 @@
     "Horizon": 0,
     "ItemName": "あおいペイントフローリング",
     "ResourceName": "RoomTexFloorPaintWood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -700,7 +657,6 @@
     "Horizon": 0,
     "ItemName": "みどりのペイントフローリング",
     "ResourceName": "RoomTexFloorPaintWood01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -716,7 +672,6 @@
     "Horizon": 0,
     "ItemName": "ピンクのペイントフローリング",
     "ResourceName": "RoomTexFloorPaintWood02",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -732,7 +687,6 @@
     "Horizon": 0,
     "ItemName": "しろいペイントフローリング",
     "ResourceName": "RoomTexFloorPaintWood03",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -748,7 +702,6 @@
     "Horizon": 0,
     "ItemName": "ライトなヘリンボーンのゆか",
     "ResourceName": "RoomTexFloorHerringbone00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -764,7 +717,6 @@
     "Horizon": 0,
     "ItemName": "ダークなヘリンボーンのゆか",
     "ResourceName": "RoomTexFloorHerringbone01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -780,7 +732,6 @@
     "Horizon": 0,
     "ItemName": "ローズウッドのゆか",
     "ResourceName": "RoomTexFloorRoseWood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -796,7 +747,6 @@
     "Horizon": 0,
     "ItemName": "きんのアイアンパーケットのゆか",
     "ResourceName": "RoomTexFloorParquetIron00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -812,7 +762,6 @@
     "Horizon": 0,
     "ItemName": "ぎんのアイアンパーケットのゆか",
     "ResourceName": "RoomTexFloorParquetIron01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -828,7 +777,6 @@
     "Horizon": 0,
     "ItemName": "くろいアイアンパーケットのゆか",
     "ResourceName": "RoomTexFloorParquetIron02",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -844,7 +792,6 @@
     "Horizon": 0,
     "ItemName": "モノクロパネルカーペット",
     "ResourceName": "RoomTexFloorPanel00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -860,7 +807,6 @@
     "Horizon": 0,
     "ItemName": "カラフルパネルカーペット",
     "ResourceName": "RoomTexFloorPanel01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -876,7 +822,6 @@
     "Horizon": 0,
     "ItemName": "だいりせきのゆか",
     "ResourceName": "RoomTexFloorMarble00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -892,7 +837,6 @@
     "Horizon": 0,
     "ItemName": "キュートなペイントフローリング",
     "ResourceName": "RoomTexFloorColorfulWood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -908,7 +852,6 @@
     "Horizon": 0,
     "ItemName": "クールなペイントフローリング",
     "ResourceName": "RoomTexFloorColorfulWood01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -924,7 +867,6 @@
     "Horizon": 0,
     "ItemName": "きいろいフラワーフローリング",
     "ResourceName": "RoomTexFloorDecoWood00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -940,7 +882,6 @@
     "Horizon": 0,
     "ItemName": "あおいフラワーフローリング",
     "ResourceName": "RoomTexFloorDecoWood01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -956,7 +897,6 @@
     "Horizon": 0,
     "ItemName": "ちゃいろいフラワーフローリング",
     "ResourceName": "RoomTexFloorDecoWood02",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -972,7 +912,6 @@
     "Horizon": 0,
     "ItemName": "キッチュなゆか",
     "ResourceName": "RoomTexFloorKitschTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -988,7 +927,6 @@
     "Horizon": 0,
     "ItemName": "ふちなしたたみ",
     "ResourceName": "RoomTexFloorTatamiPanel00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1004,7 +942,6 @@
     "Horizon": 0,
     "ItemName": "いぐさのふちなしたたみ",
     "ResourceName": "RoomTexFloorTatamiPanel01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1020,7 +957,6 @@
     "Horizon": 0,
     "ItemName": "いぐさのたたみ",
     "ResourceName": "RoomTexFloorTatami01",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -1036,7 +972,6 @@
     "Horizon": 0,
     "ItemName": "グレーのアーガイルタイルゆか",
     "ResourceName": "RoomTexFloorArgyleTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1052,7 +987,6 @@
     "Horizon": 0,
     "ItemName": "ブラウンのアーガイルタイルゆか",
     "ResourceName": "RoomTexFloorArgyleTile01",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1068,7 +1002,6 @@
     "Horizon": 0,
     "ItemName": "きばんのゆか",
     "ResourceName": "RoomTexFloorGeek00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1084,7 +1017,6 @@
     "Horizon": 0,
     "ItemName": "コンクリートのゆか",
     "ResourceName": "RoomTexFloorConcrete00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1100,7 +1032,6 @@
     "Horizon": 0,
     "ItemName": "グリーンラバーのゆか",
     "ResourceName": "RoomTexFloorRubber00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1116,7 +1047,6 @@
     "Horizon": 0,
     "ItemName": "アラベスクなゆか",
     "ResourceName": "RoomTexFloorArabesque00",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -1132,7 +1062,6 @@
     "Horizon": 0,
     "ItemName": "ブルーラバーのゆか",
     "ResourceName": "RoomTexFloorRubber01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1148,7 +1077,6 @@
     "Horizon": 0,
     "ItemName": "ジョイントマットのゆか",
     "ResourceName": "RoomTexFloorJointMat00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1164,7 +1092,6 @@
     "Horizon": 0,
     "ItemName": "パステルパズルのゆか",
     "ResourceName": "RoomTexFloorPuzzleMat00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1180,7 +1107,6 @@
     "Horizon": 0,
     "ItemName": "カラフルパズルのゆか",
     "ResourceName": "RoomTexFloorPuzzleMat01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1196,7 +1122,6 @@
     "Horizon": 0,
     "ItemName": "バラのじゅうたん",
     "ResourceName": "RoomTexFloorRoseCarpet00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1212,7 +1137,6 @@
     "Horizon": 0,
     "ItemName": "レオパードなゆか",
     "ResourceName": "RoomTexFloorAnimal00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1228,7 +1152,6 @@
     "Horizon": 0,
     "ItemName": "ジラフなゆか",
     "ResourceName": "RoomTexFloorAnimal01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1244,7 +1167,6 @@
     "Horizon": 0,
     "ItemName": "ゼブラなゆか",
     "ResourceName": "RoomTexFloorAnimal02",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -1260,7 +1182,6 @@
     "Horizon": 0,
     "ItemName": "ストライプなゆか",
     "ResourceName": "RoomTexFloorStripe00",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -1276,7 +1197,6 @@
     "Horizon": 0,
     "ItemName": "バンブーなゆか",
     "ResourceName": "RoomTexFloorBamboo00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1292,7 +1212,6 @@
     "Horizon": 0,
     "ItemName": "ベージュのモロッカンタイルゆか",
     "ResourceName": "RoomTexFloorMorocco00",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -1308,7 +1227,6 @@
     "Horizon": 0,
     "ItemName": "ブルーのモロッカンタイルゆか",
     "ResourceName": "RoomTexFloorMorocco01",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -1324,7 +1242,6 @@
     "Horizon": 1,
     "ItemName": "ラタンのゆか",
     "ResourceName": "RoomTexFloorRattan00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1340,7 +1257,6 @@
     "Horizon": 0,
     "ItemName": "げつめんのゆか",
     "ResourceName": "RoomTexFloorLunar00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1356,7 +1272,6 @@
     "Horizon": 0,
     "ItemName": "コルクフローリング",
     "ResourceName": "RoomTexFloorCork00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1372,7 +1287,6 @@
     "Horizon": 0,
     "ItemName": "すなはまのゆか",
     "ResourceName": "RoomTexFloorSand00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1388,7 +1302,6 @@
     "Horizon": 0,
     "ItemName": "あさのはタイルのゆか",
     "ResourceName": "RoomTexFloorHempTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1404,7 +1317,6 @@
     "Horizon": 0,
     "ItemName": "ランダムスクエアタイルのゆか",
     "ResourceName": "RoomTexFloorSquareTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1420,7 +1332,6 @@
     "Horizon": 0,
     "ItemName": "しろレンガのゆか",
     "ResourceName": "RoomTexFloorBrick00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1436,7 +1347,6 @@
     "Horizon": 0,
     "ItemName": "あかレンガのゆか",
     "ResourceName": "RoomTexFloorBrick01",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1452,7 +1362,6 @@
     "Horizon": 0,
     "ItemName": "くろレンガのゆか",
     "ResourceName": "RoomTexFloorBrick02",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1468,7 +1377,6 @@
     "Horizon": 0,
     "ItemName": "はなござ",
     "ResourceName": "RoomTexFloorRush00",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -1484,7 +1392,6 @@
     "Horizon": 0,
     "ItemName": "たまじゃりのゆか",
     "ResourceName": "RoomTexFloorGravel00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1500,7 +1407,6 @@
     "Horizon": 0,
     "ItemName": "しばふのゆか",
     "ResourceName": "RoomTexFloorLawn00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1516,7 +1422,6 @@
     "Horizon": 1,
     "ItemName": "はたけのゆか",
     "ResourceName": "RoomTexFloorFarm00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1532,7 +1437,6 @@
     "Horizon": 0,
     "ItemName": "つちのゆか",
     "ResourceName": "RoomTexFloorCottonSoil00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1548,7 +1452,6 @@
     "Horizon": 0,
     "ItemName": "さばくなゆか",
     "ResourceName": "RoomTexFloorDesert00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1564,7 +1467,6 @@
     "Horizon": 0,
     "ItemName": "こうやのゆか",
     "ResourceName": "RoomTexFloorWilderness00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1580,7 +1482,6 @@
     "Horizon": 0,
     "ItemName": "あきちのゆか",
     "ResourceName": "RoomTexFloorEmptyLot00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1596,7 +1497,6 @@
     "Horizon": 0,
     "ItemName": "マネーなゆか",
     "ResourceName": "RoomTexFloorBill00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1612,7 +1512,6 @@
     "Horizon": 0,
     "ItemName": "キュービックなよせぎのゆか",
     "ResourceName": "RoomTexFloorHoneycombWood00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1628,7 +1527,6 @@
     "Horizon": 0,
     "ItemName": "アトリエのゆか",
     "ResourceName": "RoomTexFloorAtelier00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1644,7 +1542,6 @@
     "Horizon": 0,
     "ItemName": "ゲレンデのゆか",
     "ResourceName": "RoomTexFloorGelande00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1660,7 +1557,6 @@
     "Horizon": 0,
     "ItemName": "こうようのゆか",
     "ResourceName": "RoomTexFloorAutumun00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1676,7 +1572,6 @@
     "Horizon": 0,
     "ItemName": "ライトなよせぎざいくのゆか",
     "ResourceName": "RoomTexFloorSimpleParquet00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1692,7 +1587,6 @@
     "Horizon": 0,
     "ItemName": "ダークなよせぎざいくのゆか",
     "ResourceName": "RoomTexFloorSimpleParquet01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1708,7 +1602,6 @@
     "Horizon": 0,
     "ItemName": "フローラルなモザイクタイル",
     "ResourceName": "RoomTexFloorMosaicTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1724,7 +1617,6 @@
     "Horizon": 0,
     "ItemName": "アーガイルなタイルのゆか",
     "ResourceName": "RoomTexFloorTileWood00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1740,7 +1632,6 @@
     "Horizon": 0,
     "ItemName": "パッチワークタイルのゆか",
     "ResourceName": "RoomTexFloorPatchworkTile00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -1756,7 +1647,6 @@
     "Horizon": 0,
     "ItemName": "レーストラックのゆか",
     "ResourceName": "RoomTexFloorAthletics00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1772,7 +1662,6 @@
     "Horizon": 0,
     "ItemName": "パーキングのゆか",
     "ResourceName": "RoomTexFloorParking00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1788,7 +1677,6 @@
     "Horizon": 0,
     "ItemName": "アーチレンガのゆか",
     "ResourceName": "RoomTexFloorArchBrick00",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -1804,7 +1692,6 @@
     "Horizon": 1,
     "ItemName": "ハチミツなゆか",
     "ResourceName": "RoomTexFloorHoney00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1820,7 +1707,6 @@
     "Horizon": 0,
     "ItemName": "あかいシンプルカーペット",
     "ResourceName": "RoomTexFloorSimpleCarpet00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1836,7 +1722,6 @@
     "Horizon": 0,
     "ItemName": "あおいシンプルカーペット",
     "ResourceName": "RoomTexFloorSimpleCarpet01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1852,7 +1737,6 @@
     "Horizon": 0,
     "ItemName": "むらさきのシンプルカーペット",
     "ResourceName": "RoomTexFloorSimpleCarpet03",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1868,7 +1752,6 @@
     "Horizon": 0,
     "ItemName": "しろいシンプルカーペット",
     "ResourceName": "RoomTexFloorSimpleCarpet04",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -1884,7 +1767,6 @@
     "Horizon": 0,
     "ItemName": "そうげんのゆか",
     "ResourceName": "RoomTexFloorGrassland00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1900,7 +1782,6 @@
     "Horizon": 0,
     "ItemName": "くさばなのじゅうたん",
     "ResourceName": "RoomTexFloorGrassland01",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1916,7 +1797,6 @@
     "Horizon": 0,
     "ItemName": "おうだんほどうのゆか",
     "ResourceName": "RoomTexFloorSidewalk00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1932,7 +1812,6 @@
     "Horizon": 0,
     "ItemName": "ほどうのゆか",
     "ResourceName": "RoomTexFloorSidewalk01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1948,7 +1827,6 @@
     "Horizon": 0,
     "ItemName": "えきのホームなゆか",
     "ResourceName": "RoomTexFloorPlatform00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -1964,7 +1842,6 @@
     "Horizon": 0,
     "ItemName": "スクランブルこうさてん",
     "ResourceName": "RoomTexFloorScramble00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1980,7 +1857,6 @@
     "Horizon": 0,
     "ItemName": "ちていのゆか",
     "ResourceName": "RoomTexFloorStratum00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -1996,7 +1872,6 @@
     "Horizon": 0,
     "ItemName": "おうちょうなゆか",
     "ResourceName": "RoomTexFloorDynasty00",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -2012,7 +1887,6 @@
     "Horizon": 0,
     "ItemName": "どひょう",
     "ResourceName": "RoomTexFloorArena00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2028,7 +1902,6 @@
     "Horizon": 0,
     "ItemName": "めいさいのゆか",
     "ResourceName": "RoomTexFloorCamouflage00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2044,7 +1917,6 @@
     "Horizon": 0,
     "ItemName": "ブルーめいさいのゆか",
     "ResourceName": "RoomTexFloorCamouflage01",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2060,7 +1932,6 @@
     "Horizon": 0,
     "ItemName": "パープルめいさいのゆか",
     "ResourceName": "RoomTexFloorCamouflage02",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2076,7 +1947,6 @@
     "Horizon": 0,
     "ItemName": "ゴムタイルのゆか",
     "ResourceName": "RoomTexFloorRubberTile00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2092,7 +1962,6 @@
     "Horizon": 0,
     "ItemName": "アートなよせぎざいくのゆか",
     "ResourceName": "RoomTexFloorParquetArt00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2108,7 +1977,6 @@
     "Horizon": 0,
     "ItemName": "ランダムなしきいし",
     "ResourceName": "RoomTexFloorSlate00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2124,7 +1992,6 @@
     "Horizon": 0,
     "ItemName": "こけにわのゆか",
     "ResourceName": "RoomTexFloorMoss00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2140,7 +2007,6 @@
     "Horizon": 0,
     "ItemName": "こうじげんばのゆか",
     "ResourceName": "RoomTexFloorConstruction00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2156,7 +2022,6 @@
     "Horizon": 0,
     "ItemName": "おへやのゆか",
     "ResourceName": "RoomTexFloorGarbage00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2172,7 +2037,6 @@
     "Horizon": 0,
     "ItemName": "ハイウェイのゆか",
     "ResourceName": "RoomTexFloorHighway00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2188,7 +2052,6 @@
     "Horizon": 0,
     "ItemName": "どろぬまなゆか",
     "ResourceName": "RoomTexFloorBog00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2204,7 +2067,6 @@
     "Horizon": 0,
     "ItemName": "いわやまのゆか",
     "ResourceName": "RoomTexFloorRock00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2220,7 +2082,6 @@
     "Horizon": 0,
     "ItemName": "はいきょのゆか",
     "ResourceName": "RoomTexFloorRuins00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2236,7 +2097,6 @@
     "Horizon": 0,
     "ItemName": "パーティーのゆか",
     "ResourceName": "RoomTexFloorParty00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2252,7 +2112,6 @@
     "Horizon": 0,
     "ItemName": "ミステリーサークルなゆか",
     "ResourceName": "RoomTexFloorCropCircles00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2268,7 +2127,6 @@
     "Horizon": 0,
     "ItemName": "スカルなゆか",
     "ResourceName": "RoomTexFloorSkull00",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2284,7 +2142,6 @@
     "Horizon": 0,
     "ItemName": "オーバーテクノロジーなゆか",
     "ResourceName": "RoomSpFloorTechnology00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2300,7 +2157,6 @@
     "Horizon": 0,
     "ItemName": "りゅうひょうのゆか",
     "ResourceName": "RoomSpFloorIceFloe00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2316,7 +2172,6 @@
     "Horizon": 0,
     "ItemName": "オアシスなゆか",
     "ResourceName": "RoomSpFloorOasis00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2332,7 +2187,6 @@
     "Horizon": 0,
     "ItemName": "くものうえ",
     "ResourceName": "RoomSpFloorCloud00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2348,7 +2202,6 @@
     "Horizon": 0,
     "ItemName": "うみのそこのゆか",
     "ResourceName": "RoomSpFloorFishTank00",
-    "Reverberation": 2,
     "Rotatable": 0
   },
   {
@@ -2364,7 +2217,6 @@
     "Horizon": 0,
     "ItemName": "ぎんがけいのゆか",
     "ResourceName": "RoomSpFloorGalaxy00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2380,7 +2232,6 @@
     "Horizon": 0,
     "ItemName": "うちゅうせんのゆか",
     "ResourceName": "RoomSpFloorSF00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2396,7 +2247,6 @@
     "Horizon": 0,
     "ItemName": "ようがんのゆか",
     "ResourceName": "RoomSpFloorVolcano00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2412,7 +2262,6 @@
     "Horizon": 0,
     "ItemName": "かわのながれるゆか",
     "ResourceName": "RoomSpFloorRiver00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2428,7 +2277,6 @@
     "Horizon": 1,
     "ItemName": "ジャングルのゆか",
     "ResourceName": "RoomTexFloorJungle00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2444,7 +2292,6 @@
     "Horizon": 0,
     "ItemName": "アイスなゆか",
     "ResourceName": "RoomSpFloorIce00",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2460,7 +2307,6 @@
     "Horizon": 0,
     "ItemName": "たぬきかいはつのフローリング",
     "ResourceName": "RoomTexFloorFirst00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2476,7 +2322,6 @@
     "Horizon": 0,
     "ItemName": "しろいアイアンパーケットのゆか",
     "ResourceName": "RoomTexFloorParquetIron03",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2492,7 +2337,6 @@
     "Horizon": 0,
     "ItemName": "クールなピータイル",
     "ResourceName": "RoomTexFloorTileChecker03",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2508,7 +2352,6 @@
     "Horizon": 0,
     "ItemName": "オレンジめいさいのゆか",
     "ResourceName": "RoomTexFloorCamouflage03",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2524,7 +2367,6 @@
     "Horizon": 0,
     "ItemName": "ブルーモザイクタイルのゆか",
     "ResourceName": "RoomTexFloorTile03",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2540,7 +2382,6 @@
     "Horizon": 0,
     "ItemName": "グリーンのフラワーフローリング",
     "ResourceName": "RoomTexFloorDecoWood03",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2556,7 +2397,6 @@
     "Horizon": 0,
     "ItemName": "タイガーなじゅうたん",
     "ResourceName": "RoomTexFloorAnimal03",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -2572,7 +2412,6 @@
     "Horizon": 0,
     "ItemName": "ちゃいろいレンガのゆか",
     "ResourceName": "RoomTexFloorBrick03",
-    "Reverberation": 1,
     "Rotatable": 0
   },
   {
@@ -2588,7 +2427,6 @@
     "Horizon": 0,
     "ItemName": "むらさきのモロッカンタイルゆか",
     "ResourceName": "RoomTexFloorMorocco02",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -2604,7 +2442,6 @@
     "Horizon": 0,
     "ItemName": "きみどりモロッカンタイルゆか",
     "ResourceName": "RoomTexFloorMorocco03",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -2620,7 +2457,6 @@
     "Horizon": 0,
     "ItemName": "セピアパズルのゆか",
     "ResourceName": "RoomTexFloorPuzzleMat02",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2636,7 +2472,6 @@
     "Horizon": 0,
     "ItemName": "パープルパズルのゆか",
     "ResourceName": "RoomTexFloorPuzzleMat03",
-    "Reverberation": 255,
     "Rotatable": 0
   },
   {
@@ -2652,7 +2487,6 @@
     "Horizon": 0,
     "ItemName": "キノコのもりのゆか",
     "ResourceName": "RoomTexFloorMushForest00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2668,7 +2502,6 @@
     "Horizon": 0,
     "ItemName": "さくらのじゅうたん",
     "ResourceName": "RoomTexFloorSakura00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2684,7 +2517,6 @@
     "Horizon": 0,
     "ItemName": "しろいキュートなフロアタイル",
     "ResourceName": "RoomTexFloorCute00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2700,7 +2532,6 @@
     "Horizon": 0,
     "ItemName": "あかいキュートなフロアタイル",
     "ResourceName": "RoomTexFloorCute01",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2716,7 +2547,6 @@
     "Horizon": 0,
     "ItemName": "ブルーのキュートなフロアタイル",
     "ResourceName": "RoomTexFloorCute02",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2732,7 +2562,6 @@
     "Horizon": 0,
     "ItemName": "きいろいキュートなフロアタイル",
     "ResourceName": "RoomTexFloorCute03",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2748,7 +2577,6 @@
     "Horizon": 0,
     "ItemName": "ほしのすなはまのゆか",
     "ResourceName": "RoomTexFloorSandStar00",
-    "Reverberation": 0,
     "Rotatable": 0
   },
   {
@@ -2756,7 +2584,7 @@
     "Price": 888,
     "Scale*": "None",
     "b117eb21 string": "None",
-    "Floorboards": 0,
+    "Floorboards": 6,
     "ItemTableId": 10919,
     "LandingUniqueID": 0,
     "UniqueID": 234,
@@ -2764,7 +2592,6 @@
     "Horizon": 0,
     "ItemName": "マイデザインのゆか",
     "ResourceName": "RoomTexFloorMyDesign00",
-    "Reverberation": 0,
     "Rotatable": 1
   },
   {
@@ -2780,7 +2607,6 @@
     "Horizon": 0,
     "ItemName": "イースターなゆか",
     "ResourceName": "RoomTexFloorEaster00",
-    "Reverberation": 255,
     "Rotatable": 1
   },
   {
@@ -2796,7 +2622,6 @@
     "Horizon": 0,
     "ItemName": "ウェディングなホワイトタイル",
     "ResourceName": "RoomTexFloorMarbleTile00",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -2812,7 +2637,6 @@
     "Horizon": 0,
     "ItemName": "ウェディングなブラウンタイル",
     "ResourceName": "RoomTexFloorMarbleTile01",
-    "Reverberation": 1,
     "Rotatable": 1
   },
   {
@@ -2828,7 +2652,36 @@
     "Horizon": 0,
     "ItemName": "ウェディングなグリーンタイル",
     "ResourceName": "RoomTexFloorMarbleTile02",
-    "Reverberation": 1,
     "Rotatable": 1
+  },
+  {
+    "Act*": "None",
+    "Price": 888,
+    "Scale*": "None",
+    "b117eb21 string": "None",
+    "Floorboards": 3,
+    "ItemTableId": 12568,
+    "LandingUniqueID": 0,
+    "UniqueID": 248,
+    "HasJmp": 0,
+    "Horizon": 0,
+    "ItemName": "マーメイドなゆか",
+    "ResourceName": "RoomSpFloorMermaid00",
+    "Rotatable": 0
+  },
+  {
+    "Act*": "None",
+    "Price": 888,
+    "Scale*": "None",
+    "b117eb21 string": "None",
+    "Floorboards": 22,
+    "ItemTableId": 12569,
+    "LandingUniqueID": 0,
+    "UniqueID": 249,
+    "HasJmp": 1,
+    "Horizon": 0,
+    "ItemName": "かいぞくのゆか",
+    "ResourceName": "RoomTexFloorPirates00",
+    "Rotatable": 0
   }
 ]

@@ -563,7 +563,7 @@
   {
     "UniqueID": 55,
     "5f77b61a u8": 1,
-    "Folded_Season": 1,
+    "Folded_Season": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -573,8 +573,8 @@
   },
   {
     "UniqueID": 56,
-    "5f77b61a u8": 0,
-    "Folded_Season": 1,
+    "5f77b61a u8": 1,
+    "Folded_Season": 2,
     "8d401df7 u8": 1,
     "DefaultValue": 0,
     "fa93f14b u8": 2,
@@ -822,7 +822,7 @@
     "fa93f14b u8": 2,
     "Key": "TalkRumorOActionToday",
     "MaxValue": 1,
-    "Name": "今日RumorOP_Action（同じ島の住人P）を聞いたか？"
+    "Name": "（ボツ）今日RumorOP_Action（同じ島の住人P）を聞いたか？"
   },
   {
     "UniqueID": 81,
@@ -1130,7 +1130,7 @@
     "fa93f14b u8": 2,
     "Key": "TalkRumorPActionToday",
     "MaxValue": 1,
-    "Name": "今日RumorP_Action（現在プレイヤー）を聞いたか？"
+    "Name": "（ボツ）今日RumorP_Action（現在プレイヤー）を聞いたか？"
   },
   {
     "UniqueID": 110,
@@ -1267,7 +1267,7 @@
   {
     "UniqueID": 122,
     "5f77b61a u8": 0,
-    "Folded_Season": 0,
+    "Folded_Season": 3,
     "8d401df7 u8": 0,
     "DefaultValue": 0,
     "fa93f14b u8": 2,

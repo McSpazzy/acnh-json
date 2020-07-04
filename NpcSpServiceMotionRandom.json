@@ -27,7 +27,7 @@
     "Label": "sza",
     "SelectRate": 20,
     "StartHour": 20,
-    "Type": ""
+    "Type": "\b"
   },
   {
     "SelectSecond": 17,
@@ -37,7 +37,7 @@
     "Label": "sza",
     "SelectRate": 30,
     "StartHour": 0,
-    "Type": ""
+    "Type": "\b"
   },
   {
     "SelectSecond": 15,
@@ -397,7 +397,7 @@
     "Label": "sza",
     "SelectRate": 10,
     "StartHour": 0,
-    "Type": ""
+    "Type": "\b"
   },
   {
     "SelectSecond": 15,
@@ -527,7 +527,7 @@
     "Label": "sza",
     "SelectRate": 30,
     "StartHour": 20,
-    "Type": ""
+    "Type": "\b"
   },
   {
     "SelectSecond": 10,

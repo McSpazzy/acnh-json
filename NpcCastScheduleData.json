@@ -267,7 +267,7 @@
     "EndHour": 29,
     "EndMinute": 0,
     "EventName": "NotEvent",
-    "NeglectSleep": 0,
+    "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
     "e76db92f string": ""
@@ -289,7 +289,7 @@
     "ApplyNeedActivity": 1,
     "CanDoze": 0,
     "CastLabel": 22,
-    "d507df3e u8": 1,
+    "d507df3e u8": 0,
     "EndHour": 29,
     "EndMinute": 0,
     "EventName": "NotEvent",

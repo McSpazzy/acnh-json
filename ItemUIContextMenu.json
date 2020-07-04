@@ -280,6 +280,14 @@
     "Name": "捨てる"
   },
   {
+    "Priority": 750,
+    "UniqueID": 96,
+    "AutoDisappear": 1,
+    "Label": "ReleaseWeed",
+    "MSLabel": "0199",
+    "Name": "戻す"
+  },
+  {
     "Priority": 760,
     "UniqueID": 82,
     "AutoDisappear": 0,
