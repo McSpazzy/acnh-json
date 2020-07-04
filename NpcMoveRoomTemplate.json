@@ -1,0 +1,226 @@
+[
+  {
+    "RoomType": 0,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 2,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 0,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 0,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 2,
+    "ef0088e8 u8": 1,
+    "8f5c3da3 u32": 3
+  },
+  {
+    "RoomType": 1,
+    "Direction": 1,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 4
+  },
+  {
+    "RoomType": 1,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 5
+  },
+  {
+    "RoomType": 1,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 2,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 1,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 3,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 2,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 3,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 2,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 5,
+    "8f5c3da3 u32": 1
+  },
+  {
+    "RoomType": 2,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 1,
+    "8f5c3da3 u32": 5
+  },
+  {
+    "RoomType": 2,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 3,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 1,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 3,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 3,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 3,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 2,
+    "ef0088e8 u8": 3,
+    "8f5c3da3 u32": 3
+  },
+  {
+    "RoomType": 4,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 4,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 5,
+    "8f5c3da3 u32": 4
+  },
+  {
+    "RoomType": 4,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 2,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 4,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 5,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 2,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 5,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 5,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 2,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 6,
+    "Direction": 3,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 5,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 6,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 6,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 0,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 3
+  },
+  {
+    "RoomType": 6,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 2,
+    "ef0088e8 u8": 2,
+    "8f5c3da3 u32": 2
+  },
+  {
+    "RoomType": 7,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 7,
+    "Direction": 0,
+    "GroupIndex": 0,
+    "Size": 1,
+    "ef0088e8 u8": 4,
+    "8f5c3da3 u32": 0
+  },
+  {
+    "RoomType": 7,
+    "Direction": 2,
+    "GroupIndex": 0,
+    "Size": 2,
+    "ef0088e8 u8": 0,
+    "8f5c3da3 u32": 4
+  }
+]

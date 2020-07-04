@@ -1,0 +1,770 @@
+[
+  {
+    "UniqueID": 0,
+    "FieldData": "FieldPresetA00",
+    "ItemData": "ItemPresetA00",
+    "Label": "VillagePresetA00",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA00"
+  },
+  {
+    "UniqueID": 8,
+    "FieldData": "FieldPresetA01",
+    "ItemData": "ItemPresetA01",
+    "Label": "VillagePresetA01",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA01"
+  },
+  {
+    "UniqueID": 9,
+    "FieldData": "FieldPresetA02",
+    "ItemData": "ItemPresetA02",
+    "Label": "VillagePresetA02",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA02"
+  },
+  {
+    "UniqueID": 10,
+    "FieldData": "FieldPresetB00",
+    "ItemData": "ItemPresetB00",
+    "Label": "VillagePresetB00",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB00"
+  },
+  {
+    "UniqueID": 11,
+    "FieldData": "FieldPresetB01",
+    "ItemData": "ItemPresetB01",
+    "Label": "VillagePresetB01",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB01"
+  },
+  {
+    "UniqueID": 12,
+    "FieldData": "FieldPresetB02",
+    "ItemData": "ItemPresetB02",
+    "Label": "VillagePresetB02",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB02"
+  },
+  {
+    "UniqueID": 13,
+    "FieldData": "FieldPresetC00",
+    "ItemData": "ItemPresetC00",
+    "Label": "VillagePresetC00",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC00"
+  },
+  {
+    "UniqueID": 14,
+    "FieldData": "FieldPresetC01",
+    "ItemData": "ItemPresetC01",
+    "Label": "VillagePresetC01",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC01"
+  },
+  {
+    "UniqueID": 15,
+    "FieldData": "FieldPresetC02",
+    "ItemData": "ItemPresetC02",
+    "Label": "VillagePresetC02",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC02"
+  },
+  {
+    "UniqueID": 16,
+    "FieldData": "FieldPresetA03",
+    "ItemData": "ItemPresetA03",
+    "Label": "VillagePresetA03",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA03"
+  },
+  {
+    "UniqueID": 17,
+    "FieldData": "FieldPresetA04",
+    "ItemData": "ItemPresetA04",
+    "Label": "VillagePresetA04",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA04"
+  },
+  {
+    "UniqueID": 18,
+    "FieldData": "FieldPresetA05",
+    "ItemData": "ItemPresetA05",
+    "Label": "VillagePresetA05",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA05"
+  },
+  {
+    "UniqueID": 19,
+    "FieldData": "FieldPresetB03",
+    "ItemData": "ItemPresetB03",
+    "Label": "VillagePresetB03",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB03"
+  },
+  {
+    "UniqueID": 20,
+    "FieldData": "FieldPresetB04",
+    "ItemData": "ItemPresetB04",
+    "Label": "VillagePresetB04",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB04"
+  },
+  {
+    "UniqueID": 21,
+    "FieldData": "FieldPresetB05",
+    "ItemData": "ItemPresetB05",
+    "Label": "VillagePresetB05",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB05"
+  },
+  {
+    "UniqueID": 22,
+    "FieldData": "FieldPresetC03",
+    "ItemData": "ItemPresetC03",
+    "Label": "VillagePresetC03",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC03"
+  },
+  {
+    "UniqueID": 23,
+    "FieldData": "FieldPresetC04",
+    "ItemData": "ItemPresetC04",
+    "Label": "VillagePresetC04",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC04"
+  },
+  {
+    "UniqueID": 24,
+    "FieldData": "FieldPresetC05",
+    "ItemData": "ItemPresetC05",
+    "Label": "VillagePresetC05",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC05"
+  },
+  {
+    "UniqueID": 28,
+    "FieldData": "FieldPresetB06",
+    "ItemData": "ItemPresetB06",
+    "Label": "VillagePresetB06",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB06"
+  },
+  {
+    "UniqueID": 29,
+    "FieldData": "FieldPresetC06",
+    "ItemData": "ItemPresetC06",
+    "Label": "VillagePresetC06",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC06"
+  },
+  {
+    "UniqueID": 30,
+    "FieldData": "FieldPresetA09",
+    "ItemData": "ItemPresetA09",
+    "Label": "VillagePresetA09",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA09"
+  },
+  {
+    "UniqueID": 31,
+    "FieldData": "FieldPresetA10",
+    "ItemData": "ItemPresetA10",
+    "Label": "VillagePresetA10",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA10"
+  },
+  {
+    "UniqueID": 32,
+    "FieldData": "FieldPresetA11",
+    "ItemData": "ItemPresetA11",
+    "Label": "VillagePresetA11",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA11"
+  },
+  {
+    "UniqueID": 33,
+    "FieldData": "FieldPresetA12",
+    "ItemData": "ItemPresetA12",
+    "Label": "VillagePresetA12",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA12"
+  },
+  {
+    "UniqueID": 34,
+    "FieldData": "FieldPresetA13",
+    "ItemData": "ItemPresetA13",
+    "Label": "VillagePresetA13",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA13"
+  },
+  {
+    "UniqueID": 35,
+    "FieldData": "FieldPresetA14",
+    "ItemData": "ItemPresetA14",
+    "Label": "VillagePresetA14",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA14"
+  },
+  {
+    "UniqueID": 36,
+    "FieldData": "FieldPresetA15",
+    "ItemData": "ItemPresetA15",
+    "Label": "VillagePresetA15",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA15"
+  },
+  {
+    "UniqueID": 37,
+    "FieldData": "FieldPresetA16",
+    "ItemData": "ItemPresetA16",
+    "Label": "VillagePresetA16",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA16"
+  },
+  {
+    "UniqueID": 38,
+    "FieldData": "FieldPresetA17",
+    "ItemData": "ItemPresetA17",
+    "Label": "VillagePresetA17",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA17"
+  },
+  {
+    "UniqueID": 39,
+    "FieldData": "FieldPresetA18",
+    "ItemData": "ItemPresetA18",
+    "Label": "VillagePresetA18",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA18"
+  },
+  {
+    "UniqueID": 40,
+    "FieldData": "FieldPresetA19",
+    "ItemData": "ItemPresetA19",
+    "Label": "VillagePresetA19",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA19"
+  },
+  {
+    "UniqueID": 41,
+    "FieldData": "FieldPresetA20",
+    "ItemData": "ItemPresetA20",
+    "Label": "VillagePresetA20",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA20"
+  },
+  {
+    "UniqueID": 42,
+    "FieldData": "FieldPresetB07",
+    "ItemData": "ItemPresetB07",
+    "Label": "VillagePresetB07",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB07"
+  },
+  {
+    "UniqueID": 43,
+    "FieldData": "FieldPresetB08",
+    "ItemData": "ItemPresetB08",
+    "Label": "VillagePresetB08",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB08"
+  },
+  {
+    "UniqueID": 44,
+    "FieldData": "FieldPresetB09",
+    "ItemData": "ItemPresetB09",
+    "Label": "VillagePresetB09",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB09"
+  },
+  {
+    "UniqueID": 45,
+    "FieldData": "FieldPresetB10",
+    "ItemData": "ItemPresetB10",
+    "Label": "VillagePresetB10",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB10"
+  },
+  {
+    "UniqueID": 46,
+    "FieldData": "FieldPresetB11",
+    "ItemData": "ItemPresetB11",
+    "Label": "VillagePresetB11",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB11"
+  },
+  {
+    "UniqueID": 47,
+    "FieldData": "FieldPresetB12",
+    "ItemData": "ItemPresetB12",
+    "Label": "VillagePresetB12",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB12"
+  },
+  {
+    "UniqueID": 48,
+    "FieldData": "FieldPresetB13",
+    "ItemData": "ItemPresetB13",
+    "Label": "VillagePresetB13",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB13"
+  },
+  {
+    "UniqueID": 49,
+    "FieldData": "FieldPresetB14",
+    "ItemData": "ItemPresetB14",
+    "Label": "VillagePresetB14",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB14"
+  },
+  {
+    "UniqueID": 50,
+    "FieldData": "FieldPresetB15",
+    "ItemData": "ItemPresetB15",
+    "Label": "VillagePresetB15",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB15"
+  },
+  {
+    "UniqueID": 51,
+    "FieldData": "FieldPresetB16",
+    "ItemData": "ItemPresetB16",
+    "Label": "VillagePresetB16",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB16"
+  },
+  {
+    "UniqueID": 52,
+    "FieldData": "FieldPresetB17",
+    "ItemData": "ItemPresetB17",
+    "Label": "VillagePresetB17",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB17"
+  },
+  {
+    "UniqueID": 53,
+    "FieldData": "FieldPresetB18",
+    "ItemData": "ItemPresetB18",
+    "Label": "VillagePresetB18",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB18"
+  },
+  {
+    "UniqueID": 54,
+    "FieldData": "FieldPresetB19",
+    "ItemData": "ItemPresetB19",
+    "Label": "VillagePresetB19",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB19"
+  },
+  {
+    "UniqueID": 55,
+    "FieldData": "FieldPresetB20",
+    "ItemData": "ItemPresetB20",
+    "Label": "VillagePresetB20",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB20"
+  },
+  {
+    "UniqueID": 56,
+    "FieldData": "FieldPresetC07",
+    "ItemData": "ItemPresetC07",
+    "Label": "VillagePresetC07",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC07"
+  },
+  {
+    "UniqueID": 57,
+    "FieldData": "FieldPresetC08",
+    "ItemData": "ItemPresetC08",
+    "Label": "VillagePresetC08",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC08"
+  },
+  {
+    "UniqueID": 58,
+    "FieldData": "FieldPresetC09",
+    "ItemData": "ItemPresetC09",
+    "Label": "VillagePresetC09",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC09"
+  },
+  {
+    "UniqueID": 59,
+    "FieldData": "FieldPresetC10",
+    "ItemData": "ItemPresetC10",
+    "Label": "VillagePresetC10",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC10"
+  },
+  {
+    "UniqueID": 60,
+    "FieldData": "FieldPresetC11",
+    "ItemData": "ItemPresetC11",
+    "Label": "VillagePresetC11",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC11"
+  },
+  {
+    "UniqueID": 61,
+    "FieldData": "FieldPresetC12",
+    "ItemData": "ItemPresetC12",
+    "Label": "VillagePresetC12",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC12"
+  },
+  {
+    "UniqueID": 62,
+    "FieldData": "FieldPresetC13",
+    "ItemData": "ItemPresetC13",
+    "Label": "VillagePresetC13",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC13"
+  },
+  {
+    "UniqueID": 63,
+    "FieldData": "FieldPresetC14",
+    "ItemData": "ItemPresetC14",
+    "Label": "VillagePresetC14",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC14"
+  },
+  {
+    "UniqueID": 64,
+    "FieldData": "FieldPresetC15",
+    "ItemData": "ItemPresetC15",
+    "Label": "VillagePresetC15",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC15"
+  },
+  {
+    "UniqueID": 65,
+    "FieldData": "FieldPresetC16",
+    "ItemData": "ItemPresetC16",
+    "Label": "VillagePresetC16",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC16"
+  },
+  {
+    "UniqueID": 66,
+    "FieldData": "FieldPresetC17",
+    "ItemData": "ItemPresetC17",
+    "Label": "VillagePresetC17",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC17"
+  },
+  {
+    "UniqueID": 67,
+    "FieldData": "FieldPresetC18",
+    "ItemData": "ItemPresetC18",
+    "Label": "VillagePresetC18",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC18"
+  },
+  {
+    "UniqueID": 68,
+    "FieldData": "FieldPresetC19",
+    "ItemData": "ItemPresetC19",
+    "Label": "VillagePresetC19",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC19"
+  },
+  {
+    "UniqueID": 69,
+    "FieldData": "FieldPresetC20",
+    "ItemData": "ItemPresetC20",
+    "Label": "VillagePresetC20",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC20"
+  },
+  {
+    "UniqueID": 70,
+    "FieldData": "FieldPresetA21",
+    "ItemData": "ItemPresetA21",
+    "Label": "VillagePresetA21",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA21"
+  },
+  {
+    "UniqueID": 71,
+    "FieldData": "FieldPresetA22",
+    "ItemData": "ItemPresetA22",
+    "Label": "VillagePresetA22",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA22"
+  },
+  {
+    "UniqueID": 72,
+    "FieldData": "FieldPresetA23",
+    "ItemData": "ItemPresetA23",
+    "Label": "VillagePresetA23",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA23"
+  },
+  {
+    "UniqueID": 73,
+    "FieldData": "FieldPresetA24",
+    "ItemData": "ItemPresetA24",
+    "Label": "VillagePresetA24",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA24"
+  },
+  {
+    "UniqueID": 74,
+    "FieldData": "FieldPresetA25",
+    "ItemData": "ItemPresetA25",
+    "Label": "VillagePresetA25",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA25"
+  },
+  {
+    "UniqueID": 75,
+    "FieldData": "FieldPresetA26",
+    "ItemData": "ItemPresetA26",
+    "Label": "VillagePresetA26",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA26"
+  },
+  {
+    "UniqueID": 76,
+    "FieldData": "FieldPresetA27",
+    "ItemData": "ItemPresetA27",
+    "Label": "VillagePresetA27",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA27"
+  },
+  {
+    "UniqueID": 77,
+    "FieldData": "FieldPresetA28",
+    "ItemData": "ItemPresetA28",
+    "Label": "VillagePresetA28",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA28"
+  },
+  {
+    "UniqueID": 78,
+    "FieldData": "FieldPresetA29",
+    "ItemData": "ItemPresetA29",
+    "Label": "VillagePresetA29",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA29"
+  },
+  {
+    "UniqueID": 79,
+    "FieldData": "FieldPresetA30",
+    "ItemData": "ItemPresetA30",
+    "Label": "VillagePresetA30",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA30"
+  },
+  {
+    "UniqueID": 80,
+    "FieldData": "FieldPresetA31",
+    "ItemData": "ItemPresetA31",
+    "Label": "VillagePresetA31",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA31"
+  },
+  {
+    "UniqueID": 81,
+    "FieldData": "FieldPresetA32",
+    "ItemData": "ItemPresetA32",
+    "Label": "VillagePresetA32",
+    "OutsideTemplateKind": 0,
+    "StructureData": "StructurePresetA32"
+  },
+  {
+    "UniqueID": 89,
+    "FieldData": "FieldPresetB21",
+    "ItemData": "ItemPresetB21",
+    "Label": "VillagePresetB21",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB21"
+  },
+  {
+    "UniqueID": 90,
+    "FieldData": "FieldPresetB22",
+    "ItemData": "ItemPresetB22",
+    "Label": "VillagePresetB22",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB22"
+  },
+  {
+    "UniqueID": 91,
+    "FieldData": "FieldPresetB23",
+    "ItemData": "ItemPresetB23",
+    "Label": "VillagePresetB23",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB23"
+  },
+  {
+    "UniqueID": 92,
+    "FieldData": "FieldPresetB24",
+    "ItemData": "ItemPresetB24",
+    "Label": "VillagePresetB24",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB24"
+  },
+  {
+    "UniqueID": 93,
+    "FieldData": "FieldPresetB25",
+    "ItemData": "ItemPresetB25",
+    "Label": "VillagePresetB25",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB25"
+  },
+  {
+    "UniqueID": 94,
+    "FieldData": "FieldPresetB26",
+    "ItemData": "ItemPresetB26",
+    "Label": "VillagePresetB26",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB26"
+  },
+  {
+    "UniqueID": 95,
+    "FieldData": "FieldPresetB27",
+    "ItemData": "ItemPresetB27",
+    "Label": "VillagePresetB27",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB27"
+  },
+  {
+    "UniqueID": 96,
+    "FieldData": "FieldPresetB28",
+    "ItemData": "ItemPresetB28",
+    "Label": "VillagePresetB28",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB28"
+  },
+  {
+    "UniqueID": 97,
+    "FieldData": "FieldPresetB29",
+    "ItemData": "ItemPresetB29",
+    "Label": "VillagePresetB29",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB29"
+  },
+  {
+    "UniqueID": 98,
+    "FieldData": "FieldPresetB30",
+    "ItemData": "ItemPresetB30",
+    "Label": "VillagePresetB30",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB30"
+  },
+  {
+    "UniqueID": 99,
+    "FieldData": "FieldPresetB31",
+    "ItemData": "ItemPresetB31",
+    "Label": "VillagePresetB31",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB31"
+  },
+  {
+    "UniqueID": 100,
+    "FieldData": "FieldPresetB32",
+    "ItemData": "ItemPresetB32",
+    "Label": "VillagePresetB32",
+    "OutsideTemplateKind": 2,
+    "StructureData": "StructurePresetB32"
+  },
+  {
+    "UniqueID": 108,
+    "FieldData": "FieldPresetC21",
+    "ItemData": "ItemPresetC21",
+    "Label": "VillagePresetC21",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC21"
+  },
+  {
+    "UniqueID": 109,
+    "FieldData": "FieldPresetC22",
+    "ItemData": "ItemPresetC22",
+    "Label": "VillagePresetC22",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC22"
+  },
+  {
+    "UniqueID": 110,
+    "FieldData": "FieldPresetC23",
+    "ItemData": "ItemPresetC23",
+    "Label": "VillagePresetC23",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC23"
+  },
+  {
+    "UniqueID": 111,
+    "FieldData": "FieldPresetC24",
+    "ItemData": "ItemPresetC24",
+    "Label": "VillagePresetC24",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC24"
+  },
+  {
+    "UniqueID": 112,
+    "FieldData": "FieldPresetC25",
+    "ItemData": "ItemPresetC25",
+    "Label": "VillagePresetC25",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC25"
+  },
+  {
+    "UniqueID": 113,
+    "FieldData": "FieldPresetC26",
+    "ItemData": "ItemPresetC26",
+    "Label": "VillagePresetC26",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC26"
+  },
+  {
+    "UniqueID": 114,
+    "FieldData": "FieldPresetC27",
+    "ItemData": "ItemPresetC27",
+    "Label": "VillagePresetC27",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC27"
+  },
+  {
+    "UniqueID": 115,
+    "FieldData": "FieldPresetC28",
+    "ItemData": "ItemPresetC28",
+    "Label": "VillagePresetC28",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC28"
+  },
+  {
+    "UniqueID": 116,
+    "FieldData": "FieldPresetC29",
+    "ItemData": "ItemPresetC29",
+    "Label": "VillagePresetC29",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC29"
+  },
+  {
+    "UniqueID": 117,
+    "FieldData": "FieldPresetC30",
+    "ItemData": "ItemPresetC30",
+    "Label": "VillagePresetC30",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC30"
+  },
+  {
+    "UniqueID": 118,
+    "FieldData": "FieldPresetC31",
+    "ItemData": "ItemPresetC31",
+    "Label": "VillagePresetC31",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC31"
+  },
+  {
+    "UniqueID": 119,
+    "FieldData": "FieldPresetC32",
+    "ItemData": "ItemPresetC32",
+    "Label": "VillagePresetC32",
+    "OutsideTemplateKind": 1,
+    "StructureData": "StructurePresetC32"
+  }
+]

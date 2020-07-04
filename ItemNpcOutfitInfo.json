@@ -1,0 +1,142 @@
+[
+  {
+    "UniqueID": 0,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "None",
+    "Name": "なし"
+  },
+  {
+    "UniqueID": 38,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 1,
+    "Label": "C_Normal",
+    "Name": "帽子・普通"
+  },
+  {
+    "UniqueID": 39,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 1,
+    "Label": "C_Brim",
+    "Name": "帽子・つば(横)"
+  },
+  {
+    "UniqueID": 40,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 1,
+    "Label": "C_BrimUnder",
+    "Name": "帽子・つば(横下)"
+  },
+  {
+    "UniqueID": 41,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 1,
+    "Label": "C_Bandana",
+    "Name": "帽子・バンダナ"
+  },
+  {
+    "UniqueID": 42,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 1,
+    "Label": "C_Knit",
+    "Name": "帽子・ニット帽"
+  },
+  {
+    "UniqueID": 43,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Mask",
+    "Name": "帽子・おめん"
+  },
+  {
+    "UniqueID": 44,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Crown",
+    "Name": "帽子・わっか"
+  },
+  {
+    "UniqueID": 45,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Forehead",
+    "Name": "帽子・おでこ"
+  },
+  {
+    "UniqueID": 46,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Top",
+    "Name": "帽子・後頭部"
+  },
+  {
+    "UniqueID": 47,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_LeftBig",
+    "Name": "帽子・左(大)"
+  },
+  {
+    "UniqueID": 48,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Left",
+    "Name": "帽子・左"
+  },
+  {
+    "UniqueID": 49,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "C_Right",
+    "Name": "帽子・右"
+  },
+  {
+    "UniqueID": 50,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_Normal",
+    "Name": "メガネ・普通"
+  },
+  {
+    "UniqueID": 51,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_Down",
+    "Name": "メガネ・普通(下)"
+  },
+  {
+    "UniqueID": 52,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_UP",
+    "Name": "メガネ・普通(上)"
+  },
+  {
+    "UniqueID": 53,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_Fit",
+    "Name": "メガネ・近い(強)"
+  },
+  {
+    "UniqueID": 54,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_FitLittle",
+    "Name": "メガネ・近い(弱)"
+  },
+  {
+    "UniqueID": 55,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_Left",
+    "Name": "メガネ・片目(左)"
+  },
+  {
+    "UniqueID": 56,
+    "8e07b21e u8": 0,
+    "e5c221d5 u8": 0,
+    "Label": "G_Beard",
+    "Name": "メガネ・ひげメガネ"
+  }
+]

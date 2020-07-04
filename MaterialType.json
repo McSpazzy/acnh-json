@@ -1,0 +1,32 @@
+[
+  {
+    "SoundAttribute": 0,
+    "UniqueID": 0,
+    "DebugName": "未設定"
+  },
+  {
+    "SoundAttribute": 1,
+    "UniqueID": 1,
+    "DebugName": "ドアなし"
+  },
+  {
+    "SoundAttribute": 5,
+    "UniqueID": 2,
+    "DebugName": "木"
+  },
+  {
+    "SoundAttribute": 17,
+    "UniqueID": 3,
+    "DebugName": "鉄"
+  },
+  {
+    "SoundAttribute": 47,
+    "UniqueID": 5,
+    "DebugName": "テント"
+  },
+  {
+    "SoundAttribute": 1,
+    "UniqueID": 6,
+    "DebugName": "その他"
+  }
+]

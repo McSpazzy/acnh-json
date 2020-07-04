@@ -1,0 +1,72 @@
+[
+  {
+    "StageName*": "IdrMuseumFish_2",
+    "UniqueID": 2,
+    "SpotTalkKey": "BO_Spot_Museum_Fish",
+    "9d9b3598 string": "313030",
+    "SpotTalkName": "川魚の部屋"
+  },
+  {
+    "StageName*": "IdrMuseumFish_1",
+    "UniqueID": 3,
+    "SpotTalkKey": "BO_Spot_Museum_Fish",
+    "9d9b3598 string": "333030",
+    "SpotTalkName": "海魚の部屋（沖～深海）"
+  },
+  {
+    "StageName*": "IdrMuseumFish_0",
+    "UniqueID": 6,
+    "SpotTalkKey": "BO_Spot_Museum_Fish",
+    "9d9b3598 string": "323030",
+    "SpotTalkName": "海魚の部屋（沿岸）"
+  },
+  {
+    "StageName*": "IdrMuseumInsect_2",
+    "UniqueID": 7,
+    "SpotTalkKey": "BO_Spot_Museum_Insect",
+    "9d9b3598 string": "313030",
+    "SpotTalkName": "地面の虫の部屋"
+  },
+  {
+    "StageName*": "IdrMuseumInsect_0",
+    "UniqueID": 8,
+    "SpotTalkKey": "BO_Spot_Museum_Insect",
+    "9d9b3598 string": "323030",
+    "SpotTalkName": "大温室"
+  },
+  {
+    "StageName*": "IdrMuseumInsect_1",
+    "UniqueID": 9,
+    "SpotTalkKey": "BO_Spot_Museum_Insect",
+    "9d9b3598 string": "333030",
+    "SpotTalkName": "バタフライガーデン"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "UniqueID": 10,
+    "SpotTalkKey": "BO_Spot_Museum_Fossil",
+    "9d9b3598 string": "313030",
+    "SpotTalkName": "古生代の部屋"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "UniqueID": 11,
+    "SpotTalkKey": "BO_Spot_Museum_Fossil",
+    "9d9b3598 string": "323030",
+    "SpotTalkName": "中生代の部屋"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "UniqueID": 12,
+    "SpotTalkKey": "BO_Spot_Museum_Fossil",
+    "9d9b3598 string": "333030",
+    "SpotTalkName": "新世代の部屋"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "UniqueID": 18,
+    "SpotTalkKey": "BO_Spot_Museum_Art",
+    "9d9b3598 string": "313030",
+    "SpotTalkName": "芸術部屋"
+  }
+]

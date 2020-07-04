@@ -1,0 +1,26 @@
+[
+  {
+    "UniqueID": 0,
+    "ResourceName": "RoomTexCelingWood00"
+  },
+  {
+    "UniqueID": 1,
+    "ResourceName": "RoomTexCelingTile00"
+  },
+  {
+    "UniqueID": 3,
+    "ResourceName": "RoomTexCelingStone00"
+  },
+  {
+    "UniqueID": 7,
+    "ResourceName": "RoomTexCelingCloth00"
+  },
+  {
+    "UniqueID": 8,
+    "ResourceName": "RoomTexCelingPlain00"
+  },
+  {
+    "UniqueID": 9,
+    "ResourceName": "RoomTexCelingGold00"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "MuseumNpcRace": 2,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 0,
+    "SilhouetteName": "トリシルエット"
+  },
+  {
+    "MuseumNpcRace": 19,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 1,
+    "SilhouetteName": "コアラシルエット"
+  },
+  {
+    "MuseumNpcRace": 20,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 2,
+    "SilhouetteName": "カンガルシルエット"
+  },
+  {
+    "MuseumNpcRace": 12,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 3,
+    "SilhouetteName": "ゾウシルエット"
+  },
+  {
+    "MuseumNpcRace": 0,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 4,
+    "SilhouetteName": "アリクイシルエット"
+  },
+  {
+    "MuseumNpcRace": 4,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 5,
+    "SilhouetteName": "ネコシルエット"
+  },
+  {
+    "MuseumNpcRace": 10,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 6,
+    "SilhouetteName": "イヌシルエット"
+  },
+  {
+    "MuseumNpcRace": 1,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 7,
+    "SilhouetteName": "クマシルエット"
+  },
+  {
+    "MuseumNpcRace": 18,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 8,
+    "SilhouetteName": "ウマシルエット"
+  },
+  {
+    "MuseumNpcRace": 30,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 9,
+    "SilhouetteName": "サイシルエット"
+  },
+  {
+    "MuseumNpcRace": 17,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 10,
+    "SilhouetteName": "カバシルエット"
+  },
+  {
+    "MuseumNpcRace": 9,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 11,
+    "SilhouetteName": "シカシルエット"
+  },
+  {
+    "MuseumNpcRace": 7,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 12,
+    "SilhouetteName": "ウシシルエット"
+  },
+  {
+    "MuseumNpcRace": 29,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 13,
+    "SilhouetteName": "ウサギシルエット"
+  },
+  {
+    "MuseumNpcRace": 23,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 14,
+    "SilhouetteName": "ネズミシルエット"
+  },
+  {
+    "MuseumNpcRace": 22,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 15,
+    "SilhouetteName": "サルシルエット"
+  },
+  {
+    "MuseumNpcRace": 28,
+    "SilhouettePosX": 160.0,
+    "SilhouettePosY": 20.0,
+    "SilhouettePosZ": 210.0,
+    "UniqueID": 16,
+    "SilhouetteName": "ブタシルエット"
+  }
+]

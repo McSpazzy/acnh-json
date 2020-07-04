@@ -1,0 +1,92 @@
+[
+  {
+    "UniqueID": 0,
+    "Name": "しろいレースカーテン",
+    "ResourceName": "RoomTexCurtainNmlLace00"
+  },
+  {
+    "UniqueID": 4,
+    "Name": "しろいカーテン",
+    "ResourceName": "RoomTexCurtainNmlSimple00"
+  },
+  {
+    "UniqueID": 5,
+    "Name": "ピンクカーテン",
+    "ResourceName": "RoomTexCurtainNmlSimple01"
+  },
+  {
+    "UniqueID": 6,
+    "Name": "みずいろカーテン",
+    "ResourceName": "RoomTexCurtainNmlSimple02"
+  },
+  {
+    "UniqueID": 7,
+    "Name": "みどりカーテン",
+    "ResourceName": "RoomTexCurtainNmlSimple03"
+  },
+  {
+    "UniqueID": 8,
+    "Name": "きいろカーテン",
+    "ResourceName": "RoomTexCurtainNmlSimple04"
+  },
+  {
+    "UniqueID": 15,
+    "Name": "あかいろチェックカーテン",
+    "ResourceName": "RoomTexCurtainNmlCheck00"
+  },
+  {
+    "UniqueID": 16,
+    "Name": "あおいろチェックカーテン",
+    "ResourceName": "RoomTexCurtainNmlCheck01"
+  },
+  {
+    "UniqueID": 17,
+    "Name": "みどりチェックカーテン",
+    "ResourceName": "RoomTexCurtainNmlCheck02"
+  },
+  {
+    "UniqueID": 18,
+    "Name": "ちゃいろいすだれ",
+    "ResourceName": "RoomTexCurtainBlindWood00"
+  },
+  {
+    "UniqueID": 19,
+    "Name": "こげちゃいろのすだれ",
+    "ResourceName": "RoomTexCurtainBlindWood01"
+  },
+  {
+    "UniqueID": 20,
+    "Name": "しろいブラインド",
+    "ResourceName": "RoomTexCurtainBlindPlastic00"
+  },
+  {
+    "UniqueID": 21,
+    "Name": "くろいブラインド",
+    "ResourceName": "RoomTexCurtainBlindPlastic01"
+  },
+  {
+    "UniqueID": 22,
+    "Name": "しろいロールカーテン",
+    "ResourceName": "RoomTexCurtainScreenSimple00"
+  },
+  {
+    "UniqueID": 23,
+    "Name": "",
+    "ResourceName": ""
+  },
+  {
+    "UniqueID": 24,
+    "Name": "アルミのブラインド",
+    "ResourceName": "RoomTexCurtainBlindPlastic02"
+  },
+  {
+    "UniqueID": 25,
+    "Name": "おうどのすだれ",
+    "ResourceName": "RoomTexCurtainBlindWood02"
+  },
+  {
+    "UniqueID": 26,
+    "Name": "きなりのロールカーテン",
+    "ResourceName": "RoomTexCurtainScreenSimple01"
+  }
+]

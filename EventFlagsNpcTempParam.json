@@ -1,0 +1,482 @@
+[
+  {
+    "DefaultValue": 1,
+    "MaxValue": 1,
+    "UniqueID": 0,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 0,
+    "Key": "PlayerBirthdayEnter",
+    "Name": "プレイヤ誕生日分岐：入場直後"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 1,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 0,
+    "Key": "PlayerBirthdayEnterFinish",
+    "Name": "プレイヤ誕生日分岐：入場後カメラ操作"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 2,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 1,
+    "Key": "ContinuousReactionTalkCount",
+    "Name": "連続リアクション会話回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 3,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "EventFreeTalkCount",
+    "Name": "イベント雑談を聞いた回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 4,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "SNpcVisitTalkCount",
+    "Name": "来訪NPC告知を聞いた回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 5,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "EventAnnounceTalkCount",
+    "Name": "イベント告知を聞いた回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 6,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "IndoorTalkCount",
+    "Name": "室内で会話した回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 255,
+    "UniqueID": 7,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "VisitQuestCallCount",
+    "Name": "訪問クエストで呼び出した回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 8,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "IsPlayedQuestMiniGame",
+    "Name": "訪問クエストでミニゲームを遊んだか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 9,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "VisitQuestFurnitureTrade",
+    "Name": "訪問クエスト家具取引中か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 10,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "ApproachUpdateStop",
+    "Name": "アプローチポイントの更新を止める"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 11,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 0,
+    "Key": "VisitQuestGoHome",
+    "Name": "訪問クエストNPC帰宅フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 12,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "NotAddIndoorTalkCount",
+    "Name": "室内で会話した回数を加算しない"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 13,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "SurpriseVisitPresentGave",
+    "Name": "突撃訪問手土産渡した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 14,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "SurpriseVisitEntered",
+    "Name": "突撃訪問入室済"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 15,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 1,
+    "Key": "VisitPNPCGoHomeMyself",
+    "Name": "P宅訪問中NPCが自分から帰宅する"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 16,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "PlayerBirthdayPinata2",
+    "Name": "プレイヤ誕生日連続分岐：ピニャータ2"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 17,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "SickCured",
+    "Name": "病気クエストで完治直後か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 19,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "PlayerBirthdayCupcake3",
+    "Name": "プレイヤ誕生日連続分岐：カップケーキ3"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 20,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 0,
+    "Key": "ReserveStandSleep",
+    "Name": "立ち寝予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 21,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "PlayerBirthdayCall",
+    "Name": "プレイヤーの誕生日出迎え"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 22,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 0,
+    "Key": "DoorInHoldOpen",
+    "Name": "扉を開けたままにして入る"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 23,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "FurnitureTradeFinish",
+    "Name": "家具取引を終えたか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 24,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "PlayerBirthdayPresent",
+    "Name": "プレイヤ誕生日分岐：プレゼント"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 7,
+    "UniqueID": 25,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "ReactionTalkLabel",
+    "Name": "リアクション会話のラベル記憶"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 26,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "MuseumGreet",
+    "Name": "博物館で挨拶したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 27,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "TalkWatchPoint",
+    "Name": "観賞ポイントで会話したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 28,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "ReserveWarningBee",
+    "Name": "蜂警戒モード予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 29,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "HitMainPlayer",
+    "Name": "メインプレイヤーが叩いた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 30,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "WearNewYearHat",
+    "Name": "ニューイヤーハットを被る"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 31,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "FallPit",
+    "Name": "落とし穴に落ちる"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 32,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "ForceFurnitureNow",
+    "Name": "今、家具の強制会話を聞いた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 33,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "GotoEventPlazaForCountdown",
+    "Name": "カウントダウンの為に広場に向かう"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 34,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 1,
+    "Key": "CountdownFieldNpc",
+    "Name": "カウントダウン時フィールドNPCに選ばれた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 35,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "GotoCountdownBoard",
+    "Name": "カウントダウン掲示板前に向かう"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 36,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "TalkEndWait",
+    "Name": "会話終了時に待機"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 37,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "MarketBuildingTalk",
+    "Name": "お店建築会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 38,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "EmoticonGetTalk",
+    "Name": "漫符入手会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 39,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "AtHomeAI",
+    "Name": "自宅で過ごすAI"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 41,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "ReactionVisitPTalk",
+    "Name": "謝罪を聞いたか：訪問P"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 42,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "ReactionVisitNTalk",
+    "Name": "謝罪を聞いたか：訪問N"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 43,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "IslandRepTalk",
+    "Name": "島評判UPアプローチ会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 44,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "AppWelcomeMigrantsTalk",
+    "Name": "移住者おもてなしアプローチ会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 45,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "AppFirstTalk",
+    "Name": "引越し挨拶アプローチ会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 46,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "IsReCatnap",
+    "Name": "再度うたた寝をしうるかどうか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 47,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "TreasureHuntGiveCancel",
+    "Name": "宝を渡すのをやめた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 49,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "fa93f14b u8": 2,
+    "Key": "PlayerBirthdayRestoreCamera",
+    "Name": "プレイヤ誕生日分岐：正面カメラに復帰"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 51,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "fa93f14b u8": 2,
+    "Key": "EasterRecipeTalk",
+    "Name": "イースター用レシピ会話が出せる状態か"
+  }
+]

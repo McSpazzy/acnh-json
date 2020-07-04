@@ -1,0 +1,303 @@
+[
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 0,
+    "UniqueID": 0,
+    "WatchItem": 1343,
+    "CameraParamName": "id00"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 1,
+    "UniqueID": 1,
+    "WatchItem": 1331,
+    "CameraParamName": "id01"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 2,
+    "UniqueID": 2,
+    "WatchItem": 12535,
+    "CameraParamName": "id02"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 3,
+    "UniqueID": 3,
+    "WatchItem": 1335,
+    "CameraParamName": "id03"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 4,
+    "UniqueID": 4,
+    "WatchItem": 1341,
+    "CameraParamName": "id04"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 5,
+    "UniqueID": 5,
+    "WatchItem": 1345,
+    "CameraParamName": "id05"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 6,
+    "UniqueID": 6,
+    "WatchItem": 1333,
+    "CameraParamName": "id06"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 7,
+    "UniqueID": 7,
+    "WatchItem": 1339,
+    "CameraParamName": "StandardGazingPoint"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 8,
+    "UniqueID": 8,
+    "WatchItem": 1337,
+    "CameraParamName": "Japan"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 9,
+    "UniqueID": 9,
+    "WatchItem": 12541,
+    "CameraParamName": "id09"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 10,
+    "UniqueID": 10,
+    "WatchItem": 12533,
+    "CameraParamName": "id10"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 11,
+    "UniqueID": 11,
+    "WatchItem": 12539,
+    "CameraParamName": "id11"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 12,
+    "UniqueID": 12,
+    "WatchItem": 12537,
+    "CameraParamName": "id11"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 13,
+    "UniqueID": 13,
+    "WatchItem": 42,
+    "CameraParamName": "id13"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 14,
+    "UniqueID": 14,
+    "WatchItem": 2,
+    "CameraParamName": "id14"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 15,
+    "UniqueID": 15,
+    "WatchItem": 18,
+    "CameraParamName": "id15"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 16,
+    "UniqueID": 16,
+    "WatchItem": 12619,
+    "CameraParamName": "id15"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 17,
+    "UniqueID": 17,
+    "WatchItem": 24,
+    "CameraParamName": "id17"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 18,
+    "UniqueID": 18,
+    "WatchItem": 32,
+    "CameraParamName": "id18"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 19,
+    "UniqueID": 19,
+    "WatchItem": 56,
+    "CameraParamName": "id19"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 20,
+    "UniqueID": 20,
+    "WatchItem": 28,
+    "CameraParamName": "StandardGazingPoint"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 21,
+    "UniqueID": 21,
+    "WatchItem": 10,
+    "CameraParamName": "StandardGazingPoint"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 22,
+    "UniqueID": 22,
+    "WatchItem": 72,
+    "CameraParamName": "id22"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 23,
+    "UniqueID": 23,
+    "WatchItem": 14,
+    "CameraParamName": "id23"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 24,
+    "UniqueID": 24,
+    "WatchItem": 34,
+    "CameraParamName": "StandardGazingPoint"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 25,
+    "UniqueID": 25,
+    "WatchItem": 68,
+    "CameraParamName": "id25"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 26,
+    "UniqueID": 26,
+    "WatchItem": 12624,
+    "CameraParamName": "StandardGazingPoint"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 27,
+    "UniqueID": 27,
+    "WatchItem": 52,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 28,
+    "UniqueID": 28,
+    "WatchItem": 44,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 29,
+    "UniqueID": 29,
+    "WatchItem": 12621,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 30,
+    "UniqueID": 30,
+    "WatchItem": 48,
+    "CameraParamName": "id30"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 31,
+    "UniqueID": 31,
+    "WatchItem": 46,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 32,
+    "UniqueID": 32,
+    "WatchItem": 12625,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 33,
+    "UniqueID": 33,
+    "WatchItem": 78,
+    "CameraParamName": "id33"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 34,
+    "UniqueID": 34,
+    "WatchItem": 12618,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 35,
+    "UniqueID": 35,
+    "WatchItem": 50,
+    "CameraParamName": "ModernArea"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 36,
+    "UniqueID": 36,
+    "WatchItem": 20,
+    "CameraParamName": "id36"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 37,
+    "UniqueID": 37,
+    "WatchItem": 12622,
+    "CameraParamName": "Japan"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 38,
+    "UniqueID": 38,
+    "WatchItem": 6,
+    "CameraParamName": "Japan"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 39,
+    "UniqueID": 39,
+    "WatchItem": 38,
+    "CameraParamName": "id39id40"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 40,
+    "UniqueID": 40,
+    "WatchItem": 66,
+    "CameraParamName": "id39id40"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 41,
+    "UniqueID": 41,
+    "WatchItem": 76,
+    "CameraParamName": "Japan"
+  },
+  {
+    "StageName*": "IdrMuseumArt_0",
+    "ModelID": 42,
+    "UniqueID": 42,
+    "WatchItem": 12570,
+    "CameraParamName": "Japan"
+  }
+]

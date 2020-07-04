@@ -1,0 +1,77 @@
+[
+  {
+    "UniqueID": 5,
+    "Label": "Orange",
+    "Name": "オレンジ"
+  },
+  {
+    "UniqueID": 1,
+    "Label": "Red",
+    "Name": "レッド"
+  },
+  {
+    "UniqueID": 6,
+    "Label": "Pink",
+    "Name": "ピンク"
+  },
+  {
+    "UniqueID": 7,
+    "Label": "Purple",
+    "Name": "パープル"
+  },
+  {
+    "UniqueID": 3,
+    "Label": "Blue",
+    "Name": "ブルー"
+  },
+  {
+    "UniqueID": 8,
+    "Label": "LightBlue",
+    "Name": "みずいろ"
+  },
+  {
+    "UniqueID": 2,
+    "Label": "Green",
+    "Name": "グリーン"
+  },
+  {
+    "UniqueID": 4,
+    "Label": "Yellow",
+    "Name": "イエロー"
+  },
+  {
+    "UniqueID": 9,
+    "Label": "Beige",
+    "Name": "ベージュ"
+  },
+  {
+    "UniqueID": 10,
+    "Label": "Brown",
+    "Name": "ブラウン"
+  },
+  {
+    "UniqueID": 13,
+    "Label": "Black",
+    "Name": "ブラック"
+  },
+  {
+    "UniqueID": 11,
+    "Label": "Gray",
+    "Name": "グレー"
+  },
+  {
+    "UniqueID": 12,
+    "Label": "White",
+    "Name": "ホワイト"
+  },
+  {
+    "UniqueID": 14,
+    "Label": "Colorful",
+    "Name": "カラフル"
+  },
+  {
+    "UniqueID": 0,
+    "Label": "None",
+    "Name": "なし"
+  }
+]

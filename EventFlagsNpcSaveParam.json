@@ -1,0 +1,344 @@
+[
+  {
+    "DefaultValue": 0,
+    "MaxValue": 200,
+    "UniqueID": 0,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "NnpcHouseLoan",
+    "Name": "ローン返済カウント"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "NnpcHouseBuildOk",
+    "Name": "NPCテント建て替え許可"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 2,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "NnpcHouseBuilt",
+    "Name": "NPCの家建て替え済み"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 3,
+    "Folded_Season": 1,
+    "fa93f14b u8": 0,
+    "Key": "CoordinateUpdate",
+    "Name": "家具配置更新済か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 4,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "Is3rdNpc",
+    "Name": "3人目のNPCか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 5,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "MoveInCompletion",
+    "Name": "引越し完了済みか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 6,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "LastFtrNum",
+    "Name": "最後に配置した家具の数"
+  },
+  {
+    "DefaultValue": 10,
+    "MaxValue": 10,
+    "UniqueID": 7,
+    "Folded_Season": 1,
+    "fa93f14b u8": 0,
+    "Key": "MoveRoomIndex",
+    "Name": "ダンボール部屋表示に使用したテンプレート番号"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 8,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "PlayerNamePhrase",
+    "Name": "口癖はプレイヤーが設定したものか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 9,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "AbandonedHouse",
+    "Name": "自宅を空き家状態にするか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 10,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "InputPhrase",
+    "Name": "口癖を設定した事あるか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 12,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "TalkLifeStart1P1st",
+    "Name": "React_1P_Lifestart発生したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 14,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "FromSettlerQuest",
+    "Name": "住人移住クエストで来たNPCか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 15,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "ChangeFirstWall",
+    "Name": "初期住人用壁紙を変更したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 16,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "ChangeFirstFloor",
+    "Name": "初期住人用床板を変更したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 18,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "GetFirstVillagerWallFtr1",
+    "Name": "初期住人用壁掛け家具１を入手したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 19,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "GetFirstVillagerWallFtr2",
+    "Name": "初期住人用壁掛け家具２を入手したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 20,
+    "Folded_Season": 1,
+    "fa93f14b u8": 0,
+    "Key": "UseAudioType",
+    "Name": "今日使用するオーディオ家具の種類"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 21,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "TalkTransitionTimes",
+    "Name": "序盤→日常移行会話を呼んだ回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 22,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "FinishTalkTransition",
+    "Name": "序盤→日常移行会話を聞き終えたか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 23,
+    "Folded_Season": 1,
+    "fa93f14b u8": 2,
+    "Key": "OutdoorCatnap",
+    "Name": "深夜屋外でのうたた寝判定状況"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 24,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "ForceMoveOut",
+    "Name": "強制的に転出させられるフラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 25,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "EarlyOrLate",
+    "Name": "早起き・夜更かしフラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 16,
+    "UniqueID": 26,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "ContinuousNormalDay",
+    "Name": "平常活動の連続日数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 27,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "React1stNpcPresent",
+    "Name": "React_1P_Lifestartのプレゼント装備の反応発生したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 28,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "IsReFabricSmartPhone",
+    "Name": "スマホ柄に汎用布地を使うか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 29,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "MarketBuildingSupport",
+    "Name": "お店の資材集め応援会話発生したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 32,
+    "Folded_Season": 1,
+    "fa93f14b u8": 2,
+    "Key": "NnpcHouseBuiltToday",
+    "Name": "NPCの家建て替え済み当日"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 35,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "AppE_Happen1st",
+    "Name": "このNPCの評判UP応援アプローチ会話発生済か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 36,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "AppE_GetItem1st",
+    "Name": "このNPCの評判UP応援アイテムもらったことあるか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 37,
+    "Folded_Season": 1,
+    "fa93f14b u8": 2,
+    "Key": "AppE_Rep_HappenToday",
+    "Name": "今日このNPCの評判UP応援アプローチ会話発生済か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 38,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "AppE_WelcomoMigrants",
+    "Name": "このNPCはAppE_WelcomoMigrants発生済か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 40,
+    "Folded_Season": 1,
+    "fa93f14b u8": 2,
+    "Key": "AppE_WelcomeMigrantsToday",
+    "Name": "このNPCのAppE_WelcomeMigrants発生当日か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 41,
+    "Folded_Season": 0,
+    "fa93f14b u8": 0,
+    "Key": "MoveInOrder",
+    "Name": "土地売約済み状態のNPCの転入順"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 42,
+    "Folded_Season": 1,
+    "fa93f14b u8": 2,
+    "Key": "EquipEasterWear",
+    "Name": "イースター用装備にする"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 43,
+    "Folded_Season": 1,
+    "fa93f14b u8": 0,
+    "Key": "ForceMoveOutVillagerIndex",
+    "Name": "強制転出に指定した住人番号"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 44,
+    "Folded_Season": 0,
+    "fa93f14b u8": 2,
+    "Key": "DisplayJuneBridePresent",
+    "Name": "ジューンブライド | 絵皿を飾るか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 7,
+    "UniqueID": 45,
+    "Folded_Season": 0,
+    "fa93f14b u8": 1,
+    "Key": "ProgressDaysJuneBrideParty",
+    "Name": "ジューンブライド | 結婚パーティに参加してからの経過日数"
+  }
+]

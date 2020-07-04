@@ -1,0 +1,82 @@
+[
+  {
+    "UniqueID": 0,
+    "Name": "未設定"
+  },
+  {
+    "UniqueID": 1,
+    "Name": "汎用"
+  },
+  {
+    "UniqueID": 2,
+    "Name": "草"
+  },
+  {
+    "UniqueID": 3,
+    "Name": "水面"
+  },
+  {
+    "UniqueID": 4,
+    "Name": "砂浜"
+  },
+  {
+    "UniqueID": 5,
+    "Name": "茶土"
+  },
+  {
+    "UniqueID": 10,
+    "Name": "砂利"
+  },
+  {
+    "UniqueID": 11,
+    "Name": "雪"
+  },
+  {
+    "UniqueID": 13,
+    "Name": "灰石"
+  },
+  {
+    "UniqueID": 14,
+    "Name": "畑土"
+  },
+  {
+    "UniqueID": 15,
+    "Name": "湿った砂浜"
+  },
+  {
+    "UniqueID": 16,
+    "Name": "レンガ"
+  },
+  {
+    "UniqueID": 17,
+    "Name": "タイル"
+  },
+  {
+    "UniqueID": 18,
+    "Name": "木"
+  },
+  {
+    "UniqueID": 19,
+    "Name": "扇石"
+  },
+  {
+    "UniqueID": 20,
+    "Name": "泥沼"
+  },
+  {
+    "UniqueID": 21,
+    "Name": "砂"
+  },
+  {
+    "UniqueID": 22,
+    "Name": "溶岩"
+  },
+  {
+    "UniqueID": 24,
+    "Name": "穴"
+  },
+  {
+    "UniqueID": 25,
+    "Name": "マイデザイン"
+  }
+]

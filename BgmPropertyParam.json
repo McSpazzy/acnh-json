@@ -1,0 +1,102 @@
+[
+  {
+    "UniqueID": 2,
+    "Label": "Evfl_InsectFesState"
+  },
+  {
+    "UniqueID": 4,
+    "Label": "GetDemoState"
+  },
+  {
+    "UniqueID": 5,
+    "Label": "Evfl_TreasureHuntState"
+  },
+  {
+    "UniqueID": 6,
+    "Label": "Evfl_PrologueTKKState"
+  },
+  {
+    "UniqueID": 7,
+    "Label": "CompFanfareState"
+  },
+  {
+    "UniqueID": 8,
+    "Label": "DIYFanfareState"
+  },
+  {
+    "UniqueID": 9,
+    "Label": "EmergencyEscapeDemoState"
+  },
+  {
+    "UniqueID": 10,
+    "Label": "CalendarEvent"
+  },
+  {
+    "UniqueID": 12,
+    "Label": "BeeStingsState"
+  },
+  {
+    "UniqueID": 13,
+    "Label": "UnluckyFanfareLoop"
+  },
+  {
+    "UniqueID": 14,
+    "Label": "UnluckyFanfare"
+  },
+  {
+    "UniqueID": 15,
+    "Label": "NetDemoState"
+  },
+  {
+    "UniqueID": 16,
+    "Label": "AnnounceDemoState"
+  },
+  {
+    "UniqueID": 17,
+    "Label": "PrologueDemoState"
+  },
+  {
+    "UniqueID": 18,
+    "Label": "MosquitoBitesState"
+  },
+  {
+    "UniqueID": 19,
+    "Label": "NewYearDemoState"
+  },
+  {
+    "UniqueID": 21,
+    "Label": "GetDemoState_Bee"
+  },
+  {
+    "UniqueID": 22,
+    "Label": "PrologueBgmPhase"
+  },
+  {
+    "UniqueID": 23,
+    "Label": "SceneType"
+  },
+  {
+    "UniqueID": 24,
+    "Label": "BgmPauseState"
+  },
+  {
+    "UniqueID": 25,
+    "Label": "CampfireBgmState"
+  },
+  {
+    "UniqueID": 27,
+    "Label": "PitfallBgmState"
+  },
+  {
+    "UniqueID": 28,
+    "Label": "JuneBrideTalkDemoState"
+  },
+  {
+    "UniqueID": 29,
+    "Label": "JuneBrideWeddingDemoState"
+  },
+  {
+    "UniqueID": 30,
+    "Label": "JuneBrideStudioState"
+  }
+]

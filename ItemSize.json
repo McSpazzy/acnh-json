@@ -1,0 +1,262 @@
+[
+  {
+    "801351e6 f32": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 2,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 2,
+    "Label": "1_0x1_0",
+    "Name": "1x1"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 2400,
+    "UniqueID": 4,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 2,
+    "Label": "2_0x1_0",
+    "Name": "2x1"
+  },
+  {
+    "801351e6 f32": 6.3,
+    "MemoryUnitNum": 4,
+    "PolygonLimit": 4800,
+    "UniqueID": 5,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 4,
+    "Label": "2_0x2_0",
+    "Name": "2x2"
+  },
+  {
+    "801351e6 f32": 4.725,
+    "MemoryUnitNum": 3,
+    "PolygonLimit": 3600,
+    "UniqueID": 13,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 2,
+    "Label": "3_0x1_0",
+    "Name": "3x1"
+  },
+  {
+    "801351e6 f32": 9.45,
+    "MemoryUnitNum": 6,
+    "PolygonLimit": 7200,
+    "UniqueID": 6,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 4,
+    "Label": "3_0x2_0",
+    "Name": "3x2"
+  },
+  {
+    "801351e6 f32": 14.175,
+    "MemoryUnitNum": 9,
+    "PolygonLimit": 10800,
+    "UniqueID": 7,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 6,
+    "Label": "3_0x3_0",
+    "Name": "3x3"
+  },
+  {
+    "801351e6 f32": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 1,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 1,
+    "Label": "1_0x0_5",
+    "Name": "1x0.5"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 2400,
+    "UniqueID": 3,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 1,
+    "Label": "2_0x0_5",
+    "Name": "2x0.5"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 3,
+    "PolygonLimit": 2700,
+    "UniqueID": 22,
+    "HalfUnitSizeX": 3,
+    "HalfUnitSizeZ": 3,
+    "Label": "1_5x1_5",
+    "Name": "1.5x1.5"
+  },
+  {
+    "801351e6 f32": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 25,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 1,
+    "Label": "1_0x0_5_Wall",
+    "Name": "1x0.5(壁)"
+  },
+  {
+    "801351e6 f32": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 24,
+    "HalfUnitSizeX": 1,
+    "HalfUnitSizeZ": 2,
+    "Label": "0_5x1_0_Wall",
+    "Name": "0.5x1(壁)"
+  },
+  {
+    "801351e6 f32": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 26,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 2,
+    "Label": "1_0x1_0_Wall",
+    "Name": "1x1(壁)"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 2400,
+    "UniqueID": 9,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 3,
+    "Label": "1_0x1_5_Wall",
+    "Name": "1x1.5 (壁)"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 2400,
+    "UniqueID": 8,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 4,
+    "Label": "1_0x2_0_Wall",
+    "Name": "1x2　 (壁)"
+  },
+  {
+    "801351e6 f32": 3.15,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 2400,
+    "UniqueID": 27,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 2,
+    "Label": "2_0x1_0_Wall",
+    "Name": "2x1(壁)"
+  },
+  {
+    "801351e6 f32": 6.3,
+    "MemoryUnitNum": 4,
+    "PolygonLimit": 4800,
+    "UniqueID": 12,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 3,
+    "Label": "2_0x1_5_Wall",
+    "Name": "2x1.5 (壁)"
+  },
+  {
+    "801351e6 f32": 6.3,
+    "MemoryUnitNum": 4,
+    "PolygonLimit": 4800,
+    "UniqueID": 34,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 4,
+    "Label": "2_0x2_0_Wall",
+    "Name": "2x2(壁)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1000,
+    "UniqueID": 33,
+    "HalfUnitSizeX": 2,
+    "HalfUnitSizeZ": 2,
+    "Label": "1_0x1_0_Rug",
+    "Name": "1x1(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 1000,
+    "UniqueID": 21,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 2,
+    "Label": "2_0x1_0_Rug",
+    "Name": "2x1(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 4,
+    "PolygonLimit": 1000,
+    "UniqueID": 19,
+    "HalfUnitSizeX": 4,
+    "HalfUnitSizeZ": 4,
+    "Label": "2_0x2_0_Rug",
+    "Name": "2x2(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 6,
+    "PolygonLimit": 1000,
+    "UniqueID": 20,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 4,
+    "Label": "3_0x2_0_Rug",
+    "Name": "3x2(ラグ）"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 9,
+    "PolygonLimit": 1000,
+    "UniqueID": 18,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 6,
+    "Label": "3_0x3_0_Rug",
+    "Name": "3x3(ラグ）"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 12,
+    "PolygonLimit": 1000,
+    "UniqueID": 16,
+    "HalfUnitSizeX": 8,
+    "HalfUnitSizeZ": 6,
+    "Label": "4_0x3_0_Rug",
+    "Name": "4x3(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 16,
+    "PolygonLimit": 1000,
+    "UniqueID": 14,
+    "HalfUnitSizeX": 8,
+    "HalfUnitSizeZ": 8,
+    "Label": "4_0x4_0_Rug",
+    "Name": "4x4(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 20,
+    "PolygonLimit": 1000,
+    "UniqueID": 31,
+    "HalfUnitSizeX": 10,
+    "HalfUnitSizeZ": 8,
+    "Label": "5_0x4_0_Rug",
+    "Name": "5x4(ラグ)"
+  },
+  {
+    "801351e6 f32": 7.0,
+    "MemoryUnitNum": 25,
+    "PolygonLimit": 1000,
+    "UniqueID": 32,
+    "HalfUnitSizeX": 10,
+    "HalfUnitSizeZ": 10,
+    "Label": "5_0x5_0_Rug",
+    "Name": "5x5(ラグ)"
+  }
+]

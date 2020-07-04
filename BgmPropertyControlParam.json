@@ -1,0 +1,518 @@
+[
+  {
+    "PropertyID": 2,
+    "UniqueID": 2,
+    "Value": 1,
+    "Name": "ムシとり大会：1_開始準備"
+  },
+  {
+    "PropertyID": 2,
+    "UniqueID": 3,
+    "Value": 0,
+    "Name": "ムシとり大会：3_終了"
+  },
+  {
+    "PropertyID": 2,
+    "UniqueID": 5,
+    "Value": 2,
+    "Name": "ムシとり大会：2_開始"
+  },
+  {
+    "PropertyID": 4,
+    "UniqueID": 7,
+    "Value": 1,
+    "Name": "ゲットファンファーレ：1_BGM開始準備"
+  },
+  {
+    "PropertyID": 4,
+    "UniqueID": 8,
+    "Value": 0,
+    "Name": "ゲットファンファーレ：2_ダッキング終了"
+  },
+  {
+    "PropertyID": 5,
+    "UniqueID": 11,
+    "Value": 1,
+    "Name": "宝さがし：1_開始準備"
+  },
+  {
+    "PropertyID": 5,
+    "UniqueID": 12,
+    "Value": 2,
+    "Name": "宝さがし：2_開始"
+  },
+  {
+    "PropertyID": 5,
+    "UniqueID": 13,
+    "Value": 0,
+    "Name": "宝さがし：3_終了"
+  },
+  {
+    "PropertyID": 6,
+    "UniqueID": 14,
+    "Value": 1,
+    "Name": "とたけけの夢：1_ギターあり"
+  },
+  {
+    "PropertyID": 6,
+    "UniqueID": 15,
+    "Value": 0,
+    "Name": "とたけけの夢：3_終了"
+  },
+  {
+    "PropertyID": 7,
+    "UniqueID": 16,
+    "Value": 1,
+    "Name": "コンプファンファーレ：1_開始"
+  },
+  {
+    "PropertyID": 7,
+    "UniqueID": 17,
+    "Value": 0,
+    "Name": "コンプファンファーレ：2_終了"
+  },
+  {
+    "PropertyID": 6,
+    "UniqueID": 18,
+    "Value": 2,
+    "Name": "とたけけの夢：2_ギターなし"
+  },
+  {
+    "PropertyID": 8,
+    "UniqueID": 19,
+    "Value": 1,
+    "Name": "作業台デモ：1_BGM開始準備"
+  },
+  {
+    "PropertyID": 8,
+    "UniqueID": 20,
+    "Value": 2,
+    "Name": "作業台デモ：2_BGM開始"
+  },
+  {
+    "PropertyID": 8,
+    "UniqueID": 21,
+    "Value": 3,
+    "Name": "作業台デモ：3_BGM終了"
+  },
+  {
+    "PropertyID": 8,
+    "UniqueID": 22,
+    "Value": 0,
+    "Name": "作業台デモ：4_ダッキング終了"
+  },
+  {
+    "PropertyID": 4,
+    "UniqueID": 24,
+    "Value": 2,
+    "Name": "ゲットファンファーレ：2_BGM開始"
+  },
+  {
+    "PropertyID": 4,
+    "UniqueID": 25,
+    "Value": 3,
+    "Name": "ゲットファンファーレ：3_BGM終了"
+  },
+  {
+    "PropertyID": 9,
+    "UniqueID": 26,
+    "Value": 1,
+    "Name": "緊急脱出デモ：1_BGM開始"
+  },
+  {
+    "PropertyID": 9,
+    "UniqueID": 27,
+    "Value": 3,
+    "Name": "緊急脱出デモ：3_脱出完了"
+  },
+  {
+    "PropertyID": 9,
+    "UniqueID": 28,
+    "Value": 2,
+    "Name": "緊急脱出デモ：2_脱出前"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 29,
+    "Value": 0,
+    "Name": "カレンダーイベント：無し"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 30,
+    "Value": 21,
+    "Name": "カレンダーイベント：カウントダウン開始"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 31,
+    "Value": 5,
+    "Name": "カレンダーイベント：ムシとり大会1回目開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 32,
+    "Value": 6,
+    "Name": "カレンダーイベント：ムシとり大会2回目開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 33,
+    "Value": 7,
+    "Name": "カレンダーイベント：ムシとり大会3回目開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 34,
+    "Value": 8,
+    "Name": "カレンダーイベント：ムシとり大会4回目開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 35,
+    "Value": 1,
+    "Name": "カレンダーイベント：春のつり大会開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 36,
+    "Value": 2,
+    "Name": "カレンダーイベント：夏のつり大会開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 37,
+    "Value": 3,
+    "Name": "カレンダーイベント：秋のつり大会開催"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 38,
+    "Value": 4,
+    "Name": "カレンダーイベント：冬のつり大会開催"
+  },
+  {
+    "PropertyID": 12,
+    "UniqueID": 39,
+    "Value": 1,
+    "Name": "ハチ刺され：1_ハチの巣落下_逃亡"
+  },
+  {
+    "PropertyID": 12,
+    "UniqueID": 40,
+    "Value": 2,
+    "Name": "ハチ刺され：2_ハチに刺された"
+  },
+  {
+    "PropertyID": 13,
+    "UniqueID": 41,
+    "Value": 1,
+    "Name": "しょぼんファンファーレ_ループ：1_再生"
+  },
+  {
+    "PropertyID": 13,
+    "UniqueID": 42,
+    "Value": 0,
+    "Name": "しょぼんファンファーレ_ループ：2_終了"
+  },
+  {
+    "PropertyID": 12,
+    "UniqueID": 43,
+    "Value": 0,
+    "Name": "ハチ刺され：0_BGM終了"
+  },
+  {
+    "PropertyID": 14,
+    "UniqueID": 44,
+    "Value": 1,
+    "Name": "しょぼんファンファーレ：1_再生"
+  },
+  {
+    "PropertyID": 14,
+    "UniqueID": 45,
+    "Value": 0,
+    "Name": "しょぼんファンファーレ：2_終了"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 46,
+    "Value": 0,
+    "Name": "おでかけデモ：0_再生しない"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 47,
+    "Value": 1,
+    "Name": "おでかけデモ：1_ビジター出発直前"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 48,
+    "Value": 2,
+    "Name": "おでかけデモ：2_ビジター飛行中"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 49,
+    "Value": 3,
+    "Name": "おでかけデモ：3_ホスト待ち演出"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 50,
+    "Value": 4,
+    "Name": "おでかけデモ：4_ホスト到着"
+  },
+  {
+    "PropertyID": 16,
+    "UniqueID": 51,
+    "Value": 0,
+    "Name": "村内放送：0_再生しない"
+  },
+  {
+    "PropertyID": 16,
+    "UniqueID": 52,
+    "Value": 1,
+    "Name": "村内放送：1_村内放送たぬきちBGM開始"
+  },
+  {
+    "PropertyID": 16,
+    "UniqueID": 53,
+    "Value": 2,
+    "Name": "村内放送：2_村内放送しずえBGM開始"
+  },
+  {
+    "PropertyID": 17,
+    "UniqueID": 54,
+    "Value": 0,
+    "Name": "プロローグデモ：0_再生しない"
+  },
+  {
+    "PropertyID": 17,
+    "UniqueID": 55,
+    "Value": 1,
+    "Name": "プロローグデモ：1_カウンターBGM開始"
+  },
+  {
+    "PropertyID": 18,
+    "UniqueID": 56,
+    "Value": 0,
+    "Name": "蚊さされデモ：0_終了"
+  },
+  {
+    "PropertyID": 18,
+    "UniqueID": 57,
+    "Value": 1,
+    "Name": "蚊さされデモ：1_開始"
+  },
+  {
+    "PropertyID": 9,
+    "UniqueID": 58,
+    "Value": 4,
+    "Name": "緊急脱出デモ：4_キャンセル"
+  },
+  {
+    "PropertyID": 12,
+    "UniqueID": 59,
+    "Value": 3,
+    "Name": "ハチ刺され：3_屋内に逃亡"
+  },
+  {
+    "PropertyID": 19,
+    "UniqueID": 60,
+    "Value": 0,
+    "Name": "年明けデモ：0_終了"
+  },
+  {
+    "PropertyID": 19,
+    "UniqueID": 61,
+    "Value": 1,
+    "Name": "年明けデモ：1_再生"
+  },
+  {
+    "PropertyID": 21,
+    "UniqueID": 63,
+    "Value": 1,
+    "Name": "ゲットファンファーレ_追撃するハチ用：1_BGM開始準備"
+  },
+  {
+    "PropertyID": 21,
+    "UniqueID": 64,
+    "Value": 0,
+    "Name": "ゲットファンファーレ_追撃するハチ用：4_ダッキング終了"
+  },
+  {
+    "PropertyID": 21,
+    "UniqueID": 65,
+    "Value": 2,
+    "Name": "ゲットファンファーレ_追撃するハチ用：2_BGM開始"
+  },
+  {
+    "PropertyID": 21,
+    "UniqueID": 66,
+    "Value": 3,
+    "Name": "ゲットファンファーレ_追撃するハチ用：3_BGM終了"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 67,
+    "Value": 1,
+    "Name": "序盤BGM：1_自宅場所決め"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 68,
+    "Value": 2,
+    "Name": "序盤BGM：2_NPC宅場所決め"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 69,
+    "Value": 3,
+    "Name": "序盤BGM：3_枝と果物集め"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 70,
+    "Value": 4,
+    "Name": "序盤BGM：4_キャンプファイヤー"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 71,
+    "Value": 5,
+    "Name": "序盤BGM：5_オートセーブ解禁から自宅建設まで"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 72,
+    "Value": 6,
+    "Name": "序盤BGM：6_自宅建設から商店完成まで"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 73,
+    "Value": 7,
+    "Name": "序盤BGM：7_商店完成から案内所完成まで"
+  },
+  {
+    "PropertyID": 22,
+    "UniqueID": 74,
+    "Value": 0,
+    "Name": "序盤BGM：0_再生しない"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 75,
+    "Value": 5,
+    "Name": "おでかけデモ：5_DALロゴ_行き"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 76,
+    "Value": 6,
+    "Name": "おでかけデモ：6_DALロゴ_帰り"
+  },
+  {
+    "PropertyID": 23,
+    "UniqueID": 77,
+    "Value": 0,
+    "Name": "シーンBGM：再生しない"
+  },
+  {
+    "PropertyID": 24,
+    "UniqueID": 78,
+    "Value": 1,
+    "Name": "BGM一時停止：1_停止"
+  },
+  {
+    "PropertyID": 24,
+    "UniqueID": 79,
+    "Value": 0,
+    "Name": "BGM一時停止：0_解除"
+  },
+  {
+    "PropertyID": 25,
+    "UniqueID": 80,
+    "Value": 0,
+    "Name": "キャンプファイヤー：0_再生しない"
+  },
+  {
+    "PropertyID": 25,
+    "UniqueID": 81,
+    "Value": 1,
+    "Name": "キャンプファイヤー：1_再生"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 84,
+    "Value": 7,
+    "Name": "おひらきデモ：7_ビジター空港"
+  },
+  {
+    "PropertyID": 15,
+    "UniqueID": 85,
+    "Value": 8,
+    "Name": "おひらきデモ：8_ホスト空港"
+  },
+  {
+    "PropertyID": 27,
+    "UniqueID": 86,
+    "Value": 0,
+    "Name": "落とし穴：0_解除"
+  },
+  {
+    "PropertyID": 27,
+    "UniqueID": 87,
+    "Value": 1,
+    "Name": "落とし穴：1_落とし穴にはまった"
+  },
+  {
+    "PropertyID": 23,
+    "UniqueID": 88,
+    "Value": 1,
+    "Name": "シーンBGM：メインフィールド"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 89,
+    "Value": 25,
+    "Name": "カレンダーイベント：イースター当日"
+  },
+  {
+    "PropertyID": 28,
+    "UniqueID": 90,
+    "Value": 0,
+    "Name": "ジューンブライド会話デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 28,
+    "UniqueID": 91,
+    "Value": 1,
+    "Name": "ジューンブライド会話デモ：1_再生"
+  },
+  {
+    "PropertyID": 29,
+    "UniqueID": 92,
+    "Value": 0,
+    "Name": "ジューンブライド挙式デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 29,
+    "UniqueID": 93,
+    "Value": 1,
+    "Name": "ジューンブライド挙式デモ：1_再生開始"
+  },
+  {
+    "PropertyID": 30,
+    "UniqueID": 94,
+    "Value": 0,
+    "Name": "ジューンブライド撮影スタジオ：0_通常"
+  },
+  {
+    "PropertyID": 30,
+    "UniqueID": 95,
+    "Value": 1,
+    "Name": "ジューンブライド撮影スタジオ：1_初回"
+  }
+]

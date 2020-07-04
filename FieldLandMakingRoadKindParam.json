@@ -1,0 +1,47 @@
+[
+  {
+    "GroundAttributeUniqueID": 0,
+    "InnerType": 0,
+    "MessageLabel": "001"
+  },
+  {
+    "GroundAttributeUniqueID": 29,
+    "InnerType": 6,
+    "MessageLabel": "002"
+  },
+  {
+    "GroundAttributeUniqueID": 30,
+    "InnerType": 2,
+    "MessageLabel": "003"
+  },
+  {
+    "GroundAttributeUniqueID": 36,
+    "InnerType": 7,
+    "MessageLabel": "004"
+  },
+  {
+    "GroundAttributeUniqueID": 34,
+    "InnerType": 8,
+    "MessageLabel": "005"
+  },
+  {
+    "GroundAttributeUniqueID": 39,
+    "InnerType": 9,
+    "MessageLabel": "006"
+  },
+  {
+    "GroundAttributeUniqueID": 35,
+    "InnerType": 10,
+    "MessageLabel": "007"
+  },
+  {
+    "GroundAttributeUniqueID": 38,
+    "InnerType": 11,
+    "MessageLabel": "008"
+  },
+  {
+    "GroundAttributeUniqueID": 37,
+    "InnerType": 12,
+    "MessageLabel": "009"
+  }
+]

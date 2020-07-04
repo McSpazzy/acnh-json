@@ -1,0 +1,772 @@
+[
+  {
+    "SelectSecond": 15,
+    "UniqueID": 0,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "rco",
+    "SelectRate": 20,
+    "StartHour": 21,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 1,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "rco",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 17,
+    "UniqueID": 2,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "sza",
+    "SelectRate": 20,
+    "StartHour": 20,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 17,
+    "UniqueID": 4,
+    "ASCommand": "NpcSpSzaBrushHair",
+    "EndHour": 24,
+    "Label": "sza",
+    "SelectRate": 30,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 5,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "dod",
+    "SelectRate": 20,
+    "StartHour": 22,
+    "Type": "\u0004"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 6,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "doc",
+    "SelectRate": 20,
+    "StartHour": 22,
+    "Type": "\u0005"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 7,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "doc",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0005"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 9,
+    "ASCommand": "HgcDrawWait",
+    "EndHour": 24,
+    "Label": "hgc",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 10,
+    "ASCommand": "BeyMeddle",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 11,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "bey",
+    "SelectRate": 20,
+    "StartHour": 19,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 12,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 13,
+    "ASCommand": "BocSneezing",
+    "EndHour": 24,
+    "Label": "boc",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 14,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 24,
+    "Label": "cml",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 15,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "cml",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 16,
+    "ASCommand": "SkkCoinPlay",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 17,
+    "ASCommand": "NpcSpArrangeShort",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 18,
+    "ASCommand": "NpcSpCoolWait",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 30,
+    "UniqueID": 19,
+    "ASCommand": "NpcSpHgsWipeFace",
+    "EndHour": 24,
+    "Label": "hgs",
+    "SelectRate": 70,
+    "StartHour": 0,
+    "Type": "\u0003"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 20,
+    "ASCommand": "NpcSpArrangeShort",
+    "EndHour": 24,
+    "Label": "hgh",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 21,
+    "ASCommand": "NpcSpHghApron",
+    "EndHour": 24,
+    "Label": "hgh",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 22,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "rcm",
+    "SelectRate": 20,
+    "StartHour": 20,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 23,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "rct",
+    "SelectRate": 20,
+    "StartHour": 20,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 24,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "rcm",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 25,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 26,
+    "ASCommand": "NpcSpCoolWait",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 27,
+    "ASCommand": "ChyNetSwingSp",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 30,
+    "UniqueID": 28,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 18,
+    "Label": "owl",
+    "SelectRate": 20,
+    "StartHour": 5,
+    "Type": "\u0002"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 29,
+    "ASCommand": "ChyNetAimKeep",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 30,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 31,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 32,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "rcm",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 33,
+    "ASCommand": "NpcSpHghBrushHair",
+    "EndHour": 24,
+    "Label": "hgh",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 30,
+    "UniqueID": 35,
+    "ASCommand": "NpcSpHgsMeddle",
+    "EndHour": 24,
+    "Label": "hgs",
+    "SelectRate": 70,
+    "StartHour": 0,
+    "Type": "\u0003"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 36,
+    "ASCommand": "NpcSpLookUp",
+    "EndHour": 4,
+    "Label": "ows",
+    "SelectRate": 80,
+    "StartHour": 19,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 37,
+    "ASCommand": "ShootingStarMakeAWish",
+    "EndHour": 4,
+    "Label": "ows",
+    "SelectRate": 80,
+    "StartHour": 19,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 39,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "dod",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0004"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 40,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 41,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "rcm",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 42,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "rco",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 17,
+    "UniqueID": 43,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "sza",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 44,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 45,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 46,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "dod",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0004"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 47,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "doc",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0005"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 48,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "hgh",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 49,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 30,
+    "UniqueID": 50,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "spn",
+    "SelectRate": 20,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 30,
+    "UniqueID": 51,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "spn",
+    "SelectRate": 20,
+    "StartHour": 21,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 52,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 24,
+    "Label": "boc",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 55,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 6,
+    "Label": "rco",
+    "SelectRate": 50,
+    "StartHour": 21,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 56,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 7,
+    "Label": "doc",
+    "SelectRate": 50,
+    "StartHour": 22,
+    "Type": "\u0005"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 57,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 7,
+    "Label": "dod",
+    "SelectRate": 50,
+    "StartHour": 22,
+    "Type": "\u0004"
+  },
+  {
+    "SelectSecond": 17,
+    "UniqueID": 58,
+    "ASCommand": "NpcSpSzaBrushHair",
+    "EndHour": 7,
+    "Label": "sza",
+    "SelectRate": 30,
+    "StartHour": 20,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 59,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 60,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 61,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "rct",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 62,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "rct",
+    "SelectRate": 80,
+    "StartHour": 20,
+    "Type": "\u0007"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 63,
+    "ASCommand": "NpcSpCoolWait",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 64,
+    "ASCommand": "ChyNetAimKeep",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 65,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 66,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "bey",
+    "SelectRate": 80,
+    "StartHour": 19,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 67,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 68,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 69,
+    "ASCommand": "BeyMeddle",
+    "EndHour": 24,
+    "Label": "bey",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 70,
+    "ASCommand": "ChyNetSwingSp",
+    "EndHour": 24,
+    "Label": "chy",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 71,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 21,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 72,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 73,
+    "ASCommand": "NpcSpHghApron",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 74,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 75,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 76,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 77,
+    "ASCommand": "BocSneezing",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": "\b"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 78,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 24,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 79,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 80,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 81,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": "\u0001"
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 82,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 6,
+    "Label": "fox",
+    "SelectRate": 10,
+    "StartHour": 24,
+    "Type": "\b"
+  }
+]

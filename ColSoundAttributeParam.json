@@ -1,0 +1,90 @@
+[
+  {
+    "UniqueID": 0,
+    "Name": "未設定"
+  },
+  {
+    "UniqueID": 1,
+    "Name": "無音"
+  },
+  {
+    "UniqueID": 2,
+    "Name": "草"
+  },
+  {
+    "UniqueID": 4,
+    "Name": "砂"
+  },
+  {
+    "UniqueID": 5,
+    "Name": "木(分厚い)"
+  },
+  {
+    "UniqueID": 6,
+    "Name": "木(薄い)"
+  },
+  {
+    "UniqueID": 7,
+    "Name": "土(固い)"
+  },
+  {
+    "UniqueID": 8,
+    "Name": "土(やわらかい)"
+  },
+  {
+    "UniqueID": 9,
+    "Name": "石(屋外)"
+  },
+  {
+    "UniqueID": 10,
+    "Name": "大理石"
+  },
+  {
+    "UniqueID": 11,
+    "Name": "コーティング床"
+  },
+  {
+    "UniqueID": 12,
+    "Name": "砂利"
+  },
+  {
+    "UniqueID": 13,
+    "Name": "落ち葉"
+  },
+  {
+    "UniqueID": 14,
+    "Name": "雪"
+  },
+  {
+    "UniqueID": 15,
+    "Name": "じゅうたん"
+  },
+  {
+    "UniqueID": 16,
+    "Name": "たたみ"
+  },
+  {
+    "UniqueID": 17,
+    "Name": "鉄"
+  },
+  {
+    "UniqueID": 44,
+    "Name": "ボヨヨン"
+  },
+  {
+    "UniqueID": 45,
+    "Name": "家具汎用"
+  },
+  {
+    "UniqueID": 47,
+    "Name": "テント"
+  },
+  {
+    "UniqueID": 49,
+    "Name": "植物"
+  },
+  {
+    "UniqueID": 50,
+    "Name": "水面"
+  }
+]

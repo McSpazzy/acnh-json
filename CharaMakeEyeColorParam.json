@@ -1,0 +1,50 @@
+[
+  {
+    "BaseColorB": 0.03,
+    "BaseColorG": 0.03,
+    "BaseColorR": 0.03,
+    "UniqueID": 0,
+    "Label": "EyeColor0",
+    "Name": "EyeColor0"
+  },
+  {
+    "BaseColorB": 0.016,
+    "BaseColorG": 0.04,
+    "BaseColorR": 0.08,
+    "UniqueID": 1,
+    "Label": "EyeColor1",
+    "Name": "EyeColor1"
+  },
+  {
+    "BaseColorB": 0.12,
+    "BaseColorG": 0.11,
+    "BaseColorR": 0.016,
+    "UniqueID": 2,
+    "Label": "EyeColor2",
+    "Name": "EyeColor2"
+  },
+  {
+    "BaseColorB": 0.05,
+    "BaseColorG": 0.1,
+    "BaseColorR": 0.07,
+    "UniqueID": 3,
+    "Label": "EyeColor3",
+    "Name": "EyeColor3"
+  },
+  {
+    "BaseColorB": 0.18,
+    "BaseColorG": 0.05,
+    "BaseColorR": 0.016,
+    "UniqueID": 4,
+    "Label": "EyeColor4",
+    "Name": "EyeColor4"
+  },
+  {
+    "BaseColorB": 0.1,
+    "BaseColorG": 0.08,
+    "BaseColorR": 0.08,
+    "UniqueID": 5,
+    "Label": "EyeColor5",
+    "Name": "EyeColor5"
+  }
+]

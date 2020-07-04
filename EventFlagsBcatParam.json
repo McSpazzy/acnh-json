@@ -1,0 +1,11 @@
+[
+  {
+    "FlagLand": 293,
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 0,
+    "fa93f14b u8": 1,
+    "Key": "BCAT_EventFlag_000",
+    "Name": "イースター解禁"
+  }
+]

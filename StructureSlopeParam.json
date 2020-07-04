@@ -1,0 +1,56 @@
+[
+  {
+    "ItemNameUniqueID": 5863,
+    "UniqueID": 0,
+    "JpName": "石坂",
+    "ModelName": "SlopeStoneStair"
+  },
+  {
+    "ItemNameUniqueID": 5864,
+    "UniqueID": 1,
+    "JpName": "鉄の階段",
+    "ModelName": "SlopeIronStair"
+  },
+  {
+    "ItemNameUniqueID": 5865,
+    "UniqueID": 2,
+    "JpName": "木の坂",
+    "ModelName": "SlopeWood"
+  },
+  {
+    "ItemNameUniqueID": 5867,
+    "UniqueID": 3,
+    "JpName": "木の階段",
+    "ModelName": "SlopeWoodStair"
+  },
+  {
+    "ItemNameUniqueID": 5870,
+    "UniqueID": 4,
+    "JpName": "レンガの階段",
+    "ModelName": "SlopeBrickStair"
+  },
+  {
+    "ItemNameUniqueID": 5871,
+    "UniqueID": 5,
+    "JpName": "坂建設予定地",
+    "ModelName": "SlopeReserved"
+  },
+  {
+    "ItemNameUniqueID": 5866,
+    "UniqueID": 29,
+    "JpName": "自然な坂",
+    "ModelName": "SlopeNatural"
+  },
+  {
+    "ItemNameUniqueID": 5868,
+    "UniqueID": 30,
+    "JpName": "木の坂青",
+    "ModelName": "SlopeWoodBlue"
+  },
+  {
+    "ItemNameUniqueID": 5869,
+    "UniqueID": 31,
+    "JpName": "鉄の階段青",
+    "ModelName": "SlopeIronStairBlue"
+  }
+]

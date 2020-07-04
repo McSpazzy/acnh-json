@@ -1,0 +1,366 @@
+[
+  {
+    "UniqueID": 0,
+    "Label": "Eye0",
+    "Name": "Eye0",
+    "ResName": "PlayerEye00",
+    "StungResName": "PlayerEyeBite00"
+  },
+  {
+    "UniqueID": 1,
+    "Label": "Eye1",
+    "Name": "Eye1",
+    "ResName": "PlayerEye01",
+    "StungResName": "PlayerEyeBite01"
+  },
+  {
+    "UniqueID": 2,
+    "Label": "Eye2",
+    "Name": "Eye2",
+    "ResName": "PlayerEye02",
+    "StungResName": "PlayerEyeBite02"
+  },
+  {
+    "UniqueID": 3,
+    "Label": "Eye3",
+    "Name": "Eye3",
+    "ResName": "PlayerEye03",
+    "StungResName": "PlayerEyeBite03"
+  },
+  {
+    "UniqueID": 4,
+    "Label": "Eye4",
+    "Name": "Eye4",
+    "ResName": "PlayerEye04",
+    "StungResName": "PlayerEyeBite04"
+  },
+  {
+    "UniqueID": 5,
+    "Label": "Eye5",
+    "Name": "Eye5",
+    "ResName": "PlayerEye05",
+    "StungResName": "PlayerEyeBite05"
+  },
+  {
+    "UniqueID": 6,
+    "Label": "Eye6",
+    "Name": "Eye6",
+    "ResName": "PlayerEye06",
+    "StungResName": "PlayerEyeBite06"
+  },
+  {
+    "UniqueID": 7,
+    "Label": "Eye7",
+    "Name": "Eye7",
+    "ResName": "PlayerEye07",
+    "StungResName": "PlayerEyeBite07"
+  },
+  {
+    "UniqueID": 8,
+    "Label": "Eye8",
+    "Name": "Eye8",
+    "ResName": "PlayerEye08",
+    "StungResName": "PlayerEyeBite08"
+  },
+  {
+    "UniqueID": 9,
+    "Label": "Eye9",
+    "Name": "Eye9",
+    "ResName": "PlayerEye09",
+    "StungResName": "PlayerEyeBite09"
+  },
+  {
+    "UniqueID": 10,
+    "Label": "Eye10",
+    "Name": "Eye10",
+    "ResName": "PlayerEye10",
+    "StungResName": "PlayerEyeBite10"
+  },
+  {
+    "UniqueID": 11,
+    "Label": "Eye11",
+    "Name": "Eye11",
+    "ResName": "PlayerEye11",
+    "StungResName": "PlayerEyeBite11"
+  },
+  {
+    "UniqueID": 15,
+    "Label": "Eye12",
+    "Name": "Eye12",
+    "ResName": "PlayerEye12",
+    "StungResName": "PlayerEyeBite12"
+  },
+  {
+    "UniqueID": 16,
+    "Label": "Eye13",
+    "Name": "Eye13",
+    "ResName": "PlayerEye13",
+    "StungResName": "PlayerEyeBite13"
+  },
+  {
+    "UniqueID": 17,
+    "Label": "Eye14",
+    "Name": "Eye14",
+    "ResName": "PlayerEye14",
+    "StungResName": "PlayerEyeBite14"
+  },
+  {
+    "UniqueID": 18,
+    "Label": "Eye15",
+    "Name": "Eye15",
+    "ResName": "PlayerEye15",
+    "StungResName": "PlayerEyeBite15"
+  },
+  {
+    "UniqueID": 19,
+    "Label": "Eye16",
+    "Name": "Eye16",
+    "ResName": "PlayerEye16",
+    "StungResName": "PlayerEyeBite16"
+  },
+  {
+    "UniqueID": 20,
+    "Label": "Eye17",
+    "Name": "Eye17",
+    "ResName": "PlayerEye17",
+    "StungResName": "PlayerEyeBite17"
+  },
+  {
+    "UniqueID": 21,
+    "Label": "Eye18",
+    "Name": "Eye18",
+    "ResName": "PlayerEye18",
+    "StungResName": "PlayerEyeBite18"
+  },
+  {
+    "UniqueID": 22,
+    "Label": "Eye19",
+    "Name": "Eye19",
+    "ResName": "PlayerEye19",
+    "StungResName": "PlayerEyeBite19"
+  },
+  {
+    "UniqueID": 23,
+    "Label": "Eye20",
+    "Name": "Eye20",
+    "ResName": "PlayerEye20",
+    "StungResName": "PlayerEyeBite20"
+  },
+  {
+    "UniqueID": 25,
+    "Label": "EyeBite0",
+    "Name": "EyeBite0",
+    "ResName": "PlayerEyeBite00",
+    "StungResName": "PlayerEyeBite00"
+  },
+  {
+    "UniqueID": 26,
+    "Label": "EyeBite1",
+    "Name": "EyeBite1",
+    "ResName": "PlayerEyeBite01",
+    "StungResName": "PlayerEyeBite01"
+  },
+  {
+    "UniqueID": 27,
+    "Label": "EyeBite2",
+    "Name": "EyeBite2",
+    "ResName": "PlayerEyeBite02",
+    "StungResName": "PlayerEyeBite02"
+  },
+  {
+    "UniqueID": 28,
+    "Label": "EyeBite3",
+    "Name": "EyeBite3",
+    "ResName": "PlayerEyeBite03",
+    "StungResName": "PlayerEyeBite03"
+  },
+  {
+    "UniqueID": 29,
+    "Label": "EyeBite4",
+    "Name": "EyeBite4",
+    "ResName": "PlayerEyeBite04",
+    "StungResName": "PlayerEyeBite04"
+  },
+  {
+    "UniqueID": 30,
+    "Label": "EyeBite5",
+    "Name": "EyeBite5",
+    "ResName": "PlayerEyeBite05",
+    "StungResName": "PlayerEyeBite05"
+  },
+  {
+    "UniqueID": 31,
+    "Label": "EyeBite6",
+    "Name": "EyeBite6",
+    "ResName": "PlayerEyeBite06",
+    "StungResName": "PlayerEyeBite06"
+  },
+  {
+    "UniqueID": 32,
+    "Label": "EyeBite7",
+    "Name": "EyeBite7",
+    "ResName": "PlayerEyeBite07",
+    "StungResName": "PlayerEyeBite07"
+  },
+  {
+    "UniqueID": 33,
+    "Label": "EyeBite8",
+    "Name": "EyeBite8",
+    "ResName": "PlayerEyeBite08",
+    "StungResName": "PlayerEyeBite08"
+  },
+  {
+    "UniqueID": 34,
+    "Label": "EyeBite9",
+    "Name": "EyeBite9",
+    "ResName": "PlayerEyeBite09",
+    "StungResName": "PlayerEyeBite09"
+  },
+  {
+    "UniqueID": 35,
+    "Label": "EyeBite10",
+    "Name": "EyeBite10",
+    "ResName": "PlayerEyeBite10",
+    "StungResName": "PlayerEyeBite10"
+  },
+  {
+    "UniqueID": 36,
+    "Label": "EyeBite11",
+    "Name": "EyeBite11",
+    "ResName": "PlayerEyeBite11",
+    "StungResName": "PlayerEyeBite11"
+  },
+  {
+    "UniqueID": 37,
+    "Label": "EyeBite12",
+    "Name": "EyeBite12",
+    "ResName": "PlayerEyeBite12",
+    "StungResName": "PlayerEyeBite12"
+  },
+  {
+    "UniqueID": 38,
+    "Label": "EyeBite13",
+    "Name": "EyeBite13",
+    "ResName": "PlayerEyeBite13",
+    "StungResName": "PlayerEyeBite13"
+  },
+  {
+    "UniqueID": 39,
+    "Label": "EyeBite14",
+    "Name": "EyeBite14",
+    "ResName": "PlayerEyeBite14",
+    "StungResName": "PlayerEyeBite14"
+  },
+  {
+    "UniqueID": 40,
+    "Label": "EyeBite15",
+    "Name": "EyeBite15",
+    "ResName": "PlayerEyeBite15",
+    "StungResName": "PlayerEyeBite15"
+  },
+  {
+    "UniqueID": 41,
+    "Label": "EyeBite16",
+    "Name": "EyeBite16",
+    "ResName": "PlayerEyeBite16",
+    "StungResName": "PlayerEyeBite16"
+  },
+  {
+    "UniqueID": 42,
+    "Label": "EyeBite17",
+    "Name": "EyeBite17",
+    "ResName": "PlayerEyeBite17",
+    "StungResName": "PlayerEyeBite17"
+  },
+  {
+    "UniqueID": 43,
+    "Label": "EyeBite18",
+    "Name": "EyeBite18",
+    "ResName": "PlayerEyeBite18",
+    "StungResName": "PlayerEyeBite18"
+  },
+  {
+    "UniqueID": 44,
+    "Label": "EyeBite19",
+    "Name": "EyeBite19",
+    "ResName": "PlayerEyeBite19",
+    "StungResName": "PlayerEyeBite19"
+  },
+  {
+    "UniqueID": 45,
+    "Label": "EyeBite20",
+    "Name": "EyeBite20",
+    "ResName": "PlayerEyeBite20",
+    "StungResName": "PlayerEyeBite20"
+  },
+  {
+    "UniqueID": 46,
+    "Label": "Eye21",
+    "Name": "Eye21",
+    "ResName": "PlayerEye21",
+    "StungResName": "PlayerEyeBite21"
+  },
+  {
+    "UniqueID": 47,
+    "Label": "Eye22",
+    "Name": "Eye22",
+    "ResName": "PlayerEye22",
+    "StungResName": "PlayerEyeBite22"
+  },
+  {
+    "UniqueID": 48,
+    "Label": "Eye23",
+    "Name": "Eye23",
+    "ResName": "PlayerEye23",
+    "StungResName": "PlayerEyeBite23"
+  },
+  {
+    "UniqueID": 49,
+    "Label": "Eye24",
+    "Name": "Eye24",
+    "ResName": "PlayerEye24",
+    "StungResName": "PlayerEyeBite24"
+  },
+  {
+    "UniqueID": 50,
+    "Label": "EyeBite21",
+    "Name": "EyeBite21",
+    "ResName": "PlayerEyeBite21",
+    "StungResName": "PlayerEyeBite21"
+  },
+  {
+    "UniqueID": 51,
+    "Label": "EyeBite22",
+    "Name": "EyeBite22",
+    "ResName": "PlayerEyeBite22",
+    "StungResName": "PlayerEyeBite22"
+  },
+  {
+    "UniqueID": 52,
+    "Label": "EyeBite23",
+    "Name": "EyeBite23",
+    "ResName": "PlayerEyeBite23",
+    "StungResName": "PlayerEyeBite23"
+  },
+  {
+    "UniqueID": 53,
+    "Label": "EyeBite24",
+    "Name": "EyeBite24",
+    "ResName": "PlayerEyeBite24",
+    "StungResName": "PlayerEyeBite24"
+  },
+  {
+    "UniqueID": 54,
+    "Label": "Eye25",
+    "Name": "Eye25",
+    "ResName": "PlayerEye25",
+    "StungResName": "PlayerEyeBite25"
+  },
+  {
+    "UniqueID": 56,
+    "Label": "EyeBite25",
+    "Name": "EyeBite25",
+    "ResName": "PlayerEyeBite25",
+    "StungResName": "PlayerEyeBite25"
+  }
+]

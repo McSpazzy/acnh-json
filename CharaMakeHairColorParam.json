@@ -1,0 +1,178 @@
+[
+  {
+    "BaseColorB": 0.022,
+    "BaseColorG": 0.022,
+    "BaseColorR": 0.022,
+    "HighlightColorB": 0.06,
+    "HighlightColorG": 0.06,
+    "HighlightColorR": 0.06,
+    "UniqueID": 0,
+    "Label": "HairColor0",
+    "Name": "HairColor0"
+  },
+  {
+    "BaseColorB": 0.016,
+    "BaseColorG": 0.02,
+    "BaseColorR": 0.04,
+    "HighlightColorB": 0.016,
+    "HighlightColorG": 0.045,
+    "HighlightColorR": 0.08,
+    "UniqueID": 1,
+    "Label": "HairColor1",
+    "Name": "HairColor1"
+  },
+  {
+    "BaseColorB": 0.024,
+    "BaseColorG": 0.023,
+    "BaseColorR": 0.082,
+    "HighlightColorB": 0.06,
+    "HighlightColorG": 0.06,
+    "HighlightColorR": 0.2,
+    "UniqueID": 2,
+    "Label": "HairColor2",
+    "Name": "HairColor2"
+  },
+  {
+    "BaseColorB": 0.016,
+    "BaseColorG": 0.04,
+    "BaseColorR": 0.21,
+    "HighlightColorB": 0.016,
+    "HighlightColorG": 0.08,
+    "HighlightColorR": 0.28,
+    "UniqueID": 3,
+    "Label": "HairColor3",
+    "Name": "HairColor3"
+  },
+  {
+    "BaseColorB": 0.12,
+    "BaseColorG": 0.12,
+    "BaseColorR": 0.12,
+    "HighlightColorB": 0.18,
+    "HighlightColorG": 0.18,
+    "HighlightColorR": 0.18,
+    "UniqueID": 4,
+    "Label": "HairColor4",
+    "Name": "HairColor4"
+  },
+  {
+    "BaseColorB": 0.2879,
+    "BaseColorG": 0.2539,
+    "BaseColorR": 0.1541,
+    "HighlightColorB": 0.3559,
+    "HighlightColorG": 0.3559,
+    "HighlightColorR": 0.1421,
+    "UniqueID": 5,
+    "Label": "HairColor5",
+    "Name": "HairColor5"
+  },
+  {
+    "BaseColorB": 0.33,
+    "BaseColorG": 0.12,
+    "BaseColorR": 0.02,
+    "HighlightColorB": 0.52,
+    "HighlightColorG": 0.086,
+    "HighlightColorR": 0.016,
+    "UniqueID": 6,
+    "Label": "HairColor6",
+    "Name": "HairColor6"
+  },
+  {
+    "BaseColorB": 0.238,
+    "BaseColorG": 0.3,
+    "BaseColorR": 0.046,
+    "HighlightColorB": 0.3,
+    "HighlightColorG": 0.36,
+    "HighlightColorR": 0.06,
+    "UniqueID": 7,
+    "Label": "HairColor7",
+    "Name": "HairColor7"
+  },
+  {
+    "BaseColorB": 0.035,
+    "BaseColorG": 0.2,
+    "BaseColorR": 0.376,
+    "HighlightColorB": 0.0583,
+    "HighlightColorG": 0.2478,
+    "HighlightColorR": 0.4227,
+    "UniqueID": 8,
+    "Label": "HairColor8",
+    "Name": "HairColor8"
+  },
+  {
+    "BaseColorB": 0.114,
+    "BaseColorG": 0.32,
+    "BaseColorR": 0.328,
+    "HighlightColorB": 0.106,
+    "HighlightColorG": 0.38,
+    "HighlightColorR": 0.42,
+    "UniqueID": 9,
+    "Label": "HairColor9",
+    "Name": "HairColor9"
+  },
+  {
+    "BaseColorB": 0.036,
+    "BaseColorG": 0.1356,
+    "BaseColorR": 0.016,
+    "HighlightColorB": 0.05,
+    "HighlightColorG": 0.17,
+    "HighlightColorR": 0.02,
+    "UniqueID": 10,
+    "Label": "HairColor10",
+    "Name": "HairColor10"
+  },
+  {
+    "BaseColorB": 0.0386,
+    "BaseColorG": 0.0386,
+    "BaseColorR": 0.391,
+    "HighlightColorB": 0.0693,
+    "HighlightColorG": 0.0693,
+    "HighlightColorR": 0.49,
+    "UniqueID": 11,
+    "Label": "HairColor11",
+    "Name": "HairColor11"
+  },
+  {
+    "BaseColorB": 0.3399,
+    "BaseColorG": 0.1634,
+    "BaseColorR": 0.3659,
+    "HighlightColorB": 0.387,
+    "HighlightColorG": 0.214,
+    "HighlightColorR": 0.413,
+    "UniqueID": 12,
+    "Label": "HairColor12",
+    "Name": "HairColor12"
+  },
+  {
+    "BaseColorB": 0.2379,
+    "BaseColorG": 0.1881,
+    "BaseColorR": 0.597,
+    "HighlightColorB": 0.0737,
+    "HighlightColorG": 0.1739,
+    "HighlightColorR": 0.603,
+    "UniqueID": 13,
+    "Label": "HairColor13",
+    "Name": "HairColor13"
+  },
+  {
+    "BaseColorB": 0.0407,
+    "BaseColorG": 0.12,
+    "BaseColorR": 0.4904,
+    "HighlightColorB": 0.0421,
+    "HighlightColorG": 0.1246,
+    "HighlightColorR": 0.527,
+    "UniqueID": 14,
+    "Label": "HairColor14",
+    "Name": "HairColor14"
+  },
+  {
+    "BaseColorB": 0.2685,
+    "BaseColorG": 0.3232,
+    "BaseColorR": 0.3232,
+    "HighlightColorB": 0.4269,
+    "HighlightColorG": 0.4451,
+    "HighlightColorR": 0.4451,
+    "UniqueID": 15,
+    "Label": "HairColor15",
+    "Name": "HairColor15"
+  }
+]

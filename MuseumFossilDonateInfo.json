@@ -1,0 +1,513 @@
+[
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 0,
+    "UniqueID": 8,
+    "WatchItem": 4688,
+    "CameraParamName": "FossilBrachiosaurus"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 1,
+    "UniqueID": 9,
+    "WatchItem": 4689,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 3,
+    "UniqueID": 11,
+    "WatchItem": 4691,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 2,
+    "UniqueID": 12,
+    "WatchItem": 4690,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 6,
+    "UniqueID": 13,
+    "WatchItem": 4663,
+    "CameraParamName": "FossilFirstAmphibian"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 4,
+    "UniqueID": 14,
+    "WatchItem": 294,
+    "CameraParamName": "FossilAmber"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 1,
+    "UniqueID": 15,
+    "WatchItem": 295,
+    "CameraParamName": "FossilAmmonoidea"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 2,
+    "UniqueID": 16,
+    "WatchItem": 302,
+    "CameraParamName": "FossilShark"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 3,
+    "UniqueID": 17,
+    "WatchItem": 4651,
+    "CameraParamName": "FossilAnomalo"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 0,
+    "UniqueID": 18,
+    "WatchItem": 303,
+    "CameraParamName": "FossilTrilobite"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 5,
+    "UniqueID": 19,
+    "WatchItem": 4664,
+    "CameraParamName": "FossilFirstFourLegs"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 8,
+    "UniqueID": 20,
+    "WatchItem": 4660,
+    "CameraParamName": "FossilDunkle"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_0",
+    "ModelID": 7,
+    "UniqueID": 21,
+    "WatchItem": 4662,
+    "CameraParamName": "FossilFirstFish"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 8,
+    "UniqueID": 22,
+    "WatchItem": 220,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 7,
+    "UniqueID": 23,
+    "WatchItem": 219,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 6,
+    "UniqueID": 24,
+    "WatchItem": 218,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 4,
+    "UniqueID": 25,
+    "WatchItem": 216,
+    "CameraParamName": "FtrFossilDiplodocus"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 5,
+    "UniqueID": 26,
+    "WatchItem": 217,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 9,
+    "UniqueID": 27,
+    "WatchItem": 7251,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 10,
+    "UniqueID": 28,
+    "WatchItem": 184,
+    "CameraParamName": "FossilDimetrodon"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 11,
+    "UniqueID": 29,
+    "WatchItem": 185,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 12,
+    "UniqueID": 30,
+    "WatchItem": 4665,
+    "CameraParamName": "FossilFirstMammal"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 13,
+    "UniqueID": 31,
+    "WatchItem": 192,
+    "CameraParamName": "FossilOphta"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 14,
+    "UniqueID": 32,
+    "WatchItem": 193,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 15,
+    "UniqueID": 33,
+    "WatchItem": 177,
+    "CameraParamName": "FossilArchelon"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 16,
+    "UniqueID": 34,
+    "WatchItem": 178,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 17,
+    "UniqueID": 35,
+    "WatchItem": 234,
+    "CameraParamName": "FossilFutaba"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 18,
+    "UniqueID": 36,
+    "WatchItem": 235,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 19,
+    "UniqueID": 37,
+    "WatchItem": 236,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 20,
+    "UniqueID": 38,
+    "WatchItem": 206,
+    "CameraParamName": "FossilPtera"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 21,
+    "UniqueID": 39,
+    "WatchItem": 207,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 22,
+    "UniqueID": 40,
+    "WatchItem": 208,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 23,
+    "UniqueID": 41,
+    "WatchItem": 4697,
+    "CameraParamName": "FossilQuetzal"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 24,
+    "UniqueID": 42,
+    "WatchItem": 4698,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 25,
+    "UniqueID": 43,
+    "WatchItem": 4699,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 26,
+    "UniqueID": 44,
+    "WatchItem": 226,
+    "CameraParamName": "FossilStego"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 27,
+    "UniqueID": 45,
+    "WatchItem": 227,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 28,
+    "UniqueID": 46,
+    "WatchItem": 228,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 29,
+    "UniqueID": 47,
+    "WatchItem": 169,
+    "CameraParamName": "FossilAnkylo"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 30,
+    "UniqueID": 48,
+    "WatchItem": 170,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 31,
+    "UniqueID": 49,
+    "WatchItem": 171,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 32,
+    "UniqueID": 50,
+    "WatchItem": 188,
+    "CameraParamName": "FossilIguano"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 33,
+    "UniqueID": 51,
+    "WatchItem": 189,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 34,
+    "UniqueID": 52,
+    "WatchItem": 190,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 35,
+    "UniqueID": 53,
+    "WatchItem": 202,
+    "CameraParamName": "FossilParasauro"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 36,
+    "UniqueID": 54,
+    "WatchItem": 203,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 37,
+    "UniqueID": 55,
+    "WatchItem": 204,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 38,
+    "UniqueID": 56,
+    "WatchItem": 198,
+    "CameraParamName": "FossilPachycephalo"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 39,
+    "UniqueID": 57,
+    "WatchItem": 199,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 40,
+    "UniqueID": 58,
+    "WatchItem": 242,
+    "CameraParamName": "FossilTricera"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 41,
+    "UniqueID": 59,
+    "WatchItem": 243,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 42,
+    "UniqueID": 60,
+    "WatchItem": 244,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 43,
+    "UniqueID": 61,
+    "WatchItem": 238,
+    "CameraParamName": "FossilTRex"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 44,
+    "UniqueID": 62,
+    "WatchItem": 239,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 45,
+    "UniqueID": 63,
+    "WatchItem": 240,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 46,
+    "UniqueID": 64,
+    "WatchItem": 300,
+    "CameraParamName": "FossilIchnology"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 47,
+    "UniqueID": 65,
+    "WatchItem": 296,
+    "CameraParamName": "FossilCoprolite"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 48,
+    "UniqueID": 66,
+    "WatchItem": 222,
+    "CameraParamName": "FossilSpino"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 49,
+    "UniqueID": 67,
+    "WatchItem": 223,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 50,
+    "UniqueID": 68,
+    "WatchItem": 224,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 51,
+    "UniqueID": 69,
+    "WatchItem": 210,
+    "CameraParamName": "FossilDeinonychus"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 52,
+    "UniqueID": 70,
+    "WatchItem": 211,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_1",
+    "ModelID": 53,
+    "UniqueID": 71,
+    "WatchItem": 298,
+    "CameraParamName": "FossilArchaeopteryx"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 0,
+    "UniqueID": 72,
+    "WatchItem": 195,
+    "CameraParamName": "FossilMammoth"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 1,
+    "UniqueID": 73,
+    "WatchItem": 196,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 2,
+    "UniqueID": 74,
+    "WatchItem": 213,
+    "CameraParamName": "FossilSmilodon"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 3,
+    "UniqueID": 75,
+    "WatchItem": 214,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 4,
+    "UniqueID": 76,
+    "WatchItem": 180,
+    "CameraParamName": "FossilBronto"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 5,
+    "UniqueID": 77,
+    "WatchItem": 181,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 6,
+    "UniqueID": 78,
+    "WatchItem": 182,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 7,
+    "UniqueID": 79,
+    "WatchItem": 4658,
+    "CameraParamName": "FossilMegaloceros"
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 8,
+    "UniqueID": 80,
+    "WatchItem": 4659,
+    "CameraParamName": ""
+  },
+  {
+    "StageName*": "IdrMuseumFossil_2",
+    "ModelID": 9,
+    "UniqueID": 81,
+    "WatchItem": 301,
+    "CameraParamName": "FossilAustralopithecus"
+  }
+]

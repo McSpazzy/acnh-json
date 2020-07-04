@@ -1,0 +1,27 @@
+[
+  {
+    "FlagAnim": 0,
+    "UniqueID": 0,
+    "Label": "None"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 33,
+    "Label": "Europe"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 37,
+    "Label": "EachCountry"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 38,
+    "Label": "World"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 40,
+    "Label": "Southern"
+  }
+]

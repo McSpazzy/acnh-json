@@ -1,0 +1,170 @@
+[
+  {
+    "RoomWindowModelType*": "None",
+    "RoomWindowWallType*": "None",
+    "UniqueID": 6,
+    "ResourceName": "",
+    "WindowName": "無し"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 8,
+    "ResourceName": "RoomMdlWindowSquareCrossWood00",
+    "WindowName": "田の字/木/茶色"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 9,
+    "ResourceName": "RoomMdlWindowSquareCrossWood01",
+    "WindowName": "田の字/木/こげ茶"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 10,
+    "ResourceName": "RoomMdlWindowSquareCrossWood02",
+    "WindowName": "田の字/木/白"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 16,
+    "ResourceName": "RoomMdlWindowSquareCrossWood03",
+    "WindowName": "田の字/木/黄土"
+  },
+  {
+    "RoomWindowModelType*": "SquareHang",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 19,
+    "ResourceName": "RoomMdlWindowSquareHangSteel00",
+    "WindowName": "日の字/鉄/グレー"
+  },
+  {
+    "RoomWindowModelType*": "SquareHang",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 20,
+    "ResourceName": "RoomMdlWindowSquareHangSteel01",
+    "WindowName": "日の字/鉄/黒"
+  },
+  {
+    "RoomWindowModelType*": "SquareHang",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 21,
+    "ResourceName": "RoomMdlWindowSquareHangSteel02",
+    "WindowName": "日の字/鉄/白"
+  },
+  {
+    "RoomWindowModelType*": "Arch",
+    "RoomWindowWallType*": "Arch",
+    "UniqueID": 22,
+    "ResourceName": "RoomMdlWindowArchWood00",
+    "WindowName": "アーチ/木/茶色"
+  },
+  {
+    "RoomWindowModelType*": "Arch",
+    "RoomWindowWallType*": "Arch",
+    "UniqueID": 23,
+    "ResourceName": "RoomMdlWindowArchSteel00",
+    "WindowName": "アーチ/鉄/黒"
+  },
+  {
+    "RoomWindowModelType*": "Circle",
+    "RoomWindowWallType*": "Circle",
+    "UniqueID": 26,
+    "ResourceName": "RoomMdlWindowCircleShojiWood00",
+    "WindowName": "〇窓/障子/茶色"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 28,
+    "ResourceName": "RoomMdlWindowSquareWood00",
+    "WindowName": "口の字/木/茶色"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 29,
+    "ResourceName": "RoomMdlWindowSquareWood01",
+    "WindowName": "口の字/木/こげ茶"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 30,
+    "ResourceName": "RoomMdlWindowSquareWood02",
+    "WindowName": "口の字/木/白"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 31,
+    "ResourceName": "RoomMdlWindowSquareWood04",
+    "WindowName": "口の字/木/まっ白"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 32,
+    "ResourceName": "RoomMdlWindowSquareSteel02",
+    "WindowName": "口の字/鉄/グレー"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 33,
+    "ResourceName": "RoomMdlWindowSquareSteel01",
+    "WindowName": "口の字/鉄/黒"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 34,
+    "ResourceName": "RoomMdlWindowSquareSteel00",
+    "WindowName": "口の字/鉄/白"
+  },
+  {
+    "RoomWindowModelType*": "Circle",
+    "RoomWindowWallType*": "Circle",
+    "UniqueID": 35,
+    "ResourceName": "RoomMdlWindowCircleShojiWood01",
+    "WindowName": "〇窓/障子/こげ茶"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 36,
+    "ResourceName": "RoomMdlWindowSquareShojiWood00",
+    "WindowName": "田の字/障子/こげ茶"
+  },
+  {
+    "RoomWindowModelType*": "Circle",
+    "RoomWindowWallType*": "Circle",
+    "UniqueID": 37,
+    "ResourceName": "RoomMdlWindowCircleShojiWood02",
+    "WindowName": "〇窓/障子/白"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 38,
+    "ResourceName": "RoomMdlWindowSquareWood03",
+    "WindowName": "口の字/木/黄土"
+  },
+  {
+    "RoomWindowModelType*": "SquareCross",
+    "RoomWindowWallType*": "Square",
+    "UniqueID": 39,
+    "ResourceName": "RoomMdlWindowSquareCrossWood04",
+    "WindowName": "田の字/木/まっ白"
+  },
+  {
+    "RoomWindowModelType*": "Arch",
+    "RoomWindowWallType*": "Arch",
+    "UniqueID": 40,
+    "ResourceName": "RoomMdlWindowArchSteel01",
+    "WindowName": "アーチ/鉄/白"
+  }
+]

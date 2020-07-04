@@ -1,0 +1,17 @@
+[
+  {
+    "SoundAttribute": 1,
+    "UniqueID": 0,
+    "DebugName": "未設定"
+  },
+  {
+    "SoundAttribute": 17,
+    "UniqueID": 1,
+    "DebugName": "鉄"
+  },
+  {
+    "SoundAttribute": 2,
+    "UniqueID": 2,
+    "DebugName": "草"
+  }
+]

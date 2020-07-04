@@ -1,0 +1,326 @@
+[
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 0,
+    "ModelName": "BridgeStone03"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 1,
+    "ModelName": "BridgeStone04"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 2,
+    "ModelName": "BridgeStone05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 3,
+    "ModelName": "BridgeStoneDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 4,
+    "ModelName": "BridgeStoneDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 0,
+    "UniqueID": 5,
+    "ModelName": "BridgeStoneDiagonal035"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 6,
+    "ModelName": "BridgeSuspension04"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 7,
+    "ModelName": "BridgeSuspension03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 8,
+    "ModelName": "BridgeSuspension05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 9,
+    "ModelName": "BridgeSuspensionDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 10,
+    "ModelName": "BridgeSuspensionDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 1,
+    "UniqueID": 11,
+    "ModelName": "BridgeSuspensionDiagonal035"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 12,
+    "ModelName": "BridgeJapanese04"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 13,
+    "ModelName": "BridgeLog04"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 14,
+    "ModelName": "BridgeLog03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 15,
+    "ModelName": "BridgeLog05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 16,
+    "ModelName": "BridgeLogDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 17,
+    "ModelName": "BridgeLogDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 4,
+    "UniqueID": 18,
+    "ModelName": "BridgeLogDiagonal035"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 19,
+    "ModelName": "BridgeJapanese03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 20,
+    "ModelName": "BridgeJapanese05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 21,
+    "ModelName": "BridgeJapaneseDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 22,
+    "ModelName": "BridgeJapaneseDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 2,
+    "UniqueID": 23,
+    "ModelName": "BridgeJapaneseDiagonal035"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 24,
+    "ModelName": "BridgeRed04"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 25,
+    "ModelName": "BridgeIron04"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 26,
+    "ModelName": "BridgeReserved03"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 27,
+    "ModelName": "BridgeReserved04"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 28,
+    "ModelName": "BridgeReserved05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 29,
+    "ModelName": "BridgeReservedDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 30,
+    "ModelName": "BridgeReservedDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 7,
+    "UniqueID": 31,
+    "ModelName": "BridgeReservedDiagonal035"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 32,
+    "ModelName": "BridgeRed03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 33,
+    "ModelName": "BridgeRed05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 34,
+    "ModelName": "BridgeRedDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 35,
+    "ModelName": "BridgeRedDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 5,
+    "UniqueID": 36,
+    "ModelName": "BridgeRedDiagonal035"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 37,
+    "ModelName": "BridgeWood04"
+  },
+  {
+    "BridgePattern*": "04",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 38,
+    "ModelName": "BridgeBricks04"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 39,
+    "ModelName": "BridgeIron03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 40,
+    "ModelName": "BridgeIron05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 41,
+    "ModelName": "BridgeIronDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 42,
+    "ModelName": "BridgeIronDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 6,
+    "UniqueID": 43,
+    "ModelName": "BridgeIronDiagonal035"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 44,
+    "ModelName": "BridgeWood03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 45,
+    "ModelName": "BridgeWood05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 46,
+    "ModelName": "BridgeWoodDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 47,
+    "ModelName": "BridgeWoodDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 10,
+    "UniqueID": 48,
+    "ModelName": "BridgeWoodDiagonal035"
+  },
+  {
+    "BridgePattern*": "03",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 49,
+    "ModelName": "BridgeBricks03"
+  },
+  {
+    "BridgePattern*": "05",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 52,
+    "ModelName": "BridgeBricks05"
+  },
+  {
+    "BridgePattern*": "Diagonal025",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 53,
+    "ModelName": "BridgeBricksDiagonal025"
+  },
+  {
+    "BridgePattern*": "Diagonal030",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 54,
+    "ModelName": "BridgeBricksDiagonal030"
+  },
+  {
+    "BridgePattern*": "Diagonal035",
+    "BridgeTypeUniqueID": 11,
+    "UniqueID": 55,
+    "ModelName": "BridgeBricksDiagonal035"
+  }
+]

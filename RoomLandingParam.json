@@ -1,0 +1,14 @@
+[
+  {
+    "Floorboards": 6,
+    "UniqueID": 0,
+    "LandingName": "木/茶色",
+    "ResourceName": "RoomTexStairsWood00"
+  },
+  {
+    "Floorboards": 6,
+    "UniqueID": 1,
+    "LandingName": "木/こげ茶",
+    "ResourceName": "RoomTexStairsWood01"
+  }
+]

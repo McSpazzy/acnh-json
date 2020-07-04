@@ -1,0 +1,434 @@
+[
+  {
+    "Priority": 10,
+    "UniqueID": 2,
+    "AutoDisappear": 1,
+    "Label": "Build",
+    "MSLabel": "0128",
+    "Name": "ここにたてる"
+  },
+  {
+    "Priority": 10,
+    "UniqueID": 6,
+    "AutoDisappear": 0,
+    "Label": "StartTimer",
+    "MSLabel": "0105",
+    "Name": "時間をはかる"
+  },
+  {
+    "Priority": 10,
+    "UniqueID": 7,
+    "AutoDisappear": 1,
+    "Label": "StopTimer",
+    "MSLabel": "0106",
+    "Name": "タイマーをとめる"
+  },
+  {
+    "Priority": 10,
+    "UniqueID": 81,
+    "AutoDisappear": 1,
+    "Label": "LearnRecipe",
+    "MSLabel": "0149",
+    "Name": "覚える"
+  },
+  {
+    "Priority": 10,
+    "UniqueID": 84,
+    "AutoDisappear": 1,
+    "Label": "EquipFence",
+    "MSLabel": "0101",
+    "Name": "柵を立てる"
+  },
+  {
+    "Priority": 20,
+    "UniqueID": 8,
+    "AutoDisappear": 0,
+    "Label": "Wear",
+    "MSLabel": "0107",
+    "Name": "身につける"
+  },
+  {
+    "Priority": 20,
+    "UniqueID": 9,
+    "AutoDisappear": 1,
+    "Label": "HoldHand",
+    "MSLabel": "0108",
+    "Name": "手に持つ"
+  },
+  {
+    "Priority": 25,
+    "UniqueID": 15,
+    "AutoDisappear": 1,
+    "Label": "Bury",
+    "MSLabel": "0116",
+    "Name": "穴にうめる"
+  },
+  {
+    "Priority": 26,
+    "UniqueID": 24,
+    "AutoDisappear": 0,
+    "Label": "PlantOne",
+    "MSLabel": "0130",
+    "Name": "1コ植える"
+  },
+  {
+    "Priority": 27,
+    "UniqueID": 93,
+    "AutoDisappear": 1,
+    "Label": "PlantTreeOne",
+    "MSLabel": "0197",
+    "Name": "1コ植える"
+  },
+  {
+    "Priority": 28,
+    "UniqueID": 23,
+    "AutoDisappear": 0,
+    "Label": "Plant",
+    "MSLabel": "0129",
+    "Name": "地面に植える"
+  },
+  {
+    "Priority": 29,
+    "UniqueID": 92,
+    "AutoDisappear": 1,
+    "Label": "PlantTree",
+    "MSLabel": "0196",
+    "Name": "地面に植える"
+  },
+  {
+    "Priority": 30,
+    "UniqueID": 3,
+    "AutoDisappear": 0,
+    "Label": "Wallet",
+    "MSLabel": "0103",
+    "Name": "おサイフにしまう"
+  },
+  {
+    "Priority": 40,
+    "UniqueID": 60,
+    "AutoDisappear": 1,
+    "Label": "Exchange",
+    "MSLabel": "0131",
+    "Name": "入れ替える"
+  },
+  {
+    "Priority": 50,
+    "UniqueID": 71,
+    "AutoDisappear": 1,
+    "Label": "FishBait",
+    "MSLabel": "0139",
+    "Name": "エサをまく"
+  },
+  {
+    "Priority": 55,
+    "UniqueID": 5,
+    "AutoDisappear": 0,
+    "Label": "Show",
+    "MSLabel": "0119",
+    "Name": "見せびらかす"
+  },
+  {
+    "Priority": 90,
+    "UniqueID": 72,
+    "AutoDisappear": 0,
+    "Label": "ReplaceWall",
+    "MSLabel": "0140",
+    "Name": "かべにはる"
+  },
+  {
+    "Priority": 90,
+    "UniqueID": 73,
+    "AutoDisappear": 0,
+    "Label": "ReplaceFloor",
+    "MSLabel": "0141",
+    "Name": "ゆかにはる"
+  },
+  {
+    "Priority": 91,
+    "UniqueID": 75,
+    "AutoDisappear": 0,
+    "Label": "RotateReplaceFloor",
+    "MSLabel": "0143",
+    "Name": "ヨコむき"
+  },
+  {
+    "Priority": 92,
+    "UniqueID": 74,
+    "AutoDisappear": 0,
+    "Label": "DefaultReplaceFloor",
+    "MSLabel": "0142",
+    "Name": "タテむき"
+  },
+  {
+    "Priority": 100,
+    "UniqueID": 20,
+    "AutoDisappear": 1,
+    "Label": "PutRug",
+    "MSLabel": "0124",
+    "Name": "この辺にしく"
+  },
+  {
+    "Priority": 101,
+    "UniqueID": 11,
+    "AutoDisappear": 1,
+    "Label": "PutFtr",
+    "MSLabel": "0111",
+    "Name": "この辺に飾る"
+  },
+  {
+    "Priority": 102,
+    "UniqueID": 62,
+    "AutoDisappear": 1,
+    "Label": "PutWallFtr",
+    "MSLabel": "0112",
+    "Name": "かべに飾る"
+  },
+  {
+    "Priority": 102,
+    "UniqueID": 88,
+    "AutoDisappear": 1,
+    "Label": "PutDoorFtr",
+    "MSLabel": "0145",
+    "Name": "ドアに飾る"
+  },
+  {
+    "Priority": 110,
+    "UniqueID": 10,
+    "AutoDisappear": 0,
+    "Label": "PutUnitIcon",
+    "MSLabel": "0110",
+    "Name": "この辺に置く"
+  },
+  {
+    "Priority": 150,
+    "UniqueID": 22,
+    "AutoDisappear": 0,
+    "Label": "CheckLost",
+    "MSLabel": "0126",
+    "Name": "調べる"
+  },
+  {
+    "Priority": 150,
+    "UniqueID": 86,
+    "AutoDisappear": 0,
+    "Label": "OpenPresent",
+    "MSLabel": "0113",
+    "Name": "開ける"
+  },
+  {
+    "Priority": 150,
+    "UniqueID": 87,
+    "AutoDisappear": 0,
+    "Label": "CheckTreasure",
+    "MSLabel": "0144",
+    "Name": "開ける"
+  },
+  {
+    "Priority": 200,
+    "UniqueID": 25,
+    "AutoDisappear": 0,
+    "Label": "Exclude",
+    "MSLabel": "0127",
+    "Name": "しまう"
+  },
+  {
+    "Priority": 300,
+    "UniqueID": 14,
+    "AutoDisappear": 1,
+    "Label": "TakeMedicine",
+    "MSLabel": "0115",
+    "Name": "飲む"
+  },
+  {
+    "Priority": 300,
+    "UniqueID": 31,
+    "AutoDisappear": 0,
+    "Label": "Eat",
+    "MSLabel": "0133",
+    "Name": "食べる"
+  },
+  {
+    "Priority": 300,
+    "UniqueID": 32,
+    "AutoDisappear": 0,
+    "Label": "EatOne",
+    "MSLabel": "0134",
+    "Name": "1コ食べる"
+  },
+  {
+    "Priority": 300,
+    "UniqueID": 91,
+    "AutoDisappear": 0,
+    "Label": "EatTurnip",
+    "MSLabel": "0151",
+    "Name": "10カブ食べる"
+  },
+  {
+    "Priority": 750,
+    "UniqueID": 17,
+    "AutoDisappear": 1,
+    "Label": "Release",
+    "MSLabel": "0118",
+    "Name": "逃がす"
+  },
+  {
+    "Priority": 750,
+    "UniqueID": 33,
+    "AutoDisappear": 1,
+    "Label": "Throw",
+    "MSLabel": "0120",
+    "Name": "捨てる"
+  },
+  {
+    "Priority": 760,
+    "UniqueID": 82,
+    "AutoDisappear": 0,
+    "Label": "Wrapping",
+    "MSLabel": "0150",
+    "Name": "包む"
+  },
+  {
+    "Priority": 800,
+    "UniqueID": 16,
+    "AutoDisappear": 0,
+    "Label": "Split",
+    "MSLabel": "0117",
+    "Name": "1コわける"
+  },
+  {
+    "Priority": 800,
+    "UniqueID": 21,
+    "AutoDisappear": 0,
+    "Label": "SplitTurnip",
+    "MSLabel": "0125",
+    "Name": "10カブ分ける"
+  },
+  {
+    "Priority": 800,
+    "UniqueID": 85,
+    "AutoDisappear": 1,
+    "Label": "BuryOne",
+    "MSLabel": "0132",
+    "Name": "1コうめる"
+  },
+  {
+    "Priority": 900,
+    "UniqueID": 18,
+    "AutoDisappear": 0,
+    "Label": "ToStorage",
+    "MSLabel": "0121",
+    "Name": "収納する"
+  },
+  {
+    "Priority": 901,
+    "UniqueID": 63,
+    "AutoDisappear": 1,
+    "Label": "3Minutes",
+    "MSLabel": "0135",
+    "Name": "3分"
+  },
+  {
+    "Priority": 902,
+    "UniqueID": 64,
+    "AutoDisappear": 1,
+    "Label": "5Minutes",
+    "MSLabel": "0136",
+    "Name": "5分"
+  },
+  {
+    "Priority": 903,
+    "UniqueID": 65,
+    "AutoDisappear": 1,
+    "Label": "10Minutes",
+    "MSLabel": "0137",
+    "Name": "10分"
+  },
+  {
+    "Priority": 904,
+    "UniqueID": 66,
+    "AutoDisappear": 1,
+    "Label": "15Minutes",
+    "MSLabel": "0138",
+    "Name": "15分"
+  },
+  {
+    "Priority": 996,
+    "UniqueID": 80,
+    "AutoDisappear": 0,
+    "Label": "OpenBottle",
+    "MSLabel": "0148",
+    "Name": "開ける"
+  },
+  {
+    "Priority": 997,
+    "UniqueID": 78,
+    "AutoDisappear": 0,
+    "Label": "EntryFavorite",
+    "MSLabel": "0146",
+    "Name": "おきに登録"
+  },
+  {
+    "Priority": 997,
+    "UniqueID": 79,
+    "AutoDisappear": 0,
+    "Label": "ReleaseFavorite",
+    "MSLabel": "0147",
+    "Name": "おきに解除"
+  },
+  {
+    "Priority": 998,
+    "UniqueID": 67,
+    "AutoDisappear": 0,
+    "Label": "TakeMoneyAll",
+    "MSLabel": "0190",
+    "Name": ""
+  },
+  {
+    "Priority": 998,
+    "UniqueID": 68,
+    "AutoDisappear": 0,
+    "Label": "TakeMoney10000",
+    "MSLabel": "0191",
+    "Name": ""
+  },
+  {
+    "Priority": 998,
+    "UniqueID": 69,
+    "AutoDisappear": 0,
+    "Label": "TakeMoney1000",
+    "MSLabel": "0192",
+    "Name": ""
+  },
+  {
+    "Priority": 998,
+    "UniqueID": 70,
+    "AutoDisappear": 0,
+    "Label": "TakeMoney100",
+    "MSLabel": "0193",
+    "Name": ""
+  },
+  {
+    "Priority": 999,
+    "UniqueID": 1,
+    "AutoDisappear": 0,
+    "Label": "Invalid",
+    "MSLabel": "",
+    "Name": "無効値( プログラム使用 )"
+  },
+  {
+    "Priority": 999,
+    "UniqueID": 89,
+    "AutoDisappear": 0,
+    "Label": "PurchaseBoxSell",
+    "MSLabel": "0194",
+    "Name": "売っちゃう！"
+  },
+  {
+    "Priority": 999,
+    "UniqueID": 90,
+    "AutoDisappear": 0,
+    "Label": "PurchaseBoxCancel",
+    "MSLabel": "0195",
+    "Name": "やめとく"
+  }
+]

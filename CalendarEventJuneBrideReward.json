@@ -1,0 +1,38 @@
+[
+  {
+    "UniqueID": 0,
+    "PriorityReward": 12401,
+    "SubordinateReward": 12407,
+    "JuneBrideProgress": 1
+  },
+  {
+    "UniqueID": 1,
+    "PriorityReward": 12406,
+    "SubordinateReward": 12405,
+    "JuneBrideProgress": 2
+  },
+  {
+    "UniqueID": 2,
+    "PriorityReward": 12411,
+    "SubordinateReward": 12408,
+    "JuneBrideProgress": 3
+  },
+  {
+    "UniqueID": 3,
+    "PriorityReward": 12404,
+    "SubordinateReward": 12403,
+    "JuneBrideProgress": 4
+  },
+  {
+    "UniqueID": 4,
+    "PriorityReward": 12409,
+    "SubordinateReward": -2,
+    "JuneBrideProgress": 5
+  },
+  {
+    "UniqueID": 5,
+    "PriorityReward": 12402,
+    "SubordinateReward": 12410,
+    "JuneBrideProgress": 6
+  }
+]

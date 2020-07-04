@@ -1,0 +1,110 @@
+[
+  {
+    "UniqueID": 7,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_CliffExistOnItem",
+    "Label": "CliffExistOnItem",
+    "Name": "崖造成：崖上にアイテムがあります。"
+  },
+  {
+    "UniqueID": 8,
+    "AsCommand": "",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "",
+    "Label": "SystemError",
+    "Name": "システムエラー"
+  },
+  {
+    "UniqueID": 9,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 1,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeCreate_ExistStructure",
+    "Label": "CliffCreateExistStructure",
+    "Name": "崖造成(Create)：建物があります。"
+  },
+  {
+    "UniqueID": 10,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 1,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeCreate_ExistNearTree",
+    "Label": "CliffCreateExistNearTree",
+    "Name": "崖造成(Create)：近くに木があります。"
+  },
+  {
+    "UniqueID": 11,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistNearWater",
+    "Label": "CliffBreakExistNearWater",
+    "Name": "崖造成(Break)：崖上に水場があります。"
+  },
+  {
+    "UniqueID": 12,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistNearTree",
+    "Label": "CliffBreakExistNearTree",
+    "Name": "崖造成(Break)：崖上に木があります。"
+  },
+  {
+    "UniqueID": 13,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorRiverMake_ExistNearTree",
+    "Label": "RiverExistNearTree",
+    "Name": "川造成：近くに木があります。"
+  },
+  {
+    "UniqueID": 14,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistStructure",
+    "Label": "CliffBreakExistStructure",
+    "Name": "崖造成(Break)：崖上に建物があります。"
+  },
+  {
+    "UniqueID": 15,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistNextCliff",
+    "Label": "CliffBreakExistNearOnCliff",
+    "Name": "崖造成(Break)：崖上付近に崖があります。"
+  },
+  {
+    "UniqueID": 28,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorRiverMake_ExistBackFaceFall",
+    "Label": "RiverExistBackFaceFall",
+    "Name": "川造成：背面に滝があります。"
+  },
+  {
+    "UniqueID": 29,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeCreate_ExistFrontFall",
+    "Label": "CliffCreateExistFrontFall",
+    "Name": "崖造成(Create)：滝正面に崖生成してます。"
+  },
+  {
+    "UniqueID": 30,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorRiverMake_ExistStructure",
+    "Label": "RiverExistStructure",
+    "Name": "川造成：建物があります。"
+  }
+]

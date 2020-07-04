@@ -1,0 +1,877 @@
+[
+  {
+    "ItemCategory": 1,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 0.00485543534,
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 2,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "262070F2",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 3,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "914F115F",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 4,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5BAD0CB8",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 854.2395,
+    "e060d3cd u16": 8,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 5,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5A96AD96",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 6,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "66DEC3B7",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 7,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E8C3FE5F",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 8,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "6690D062",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 9,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "14A23918",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 10,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "2709782",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -257.634674,
+    "e060d3cd u16": 4,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 57,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "50BA2974",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 58,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "2D61B9D3",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 59,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "1FA73C4D",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 11,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "F50620A7",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 12,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "32E7C0C5",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 13,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "1AEAA4ED",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 55,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "951285D2",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 14,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "96267681",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 15,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "92B4CC8A",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 56,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E97D29A3",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 16,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "51508135",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 17,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "643F4DD8",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 18,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E1DAD478",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 19,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "6D0E372C",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 20,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "28D1C8E",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 21,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5F9AC0BF",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 22,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 0.000136791758,
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 23,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5EC471B3",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "9F503F20",
+    "e060d3cd u16": 5,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "689000C2",
+    "e060d3cd u16": 6,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 26,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "15EBB6F6",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 27,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "388D1436",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 28,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "B8ADBE1B",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": "NaN",
+    "e060d3cd u16": 7,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 2,
+    "37571146 string": "4D7E69EF",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 30,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "AEA6274B",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 31,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "AA1DD5B2",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 32,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E9A1A96",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "170A6EF4",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "B70498A5",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "874043EF",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "7D555770",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "F42BBC73",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -0.00015377198,
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5AE8F5CA",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "505E2EA1",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 0.0222663041,
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "A203BC6",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E07C5A06",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "622C5F5A",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "35917FF3",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "63CEDF0B",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "1CC53364",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E3D4DFC",
+    "e060d3cd u16": 10,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "8C38E6DB",
+    "e060d3cd u16": 10,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5EF3CF70",
+    "e060d3cd u16": 10,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "851C5F43",
+    "e060d3cd u16": 9,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E875EECA",
+    "e060d3cd u16": 9,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "25DD9360",
+    "e060d3cd u16": 9,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "54A7BE37",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "1EADC7F7",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -0.0006823525,
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -4282.47949,
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "34C6F8DF",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "881D1410",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "D28CAAF3",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "8E28362",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "886C6402",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5A00FEF2",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 13846.041,
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5845F763",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E8A2F508",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "4A553855",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5D4BEDC2",
+    "e060d3cd u16": 2,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "87C17C00",
+    "e060d3cd u16": 2,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "EBA7C513",
+    "e060d3cd u16": 2,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "1348FD60",
+    "e060d3cd u16": 2,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "CBB0E8F8",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "530FFE29",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": "NaN",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "F7CECD08",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "FC9701B2",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "52EB5706",
+    "e060d3cd u16": 16,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "8592F9E9",
+    "e060d3cd u16": 15,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 75,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "AC9BFDD7",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "CFECB972",
+    "e060d3cd u16": 8,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 66,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "59AD268",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 71,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "8E952274",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E2B79A7D",
+    "e060d3cd u16": 12,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 65,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "6724E305",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 63,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "339818FE",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 76,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "9FF7103C",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "762C7E64",
+    "e060d3cd u16": 18,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 67,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "CBF9C0A7",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "2CFC5B2A",
+    "e060d3cd u16": 14,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "D5069365",
+    "e060d3cd u16": 16,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E59B3715",
+    "e060d3cd u16": 14,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 64,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E1601706",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 74,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "D3502161",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 76,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E1DF0DD0",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 62,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -42685.9648,
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "E1D7947E",
+    "e060d3cd u16": 6,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 61,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "970E39AB",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 73,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "A6FD1128",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 60,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "78BDF21E",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -10.8461666,
+    "e060d3cd u16": 15,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 70,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": 7.82360125,
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "21FB0CED",
+    "e060d3cd u16": 11,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "266372D",
+    "e060d3cd u16": 17,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "EC4DE2B5",
+    "e060d3cd u16": 17,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "5559486E",
+    "e060d3cd u16": 16,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 72,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "6E336C12",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 69,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "EB138A88",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 20,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "EFACDD1F",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 26,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "F3459846",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 23,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "9429BAC3",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 68,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "C5F7DD6",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "FA8E8994",
+    "e060d3cd u16": 13,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 15,
+    "ItemCategoryGroup": 0,
+    "37571146 f32": -0.00013201093,
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "9FB4FB64",
+    "e060d3cd u16": 11,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 70,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "B82F5094",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 20,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "4FBA836F",
+    "e060d3cd u16": 0,
+    "ItemRemakeType": 0
+  },
+  {
+    "ItemCategory": 0,
+    "ItemCategoryGroup": 0,
+    "37571146 string": "D676EFCB",
+    "e060d3cd u16": 1,
+    "ItemRemakeType": 0
+  }
+]

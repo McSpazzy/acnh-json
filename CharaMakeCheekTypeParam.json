@@ -1,0 +1,20 @@
+[
+  {
+    "UniqueID": 0,
+    "Label": "Cheek0",
+    "Name": "Cheek0",
+    "TexName": "mCheek_Alb.0"
+  },
+  {
+    "UniqueID": 1,
+    "Label": "Cheek1",
+    "Name": "Cheek1",
+    "TexName": "mCheek_Alb.1"
+  },
+  {
+    "UniqueID": 2,
+    "Label": "CheekOff",
+    "Name": "CheekOff",
+    "TexName": "mCheek_Alb.2"
+  }
+]

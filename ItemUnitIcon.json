@@ -1,0 +1,1692 @@
+[
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 5,
+    "ColorIndex": 255,
+    "Label": "None",
+    "ModelName": "",
+    "Name": "（なし）",
+    "ResName": ""
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 279,
+    "ColorIndex": 255,
+    "Label": "MileCard",
+    "ModelName": "UnitIconMileCard",
+    "Name": "たぬきマイルカード",
+    "ResName": "UnitIconMileCard"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 0,
+    "ColorIndex": 0,
+    "Label": "Leaf",
+    "ModelName": "UnitIconLeaf",
+    "Name": "葉っぱ",
+    "ResName": "UnitIconLeaf"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 273,
+    "ColorIndex": 1,
+    "Label": "LeafYellow",
+    "ModelName": "UnitIconLeaf",
+    "Name": "葉っぱ：黄",
+    "ResName": "UnitIconLeaf"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 157,
+    "ColorIndex": 255,
+    "Label": "RoomWall",
+    "ModelName": "UnitIconRoomWall",
+    "Name": "壁紙",
+    "ResName": "UnitIconRoomWall"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 156,
+    "ColorIndex": 255,
+    "Label": "RoomFloor",
+    "ModelName": "UnitIconRoomFloor",
+    "Name": "床板",
+    "ResName": "UnitIconRoomFloor"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 215,
+    "ColorIndex": 255,
+    "Label": "Rug",
+    "ModelName": "UnitIconRug",
+    "Name": "ラグ",
+    "ResName": "UnitIconRug"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 30,
+    "ColorIndex": 255,
+    "Label": "Tops",
+    "ModelName": "UnitIconTops",
+    "Name": "装：トップス",
+    "ResName": "UnitIconTops"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 31,
+    "ColorIndex": 255,
+    "Label": "Bottoms",
+    "ModelName": "UnitIconBottoms",
+    "Name": "装：ボトムス",
+    "ResName": "UnitIconBottoms"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 32,
+    "ColorIndex": 255,
+    "Label": "Socks",
+    "ModelName": "UnitIconSocks",
+    "Name": "装：くつした",
+    "ResName": "UnitIconSocks"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 33,
+    "ColorIndex": 255,
+    "Label": "Shoes",
+    "ModelName": "UnitIconShoes",
+    "Name": "装：くつ",
+    "ResName": "UnitIconShoes"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 34,
+    "ColorIndex": 255,
+    "Label": "Cap",
+    "ModelName": "UnitIconCap",
+    "Name": "装：ぼうし",
+    "ResName": "UnitIconCap"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 35,
+    "ColorIndex": 255,
+    "Label": "Helmet",
+    "ModelName": "UnitIconWig",
+    "Name": "装：かぶりもの",
+    "ResName": "UnitIconWig"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 36,
+    "ColorIndex": 255,
+    "Label": "Accessory",
+    "ModelName": "UnitIconAccessory",
+    "Name": "装：アクセサリ",
+    "ResName": "UnitIconAccessory"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 37,
+    "ColorIndex": 255,
+    "Label": "Bag",
+    "ModelName": "UnitIconBag",
+    "Name": "装：バッグ",
+    "ResName": "UnitIconBag"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 160,
+    "ColorIndex": 255,
+    "Label": "Umbrella",
+    "ModelName": "UnitIconUmbrella",
+    "Name": "装：カサ",
+    "ResName": "UnitIconUmbrella"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 161,
+    "ColorIndex": 255,
+    "Label": "FishingRod",
+    "ModelName": "UnitIconFishingrod",
+    "Name": "道具：つりざお",
+    "ResName": "UnitIconFishingrod"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 204,
+    "ColorIndex": 255,
+    "Label": "Stick",
+    "ModelName": "UnitIconStick",
+    "Name": "変身ステッキ",
+    "ResName": "UnitIconStick"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 162,
+    "ColorIndex": 255,
+    "Label": "Fence",
+    "ModelName": "UnitIconFence",
+    "Name": "柵",
+    "ResName": "UnitIconFence"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 189,
+    "ColorIndex": 0,
+    "Label": "TentSet",
+    "ModelName": "UnitIconTentSet",
+    "Name": "テントセット",
+    "ResName": "UnitIconTentSet"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 186,
+    "ColorIndex": 1,
+    "Label": "HousingKit",
+    "ModelName": "UnitIconTentSet",
+    "Name": "ハウジングキット",
+    "ResName": "UnitIconTentSet"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 19,
+    "ColorIndex": 255,
+    "Label": "FossilUnknown",
+    "ModelName": "UnitIconFossil",
+    "Name": "化石：未鑑定",
+    "ResName": "UnitIconFossil"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 29,
+    "ColorIndex": 255,
+    "Label": "FossilKnown",
+    "ModelName": "UnitIconFossilKnown",
+    "Name": "化石：鑑定済み",
+    "ResName": "UnitIconFossilKnown"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 208,
+    "ColorIndex": 255,
+    "Label": "Pitfall",
+    "ModelName": "UnitIconPitfall",
+    "Name": "おとしあなのタネ",
+    "ResName": "UnitIconPitfall"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 207,
+    "ColorIndex": 255,
+    "Label": "Music",
+    "ModelName": "UnitIconMusic",
+    "Name": "ミュージック",
+    "ResName": "UnitIconMusic"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 184,
+    "ColorIndex": 255,
+    "Label": "Medicine",
+    "ModelName": "UnitIconMedicine",
+    "Name": "おくすり",
+    "ResName": "UnitIconMedicine"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 209,
+    "ColorIndex": 0,
+    "Label": "RemakeKit",
+    "ModelName": "UnitIconRemakeKit",
+    "Name": "リメイクキット",
+    "ResName": "UnitIconRemakeKit"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 274,
+    "ColorIndex": 255,
+    "Label": "SmartphoneCase",
+    "ModelName": "UnitIconSmartphoneCase",
+    "Name": "スマホケース",
+    "ResName": "UnitIconSmartphoneCase"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 236,
+    "ColorIndex": 255,
+    "Label": "Timer",
+    "ModelName": "UnitIconTimer",
+    "Name": "タイマー",
+    "ResName": "UnitIconTimer"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 59,
+    "ColorIndex": 255,
+    "Label": "Honeycomb",
+    "ModelName": "UnitIconHoneycomb",
+    "Name": "ハチの巣",
+    "ResName": "UnitIconHoneycomb"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 72,
+    "ColorIndex": 255,
+    "Label": "Weed",
+    "ModelName": "UnitIconPltWeed",
+    "Name": "雑草",
+    "ResName": "UnitIconPltWeed"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 7734,
+    "UniqueID": 28,
+    "ColorIndex": 255,
+    "Label": "Turnip",
+    "ModelName": "UnitIconPltKabu",
+    "Name": "カブ",
+    "ResName": "UnitIconPltKabu"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 17,
+    "ColorIndex": 255,
+    "Label": "TurnipExpired",
+    "ModelName": "UnitIconPltKabuRotten",
+    "Name": "カブ腐れ",
+    "ResName": "UnitIconPltKabuRotten"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 220,
+    "ColorIndex": 255,
+    "Label": "MessageBottle",
+    "ModelName": "UnitIconMessageBottle",
+    "Name": "メッセージボトル",
+    "ResName": "UnitIconMessageBottle"
+  },
+  {
+    "ScaleOffset": 0.9,
+    "CatalogItemUniqueID": 7735,
+    "UniqueID": 223,
+    "ColorIndex": 255,
+    "Label": "Recipe",
+    "ModelName": "UnitIconRecipe",
+    "Name": "レシピ",
+    "ResName": "UnitIconRecipe"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 221,
+    "ColorIndex": 255,
+    "Label": "FishBait",
+    "ModelName": "UnitIconFishBait",
+    "Name": "サカナのまきエサ",
+    "ResName": "UnitIconFishBait"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 218,
+    "ColorIndex": 0,
+    "Label": "AirTicket",
+    "ModelName": "UnitIconAirTicket",
+    "Name": "マイル航空券",
+    "ResName": "UnitIconAirTicket"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 235,
+    "ColorIndex": 1,
+    "Label": "TailorTicket",
+    "ModelName": "UnitIconAirTicket",
+    "Name": "したてやひきかえけん",
+    "ResName": "UnitIconAirTicket"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 277,
+    "ColorIndex": 2,
+    "Label": "RollanTicket",
+    "ModelName": "UnitIconAirTicket",
+    "Name": "ローランひきかえけん",
+    "ResName": "UnitIconAirTicket"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 278,
+    "ColorIndex": 3,
+    "Label": "BellExchangeTicket",
+    "ModelName": "UnitIconAirTicket",
+    "Name": "ベルひきかえかん",
+    "ResName": "UnitIconAirTicket"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 163,
+    "ColorIndex": 0,
+    "Label": "PresentBoxRed",
+    "ModelName": "UnitIconPresentred",
+    "Name": "プレゼントBOX赤",
+    "ResName": "UnitIconPresentred"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 164,
+    "ColorIndex": 1,
+    "Label": "PresentBoxGreen",
+    "ModelName": "UnitIconPresentred",
+    "Name": "プレゼントBOX青",
+    "ResName": "UnitIconPresentred"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 166,
+    "ColorIndex": 255,
+    "Label": "Insect",
+    "ModelName": "UnitIconInsect",
+    "Name": "生物：ムシかご",
+    "ResName": "UnitIconInsect"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 165,
+    "ColorIndex": 255,
+    "Label": "Fish",
+    "ModelName": "UnitIconFish",
+    "Name": "生物：サカナ",
+    "ResName": "UnitIconFish"
+  },
+  {
+    "ScaleOffset": 0.7,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 167,
+    "ColorIndex": 255,
+    "Label": "TrushTire",
+    "ModelName": "UnitIconTrushTire",
+    "Name": "ゴミ：タイヤ",
+    "ResName": "UnitIconTrushTire"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 168,
+    "ColorIndex": 255,
+    "Label": "TrushCan",
+    "ModelName": "UnitIconTrushCan",
+    "Name": "ゴミ：あきカン",
+    "ResName": "UnitIconTrushCan"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 171,
+    "ColorIndex": 255,
+    "Label": "TrushBoot",
+    "ModelName": "UnitIconTrushBoot",
+    "Name": "ゴミ：ながぐつ",
+    "ResName": "UnitIconTrushBoot"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": 7730,
+    "UniqueID": 1,
+    "ColorIndex": 255,
+    "Label": "Coin",
+    "ModelName": "UnitIconCoin",
+    "Name": "コイン",
+    "ResName": "UnitIconCoin"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 7731,
+    "UniqueID": 2,
+    "ColorIndex": 255,
+    "Label": "MoneyBag",
+    "ModelName": "UnitIconMoneybag",
+    "Name": "ベル袋",
+    "ResName": "UnitIconMoneybag"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 219,
+    "ColorIndex": 0,
+    "Label": "Parts",
+    "ModelName": "UnitIconParts",
+    "Name": "ジョニーのパーツ",
+    "ResName": "UnitIconParts"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 239,
+    "ColorIndex": 1,
+    "Label": "PartsDust",
+    "ModelName": "UnitIconParts",
+    "Name": "さびたパーツ",
+    "ResName": "UnitIconParts"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 170,
+    "ColorIndex": 255,
+    "Label": "LostQuestPouch",
+    "ModelName": "UnitIconLostquestPouch",
+    "Name": "落し物：袋",
+    "ResName": "UnitIconLostquestPouch"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 169,
+    "ColorIndex": 255,
+    "Label": "LostQuestBook",
+    "ModelName": "UnitIconLostquestBook",
+    "Name": "落し物：本（読み物）",
+    "ResName": "UnitIconLostquestBook"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 172,
+    "ColorIndex": 255,
+    "Label": "LostQuestNote",
+    "ModelName": "UnitIconLostquestNote",
+    "Name": "落し物：本（書き物）",
+    "ResName": "UnitIconLostquestNote"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 210,
+    "ColorIndex": 255,
+    "Label": "CupCake",
+    "ModelName": "UnitIconCupCake",
+    "Name": "バースデーカップケーキ",
+    "ResName": "UnitIconCupCake"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 240,
+    "ColorIndex": 255,
+    "Label": "PinataStick",
+    "ModelName": "UnitIconPinataStick",
+    "Name": "ピニャータぼう",
+    "ResName": "UnitIconPinataStick"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 3,
+    "ColorIndex": 255,
+    "Label": "Apple",
+    "ModelName": "UnitIconPltFruitApple",
+    "Name": "リンゴ",
+    "ResName": "UnitIconPltFruitApple"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 4,
+    "ColorIndex": 255,
+    "Label": "Orange",
+    "ModelName": "UnitIconPltFruitOrange",
+    "Name": "オレンジ",
+    "ResName": "UnitIconPltFruitOrange"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 7,
+    "ColorIndex": 255,
+    "Label": "Pear",
+    "ModelName": "UnitIconPltFruitPear",
+    "Name": "ナシ",
+    "ResName": "UnitIconPltFruitPear"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 8,
+    "ColorIndex": 255,
+    "Label": "Peach",
+    "ModelName": "UnitIconPltFruitPeach",
+    "Name": "モモ",
+    "ResName": "UnitIconPltFruitPeach"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 10,
+    "ColorIndex": 255,
+    "Label": "Cherry",
+    "ModelName": "UnitIconPltFruitCherry",
+    "Name": "サクランボ",
+    "ResName": "UnitIconPltFruitCherry"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 11,
+    "ColorIndex": 255,
+    "Label": "Coconut",
+    "ModelName": "UnitIconPltFruitCoconut",
+    "Name": "ヤシの実",
+    "ResName": "UnitIconPltFruitCoconut"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 13,
+    "ColorIndex": 255,
+    "Label": "Bambooshoot",
+    "ModelName": "UnitIconPltFruitBambooshoot",
+    "Name": "タケノコ",
+    "ResName": "UnitIconPltFruitBambooshoot"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 70,
+    "ColorIndex": 255,
+    "Label": "SeedlingOak",
+    "ModelName": "UnitIconPltTreeOakSeeding",
+    "Name": "広葉樹の苗",
+    "ResName": "UnitIconPltTreeOakSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 125,
+    "ColorIndex": 255,
+    "Label": "PltOak",
+    "ModelName": "UnitIconPltTreeOak",
+    "Name": "広葉樹",
+    "ResName": "UnitIconPltTreeOak"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 71,
+    "ColorIndex": 255,
+    "Label": "SeedlingCedar",
+    "ModelName": "UnitIconPltTreeCedarSeeding",
+    "Name": "針葉樹の苗",
+    "ResName": "UnitIconPltTreeCedarSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 126,
+    "ColorIndex": 255,
+    "Label": "PltCedar",
+    "ModelName": "UnitIconPltTreeCedar",
+    "Name": "針葉樹",
+    "ResName": "UnitIconPltTreeCedar"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 128,
+    "ColorIndex": 255,
+    "Label": "PltPalm",
+    "ModelName": "UnitIconPltTreePalm",
+    "Name": "ヤシの木",
+    "ResName": "UnitIconPltTreePalm"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 127,
+    "ColorIndex": 255,
+    "Label": "PltBamboo",
+    "ModelName": "UnitIconPltTreeBamboo",
+    "Name": "竹",
+    "ResName": "UnitIconPltTreeBamboo"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 154,
+    "ColorIndex": 255,
+    "Label": "SeedlingBush",
+    "ModelName": "UnitIconPltBushSeeding",
+    "Name": "低木の苗",
+    "ResName": "UnitIconPltBushSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 292,
+    "ColorIndex": 255,
+    "Label": "PltBush",
+    "ModelName": "UnitIconPltBush",
+    "Name": "低木",
+    "ResName": "UnitIconPltBush"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 7736,
+    "UniqueID": 123,
+    "ColorIndex": 255,
+    "Label": "SeedPaperbag",
+    "ModelName": "UnitIconFlowerSeed",
+    "Name": "花の種袋",
+    "ResName": "UnitIconFlowerSeed"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 124,
+    "ColorIndex": 255,
+    "Label": "Seed",
+    "ModelName": "UnitIconPltFlowerSeeding",
+    "Name": "花の種",
+    "ResName": "UnitIconPltFlowerSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 54,
+    "ColorIndex": 255,
+    "Label": "DIYBranch",
+    "ModelName": "UnitIconPltBranch",
+    "Name": "D：枝",
+    "ResName": "UnitIconPltBranch"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 53,
+    "ColorIndex": 0,
+    "Label": "DIYWoodNormal",
+    "ModelName": "UnitIconPltWood",
+    "Name": "D：木材",
+    "ResName": "UnitIconPltWood"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 52,
+    "ColorIndex": 1,
+    "Label": "DIYWoodSoft",
+    "ModelName": "UnitIconPltWood",
+    "Name": "D：木材（柔らかい）",
+    "ResName": "UnitIconPltWood"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 51,
+    "ColorIndex": 2,
+    "Label": "DIYWoodHard",
+    "ModelName": "UnitIconPltWood",
+    "Name": "D：木材（硬い）",
+    "ResName": "UnitIconPltWood"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 50,
+    "ColorIndex": 255,
+    "Label": "DIYBamboo",
+    "ModelName": "UnitIconPltWoodBamboo",
+    "Name": "D：竹材",
+    "ResName": "UnitIconPltWoodBamboo"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 193,
+    "ColorIndex": 255,
+    "Label": "DIYBambooSpring",
+    "ModelName": "UnitIconPltWoodBambooSpring",
+    "Name": "はるのわかたけ",
+    "ResName": "UnitIconPltWoodBambooSpring"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 200,
+    "ColorIndex": 1,
+    "Label": "ShellSummer",
+    "ModelName": "UnitIconShellSnail",
+    "Name": "なつのかいがら",
+    "ResName": "UnitIconShellSnail"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 191,
+    "ColorIndex": 255,
+    "Label": "DIYAcorn",
+    "ModelName": "UnitIconPltAcorn",
+    "Name": "どんぐり",
+    "ResName": "UnitIconPltAcorn"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 192,
+    "ColorIndex": 255,
+    "Label": "DIYPinecone",
+    "ModelName": "UnitIconPltPinecone",
+    "Name": "まつぼっくり",
+    "ResName": "UnitIconPltPinecone"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 275,
+    "ColorIndex": 255,
+    "Label": "Sakurapetal",
+    "ModelName": "UnitIconSakurapetal",
+    "Name": "さくらのはなびら",
+    "ResName": "UnitIconSakurapetal"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 276,
+    "ColorIndex": 255,
+    "Label": "AutumnLeaf",
+    "ModelName": "UnitIconAutumnLeaf",
+    "Name": "もみじのはっぱ",
+    "ResName": "UnitIconAutumnLeaf"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 180,
+    "ColorIndex": 255,
+    "Label": "SnowCrystalLarge",
+    "ModelName": "UnitIconSnowCrystalLarge",
+    "Name": "ゆきのだいけっしょう",
+    "ResName": "UnitIconSnowCrystalLarge"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 179,
+    "ColorIndex": 255,
+    "Label": "SnowCrystal",
+    "ModelName": "UnitIconSnowCrystal",
+    "Name": "ゆきのけっしょう",
+    "ResName": "UnitIconSnowCrystal"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 214,
+    "ColorIndex": 0,
+    "Label": "DIYOrnamentRed",
+    "ModelName": "UnitIconPltOrnament",
+    "Name": "オーナメントあか",
+    "ResName": "UnitIconPltOrnament"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 212,
+    "ColorIndex": 1,
+    "Label": "DIYOrnamentBlue",
+    "ModelName": "UnitIconPltOrnament",
+    "Name": "オーナメントあお",
+    "ResName": "UnitIconPltOrnament"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 213,
+    "ColorIndex": 2,
+    "Label": "DIYOrnamentGold",
+    "ModelName": "UnitIconPltOrnament",
+    "Name": "オーナメントきん",
+    "ResName": "UnitIconPltOrnament"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 63,
+    "ColorIndex": 255,
+    "Label": "MushSplendid",
+    "ModelName": "UnitIconPltMushSplendid",
+    "Name": "りっぱなキノコ",
+    "ResName": "UnitIconPltMushSplendid"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 64,
+    "ColorIndex": 255,
+    "Label": "MushRound",
+    "ModelName": "UnitIconPltMushRound",
+    "Name": "まるいキノコ",
+    "ResName": "UnitIconPltMushRound"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 65,
+    "ColorIndex": 255,
+    "Label": "MushSlender",
+    "ModelName": "UnitIconPltMushSlender",
+    "Name": "ほそいキノコ",
+    "ResName": "UnitIconPltMushSlender"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 66,
+    "ColorIndex": 255,
+    "Label": "MushFlat",
+    "ModelName": "UnitIconPltMushFlat",
+    "Name": "ひらたいキノコ",
+    "ResName": "UnitIconPltMushFlat"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 67,
+    "ColorIndex": 255,
+    "Label": "MushRare",
+    "ModelName": "UnitIconPltMushRare",
+    "Name": "めずらしいキノコ",
+    "ResName": "UnitIconPltMushRare"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 49,
+    "ColorIndex": 255,
+    "Label": "DIYStone",
+    "ModelName": "UnitIconStone",
+    "Name": "D：石",
+    "ResName": "UnitIconStone"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 45,
+    "ColorIndex": 255,
+    "Label": "DIYClay",
+    "ModelName": "UnitIconClay",
+    "Name": "D：粘土",
+    "ResName": "UnitIconClay"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 57,
+    "ColorIndex": 255,
+    "Label": "DIYIron",
+    "ModelName": "UnitIconIron",
+    "Name": "D：鉄鉱石",
+    "ResName": "UnitIconIron"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 55,
+    "ColorIndex": 255,
+    "Label": "DIYGold",
+    "ModelName": "UnitIconGold",
+    "Name": "D：金鉱石",
+    "ResName": "UnitIconGold"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 7733,
+    "UniqueID": 22,
+    "ColorIndex": 0,
+    "Label": "ShellSnail",
+    "ModelName": "UnitIconShellSnail",
+    "Name": "貝：巻き貝",
+    "ResName": "UnitIconShellSnail"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": 7732,
+    "UniqueID": 21,
+    "ColorIndex": 255,
+    "Label": "ShellBivalve",
+    "ModelName": "UnitIconShellBivalve",
+    "Name": "貝：二枚貝",
+    "ResName": "UnitIconShellBivalve"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 14,
+    "ColorIndex": 255,
+    "Label": "ShellCoral",
+    "ModelName": "UnitIconShellCoral",
+    "Name": "貝：サンゴ",
+    "ResName": "UnitIconShellCoral"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 121,
+    "ColorIndex": 0,
+    "Label": "SmartPhone",
+    "ModelName": "UnitIconSmartphone",
+    "Name": "スマホ",
+    "ResName": "UnitIconSmartphone"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 187,
+    "ColorIndex": 255,
+    "Label": "Paper",
+    "ModelName": "UnitIconPaper",
+    "Name": "紙きれ1まい",
+    "ResName": "UnitIconPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 185,
+    "ColorIndex": 255,
+    "Label": "Map",
+    "ModelName": "UnitIconMap",
+    "Name": "地図",
+    "ResName": "UnitIconMap"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 217,
+    "ColorIndex": 255,
+    "Label": "GeneralBox",
+    "ModelName": "UnitIconGeneralBox",
+    "Name": "汎用アイコン：箱",
+    "ResName": "UnitIconGeneralBox"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 216,
+    "ColorIndex": 255,
+    "Label": "GeneralSack",
+    "ModelName": "UnitIconGeneralSack",
+    "Name": "汎用アイコン：袋",
+    "ResName": "UnitIconGeneralSack"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 197,
+    "ColorIndex": 0,
+    "Label": "Starpiece",
+    "ModelName": "UnitIconStar0",
+    "Name": "ほしのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 199,
+    "ColorIndex": 255,
+    "Label": "StarpieceRare",
+    "ModelName": "UnitIconStarRare",
+    "Name": "ねがいのけっしょう",
+    "ResName": "UnitIconStarRare"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 198,
+    "ColorIndex": 1,
+    "Label": "StarpieceCapricornus",
+    "ModelName": "UnitIconStar0",
+    "Name": "やぎざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 233,
+    "ColorIndex": 2,
+    "Label": "StarpieceAquarius",
+    "ModelName": "UnitIconStar0",
+    "Name": "みずがめざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 234,
+    "ColorIndex": 3,
+    "Label": "StarpiecePisces",
+    "ModelName": "UnitIconStar0",
+    "Name": "うおざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 229,
+    "ColorIndex": 4,
+    "Label": "StarpieceAries",
+    "ModelName": "UnitIconStar0",
+    "Name": "おひつじざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 230,
+    "ColorIndex": 5,
+    "Label": "StarpieceTaurus",
+    "ModelName": "UnitIconStar0",
+    "Name": "おうしざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 231,
+    "ColorIndex": 6,
+    "Label": "StarpieceGemini",
+    "ModelName": "UnitIconStar0",
+    "Name": "ふたござのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 232,
+    "ColorIndex": 7,
+    "Label": "StarpieceCancer",
+    "ModelName": "UnitIconStar0",
+    "Name": "かにざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 227,
+    "ColorIndex": 8,
+    "Label": "StarpieceLeo",
+    "ModelName": "UnitIconStar0",
+    "Name": "ししざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 228,
+    "ColorIndex": 9,
+    "Label": "StarpieceVirgo",
+    "ModelName": "UnitIconStar0",
+    "Name": "おとめざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 226,
+    "ColorIndex": 10,
+    "Label": "StarpieceLibra",
+    "ModelName": "UnitIconStar0",
+    "Name": "てんびんざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 225,
+    "ColorIndex": 11,
+    "Label": "StarpieceScorpio",
+    "ModelName": "UnitIconStar0",
+    "Name": "さそりざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 224,
+    "ColorIndex": 12,
+    "Label": "StarpieceSagittarius",
+    "ModelName": "UnitIconStar0",
+    "Name": "いてざのかけら",
+    "ResName": "UnitIconStar0"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 251,
+    "ColorIndex": 0,
+    "Label": "WPaperYellow",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：イエロー",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 252,
+    "ColorIndex": 1,
+    "Label": "WPaperPink",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ピンク",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 254,
+    "ColorIndex": 2,
+    "Label": "WPaperOrange",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：オレンジ",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 255,
+    "ColorIndex": 3,
+    "Label": "WPaperLightGreen",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：キミドリ",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 256,
+    "ColorIndex": 4,
+    "Label": "WPaperGreen",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ミドリ",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 253,
+    "ColorIndex": 5,
+    "Label": "WPaperMint",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ミント",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 246,
+    "ColorIndex": 6,
+    "Label": "WPaperLightBlue",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ライトブルー",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 247,
+    "ColorIndex": 7,
+    "Label": "WPaperPurple",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：パープル",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 248,
+    "ColorIndex": 8,
+    "Label": "WPaperNavy",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ネイビー",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 249,
+    "ColorIndex": 9,
+    "Label": "WPaperBlue",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ブルー",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 250,
+    "ColorIndex": 10,
+    "Label": "WPaperWhite",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ホワイト",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 244,
+    "ColorIndex": 11,
+    "Label": "WPaperRed",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：レッド",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 245,
+    "ColorIndex": 12,
+    "Label": "WPaperGold",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ゴールド",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 243,
+    "ColorIndex": 13,
+    "Label": "WPaperBrown",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ブラウン",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 242,
+    "ColorIndex": 14,
+    "Label": "WPaperGray",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：グレー",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 241,
+    "ColorIndex": 15,
+    "Label": "WPaperBlack",
+    "ModelName": "UnitIconWrappingPaper",
+    "Name": "ラッピングペーパー：ブラック",
+    "ResName": "UnitIconWrappingPaper"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 257,
+    "ColorIndex": 0,
+    "Label": "WParcelYellow",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：イエロー",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 258,
+    "ColorIndex": 1,
+    "Label": "WParcelPink",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ピンク",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 259,
+    "ColorIndex": 2,
+    "Label": "WParcelOrange",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：オレンジ",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 260,
+    "ColorIndex": 3,
+    "Label": "WParcelLightGreen",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：キミドリ",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 261,
+    "ColorIndex": 4,
+    "Label": "WParcelGreen",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ミドリ",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 262,
+    "ColorIndex": 5,
+    "Label": "WParcelMint",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ミント",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 263,
+    "ColorIndex": 6,
+    "Label": "WParcelLightBlue",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ライトブルー",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 264,
+    "ColorIndex": 7,
+    "Label": "WParcelPurple",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：パープル",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 265,
+    "ColorIndex": 8,
+    "Label": "WParcelNavy",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ネイビー",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 266,
+    "ColorIndex": 9,
+    "Label": "WParcelBlue",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ブルー",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 267,
+    "ColorIndex": 10,
+    "Label": "WParcelWhite",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ホワイト",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 268,
+    "ColorIndex": 11,
+    "Label": "WParcelRed",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：レッド",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 269,
+    "ColorIndex": 12,
+    "Label": "WParcelGold",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ゴールド",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 270,
+    "ColorIndex": 13,
+    "Label": "WParcelBrown",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ブラウン",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 271,
+    "ColorIndex": 14,
+    "Label": "WParcelGary",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：グレー",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 272,
+    "ColorIndex": 15,
+    "Label": "WParcelBlack",
+    "ModelName": "UnitIconWrapping",
+    "Name": "ラッピング袋：ブラック",
+    "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 150,
+    "ColorIndex": 255,
+    "Label": "FlwTulip",
+    "ModelName": "UnitIconPltFlwPetalTulip",
+    "Name": "花：チューリップ",
+    "ResName": "UnitIconPltFlwPetalTulip"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 146,
+    "ColorIndex": 255,
+    "Label": "FlwPansy",
+    "ModelName": "UnitIconPltFlwPetalPansy",
+    "Name": "花：パンジー",
+    "ResName": "UnitIconPltFlwPetalPansy"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 148,
+    "ColorIndex": 255,
+    "Label": "FlwCosmos",
+    "ModelName": "UnitIconPltFlwPetalCosmos",
+    "Name": "花：コスモス",
+    "ResName": "UnitIconPltFlwPetalCosmos"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 149,
+    "ColorIndex": 255,
+    "Label": "FlwRose",
+    "ModelName": "UnitIconPltFlwPetalRose",
+    "Name": "花：バラ",
+    "ResName": "UnitIconPltFlwPetalRose"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 174,
+    "ColorIndex": 255,
+    "Label": "FlwRoseGold",
+    "ModelName": "UnitIconPltFlwPetalRoseGold",
+    "Name": "花：バラ金",
+    "ResName": "UnitIconPltFlwPetalRoseGold"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 147,
+    "ColorIndex": 255,
+    "Label": "FlwLily",
+    "ModelName": "UnitIconPltFlwPetalYuri",
+    "Name": "花：ユリ",
+    "ResName": "UnitIconPltFlwPetalYuri"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 155,
+    "ColorIndex": 255,
+    "Label": "FlwAnemone",
+    "ModelName": "UnitIconPltFlwPetalAnemone",
+    "Name": "花：アネモネ",
+    "ResName": "UnitIconPltFlwPetalAnemone"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 144,
+    "ColorIndex": 255,
+    "Label": "FlwMum",
+    "ModelName": "UnitIconPltFlwPetalMum",
+    "Name": "花：キク",
+    "ResName": "UnitIconPltFlwPetalMum"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 145,
+    "ColorIndex": 255,
+    "Label": "FlwHyacinth",
+    "ModelName": "UnitIconPltFlwPetalHyacinth",
+    "Name": "花：ヒヤシンス",
+    "ResName": "UnitIconPltFlwPetalHyacinth"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 281,
+    "ColorIndex": 255,
+    "Label": "EggGround",
+    "ModelName": "UnitIconEggGround",
+    "Name": "じめんのたまご",
+    "ResName": "UnitIconEggGround"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 283,
+    "ColorIndex": 255,
+    "Label": "EggRock",
+    "ModelName": "UnitIconEggRock",
+    "Name": "いわのたまご",
+    "ResName": "UnitIconEggRock"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 284,
+    "ColorIndex": 255,
+    "Label": "EggLeaf",
+    "ModelName": "UnitIconEggLeaf",
+    "Name": "はっぱのたまご",
+    "ResName": "UnitIconEggLeaf"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 285,
+    "ColorIndex": 255,
+    "Label": "EggForest",
+    "ModelName": "UnitIconEggForest",
+    "Name": "もりのたまご",
+    "ResName": "UnitIconEggForest"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 282,
+    "ColorIndex": 255,
+    "Label": "EggSky",
+    "ModelName": "UnitIconEggSky",
+    "Name": "そらとぶたまご",
+    "ResName": "UnitIconEggSky"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 280,
+    "ColorIndex": 255,
+    "Label": "EggFish",
+    "ModelName": "UnitIconEggFish",
+    "Name": "サカナのたまご",
+    "ResName": "UnitIconEggFish"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 291,
+    "ColorIndex": 255,
+    "Label": "MessageBottleEgg",
+    "ModelName": "UnitIconMessageBottleEgg",
+    "Name": "たまごのメッセージボトル",
+    "ResName": "UnitIconMessageBottleEgg"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 290,
+    "ColorIndex": 255,
+    "Label": "Love",
+    "ModelName": "UnitIconLove",
+    "Name": "あいのけっしょう",
+    "ResName": "UnitIconLove"
+  }
+]

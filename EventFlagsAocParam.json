@@ -1,0 +1,18 @@
+[
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 0,
+    "fa93f14b u8": 1,
+    "Key": "AOC_EventFlag_000",
+    "Name": "AOC同期フラグ| 000 Compass"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1,
+    "fa93f14b u8": 1,
+    "Key": "AOC_EventFlag_001",
+    "Name": "AOC同期フラグ| 001 NSO加入特典"
+  }
+]

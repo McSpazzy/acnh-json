@@ -1,0 +1,57 @@
+[
+  {
+    "EndDayNorth": 31,
+    "EndDaySouth": 31,
+    "EndMonthNorth": 12,
+    "EndMonthSouth": 12,
+    "StartDayNorth": 1,
+    "StartDaySouth": 1,
+    "StartMonthNorth": 1,
+    "StartMonthSouth": 1,
+    "UniqueID": 0
+  },
+  {
+    "EndDayNorth": 31,
+    "EndDaySouth": 30,
+    "EndMonthNorth": 5,
+    "EndMonthSouth": 11,
+    "StartDayNorth": 1,
+    "StartDaySouth": 1,
+    "StartMonthNorth": 3,
+    "StartMonthSouth": 9,
+    "UniqueID": 1
+  },
+  {
+    "EndDayNorth": 31,
+    "EndDaySouth": 29,
+    "EndMonthNorth": 8,
+    "EndMonthSouth": 2,
+    "StartDayNorth": 1,
+    "StartDaySouth": 1,
+    "StartMonthNorth": 6,
+    "StartMonthSouth": 12,
+    "UniqueID": 2
+  },
+  {
+    "EndDayNorth": 30,
+    "EndDaySouth": 31,
+    "EndMonthNorth": 11,
+    "EndMonthSouth": 5,
+    "StartDayNorth": 1,
+    "StartDaySouth": 1,
+    "StartMonthNorth": 9,
+    "StartMonthSouth": 3,
+    "UniqueID": 3
+  },
+  {
+    "EndDayNorth": 29,
+    "EndDaySouth": 31,
+    "EndMonthNorth": 2,
+    "EndMonthSouth": 8,
+    "StartDayNorth": 1,
+    "StartDaySouth": 1,
+    "StartMonthNorth": 12,
+    "StartMonthSouth": 6,
+    "UniqueID": 4
+  }
+]

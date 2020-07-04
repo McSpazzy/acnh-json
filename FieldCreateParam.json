@@ -1,0 +1,730 @@
+[
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 0,
+    "StageName": "InvalidStage",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "MainField",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "MainField",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse0_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse1_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse2_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse3_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse4_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse5_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse6_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room0",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room1",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7_1",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room2",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7_2",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room3",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7_3",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room4",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7_4",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "PlayerHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Room5",
+    "ItemLayer": 255,
+    "StageName": "PlayerHouse7_5",
+    "StaticField": "\u0001"
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse0",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse1",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse2",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse3",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse4",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse5",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse6",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse7",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse8",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "NpcHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "NpcHouse9",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 63,
+    "StageName": "IdrTsunekichi",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMarket01",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMarket02",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrTanukichi",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "MysteryTourIsland",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "MysteryTourIsland",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "Dream_Tkk",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 63,
+    "StageName": "IdrTailor",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFish_2",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumEnt00",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrAirPort",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFish_0",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFish_1",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumInsect_0",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumInsect_1",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room1",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio_1",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room2",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio_2",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room3",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio_3",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room4",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio_4",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioHouse",
+    "PhotoStudioRoomNo*": "Room5",
+    "RoomType*": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "PhotoStudio_5",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "PhotoStudioIsland",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "PhotoStudioIsland",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumEnt01",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFossil_0",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFossil_2",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrCampSiteTent",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrOffice01",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "GrowUpTalk",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumEnt02",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumInsect_2",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumFossil_1",
+    "StaticField": ""
+  },
+  {
+    "FactoryType*": "Default",
+    "PhotoStudioRoomNo*": "Room0",
+    "RoomType*": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumArt_0",
+    "StaticField": ""
+  }
+]

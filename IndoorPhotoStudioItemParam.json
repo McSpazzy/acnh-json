@@ -1,0 +1,202 @@
+[
+  {
+    "Dir*": "S",
+    "ItemID": 4911,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 2
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 5049,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 3
+  },
+  {
+    "Dir*": "E",
+    "ItemID": 2554,
+    "PosX": 1,
+    "PosZ": 2,
+    "ReBody": 6,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 4
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 3971,
+    "PosX": 0,
+    "PosZ": 8,
+    "ReBody": 2,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 5
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 7189,
+    "PosX": 10,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 6
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 2020,
+    "PosX": 10,
+    "PosZ": 3,
+    "ReBody": 0,
+    "ReFabric": 0,
+    "RoomIndex": 0,
+    "UniqueID": 7
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 7189,
+    "PosX": 10,
+    "PosZ": 6,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 8
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 4053,
+    "PosX": 14,
+    "PosZ": 1,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 9
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 4053,
+    "PosX": 14,
+    "PosZ": 4,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 10
+  },
+  {
+    "Dir*": "W",
+    "ItemID": 4049,
+    "PosX": 14,
+    "PosZ": 14,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 0,
+    "UniqueID": 11
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 5031,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 1,
+    "UniqueID": 12
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4928,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 1,
+    "UniqueID": 13
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4955,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 2,
+    "UniqueID": 14
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4888,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 2,
+    "UniqueID": 15
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 5000,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 3,
+    "UniqueID": 16
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4891,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 3,
+    "UniqueID": 17
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4979,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 4,
+    "UniqueID": 18
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 5481,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 4,
+    "UniqueID": 19
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4890,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 5,
+    "UniqueID": 20
+  },
+  {
+    "Dir*": "S",
+    "ItemID": 4951,
+    "PosX": 0,
+    "PosZ": 0,
+    "ReBody": 0,
+    "ReFabric": -1,
+    "RoomIndex": 5,
+    "UniqueID": 21
+  }
+]

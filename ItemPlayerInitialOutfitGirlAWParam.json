@@ -1,0 +1,90 @@
+[
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 4187,
+    "Cap": -2,
+    "Shoes": 6884,
+    "Socks": 5199,
+    "Tops": 6820,
+    "UniqueID": 0,
+    "Label": "GirlAW_0"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 4186,
+    "Cap": -2,
+    "Shoes": 6889,
+    "Socks": 5199,
+    "Tops": 4615,
+    "UniqueID": 1,
+    "Label": "GirlAW_1"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 9011,
+    "Cap": -2,
+    "Shoes": 6885,
+    "Socks": 5199,
+    "Tops": 9498,
+    "UniqueID": 2,
+    "Label": "GirlAW_2"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 4187,
+    "Cap": -2,
+    "Shoes": 6889,
+    "Socks": 5199,
+    "Tops": 7761,
+    "UniqueID": 3,
+    "Label": "GirlAW_3"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 2403,
+    "Cap": -2,
+    "Shoes": 5566,
+    "Socks": 5199,
+    "Tops": 8974,
+    "UniqueID": 4,
+    "Label": "GirlAW_4"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 4186,
+    "Cap": -2,
+    "Shoes": 5566,
+    "Socks": 5199,
+    "Tops": 4147,
+    "UniqueID": 5,
+    "Label": "GirlAW_5"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 4186,
+    "Cap": -2,
+    "Shoes": 6885,
+    "Socks": 5199,
+    "Tops": 7568,
+    "UniqueID": 6,
+    "Label": "GirlAW_6"
+  },
+  {
+    "AcceEye": -2,
+    "AcceMouth": -2,
+    "Bottoms": 9011,
+    "Cap": -2,
+    "Shoes": 6885,
+    "Socks": 5199,
+    "Tops": 8977,
+    "UniqueID": 7,
+    "Label": "GirlAW_7"
+  }
+]

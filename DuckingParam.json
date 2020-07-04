@@ -1,0 +1,86 @@
+[
+  {
+    "UniqueID": 1,
+    "Name": "UI_通常"
+  },
+  {
+    "UniqueID": 16,
+    "Name": "Pos_オーディオ家具_BGM"
+  },
+  {
+    "UniqueID": 17,
+    "Name": "専用EF_けけライブ_ALL"
+  },
+  {
+    "UniqueID": 18,
+    "Name": "専用EF_作業台_BGM"
+  },
+  {
+    "UniqueID": 19,
+    "Name": "Demo_ツール壊れ_ALL"
+  },
+  {
+    "UniqueID": 20,
+    "Name": "Gen_時報オフ_SE"
+  },
+  {
+    "UniqueID": 21,
+    "Name": "EF_会話島メロオフ_SE"
+  },
+  {
+    "UniqueID": 24,
+    "Name": "専用EF_機内視点_SE"
+  },
+  {
+    "UniqueID": 28,
+    "Name": "専用EF_眠りに落ちる_SE"
+  },
+  {
+    "UniqueID": 29,
+    "Name": "専用EF_ツアーカウンター環境音_SE"
+  },
+  {
+    "UniqueID": 30,
+    "Name": "専用EF_オーディオ家具_BGM"
+  },
+  {
+    "UniqueID": 32,
+    "Name": "専用EF_タイトル画面の黒フェード_ALL"
+  },
+  {
+    "UniqueID": 33,
+    "Name": "EF_黒ワイプオーディオ除外_SE"
+  },
+  {
+    "UniqueID": 34,
+    "Name": "EF_BGMフェード_BGM"
+  },
+  {
+    "UniqueID": 35,
+    "Name": "EF_SEフェード_SE"
+  },
+  {
+    "UniqueID": 36,
+    "Name": "EF_SEフェードインロング_SE"
+  },
+  {
+    "UniqueID": 37,
+    "Name": "EF_SEフェードインショート_SE"
+  },
+  {
+    "UniqueID": 38,
+    "Name": "EF_ゲーム内BGMを消す_BGM"
+  },
+  {
+    "UniqueID": 39,
+    "Name": "専用EF_ライブ前にBGMを下げる_BGM"
+  },
+  {
+    "UniqueID": 40,
+    "Name": "専用EF_ライブ前に着地音を下げる_SE"
+  },
+  {
+    "UniqueID": 41,
+    "Name": "EF_透過全画面_ALL"
+  }
+]

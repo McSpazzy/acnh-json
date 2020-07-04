@@ -1,0 +1,387 @@
+[
+  {
+    "TVProgramName*": "バラエティ",
+    "StartHour": 0,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 0,
+    "StartMinute": "9"
+  },
+  {
+    "TVProgramName*": "ドキュメンタリー",
+    "StartHour": 1,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 2,
+    "StartMinute": "-"
+  },
+  {
+    "TVProgramName*": "カラーバー",
+    "StartHour": 3,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "サンドストーム",
+    "StartHour": 4,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "カラーバー",
+    "StartHour": 5,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 5,
+    "StartMinute": "7"
+  },
+  {
+    "TVProgramName*": "ニュース",
+    "StartHour": 6,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "天気予報",
+    "StartHour": 6,
+    "StartMinute": "\u000f"
+  },
+  {
+    "TVProgramName*": "エクササイズ",
+    "StartHour": 6,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 6,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "ニュース",
+    "StartHour": 7,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "天気予報",
+    "StartHour": 7,
+    "StartMinute": "-"
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 7,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "ドラマ",
+    "StartHour": 8,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 8,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "ドキュメンタリー",
+    "StartHour": 8,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 9,
+    "StartMinute": "\u0012"
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 9,
+    "StartMinute": "\u0013"
+  },
+  {
+    "TVProgramName*": "ドキュメンタリー",
+    "StartHour": 9,
+    "StartMinute": "\u0014"
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 9,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "アニメ",
+    "StartHour": 10,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "おやつCM",
+    "StartHour": 10,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "アニメ",
+    "StartHour": 10,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 10,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "料理番組",
+    "StartHour": 11,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 11,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "ニュース",
+    "StartHour": 11,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "天気予報",
+    "StartHour": 11,
+    "StartMinute": "-"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 11,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "バラエティ",
+    "StartHour": 12,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 12,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "バラエティ",
+    "StartHour": 12,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 12,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "ドラマ",
+    "StartHour": 13,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 13,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "ドラマ",
+    "StartHour": 13,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 13,
+    "StartMinute": ":"
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 13,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "対談番組",
+    "StartHour": 14,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "おやつCM",
+    "StartHour": 14,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "対談番組",
+    "StartHour": 14,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 14,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "エクササイズ",
+    "StartHour": 15,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 15,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "エクササイズ",
+    "StartHour": 15,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 15,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "子ども番組",
+    "StartHour": 16,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "おやつCM",
+    "StartHour": 16,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "子ども番組",
+    "StartHour": 16,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 16,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "バラエティ",
+    "StartHour": 17,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "おやつCM",
+    "StartHour": 17,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "バラエティ",
+    "StartHour": 17,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 17,
+    "StartMinute": ":"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 17,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "ニュース",
+    "StartHour": 18,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "天気予報",
+    "StartHour": 18,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 18,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "スポーツ",
+    "StartHour": 19,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "ショッピングCM",
+    "StartHour": 19,
+    "StartMinute": "9"
+  },
+  {
+    "TVProgramName*": "スポーツ",
+    "StartHour": 20,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 20,
+    "StartMinute": "9"
+  },
+  {
+    "TVProgramName*": "おやつCM",
+    "StartHour": 20,
+    "StartMinute": ":"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 20,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "音楽番組",
+    "StartHour": 21,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 21,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "音楽番組",
+    "StartHour": 21,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 21,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "ニュース",
+    "StartHour": 22,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "天気予報",
+    "StartHour": 22,
+    "StartMinute": "-"
+  },
+  {
+    "TVProgramName*": "季節のCM",
+    "StartHour": 22,
+    "StartMinute": ";"
+  },
+  {
+    "TVProgramName*": "クイズ",
+    "StartHour": 23,
+    "StartMinute": ""
+  },
+  {
+    "TVProgramName*": "フルーツCM",
+    "StartHour": 23,
+    "StartMinute": "\u001d"
+  },
+  {
+    "TVProgramName*": "クイズ",
+    "StartHour": 23,
+    "StartMinute": "\u001e"
+  },
+  {
+    "TVProgramName*": "企業CM",
+    "StartHour": 23,
+    "StartMinute": "7"
+  }
+]

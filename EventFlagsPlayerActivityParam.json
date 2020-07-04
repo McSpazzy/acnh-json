@@ -1,0 +1,602 @@
+[
+  {
+    "MaxValue": 720,
+    "MessageLabel": 101,
+    "ccd4c25f u16": 180,
+    "e6317726 u16": 60,
+    "UniqueID": 0,
+    "fa93f14b u8": 0,
+    "Key": "PlayTime",
+    "Name": "プレイ時間"
+  },
+  {
+    "MaxValue": 128,
+    "MessageLabel": 102,
+    "ccd4c25f u16": 40,
+    "e6317726 u16": 15,
+    "UniqueID": 1,
+    "fa93f14b u8": 0,
+    "Key": "GetFishCount",
+    "Name": "サカナを釣った回数"
+  },
+  {
+    "MaxValue": 128,
+    "MessageLabel": 103,
+    "ccd4c25f u16": 40,
+    "e6317726 u16": 15,
+    "UniqueID": 2,
+    "fa93f14b u8": 0,
+    "Key": "GetInsectCount",
+    "Name": "ムシをつかまえた回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 105,
+    "ccd4c25f u16": 15,
+    "e6317726 u16": 10,
+    "UniqueID": 3,
+    "fa93f14b u8": 0,
+    "Key": "GetShellfishCount",
+    "Name": "潮干狩りした回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 104,
+    "ccd4c25f u16": 25,
+    "e6317726 u16": 15,
+    "UniqueID": 4,
+    "fa93f14b u8": 0,
+    "Key": "GetShellDriftCount",
+    "Name": "漂着貝を拾った回数"
+  },
+  {
+    "MaxValue": 36,
+    "MessageLabel": 106,
+    "ccd4c25f u16": 8,
+    "e6317726 u16": 0,
+    "UniqueID": 5,
+    "fa93f14b u8": 0,
+    "Key": "BreakBalloonCount",
+    "Name": "風船を撃ち落とした回数"
+  },
+  {
+    "MaxValue": 36,
+    "MessageLabel": 107,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 16,
+    "UniqueID": 6,
+    "fa93f14b u8": 0,
+    "Key": "WishStarCount",
+    "Name": "流れ星に祈った回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 108,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 30,
+    "UniqueID": 7,
+    "fa93f14b u8": 0,
+    "Key": "ShakeTreeCount",
+    "Name": "木を揺すった回数"
+  },
+  {
+    "MaxValue": 512,
+    "MessageLabel": 109,
+    "ccd4c25f u16": 200,
+    "e6317726 u16": 50,
+    "UniqueID": 8,
+    "fa93f14b u8": 0,
+    "Key": "DropWoodCount",
+    "Name": "木を叩いて木材を出した回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 110,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 30,
+    "UniqueID": 9,
+    "fa93f14b u8": 0,
+    "Key": "CutTreeCount",
+    "Name": "木を切り倒した回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 111,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 15,
+    "UniqueID": 10,
+    "fa93f14b u8": 0,
+    "Key": "PlantTreeCount",
+    "Name": "花・木（フルーツ込み）を植えた回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 112,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 20,
+    "UniqueID": 11,
+    "fa93f14b u8": 0,
+    "Key": "WaterFlowerCount",
+    "Name": "花に水をあげた回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 113,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 100,
+    "UniqueID": 12,
+    "fa93f14b u8": 0,
+    "Key": "UseReactionCount",
+    "Name": "リアクションを使った回数"
+  },
+  {
+    "MaxValue": 16,
+    "MessageLabel": 114,
+    "ccd4c25f u16": 10,
+    "e6317726 u16": 0,
+    "UniqueID": 13,
+    "fa93f14b u8": 0,
+    "Key": "VisitOtherIslandCount",
+    "Name": "通信でよその島にでかけた回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 115,
+    "ccd4c25f u16": 15,
+    "e6317726 u16": 0,
+    "UniqueID": 14,
+    "fa93f14b u8": 0,
+    "Key": "InviteVisitorNum",
+    "Name": "通信で招いたプレイヤーの累計人数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 116,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 10,
+    "UniqueID": 15,
+    "fa93f14b u8": 0,
+    "Key": "DiyCount",
+    "Name": "DIYした回数（案内所＋フィールド累計）"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 117,
+    "ccd4c25f u16": 10,
+    "e6317726 u16": 5,
+    "UniqueID": 16,
+    "fa93f14b u8": 0,
+    "Key": "BreakToolCount",
+    "Name": "道具を壊した回数"
+  },
+  {
+    "MaxValue": 720,
+    "MessageLabel": 118,
+    "ccd4c25f u16": 90,
+    "e6317726 u16": 0,
+    "UniqueID": 17,
+    "fa93f14b u8": 0,
+    "Key": "InMyHouseTime",
+    "Name": "自宅内にいた累計時間"
+  },
+  {
+    "MaxValue": 720,
+    "MessageLabel": 119,
+    "ccd4c25f u16": 120,
+    "e6317726 u16": 0,
+    "UniqueID": 18,
+    "fa93f14b u8": 0,
+    "Key": "InFieldTime",
+    "Name": "フィールドにいた累計時間"
+  },
+  {
+    "MaxValue": 8,
+    "MessageLabel": 120,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 1,
+    "UniqueID": 19,
+    "fa93f14b u8": 0,
+    "Key": "FillPitCount",
+    "Name": "落とし穴を作った回数"
+  },
+  {
+    "MaxValue": 16,
+    "MessageLabel": 121,
+    "ccd4c25f u16": 4,
+    "e6317726 u16": 4,
+    "UniqueID": 20,
+    "fa93f14b u8": 0,
+    "Key": "CaughtPitCount",
+    "Name": "落とし穴にハマった回数"
+  },
+  {
+    "MaxValue": 720,
+    "MessageLabel": 122,
+    "ccd4c25f u16": 60,
+    "e6317726 u16": 0,
+    "UniqueID": 21,
+    "fa93f14b u8": 0,
+    "Key": "InteriorModeTime",
+    "Name": "インテリアモード起動時間 "
+  },
+  {
+    "MaxValue": 720,
+    "MessageLabel": 123,
+    "ccd4c25f u16": 60,
+    "e6317726 u16": 0,
+    "UniqueID": 22,
+    "fa93f14b u8": 0,
+    "Key": "DesignEditTime",
+    "Name": "マイデザインエディタ起動時間"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 34,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc0Count",
+    "Name": "住民NPC0との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 35,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc1Count",
+    "Name": "住民NPC1との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 36,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc2Count",
+    "Name": "住民NPC2との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 37,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc3Count",
+    "Name": "住民NPC3との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 38,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc4Count",
+    "Name": "住民NPC4との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 39,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc5Count",
+    "Name": "住民NPC5との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 40,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc6Count",
+    "Name": "住民NPC6との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 41,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc7Count",
+    "Name": "住民NPC7との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 42,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc8Count",
+    "Name": "住民NPC8との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 124,
+    "ccd4c25f u16": 20,
+    "e6317726 u16": 0,
+    "UniqueID": 43,
+    "fa93f14b u8": 0,
+    "Key": "TalkNpc9Count",
+    "Name": "住民NPC9との会話回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 125,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 20,
+    "UniqueID": 44,
+    "fa93f14b u8": 0,
+    "Key": "TalkAllNpcCount",
+    "Name": "全住民NPCとの会話回数"
+  },
+  {
+    "MaxValue": 4,
+    "MessageLabel": 126,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 45,
+    "fa93f14b u8": 0,
+    "Key": "BittenBeeCount",
+    "Name": "ハチにさされた回数"
+  },
+  {
+    "MaxValue": 8,
+    "MessageLabel": 127,
+    "ccd4c25f u16": 3,
+    "e6317726 u16": 0,
+    "UniqueID": 46,
+    "fa93f14b u8": 0,
+    "Key": "DigFossilCount",
+    "Name": "化石を掘り出した回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 128,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 0,
+    "UniqueID": 47,
+    "fa93f14b u8": 0,
+    "Key": "HitStoneCount",
+    "Name": "岩を叩いてアイテムを出した回数"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 129,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 48,
+    "fa93f14b u8": 0,
+    "Key": "PlantMoneyFlag",
+    "Name": "ベルを植えたか"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 130,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 30,
+    "UniqueID": 49,
+    "fa93f14b u8": 0,
+    "Key": "PickUpFruitsCount",
+    "Name": "フルーツを拾った個数"
+  },
+  {
+    "MaxValue": 128,
+    "MessageLabel": 131,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 0,
+    "UniqueID": 50,
+    "fa93f14b u8": 0,
+    "Key": "UseSmartphoneFieldCount",
+    "Name": "フィールドでスマホを開いた回数"
+  },
+  {
+    "MaxValue": 720,
+    "MessageLabel": 132,
+    "ccd4c25f u16": 60,
+    "e6317726 u16": 0,
+    "UniqueID": 51,
+    "fa93f14b u8": 0,
+    "Key": "UseSmartphoneFieldTime",
+    "Name": "フィールドでスマホを開いていた累計時間"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 133,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 0,
+    "UniqueID": 52,
+    "fa93f14b u8": 0,
+    "Key": "WayEditCount",
+    "Name": "道を造成した回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 134,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 0,
+    "UniqueID": 53,
+    "fa93f14b u8": 0,
+    "Key": "RiverEditCount",
+    "Name": "川を造成した回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 135,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 0,
+    "UniqueID": 54,
+    "fa93f14b u8": 0,
+    "Key": "CliffEditCount",
+    "Name": "崖を造成した回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 136,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 0,
+    "UniqueID": 55,
+    "fa93f14b u8": 0,
+    "Key": "FenceEditCount",
+    "Name": "柵を設置・撤去した回数"
+  },
+  {
+    "MaxValue": 512,
+    "MessageLabel": 137,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 0,
+    "UniqueID": 56,
+    "fa93f14b u8": 0,
+    "Key": "MoveFurnitureFieldCount",
+    "Name": "フィールドで家具を操作した回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 138,
+    "ccd4c25f u16": 32,
+    "e6317726 u16": 0,
+    "UniqueID": 57,
+    "fa93f14b u8": 0,
+    "Key": "GetMiles",
+    "Name": "獲得マイルの累計"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 139,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 58,
+    "fa93f14b u8": 0,
+    "Key": "ReturnLoanFlag",
+    "Name": "ローンを完済したか"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 140,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 0,
+    "UniqueID": 59,
+    "fa93f14b u8": 0,
+    "Key": "EnterShopCount",
+    "Name": "タヌキ商店に入った回数"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 141,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 60,
+    "fa93f14b u8": 0,
+    "Key": "ChangeMelodyFlag",
+    "Name": "村メロを変更したか"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 142,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 61,
+    "fa93f14b u8": 0,
+    "Key": "ChangeFlagFlag",
+    "Name": "村の旗を変更したか"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 143,
+    "ccd4c25f u16": 10,
+    "e6317726 u16": 10,
+    "UniqueID": 62,
+    "fa93f14b u8": 0,
+    "Key": "TransformFieldCount",
+    "Name": "フィールドで変身ステッキを使った回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 144,
+    "ccd4c25f u16": 30,
+    "e6317726 u16": 16,
+    "UniqueID": 63,
+    "fa93f14b u8": 0,
+    "Key": "JumpWithPoleCount",
+    "Name": "高跳び棒を使って飛び越えた回数"
+  },
+  {
+    "MaxValue": 1000,
+    "MessageLabel": 145,
+    "ccd4c25f u16": 200,
+    "e6317726 u16": 0,
+    "UniqueID": 64,
+    "fa93f14b u8": 0,
+    "Key": "TurnipBuyTotal",
+    "Name": "カブ購入数の累計"
+  },
+  {
+    "MaxValue": 1000,
+    "MessageLabel": 146,
+    "ccd4c25f u16": 300,
+    "e6317726 u16": 300,
+    "UniqueID": 65,
+    "fa93f14b u8": 0,
+    "Key": "TurnipSellPrice",
+    "Name": "カブ売却時の単価"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 147,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 100,
+    "UniqueID": 66,
+    "fa93f14b u8": 0,
+    "Key": "ChatBalloonCount",
+    "Name": "チャットバルーン送信回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 148,
+    "ccd4c25f u16": 100,
+    "e6317726 u16": 50,
+    "UniqueID": 67,
+    "fa93f14b u8": 0,
+    "Key": "PullWeedCount",
+    "Name": "雑草を抜いた回数"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 149,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 68,
+    "fa93f14b u8": 0,
+    "Key": "ChangeHairFlag",
+    "Name": "髪型を変更したか"
+  },
+  {
+    "MaxValue": 1,
+    "MessageLabel": 150,
+    "ccd4c25f u16": 1,
+    "e6317726 u16": 0,
+    "UniqueID": 69,
+    "fa93f14b u8": 0,
+    "Key": "ChangeFaceFlag",
+    "Name": "顔を変更したか"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 151,
+    "ccd4c25f u16": 50,
+    "e6317726 u16": 20,
+    "UniqueID": 70,
+    "fa93f14b u8": 0,
+    "Key": "TakePictureCount",
+    "Name": "撮影モードで撮影した回数"
+  }
+]

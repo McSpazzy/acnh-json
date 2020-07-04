@@ -1,0 +1,173 @@
+[
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 329,
+    "MusicNo": 301,
+    "UniqueID": 0,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 243,
+    "MusicNo": 302,
+    "UniqueID": 1,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 311,
+    "MusicNo": 303,
+    "UniqueID": 2,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 336,
+    "MusicNo": 304,
+    "UniqueID": 3,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 338,
+    "MusicNo": 305,
+    "UniqueID": 4,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Daytime",
+    "Frames": 281,
+    "MusicNo": 306,
+    "UniqueID": 5,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 315,
+    "MusicNo": 307,
+    "UniqueID": 6,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 376,
+    "MusicNo": 308,
+    "UniqueID": 7,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 355,
+    "MusicNo": 309,
+    "UniqueID": 8,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 333,
+    "MusicNo": 310,
+    "UniqueID": 9,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 396,
+    "MusicNo": 311,
+    "UniqueID": 10,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Morning",
+    "Frames": 406,
+    "MusicNo": 312,
+    "UniqueID": 11,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 328,
+    "MusicNo": 313,
+    "UniqueID": 12,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 456,
+    "MusicNo": 314,
+    "UniqueID": 13,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 300,
+    "MusicNo": 315,
+    "UniqueID": 14,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 294,
+    "MusicNo": 316,
+    "UniqueID": 15,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 373,
+    "MusicNo": 317,
+    "UniqueID": 16,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 1.0,
+    "Timezone*": "Night",
+    "Frames": 364,
+    "MusicNo": 318,
+    "UniqueID": 17,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone*": "AllDay",
+    "Frames": 332,
+    "MusicNo": 319,
+    "UniqueID": 19,
+    "BeforeDays": 11,
+    "EventLabelShort": "Easter"
+  }
+]

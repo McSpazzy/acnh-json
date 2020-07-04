@@ -1,0 +1,135 @@
+[
+  {
+    "FlagLand": 268,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableAxe"
+  },
+  {
+    "FlagLand": 266,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableShovel"
+  },
+  {
+    "FlagLand": 13,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableRecipeWatering"
+  },
+  {
+    "FlagLand": 74,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableRecipeScoop"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 513,
+    "ShopType*": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeLicense"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 564,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "ShopRemakeKit"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 564,
+    "ShopType*": "Label1",
+    "AttrCollectBit": 0,
+    "ItemFrom": "MileExchangePhoneCase"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 269,
+    "ShopType*": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeOnce"
+  },
+  {
+    "FlagLand": 245,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "FruitApple"
+  },
+  {
+    "FlagLand": 246,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "FruitOrange"
+  },
+  {
+    "FlagLand": 247,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "FruitPear"
+  },
+  {
+    "FlagLand": 248,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "FruitPeach"
+  },
+  {
+    "FlagLand": 249,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "FruitCherry"
+  },
+  {
+    "FlagLand": 45,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "ShopRecipeBook2"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 672,
+    "ShopType*": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangePocket40"
+  },
+  {
+    "FlagLand": 45,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "ShopCracker"
+  },
+  {
+    "FlagLand": 265,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "ShopTimer"
+  },
+  {
+    "FlagLand": 125,
+    "FlagPlayer": -1,
+    "ShopType*": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableRecipeLadder"
+  },
+  {
+    "FlagLand": 330,
+    "FlagPlayer": -1,
+    "ShopType*": "Label1",
+    "AttrCollectBit": 0,
+    "ItemFrom": "MileExchangeNsoPresent"
+  }
+]

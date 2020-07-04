@@ -1,0 +1,163 @@
+[
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 0,
+    "ResourceName": "IdrMarket01"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 1,
+    "ResourceName": "IdrMuseumEnt01"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 2,
+    "ResourceName": "IdrMuseumEnt00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 3,
+    "ResourceName": "IdrTanukichi00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 9,
+    "UniqueID": 4,
+    "ResourceName": "IdrMuseumFossil_0"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 54,
+    "UniqueID": 5,
+    "ResourceName": "IdrMuseumFossil_1"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 10,
+    "UniqueID": 6,
+    "ResourceName": "IdrMuseumFossil_2"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 20,
+    "FossilObjNum": 0,
+    "UniqueID": 7,
+    "ResourceName": "IdrMuseumInsect_0"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 15,
+    "FossilObjNum": 0,
+    "UniqueID": 8,
+    "ResourceName": "IdrMuseumInsect_1"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 14,
+    "FossilObjNum": 0,
+    "UniqueID": 9,
+    "ResourceName": "IdrMuseumInsect_2"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 10,
+    "FossilObjNum": 0,
+    "UniqueID": 10,
+    "ResourceName": "IdrMuseumFish_0"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 6,
+    "FossilObjNum": 0,
+    "UniqueID": 11,
+    "ResourceName": "IdrMuseumFish_1"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 20,
+    "FossilObjNum": 0,
+    "UniqueID": 12,
+    "ResourceName": "IdrMuseumFish_2"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 13,
+    "ResourceName": "IdrAirPort00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 18,
+    "ResourceName": "IdrMarket02"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 19,
+    "ResourceName": "IdrTailor00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 20,
+    "ResourceName": "IdrOffice01"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 21,
+    "ResourceName": "IdrOfficeDemo01"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 22,
+    "ResourceName": "IdrTourCounterDemo"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 23,
+    "ResourceName": "IdrAmiibo00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 24,
+    "ResourceName": "IdrTsunekichi00"
+  },
+  {
+    "ArtObjNum": 43,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 25,
+    "ResourceName": "IdrMuseumArt_0"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 29,
+    "ResourceName": "IdrMuseumEnt02"
+  }
+]

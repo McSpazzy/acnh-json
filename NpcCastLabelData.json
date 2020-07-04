@@ -1,0 +1,176 @@
+[
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Facility",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 3,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 4,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 4,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 3,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 3,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": "\u0002"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Quest_TreasureHunt/AI_NPC_Quest_TreasureHunt",
+    "AppearStage": 4,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Quest_VisitP",
+    "AppearStage": 0,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Quest_VisitP",
+    "AppearStage": 0,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Quest_VisitP",
+    "AppearStage": 0,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Quest_VisitN",
+    "AppearStage": 2,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Quest_VisitN",
+    "AppearStage": 2,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 2,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 4,
+    "CastType": "\u0001"
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 0,
+    "CastType": ""
+  }
+]

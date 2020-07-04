@@ -1,0 +1,32 @@
+[
+  {
+    "ReleaseKey": 10000,
+    "UniqueID": 1,
+    "Label": "Launch",
+    "Name": "1.0.0 ローンチ"
+  },
+  {
+    "ReleaseKey": 10000,
+    "UniqueID": 6,
+    "Label": "Launch1",
+    "Name": "1.0.0_1 ローンチ1"
+  },
+  {
+    "ReleaseKey": 10000,
+    "UniqueID": 7,
+    "Label": "Launch2",
+    "Name": "1.0.0_2 ローンチ2"
+  },
+  {
+    "ReleaseKey": 10100,
+    "UniqueID": 5,
+    "Label": "ReleaseDatePatch",
+    "Name": "1.1.0 発売日パッチ"
+  },
+  {
+    "ReleaseKey": 10200,
+    "UniqueID": 11,
+    "Label": "Ver1Spring",
+    "Name": "1.2.0 春パッチ"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "UniqueID": 0,
+    "Label": "Nose0",
+    "Name": "▲",
+    "NodeName": "Nose00"
+  },
+  {
+    "UniqueID": 1,
+    "Label": "Nose1",
+    "Name": "●",
+    "NodeName": "Nose01"
+  },
+  {
+    "UniqueID": 2,
+    "Label": "Nose2",
+    "Name": "■",
+    "NodeName": "Nose02"
+  }
+]

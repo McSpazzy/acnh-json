@@ -1,0 +1,119 @@
+[
+  {
+    "SelectRate": 1.0,
+    "Frames": 476,
+    "MusicNo": 201,
+    "UniqueID": 0,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 640,
+    "MusicNo": 202,
+    "UniqueID": 1,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 441,
+    "MusicNo": 203,
+    "UniqueID": 2,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 441,
+    "MusicNo": 204,
+    "UniqueID": 3,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 354,
+    "MusicNo": 205,
+    "UniqueID": 4,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 600,
+    "MusicNo": 206,
+    "UniqueID": 5,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 3.0,
+    "Frames": 542,
+    "MusicNo": 207,
+    "UniqueID": 6,
+    "BeforeDays": 1,
+    "EventLabelShort": "TotakekeLive",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 3.0,
+    "Frames": 468,
+    "MusicNo": 208,
+    "UniqueID": 7,
+    "BeforeDays": 7,
+    "EventLabelShort": "FishingConvention",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 3.0,
+    "Frames": 498,
+    "MusicNo": 209,
+    "UniqueID": 8,
+    "BeforeDays": 7,
+    "EventLabelShort": "InsectConvention",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 506,
+    "MusicNo": 210,
+    "UniqueID": 9,
+    "BeforeDays": 14,
+    "EventLabelShort": "Countdown",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 582,
+    "MusicNo": 211,
+    "UniqueID": 10,
+    "BeforeDays": 11,
+    "EventLabelShort": "Easter",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 535,
+    "MusicNo": 212,
+    "UniqueID": 11,
+    "BeforeDays": 0,
+    "EventLabelShort": "JuneBride",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 592,
+    "MusicNo": 213,
+    "UniqueID": 12,
+    "BeforeDays": 0,
+    "EventLabelShort": "InternationalMuseum",
+    "Timezone": 0
+  }
+]

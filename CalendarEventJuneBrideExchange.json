@@ -1,0 +1,184 @@
+[
+  {
+    "RequiredNum": 5,
+    "UniqueID": 0,
+    "ExchangeItem": 12401,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 1
+  },
+  {
+    "RequiredNum": 3,
+    "UniqueID": 1,
+    "ExchangeItem": 12407,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 1
+  },
+  {
+    "RequiredNum": 6,
+    "UniqueID": 6,
+    "ExchangeItem": 12406,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 2
+  },
+  {
+    "RequiredNum": 3,
+    "UniqueID": 7,
+    "ExchangeItem": 12405,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 2
+  },
+  {
+    "RequiredNum": 4,
+    "UniqueID": 8,
+    "ExchangeItem": 12411,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 3
+  },
+  {
+    "RequiredNum": 4,
+    "UniqueID": 9,
+    "ExchangeItem": 12408,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 3
+  },
+  {
+    "RequiredNum": 6,
+    "UniqueID": 10,
+    "ExchangeItem": 12404,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 4
+  },
+  {
+    "RequiredNum": 5,
+    "UniqueID": 11,
+    "ExchangeItem": 12403,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 4
+  },
+  {
+    "RequiredNum": 40,
+    "UniqueID": 12,
+    "ExchangeItem": 12409,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 5
+  },
+  {
+    "RequiredNum": 20,
+    "UniqueID": 13,
+    "ExchangeItem": 12402,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 6
+  },
+  {
+    "RequiredNum": 5,
+    "UniqueID": 14,
+    "ExchangeItem": 12410,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 6
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 15,
+    "ExchangeItem": 12466,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 1
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 16,
+    "ExchangeItem": 12461,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 2
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 17,
+    "ExchangeItem": 12468,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 18,
+    "ExchangeItem": 12469,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 19,
+    "ExchangeItem": 12431,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 1
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 20,
+    "ExchangeItem": 12433,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 21,
+    "ExchangeItem": 12434,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 4,
+    "UniqueID": 22,
+    "ExchangeItem": 12462,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 1
+  },
+  {
+    "RequiredNum": 4,
+    "UniqueID": 23,
+    "ExchangeItem": 12465,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 4,
+    "UniqueID": 24,
+    "ExchangeItem": 12464,
+    "DispInteriorMode": 1,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 20,
+    "UniqueID": 25,
+    "ExchangeItem": 3336,
+    "DispInteriorMode": 0,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 20,
+    "UniqueID": 26,
+    "ExchangeItem": 12497,
+    "DispInteriorMode": 0,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 6,
+    "UniqueID": 27,
+    "ExchangeItem": 12495,
+    "DispInteriorMode": 0,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 6,
+    "UniqueID": 29,
+    "ExchangeItem": 12496,
+    "DispInteriorMode": 0,
+    "JuneBrideProgress": 7
+  },
+  {
+    "RequiredNum": 12,
+    "UniqueID": 30,
+    "ExchangeItem": 5692,
+    "DispInteriorMode": 0,
+    "JuneBrideProgress": 7
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "None",
+    "NpcFtrActionWeather*": "None",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 0,
+    "Label": "None",
+    "Name": "なし",
+    "NpcFtrActionAsName": ""
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "None",
+    "NpcFtrActionTool": 5397,
+    "UniqueID": 1,
+    "Label": "Smartphone",
+    "Name": "撮影",
+    "NpcFtrActionAsName": "NpcSmartPhonePress"
+  },
+  {
+    "NpcFtrActionHoldTime": 150,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 2,
+    "Label": "Switch",
+    "Name": "駆動",
+    "NpcFtrActionAsName": "MaReSmiling"
+  },
+  {
+    "NpcFtrActionHoldTime": 1800,
+    "NpcFtrActionInterest*": "RhythmSound",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 3,
+    "Label": "RhythmSound",
+    "Name": "ノる",
+    "NpcFtrActionAsName": "NpcRhythm"
+  },
+  {
+    "NpcFtrActionHoldTime": 1800,
+    "NpcFtrActionInterest*": "SingSong",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 4,
+    "Label": "SingSong",
+    "Name": "歌う",
+    "NpcFtrActionAsName": "NpcSinging"
+  },
+  {
+    "NpcFtrActionHoldTime": 1800,
+    "NpcFtrActionInterest*": "PlayMusic",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 5,
+    "Label": "PlayMusicBoth",
+    "Name": "演奏する（両手）",
+    "NpcFtrActionAsName": "NpcPlayMusicBoth"
+  },
+  {
+    "NpcFtrActionHoldTime": 1800,
+    "NpcFtrActionInterest*": "PlayMusic",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 6,
+    "Label": "PlayMusic",
+    "Name": "演奏する（片手）",
+    "NpcFtrActionAsName": "NpcPlayMusic"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 7,
+    "Label": "SwitchWind",
+    "Name": "駆動（扇風機）",
+    "NpcFtrActionAsName": "NpcWind"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 8,
+    "Label": "SwitchWarm",
+    "Name": "駆動（温まる）",
+    "NpcFtrActionAsName": "NpcWarm"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 9,
+    "Label": "SwitchSomen",
+    "Name": "駆動（そうめん）",
+    "NpcFtrActionAsName": "NpcSomen"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 10,
+    "Label": "SwitchTakenAback",
+    "Name": "駆動（ビックリ）",
+    "NpcFtrActionAsName": "NpcTakenAback"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 11,
+    "Label": "Watch",
+    "Name": "まじまじ見る",
+    "NpcFtrActionAsName": "NpcWatchFurniture"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 12,
+    "Label": "WatchWall",
+    "Name": "まじまじ見る（壁掛）",
+    "NpcFtrActionAsName": "NpcWatchFurnitureWall"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "RainActive",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 13,
+    "Label": "MirrorPosing",
+    "Name": "鏡の前でポーズ",
+    "NpcFtrActionAsName": "NpcPose"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "None",
+    "NpcFtrActionTool": 8821,
+    "UniqueID": 14,
+    "Label": "WaterSpray",
+    "Name": "霧吹き",
+    "NpcFtrActionAsName": "NpcSpray"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrAccess",
+    "NpcFtrActionWeather*": "None",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 15,
+    "Label": "SmellFood",
+    "Name": "匂いをかぐ",
+    "NpcFtrActionAsName": "NpcSmellFurniture"
+  },
+  {
+    "NpcFtrActionHoldTime": 0,
+    "NpcFtrActionInterest*": "FtrSwitchOn",
+    "NpcFtrActionWeather*": "None",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 16,
+    "Label": "SwitchSmellFood",
+    "Name": "駆動（匂いをかぐ）",
+    "NpcFtrActionAsName": "NpcSmellFurniture"
+  }
+]

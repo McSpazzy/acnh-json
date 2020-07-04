@@ -1,0 +1,22 @@
+[
+  {
+    "UniqueID": 6,
+    "Name": "無し",
+    "ResourceName": ""
+  },
+  {
+    "UniqueID": 7,
+    "Name": "両開き",
+    "ResourceName": "RoomMdlCurtainNml"
+  },
+  {
+    "UniqueID": 8,
+    "Name": "ブラインド",
+    "ResourceName": "RoomMdlCurtainBlind"
+  },
+  {
+    "UniqueID": 9,
+    "Name": "ロール",
+    "ResourceName": "RoomMdlCurtainScreen"
+  }
+]

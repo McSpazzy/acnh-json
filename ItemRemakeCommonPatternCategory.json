@@ -1,0 +1,57 @@
+[
+  {
+    "SortID": 0,
+    "UniqueID": 0,
+    "Label": "None"
+  },
+  {
+    "SortID": 1,
+    "UniqueID": 1,
+    "Label": "Dot"
+  },
+  {
+    "SortID": 2,
+    "UniqueID": 2,
+    "Label": "Stripe"
+  },
+  {
+    "SortID": 3,
+    "UniqueID": 3,
+    "Label": "CheckA"
+  },
+  {
+    "SortID": 4,
+    "UniqueID": 4,
+    "Label": "CheckB"
+  },
+  {
+    "SortID": 5,
+    "UniqueID": 5,
+    "Label": "TraditionalA"
+  },
+  {
+    "SortID": 6,
+    "UniqueID": 6,
+    "Label": "TraditionalB"
+  },
+  {
+    "SortID": 7,
+    "UniqueID": 7,
+    "Label": "Retro"
+  },
+  {
+    "SortID": 8,
+    "UniqueID": 8,
+    "Label": "Natural"
+  },
+  {
+    "SortID": 9,
+    "UniqueID": 9,
+    "Label": "Toy"
+  },
+  {
+    "SortID": 10,
+    "UniqueID": 10,
+    "Label": "Cool"
+  }
+]
