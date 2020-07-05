@@ -852,7 +852,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "24e5b19d.HashRef": "C6F4CF04",
+    "24e5b19d.HashRef": "Bonfire",
     "PlacementKind": "Ftr",
     "EventFtrUniqueID": 24,
     "EventObjUniqueID": 0,
@@ -920,7 +920,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "24e5b19d.HashRef": "BAEB6E42",
+    "24e5b19d.HashRef": "BenchDrinking",
     "PlacementKind": "Ftr",
     "EventFtrUniqueID": 25,
     "EventObjUniqueID": 0,
