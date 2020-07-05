@@ -1,6 +1,6 @@
 [
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 30,
     "GenreID": 9,
@@ -22,7 +22,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 60,
     "AppearValue": 15,
     "GenreID": 10,
@@ -44,7 +44,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 4,
     "GenreID": 8,
@@ -66,7 +66,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 5,
@@ -88,7 +88,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 2,
@@ -110,7 +110,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 18,
@@ -132,7 +132,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 11,
@@ -154,7 +154,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 7,
@@ -176,7 +176,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 30,
     "AppearValue": 15,
     "GenreID": 12,
@@ -198,7 +198,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 15,
@@ -220,7 +220,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 16,
@@ -242,7 +242,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 13,
@@ -264,7 +264,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 17,
@@ -286,7 +286,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 0,
@@ -308,7 +308,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 45,
     "AppearValue": 20,
     "GenreID": 14,
@@ -330,7 +330,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 22,
@@ -352,7 +352,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 3,
@@ -374,7 +374,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 6,
@@ -396,7 +396,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Money",
+    "b5761610.HashRef": "Money",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 23,
@@ -418,7 +418,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 5,
     "GenreID": 20,
@@ -440,7 +440,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 19,
@@ -462,7 +462,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 21,
@@ -484,7 +484,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 1,
@@ -506,7 +506,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Money",
+    "b5761610.HashRef": "Money",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 24,
@@ -528,7 +528,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Money",
+    "b5761610.HashRef": "Money",
     "WaitFrame": 0,
     "AppearValue": 1000,
     "GenreID": 25,
@@ -550,7 +550,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 4,
@@ -572,7 +572,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -594,7 +594,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -616,7 +616,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -638,7 +638,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -660,7 +660,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -682,7 +682,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -704,7 +704,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -726,7 +726,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -748,7 +748,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -770,7 +770,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -792,7 +792,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -814,7 +814,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -836,7 +836,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -858,7 +858,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -880,7 +880,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -902,7 +902,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -924,7 +924,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -946,7 +946,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -968,7 +968,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -990,7 +990,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1012,7 +1012,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1034,7 +1034,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1056,7 +1056,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1078,7 +1078,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1100,7 +1100,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1122,7 +1122,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1144,7 +1144,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1166,7 +1166,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1188,7 +1188,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1210,7 +1210,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1232,7 +1232,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1254,7 +1254,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1276,7 +1276,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1298,7 +1298,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1320,7 +1320,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1342,7 +1342,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1364,7 +1364,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1386,7 +1386,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1408,7 +1408,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1430,7 +1430,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1452,7 +1452,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1474,7 +1474,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1496,7 +1496,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1518,7 +1518,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1540,7 +1540,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1562,7 +1562,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1584,7 +1584,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1606,7 +1606,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1628,7 +1628,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1650,7 +1650,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1672,7 +1672,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1694,7 +1694,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1716,7 +1716,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1738,7 +1738,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1760,7 +1760,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1782,7 +1782,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1804,7 +1804,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1826,7 +1826,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1848,7 +1848,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1870,7 +1870,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1892,7 +1892,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1914,7 +1914,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1936,7 +1936,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1958,7 +1958,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -1980,7 +1980,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2002,7 +2002,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2024,7 +2024,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2046,7 +2046,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2068,7 +2068,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2090,7 +2090,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2112,7 +2112,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2134,7 +2134,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2156,7 +2156,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2178,7 +2178,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2200,7 +2200,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2222,7 +2222,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2244,7 +2244,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -2266,7 +2266,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2288,7 +2288,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2310,7 +2310,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2332,7 +2332,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2354,7 +2354,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2376,7 +2376,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2398,7 +2398,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2420,7 +2420,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2442,7 +2442,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2464,7 +2464,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2486,7 +2486,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2508,7 +2508,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2530,7 +2530,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2552,7 +2552,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2574,7 +2574,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2596,7 +2596,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2618,7 +2618,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2640,7 +2640,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2662,7 +2662,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2684,7 +2684,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2706,7 +2706,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2728,7 +2728,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2750,7 +2750,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2772,7 +2772,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2794,7 +2794,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2816,7 +2816,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2838,7 +2838,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2860,7 +2860,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2882,7 +2882,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2904,7 +2904,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2926,7 +2926,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2948,7 +2948,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2970,7 +2970,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -2992,7 +2992,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3014,7 +3014,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3036,7 +3036,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3058,7 +3058,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3080,7 +3080,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3102,7 +3102,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3124,7 +3124,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3146,7 +3146,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3168,7 +3168,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3190,7 +3190,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3212,7 +3212,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3234,7 +3234,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3256,7 +3256,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3278,7 +3278,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3300,7 +3300,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3322,7 +3322,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3344,7 +3344,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3366,7 +3366,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3388,7 +3388,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3410,7 +3410,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3432,7 +3432,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3454,7 +3454,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3476,7 +3476,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3498,7 +3498,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3520,7 +3520,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3542,7 +3542,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3564,7 +3564,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3586,7 +3586,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3608,7 +3608,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3630,7 +3630,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3652,7 +3652,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3674,7 +3674,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3696,7 +3696,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3718,7 +3718,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3740,7 +3740,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3762,7 +3762,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3784,7 +3784,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3806,7 +3806,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3828,7 +3828,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3850,7 +3850,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3872,7 +3872,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3894,7 +3894,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3916,7 +3916,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3938,7 +3938,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3960,7 +3960,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -3982,7 +3982,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -4004,7 +4004,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 3,
@@ -4026,7 +4026,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 26,
@@ -4048,7 +4048,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 27,
@@ -4070,7 +4070,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 28,
@@ -4092,7 +4092,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 1,
     "GenreID": 6,
@@ -4114,7 +4114,7 @@
     "Weighting": 3
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 29,
@@ -4136,7 +4136,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4158,7 +4158,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 102,
@@ -4180,7 +4180,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 103,
@@ -4202,7 +4202,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4224,7 +4224,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 105,
@@ -4246,7 +4246,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 106,
@@ -4268,7 +4268,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 107,
@@ -4290,7 +4290,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 3,
     "GenreID": 108,
@@ -4312,7 +4312,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 109,
@@ -4334,7 +4334,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 110,
@@ -4356,7 +4356,7 @@
     "Weighting": 1
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4378,7 +4378,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4400,7 +4400,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4422,7 +4422,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4444,7 +4444,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4466,7 +4466,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4488,7 +4488,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 101,
@@ -4510,7 +4510,7 @@
     "Weighting": 2
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4532,7 +4532,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4554,7 +4554,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4576,7 +4576,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4598,7 +4598,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4620,7 +4620,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4642,7 +4642,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 104,
@@ -4664,7 +4664,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 100,
@@ -4686,7 +4686,7 @@
     "Weighting": 4
   },
   {
-    "b5761610 string": "Num",
+    "b5761610.HashRef": "Num",
     "WaitFrame": 0,
     "AppearValue": 0,
     "GenreID": 30,
