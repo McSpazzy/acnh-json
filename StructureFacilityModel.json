@@ -1,7 +1,7 @@
 [
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -22,7 +22,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "MarketLevel1",
+    "85a0fa49.HashRef": "MarketLevel1",
     "FacilityModelVariation": "A",
     "FloorHeight": 8.0,
     "Door0": 20,
@@ -43,7 +43,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "MarketLevel2",
+    "85a0fa49.HashRef": "MarketLevel2",
     "FacilityModelVariation": "A",
     "FloorHeight": 7.5,
     "Door0": 21,
@@ -64,7 +64,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "OfficeLevel1",
+    "85a0fa49.HashRef": "OfficeLevel1",
     "FacilityModelVariation": "A",
     "FloorHeight": 20.0,
     "Door0": 24,
@@ -85,7 +85,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "MuseumTent",
+    "85a0fa49.HashRef": "MuseumTent",
     "FacilityModelVariation": "A",
     "FloorHeight": 17.0,
     "Door0": 26,
@@ -106,7 +106,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "MuseumLevel1",
+    "85a0fa49.HashRef": "MuseumLevel1",
     "FacilityModelVariation": "A",
     "FloorHeight": 20.0,
     "Door0": 27,
@@ -127,7 +127,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "MuseumLevel2",
+    "85a0fa49.HashRef": "MuseumLevel2",
     "FacilityModelVariation": "A",
     "FloorHeight": 30.0,
     "Door0": 28,
@@ -148,7 +148,7 @@
   },
   {
     "Door0Angle": 315.0,
-    "85a0fa49 string": "AirPort",
+    "85a0fa49.HashRef": "AirPort",
     "FacilityModelVariation": "A",
     "FloorHeight": 362.0,
     "Door0": 25,
@@ -169,7 +169,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "TShop",
+    "85a0fa49.HashRef": "TShop",
     "FacilityModelVariation": "A",
     "FloorHeight": 365.0,
     "Door0": 32,
@@ -190,7 +190,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "TanukichiTent",
+    "85a0fa49.HashRef": "TanukichiTent",
     "FacilityModelVariation": "A",
     "FloorHeight": 17.0,
     "Door0": 33,
@@ -211,7 +211,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -232,7 +232,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -253,7 +253,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -274,7 +274,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Tailor",
+    "85a0fa49.HashRef": "Tailor",
     "FacilityModelVariation": "A",
     "FloorHeight": 20.0,
     "Door0": 34,
@@ -295,7 +295,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -316,7 +316,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -337,7 +337,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -358,7 +358,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -379,7 +379,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Invalid",
+    "85a0fa49.HashRef": "Invalid",
     "FacilityModelVariation": "A",
     "FloorHeight": 0,
     "Door0": 0,
@@ -400,7 +400,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "CampSite",
+    "85a0fa49.HashRef": "CampSite",
     "FacilityModelVariation": "A",
     "FloorHeight": 28.8,
     "Door0": 35,
@@ -421,7 +421,7 @@
   },
   {
     "Door0Angle": 0,
-    "85a0fa49 string": "Studio",
+    "85a0fa49.HashRef": "Studio",
     "FacilityModelVariation": "A",
     "FloorHeight": 20.0,
     "Door0": 36,

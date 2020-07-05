@@ -2,7 +2,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -18,7 +18,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -34,7 +34,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -50,7 +50,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -66,7 +66,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -10.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -82,7 +82,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -98,7 +98,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -114,7 +114,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 u32": 0,
     "65f8c085 f32": 20.0,
@@ -130,7 +130,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -146,7 +146,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -162,7 +162,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 57.0,
@@ -178,7 +178,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 15.0,
@@ -194,7 +194,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 30.0,
@@ -210,7 +210,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 25.0,
     "2258ba55 u32": 0,
     "65f8c085 f32": 65.0,
@@ -226,7 +226,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -12.0,
     "2258ba55 f32": 27.0,
     "65f8c085 f32": 20.0,
@@ -242,7 +242,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 30.0,
     "65f8c085 f32": 20.0,
@@ -258,7 +258,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -274,7 +274,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 35.0,
@@ -290,7 +290,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 25.0,
@@ -306,7 +306,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 20.0,
     "65f8c085 f32": 30.0,
@@ -322,7 +322,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 10.0,
     "2258ba55 f32": 20.0,
     "65f8c085 f32": 40.0,
@@ -338,7 +338,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -7.0,
     "2258ba55 f32": 30.0,
     "65f8c085 f32": 70.0,
@@ -354,7 +354,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 60.0,
     "65f8c085 f32": 30.0,
@@ -370,7 +370,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 8.0,
     "2258ba55 f32": 20.0,
     "65f8c085 f32": 30.0,
@@ -386,7 +386,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 23.0,
     "65f8c085 f32": 40.0,
@@ -402,7 +402,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 18.0,
     "2258ba55 f32": 30.0,
     "65f8c085 f32": 35.0,
@@ -418,7 +418,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -434,7 +434,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 f32": 3.0,
     "2258ba55 f32": 14.0,
     "65f8c085 f32": 20.0,
@@ -450,7 +450,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 4.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 30.0,
@@ -466,7 +466,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 5.0,
     "65f8c085 f32": 20.0,
@@ -482,7 +482,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -498,7 +498,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -514,7 +514,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -530,7 +530,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 5.0,
     "2258ba55 f32": 12.0,
     "65f8c085 f32": 17.0,
@@ -546,7 +546,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 17.0,
@@ -562,7 +562,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 6.0,
     "2258ba55 f32": 5.0,
     "65f8c085 f32": 10.0,
@@ -578,7 +578,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -594,7 +594,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 22.0,
     "65f8c085 f32": 17.0,
@@ -610,7 +610,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 30.0,
     "65f8c085 f32": 40.0,
@@ -626,7 +626,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 17.0,
     "65f8c085 f32": 20.0,
@@ -642,7 +642,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -658,7 +658,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 15.0,
     "65f8c085 f32": 20.0,
@@ -674,7 +674,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -8.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -690,7 +690,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -706,7 +706,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -722,7 +722,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 15.0,
     "65f8c085 f32": 87.0,
@@ -738,7 +738,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 30.0,
     "65f8c085 f32": 20.0,
@@ -754,7 +754,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -10.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -770,7 +770,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 u32": 0,
     "65f8c085 f32": 20.0,
@@ -786,7 +786,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 10.0,
     "2258ba55 f32": 20.0,
     "65f8c085 f32": 20.0,
@@ -802,7 +802,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 2.0,
     "65f8c085 f32": 37.0,
@@ -818,7 +818,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 6.0,
     "65f8c085 f32": 37.0,
@@ -834,7 +834,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 40.0,
@@ -850,7 +850,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 5.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -866,7 +866,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -3.0,
     "2258ba55 f32": 9.0,
     "65f8c085 f32": 30.0,
@@ -882,7 +882,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -8.0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 16.0,
@@ -898,7 +898,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 20.0,
@@ -914,7 +914,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 20.0,
@@ -930,7 +930,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 20.0,
@@ -946,7 +946,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -962,7 +962,7 @@
   {
     "SilhouetteID": 1,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -978,7 +978,7 @@
   {
     "SilhouetteID": 2,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -994,7 +994,7 @@
   {
     "SilhouetteID": 3,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1010,7 +1010,7 @@
   {
     "SilhouetteID": 4,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1026,7 +1026,7 @@
   {
     "SilhouetteID": 5,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1042,7 +1042,7 @@
   {
     "SilhouetteID": 6,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1058,7 +1058,7 @@
   {
     "SilhouetteID": 7,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1074,7 +1074,7 @@
   {
     "SilhouetteID": 8,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1090,7 +1090,7 @@
   {
     "SilhouetteID": 9,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1106,7 +1106,7 @@
   {
     "SilhouetteID": 10,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -1122,7 +1122,7 @@
   {
     "SilhouetteID": 11,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1138,7 +1138,7 @@
   {
     "SilhouetteID": 12,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1154,7 +1154,7 @@
   {
     "SilhouetteID": 13,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1170,7 +1170,7 @@
   {
     "SilhouetteID": 14,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1186,7 +1186,7 @@
   {
     "SilhouetteID": 15,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1202,7 +1202,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 17.0,
     "65f8c085 f32": 20.0,
@@ -1218,7 +1218,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 20.0,
@@ -1234,7 +1234,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_1",
-    "35ac2c17 string": "Night",
+    "35ac2c17.HashRef": "Night",
     "1f3893e5 f32": 3.0,
     "2258ba55 f32": 17.0,
     "65f8c085 f32": 20.0,
@@ -1250,7 +1250,7 @@
   {
     "SilhouetteID": 16,
     "StageName": "IdrMuseumFossil_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -20.0,
     "65f8c085 f32": 20.0,
@@ -1266,7 +1266,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 15.0,
@@ -1282,7 +1282,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 15.0,
@@ -1298,7 +1298,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 10.0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 30.0,
@@ -1314,7 +1314,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -20.0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 20.0,
@@ -1330,7 +1330,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumInsect_0",
-    "35ac2c17 string": "Daytime",
+    "35ac2c17.HashRef": "Daytime",
     "1f3893e5 f32": -14.0,
     "2258ba55 f32": -2.0,
     "65f8c085 f32": 13.0,
@@ -1346,7 +1346,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 15.0,
@@ -1362,7 +1362,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 15.0,
     "65f8c085 f32": 25.0,
@@ -1378,7 +1378,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_2",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": 12.0,
     "2258ba55 f32": 5.0,
     "65f8c085 f32": 28.0,
@@ -1394,7 +1394,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -9.0,
     "2258ba55 f32": 12.0,
     "65f8c085 f32": 40.0,
@@ -1410,7 +1410,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -5.0,
     "2258ba55 f32": 4.0,
     "65f8c085 f32": 15.0,
@@ -1426,7 +1426,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -6.0,
     "2258ba55 f32": 7.0,
     "65f8c085 f32": 15.0,
@@ -1442,7 +1442,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -10.0,
     "2258ba55 f32": 5.0,
     "65f8c085 f32": 15.0,
@@ -1458,7 +1458,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -4.0,
     "2258ba55 f32": 13.0,
     "65f8c085 f32": 15.0,
@@ -1474,7 +1474,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": -4.0,
     "65f8c085 f32": 30.0,
@@ -1490,7 +1490,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 24.0,
     "65f8c085 f32": 33.0,
@@ -1506,7 +1506,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 12.0,
     "65f8c085 f32": 33.0,
@@ -1522,7 +1522,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumFish_1",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 5.0,
     "65f8c085 f32": 22.0,
@@ -1538,7 +1538,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -2.0,
     "2258ba55 f32": 13.0,
     "65f8c085 f32": 12.0,
@@ -1554,7 +1554,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 25.0,
     "65f8c085 f32": 15.0,
@@ -1570,7 +1570,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 34.0,
     "65f8c085 f32": 28.0,
@@ -1586,7 +1586,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 16.0,
     "65f8c085 f32": 17.0,
@@ -1602,7 +1602,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 15.0,
     "65f8c085 f32": 24.0,
@@ -1618,7 +1618,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -3.0,
     "2258ba55 f32": 26.0,
     "65f8c085 f32": 30.0,
@@ -1634,7 +1634,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 20.0,
     "65f8c085 f32": 30.0,
@@ -1650,7 +1650,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 26.0,
     "65f8c085 f32": 20.0,
@@ -1666,7 +1666,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 f32": -2.0,
     "2258ba55 f32": 15.0,
     "65f8c085 f32": 20.0,
@@ -1682,7 +1682,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 13.0,
     "65f8c085 f32": 20.0,
@@ -1698,7 +1698,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 13.0,
     "65f8c085 f32": 25.0,
@@ -1714,7 +1714,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 12.0,
     "65f8c085 f32": 12.0,
@@ -1730,7 +1730,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 9.0,
     "65f8c085 f32": 15.0,
@@ -1746,7 +1746,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 10.0,
     "65f8c085 f32": 19.0,
@@ -1762,7 +1762,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 11.0,
     "65f8c085 f32": 14.0,
@@ -1778,7 +1778,7 @@
   {
     "SilhouetteID": 0,
     "StageName": "IdrMuseumArt_0",
-    "35ac2c17 string": "Always",
+    "35ac2c17.HashRef": "Always",
     "1f3893e5 u32": 0,
     "2258ba55 f32": 26.0,
     "65f8c085 f32": 18.0,

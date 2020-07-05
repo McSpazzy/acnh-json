@@ -2,7 +2,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 1,
     "Collision": 1,
     "DemoType": 0,
@@ -13,7 +13,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 14,
     "Collision": 1,
     "DemoType": 0,
@@ -24,7 +24,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 41,
     "Collision": 1,
     "DemoType": 0,
@@ -35,7 +35,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 40,
     "Collision": 1,
     "DemoType": 0,
@@ -46,7 +46,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 42,
     "Collision": 1,
     "DemoType": 0,
@@ -57,7 +57,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 45,
     "Collision": 1,
     "DemoType": 0,
@@ -68,7 +68,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 61,
     "Collision": 1,
     "DemoType": 0,
@@ -79,7 +79,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 46,
     "Collision": 1,
     "DemoType": 0,
@@ -90,7 +90,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 37,
     "Collision": 1,
     "DemoType": 0,
@@ -101,7 +101,7 @@
   {
     "AsName": "FtrTriggerOnOff",
     "CategoryName": "Chair",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 44,
     "Collision": 1,
     "DemoType": 0,
@@ -112,7 +112,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Bed",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 38,
     "Collision": 1,
     "DemoType": 0,
@@ -123,7 +123,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "Bed",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 39,
     "Collision": 1,
     "DemoType": 0,
@@ -134,7 +134,7 @@
   {
     "AsName": "FtrChest",
     "CategoryName": "Chest",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 15,
     "Collision": 1,
     "DemoType": 1,
@@ -145,7 +145,7 @@
   {
     "AsName": "FtrChest",
     "CategoryName": "Closet",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 23,
     "Collision": 1,
     "DemoType": 1,
@@ -156,7 +156,7 @@
   {
     "AsName": "FtrChest",
     "CategoryName": "Closet",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 24,
     "Collision": 1,
     "DemoType": 1,
@@ -167,7 +167,7 @@
   {
     "AsName": "FtrChest",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 60,
     "Collision": 1,
     "DemoType": 0,
@@ -178,7 +178,7 @@
   {
     "AsName": "FtrChest",
     "CategoryName": "Closet",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 25,
     "Collision": 1,
     "DemoType": 1,
@@ -189,7 +189,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 47,
     "Collision": 1,
     "DemoType": 1,
@@ -200,7 +200,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 28,
     "Collision": 1,
     "DemoType": 1,
@@ -211,7 +211,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 43,
     "Collision": 1,
     "DemoType": 1,
@@ -222,7 +222,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 50,
     "Collision": 1,
     "DemoType": 0,
@@ -233,7 +233,7 @@
   {
     "AsName": "FtrTV",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 26,
     "Collision": 1,
     "DemoType": 1,
@@ -244,7 +244,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 9,
     "Collision": 1,
     "DemoType": 0,
@@ -255,7 +255,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 11,
     "Collision": 1,
     "DemoType": 0,
@@ -266,7 +266,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 10,
     "Collision": 1,
     "DemoType": 0,
@@ -277,7 +277,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 33,
     "Collision": 1,
     "DemoType": 0,
@@ -288,7 +288,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 62,
     "Collision": 1,
     "DemoType": 0,
@@ -299,7 +299,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 72,
     "Collision": 1,
     "DemoType": 0,
@@ -310,7 +310,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 31,
     "Collision": 1,
     "DemoType": 1,
@@ -321,7 +321,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 2,
     "Collision": 1,
     "DemoType": 0,
@@ -332,7 +332,7 @@
   {
     "AsName": "FtrLoopSwitch",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 30,
     "Collision": 1,
     "DemoType": 0,
@@ -343,7 +343,7 @@
   {
     "AsName": "FtrLoopFade",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 5,
     "Collision": 1,
     "DemoType": 0,
@@ -354,7 +354,7 @@
   {
     "AsName": "FtrLoopTrigger",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 51,
     "Collision": 1,
     "DemoType": 0,
@@ -365,7 +365,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 64,
     "Collision": 1,
     "DemoType": 0,
@@ -376,7 +376,7 @@
   {
     "AsName": "FtrLoopTrigger",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 63,
     "Collision": 1,
     "DemoType": 0,
@@ -387,7 +387,7 @@
   {
     "AsName": "FtrLoopTriggerWaitEndOnKeep",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 71,
     "Collision": 1,
     "DemoType": 0,
@@ -398,7 +398,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 3,
     "Collision": 1,
     "DemoType": 0,
@@ -409,7 +409,7 @@
   {
     "AsName": "FtrTriggerOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 6,
     "Collision": 1,
     "DemoType": 0,
@@ -420,7 +420,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 7,
     "Collision": 1,
     "DemoType": 0,
@@ -431,7 +431,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 8,
     "Collision": 1,
     "DemoType": 0,
@@ -442,7 +442,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 18,
     "Collision": 1,
     "DemoType": 0,
@@ -453,7 +453,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 17,
     "Collision": 0,
     "DemoType": 0,
@@ -464,7 +464,7 @@
   {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 12,
     "Collision": 1,
     "DemoType": 0,
@@ -475,7 +475,7 @@
   {
     "AsName": "FtrLoopTriggerWaitEndOnKeep",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 59,
     "Collision": 1,
     "DemoType": 0,
@@ -486,7 +486,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 58,
     "Collision": 1,
     "DemoType": 0,
@@ -497,7 +497,7 @@
   {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 56,
     "Collision": 1,
     "DemoType": 0,
@@ -508,7 +508,7 @@
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 55,
     "Collision": 1,
     "DemoType": 0,
@@ -519,7 +519,7 @@
   {
     "AsName": "FtrMailBox",
     "CategoryName": "None",
-    "8b1904b9 string": "MailBoxTypeA",
+    "8b1904b9.HashRef": "MailBoxTypeA",
     "UniqueID": 27,
     "Collision": 1,
     "DemoType": 1,
@@ -530,7 +530,7 @@
   {
     "AsName": "FtrMailBox",
     "CategoryName": "None",
-    "8b1904b9 string": "MailBoxTypeB",
+    "8b1904b9.HashRef": "MailBoxTypeB",
     "UniqueID": 54,
     "Collision": 1,
     "DemoType": 1,
@@ -541,7 +541,7 @@
   {
     "AsName": "FtrMailBox",
     "CategoryName": "None",
-    "8b1904b9 string": "MailBoxTypeC",
+    "8b1904b9.HashRef": "MailBoxTypeC",
     "UniqueID": 53,
     "Collision": 1,
     "DemoType": 1,
@@ -552,7 +552,7 @@
   {
     "AsName": "FtrMailBox",
     "CategoryName": "None",
-    "8b1904b9 string": "MailBoxTypeD",
+    "8b1904b9.HashRef": "MailBoxTypeD",
     "UniqueID": 52,
     "Collision": 1,
     "DemoType": 1,
@@ -563,7 +563,7 @@
   {
     "AsName": "FtrMailBox",
     "CategoryName": "None",
-    "8b1904b9 string": "MailBoxTypeE",
+    "8b1904b9.HashRef": "MailBoxTypeE",
     "UniqueID": 57,
     "Collision": 1,
     "DemoType": 1,
@@ -574,7 +574,7 @@
   {
     "AsName": "FtrTriggerOnOff",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 21,
     "Collision": 1,
     "DemoType": 1,
@@ -585,7 +585,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 16,
     "Collision": 1,
     "DemoType": 1,
@@ -596,7 +596,7 @@
   {
     "AsName": "FtrInsectSing",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 65,
     "Collision": 1,
     "DemoType": 0,
@@ -607,7 +607,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 49,
     "Collision": 1,
     "DemoType": 0,
@@ -618,7 +618,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 66,
     "Collision": 0,
     "DemoType": 0,
@@ -629,7 +629,7 @@
   {
     "AsName": "FtrActionMusicJacket",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 67,
     "Collision": 1,
     "DemoType": 0,
@@ -640,7 +640,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 68,
     "Collision": 1,
     "DemoType": 1,
@@ -651,7 +651,7 @@
   {
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
-    "8b1904b9 string": "Unknown",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 70,
     "Collision": 1,
     "DemoType": 0,

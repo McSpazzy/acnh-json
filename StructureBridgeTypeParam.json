@@ -1,62 +1,62 @@
 [
   {
-    "904611f3 string": "BridgeStone",
+    "904611f3.HashRef": "BridgeStone",
     "ItemNameUniqueID": 5912,
     "UniqueID": 0,
     "BridgeTypeName": "BridgeStone",
     "BridgeTypeNameJp": "石橋"
   },
   {
-    "904611f3 string": "BridgeSuspension",
+    "904611f3.HashRef": "BridgeSuspension",
     "ItemNameUniqueID": 5913,
     "UniqueID": 1,
     "BridgeTypeName": "BridgeSuspension",
     "BridgeTypeNameJp": "吊り橋"
   },
   {
-    "904611f3 string": "BridgeJapanese",
+    "904611f3.HashRef": "BridgeJapanese",
     "ItemNameUniqueID": 5916,
     "UniqueID": 2,
     "BridgeTypeName": "BridgeJapanese",
     "BridgeTypeNameJp": "和風の橋"
   },
   {
-    "904611f3 string": "BridgeLog",
+    "904611f3.HashRef": "BridgeLog",
     "ItemNameUniqueID": 5917,
     "UniqueID": 4,
     "BridgeTypeName": "BridgeLog",
     "BridgeTypeNameJp": "丸太の橋"
   },
   {
-    "904611f3 string": "BridgeRed",
+    "904611f3.HashRef": "BridgeRed",
     "ItemNameUniqueID": 5918,
     "UniqueID": 5,
     "BridgeTypeName": "BridgeRed",
     "BridgeTypeNameJp": "赤い橋"
   },
   {
-    "904611f3 string": "BridgeIron",
+    "904611f3.HashRef": "BridgeIron",
     "ItemNameUniqueID": 5919,
     "UniqueID": 6,
     "BridgeTypeName": "BridgeIron",
     "BridgeTypeNameJp": "鉄橋"
   },
   {
-    "904611f3 string": "BridgeReserved",
+    "904611f3.HashRef": "BridgeReserved",
     "ItemNameUniqueID": 6903,
     "UniqueID": 7,
     "BridgeTypeName": "BridgeReserved",
     "BridgeTypeNameJp": "橋建設予定地"
   },
   {
-    "904611f3 string": "BridgeWood",
+    "904611f3.HashRef": "BridgeWood",
     "ItemNameUniqueID": 5914,
     "UniqueID": 10,
     "BridgeTypeName": "BridgeWood",
     "BridgeTypeNameJp": "木の橋"
   },
   {
-    "904611f3 string": "BridgeBricks",
+    "904611f3.HashRef": "BridgeBricks",
     "ItemNameUniqueID": 5915,
     "UniqueID": 11,
     "BridgeTypeName": "BridgeBricks",

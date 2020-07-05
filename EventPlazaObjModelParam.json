@@ -1,7 +1,7 @@
 [
   {
     "DemoDistance": 0,
-    "a9c1118b string": "None",
+    "a9c1118b.HashRef": "None",
     "RoofMaterial": 0,
     "UniqueID": 0,
     "FlowFileName": "",
@@ -10,7 +10,7 @@
   },
   {
     "DemoDistance": 11.0,
-    "a9c1118b string": "BulletinBoard",
+    "a9c1118b.HashRef": "BulletinBoard",
     "RoofMaterial": 0,
     "UniqueID": 1,
     "FlowFileName": "Obj_BulletinBoard",
@@ -19,7 +19,7 @@
   },
   {
     "DemoDistance": 0,
-    "a9c1118b string": "StreetLamp",
+    "a9c1118b.HashRef": "StreetLamp",
     "RoofMaterial": 0,
     "UniqueID": 2,
     "FlowFileName": "",
@@ -28,7 +28,7 @@
   },
   {
     "DemoDistance": 18.0,
-    "a9c1118b string": "InsectTent",
+    "a9c1118b.HashRef": "InsectTent",
     "RoofMaterial": 5,
     "UniqueID": 3,
     "FlowFileName": "Obj_InsectFesBOX",
@@ -37,7 +37,7 @@
   },
   {
     "DemoDistance": 18.0,
-    "a9c1118b string": "FishTent",
+    "a9c1118b.HashRef": "FishTent",
     "RoofMaterial": 5,
     "UniqueID": 4,
     "FlowFileName": "Obj_FishFesBOX",
@@ -46,7 +46,7 @@
   },
   {
     "DemoDistance": 0,
-    "a9c1118b string": "CountdownStall",
+    "a9c1118b.HashRef": "CountdownStall",
     "RoofMaterial": 5,
     "UniqueID": 5,
     "FlowFileName": "",
@@ -55,7 +55,7 @@
   },
   {
     "DemoDistance": 11.0,
-    "a9c1118b string": "BulletinBoard",
+    "a9c1118b.HashRef": "BulletinBoard",
     "RoofMaterial": 0,
     "UniqueID": 8,
     "FlowFileName": "Obj_BulletinBoard",
@@ -64,7 +64,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "CountdownBoard",
+    "a9c1118b.HashRef": "CountdownBoard",
     "RoofMaterial": 0,
     "UniqueID": 10,
     "FlowFileName": "",
@@ -73,7 +73,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "None",
+    "a9c1118b.HashRef": "None",
     "RoofMaterial": 0,
     "UniqueID": 11,
     "FlowFileName": "",
@@ -82,7 +82,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "None",
+    "a9c1118b.HashRef": "None",
     "RoofMaterial": 5,
     "UniqueID": 12,
     "FlowFileName": "",
@@ -91,7 +91,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "None",
+    "a9c1118b.HashRef": "None",
     "RoofMaterial": 5,
     "UniqueID": 13,
     "FlowFileName": "",
@@ -100,7 +100,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "Campfire",
+    "a9c1118b.HashRef": "Campfire",
     "RoofMaterial": 0,
     "UniqueID": 14,
     "FlowFileName": "",
@@ -109,7 +109,7 @@
   },
   {
     "DemoDistance": 15.0,
-    "a9c1118b string": "Wind",
+    "a9c1118b.HashRef": "Wind",
     "RoofMaterial": 5,
     "UniqueID": 17,
     "FlowFileName": "",

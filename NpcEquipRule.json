@@ -1,8 +1,8 @@
 [
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "None",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "None",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 3,
     "PurposeTag": 12,
     "ScoreMultiplier": 2.0,
@@ -22,9 +22,9 @@
     "Name": "日常"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Condition",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Condition",
     "PurposeScore": 2,
     "PurposeTag": 17,
     "ScoreMultiplier": 4.0,
@@ -44,9 +44,9 @@
     "Name": "雪具"
   },
   {
-    "423d1c4d string": "Relatively",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "Relatively",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 2,
     "PurposeTag": 11,
     "ScoreMultiplier": 4.0,
@@ -66,9 +66,9 @@
     "Name": "つり行動"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 11,
     "ScoreMultiplier": 4.0,
@@ -88,9 +88,9 @@
     "Name": "つり大会"
   },
   {
-    "423d1c4d string": "Relatively",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "Relatively",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 1,
     "PurposeTag": 8,
     "ScoreMultiplier": 4.0,
@@ -110,9 +110,9 @@
     "Name": "ムシとり行動"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 8,
     "ScoreMultiplier": 4.0,
@@ -132,9 +132,9 @@
     "Name": "ムシトリ大会"
   },
   {
-    "423d1c4d string": "None",
-    "b219374f string": "None",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "None",
+    "b219374f.HashRef": "None",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 5,
     "PurposeTag": 6,
     "ScoreMultiplier": 4.0,
@@ -154,9 +154,9 @@
     "Name": "読書"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Condition",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Condition",
     "PurposeScore": 2,
     "PurposeTag": 18,
     "ScoreMultiplier": 4.0,
@@ -176,9 +176,9 @@
     "Name": "運動"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Condition",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Condition",
     "PurposeScore": 8,
     "PurposeTag": 19,
     "ScoreMultiplier": 4.0,
@@ -198,9 +198,9 @@
     "Name": "ヨガ"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 1,
     "PurposeTag": 13,
     "ScoreMultiplier": 4.0,
@@ -220,9 +220,9 @@
     "Name": "おしゃれ"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 7,
     "ScoreMultiplier": 4.0,
@@ -242,9 +242,9 @@
     "Name": "就寝前後"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 5,
     "ScoreMultiplier": 4.0,
@@ -264,9 +264,9 @@
     "Name": "誕生会"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 15,
     "ScoreMultiplier": 4.0,
@@ -286,9 +286,9 @@
     "Name": "誕生会_主役"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 16,
     "ScoreMultiplier": 4.0,
@@ -308,9 +308,9 @@
     "Name": "大晦日"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 7,
     "ScoreMultiplier": 4.0,
@@ -330,9 +330,9 @@
     "Name": "病気"
   },
   {
-    "423d1c4d string": "None",
-    "b219374f string": "None",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "None",
+    "b219374f.HashRef": "None",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 2,
     "PurposeTag": 20,
     "ScoreMultiplier": 4.0,
@@ -352,9 +352,9 @@
     "Name": "日光浴"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "None",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "None",
     "PurposeScore": 1,
     "PurposeTag": 21,
     "ScoreMultiplier": 4.0,
@@ -374,9 +374,9 @@
     "Name": "ライブ"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Condition",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Condition",
     "PurposeScore": 2,
     "PurposeTag": 18,
     "ScoreMultiplier": 4.0,
@@ -396,9 +396,9 @@
     "Name": "運動_しゅみ"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 10,
     "PurposeTag": 14,
     "ScoreMultiplier": 3.0,
@@ -418,9 +418,9 @@
     "Name": "レインコート"
   },
   {
-    "423d1c4d string": "Always",
-    "b219374f string": "Limit",
-    "68d62ca8 string": "Enable",
+    "423d1c4d.HashRef": "Always",
+    "b219374f.HashRef": "Limit",
+    "68d62ca8.HashRef": "Enable",
     "PurposeScore": 2,
     "PurposeTag": 31,
     "ScoreMultiplier": 4.0,
