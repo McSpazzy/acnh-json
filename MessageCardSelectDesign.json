@@ -1,6 +1,6 @@
 [
   {
-    "37571146 string": "A1FA915A",
+    "37571146.HashRef": "MAIL_BO_BirthDayN",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -15,7 +15,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "B889DDF0",
+    "37571146.HashRef": "MAIL_BO_BirthDayP",
     "DesignAlways1": 389,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -30,7 +30,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "EB71C0C",
+    "37571146.HashRef": "MAIL_BO_HHA_BuildCelebration",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -45,7 +45,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "E6545F2",
+    "37571146.HashRef": "MAIL_BO_ReBirthDay",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -60,7 +60,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "8EFB84FA",
+    "37571146.HashRef": "MAIL_BO_ReBlank",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -75,7 +75,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "70BAFE05",
+    "37571146.HashRef": "MAIL_BO_ReLong",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -90,7 +90,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "AFAE54C9",
+    "37571146.HashRef": "MAIL_BO_ReMax",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -105,7 +105,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "E2836652",
+    "37571146.HashRef": "MAIL_BO_ReMoveIn",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -120,7 +120,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "86BEA6D2",
+    "37571146.HashRef": "MAIL_BO_ReShort",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -135,7 +135,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "E8667A9E",
+    "37571146.HashRef": "MAIL_BO_ReSpecial",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -150,7 +150,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "5236FAAC",
+    "37571146.HashRef": "MAIL_BO_ReWinter",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -165,7 +165,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "189D48A5",
+    "37571146.HashRef": "MAIL_BO_SendNormal",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -180,7 +180,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "97E045DD",
+    "37571146.HashRef": "MAIL_BO_SendPresent",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -195,7 +195,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "20186282",
+    "37571146.HashRef": "MAIL_HA_BirthDayN",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -210,7 +210,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "84AF399A",
+    "37571146.HashRef": "MAIL_HA_BirthDayP",
     "DesignAlways1": 389,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -225,7 +225,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -5571.262,
+    "37571146.HashRef": "MAIL_HA_HHA_BuildCelebration",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -240,7 +240,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "D6ADAE08",
+    "37571146.HashRef": "MAIL_HA_ReBirthDay",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -255,7 +255,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -0.0581828877,
+    "37571146.HashRef": "MAIL_HA_ReBlank",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -270,7 +270,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "D9C9D1EB",
+    "37571146.HashRef": "MAIL_HA_ReLong",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -285,7 +285,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "CBC868E8",
+    "37571146.HashRef": "MAIL_HA_ReMax",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -300,7 +300,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": 0.0007159862,
+    "37571146.HashRef": "MAIL_HA_ReMoveIn",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -315,7 +315,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "D07F0E67",
+    "37571146.HashRef": "MAIL_HA_ReShort",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -330,7 +330,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "735FA0C4",
+    "37571146.HashRef": "MAIL_HA_ReSpecial",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -345,7 +345,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "DA87822A",
+    "37571146.HashRef": "MAIL_HA_ReWinter",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -360,7 +360,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "DAD4D448",
+    "37571146.HashRef": "MAIL_HA_SendNormal",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -375,7 +375,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "31CD2AC5",
+    "37571146.HashRef": "MAIL_HA_SendPresent",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -390,7 +390,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": -0.000205202028,
+    "37571146.HashRef": "MAIL_KO_BirthDayN",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -405,7 +405,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "69E8B19D",
+    "37571146.HashRef": "MAIL_KO_BirthDayP",
     "DesignAlways1": 391,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -420,7 +420,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "FF7D6CA2",
+    "37571146.HashRef": "MAIL_KO_HHA_BuildCelebration",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -435,7 +435,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "DB16EE5F",
+    "37571146.HashRef": "MAIL_KO_ReBirthDay",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -450,7 +450,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "59FAF9FB",
+    "37571146.HashRef": "MAIL_KO_ReBlank",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -465,7 +465,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "A12635A9",
+    "37571146.HashRef": "MAIL_KO_ReLong",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -480,7 +480,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 f32": 88.4885,
+    "37571146.HashRef": "MAIL_KO_ReMax",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -495,7 +495,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "25A457EE",
+    "37571146.HashRef": "MAIL_KO_ReMoveIn",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -510,7 +510,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "1A3D9E14",
+    "37571146.HashRef": "MAIL_KO_ReShort",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -525,7 +525,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "E3122B90",
+    "37571146.HashRef": "MAIL_KO_ReSpecial",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -540,7 +540,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "58A8E69C",
+    "37571146.HashRef": "MAIL_KO_ReWinter",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -555,7 +555,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "747709F5",
+    "37571146.HashRef": "MAIL_KO_SendNormal",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -570,7 +570,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "27979CB7",
+    "37571146.HashRef": "MAIL_KO_SendPresent",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -585,7 +585,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 f32": 0.0697123,
+    "37571146.HashRef": "MAIL_ZK_BirthDayN",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -600,7 +600,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -0.005100213,
+    "37571146.HashRef": "MAIL_ZK_BirthDayP",
     "DesignAlways1": 391,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -615,7 +615,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "DEA482A7",
+    "37571146.HashRef": "MAIL_ZK_HHA_BuildCelebration",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -630,7 +630,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "ADDD80B2",
+    "37571146.HashRef": "MAIL_ZK_ReBirthDay",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -645,7 +645,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -796662.25,
+    "37571146.HashRef": "MAIL_ZK_ReBlank",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -660,7 +660,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "6113C94F",
+    "37571146.HashRef": "MAIL_ZK_ReLong",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -675,7 +675,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "F77E8A1E",
+    "37571146.HashRef": "MAIL_ZK_ReMax",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -690,7 +690,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "5A44FE97",
+    "37571146.HashRef": "MAIL_ZK_ReMoveIn",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -705,7 +705,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "7652C791",
+    "37571146.HashRef": "MAIL_ZK_ReShort",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -720,7 +720,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "6AB094CC",
+    "37571146.HashRef": "MAIL_ZK_ReSpecial",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -735,7 +735,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "2FD5AC6A",
+    "37571146.HashRef": "MAIL_ZK_ReWinter",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -750,7 +750,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "D8F8B393",
+    "37571146.HashRef": "MAIL_ZK_SendNormal",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -765,7 +765,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 f32": 12.0007076,
+    "37571146.HashRef": "MAIL_ZK_SendPresent",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -780,7 +780,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "B0FD246F",
+    "37571146.HashRef": "MAIL_FU_BirthDayN",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -795,7 +795,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "38BF9A89",
+    "37571146.HashRef": "MAIL_FU_BirthDayP",
     "DesignAlways1": 389,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -810,7 +810,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "71CB814B",
+    "37571146.HashRef": "MAIL_FU_HHA_BuildCelebration",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -825,7 +825,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -8588705.0,
+    "37571146.HashRef": "MAIL_FU_ReBirthDay",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -840,7 +840,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "E77CFBDD",
+    "37571146.HashRef": "MAIL_FU_ReBlank",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -855,7 +855,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "74245CDF",
+    "37571146.HashRef": "MAIL_FU_ReLong",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -870,7 +870,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "A4BEF3A1",
+    "37571146.HashRef": "MAIL_FU_ReMax",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -885,7 +885,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "DD9059E0",
+    "37571146.HashRef": "MAIL_FU_ReMoveIn",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -900,7 +900,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": -0.168526873,
+    "37571146.HashRef": "MAIL_FU_ReShort",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -915,7 +915,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -7205.952,
+    "37571146.HashRef": "MAIL_FU_ReSpecial",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -930,7 +930,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "153A1CE3",
+    "37571146.HashRef": "MAIL_FU_ReWinter",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -945,7 +945,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "851CF381",
+    "37571146.HashRef": "MAIL_FU_SendNormal",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -960,7 +960,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "98BC6547",
+    "37571146.HashRef": "MAIL_FU_SendPresent",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -975,7 +975,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "A006CBE5",
+    "37571146.HashRef": "MAIL_GE_BirthDayN",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -990,7 +990,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "33AD7FB6",
+    "37571146.HashRef": "MAIL_GE_BirthDayP",
     "DesignAlways1": 389,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -1005,7 +1005,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "F4423396",
+    "37571146.HashRef": "MAIL_GE_HHA_BuildCelebration",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1020,7 +1020,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "32D88C9",
+    "37571146.HashRef": "MAIL_GE_ReBirthDay",
     "DesignAlways1": 380,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -1035,7 +1035,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -1.21987557,
+    "37571146.HashRef": "MAIL_GE_ReBlank",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1050,7 +1050,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "15B584E8",
+    "37571146.HashRef": "MAIL_GE_ReLong",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1065,7 +1065,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "852DF9F5",
+    "37571146.HashRef": "MAIL_GE_ReMax",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1080,7 +1080,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "E6E1A577",
+    "37571146.HashRef": "MAIL_GE_ReMoveIn",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1095,7 +1095,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "2D22A80",
+    "37571146.HashRef": "MAIL_GE_ReShort",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1110,7 +1110,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "9A06B47A",
+    "37571146.HashRef": "MAIL_GE_ReSpecial",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1125,7 +1125,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "E364CA68",
+    "37571146.HashRef": "MAIL_GE_ReWinter",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1140,7 +1140,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": 8860990.0,
+    "37571146.HashRef": "MAIL_GE_SendNormal",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1155,7 +1155,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "58C927AA",
+    "37571146.HashRef": "MAIL_GE_SendPresent",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1170,7 +1170,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "5A0B4C6F",
+    "37571146.HashRef": "MAIL_OT_BirthDayN",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -1185,7 +1185,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "13A45CC9",
+    "37571146.HashRef": "MAIL_OT_BirthDayP",
     "DesignAlways1": 391,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -1200,7 +1200,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "707CC97A",
+    "37571146.HashRef": "MAIL_OT_HHA_BuildCelebration",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1215,7 +1215,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -251158.641,
+    "37571146.HashRef": "MAIL_OT_ReBirthDay",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -1230,7 +1230,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "59698CDD",
+    "37571146.HashRef": "MAIL_OT_ReBlank",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1245,7 +1245,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "6512B8A1",
+    "37571146.HashRef": "MAIL_OT_ReLong",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1260,7 +1260,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "52AB7E8A",
+    "37571146.HashRef": "MAIL_OT_ReMax",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1275,7 +1275,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "7714E370",
+    "37571146.HashRef": "MAIL_OT_ReMoveIn",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1290,7 +1290,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "E6BA4474",
+    "37571146.HashRef": "MAIL_OT_ReShort",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1305,7 +1305,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "9494646",
+    "37571146.HashRef": "MAIL_OT_ReSpecial",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1320,7 +1320,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "A4981357",
+    "37571146.HashRef": "MAIL_OT_ReWinter",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1335,7 +1335,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 f32": -0.0003504093,
+    "37571146.HashRef": "MAIL_OT_SendNormal",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1350,7 +1350,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "E5C3B1DF",
+    "37571146.HashRef": "MAIL_OT_SendPresent",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1365,7 +1365,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 f32": 2912.81,
+    "37571146.HashRef": "MAIL_AN_BirthDayN",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -1380,7 +1380,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "DE3F1A36",
+    "37571146.HashRef": "MAIL_AN_BirthDayP",
     "DesignAlways1": 391,
     "DesignAlways2": 390,
     "DesignAlways3": -1,
@@ -1395,7 +1395,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "83015792",
+    "37571146.HashRef": "MAIL_AN_HHA_BuildCelebration",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1410,7 +1410,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "B365C3A9",
+    "37571146.HashRef": "MAIL_AN_ReBirthDay",
     "DesignAlways1": 410,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -1425,7 +1425,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "99BE8E25",
+    "37571146.HashRef": "MAIL_AN_ReBlank",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1440,7 +1440,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "64E1CEB2",
+    "37571146.HashRef": "MAIL_AN_ReLong",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1455,7 +1455,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "F89DCB50",
+    "37571146.HashRef": "MAIL_AN_ReMax",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1470,7 +1470,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "547720D3",
+    "37571146.HashRef": "MAIL_AN_ReMoveIn",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1485,37 +1485,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "6E9F3F05",
-    "DesignAlways1": 365,
-    "DesignAlways2": 416,
-    "DesignAlways3": 396,
-    "DesignAlways4": 359,
-    "DesignAutumn1": -1,
-    "DesignAutumn2": -1,
-    "DesignSpring1": -1,
-    "DesignSpring2": -1,
-    "DesignSummer1": -1,
-    "DesignSummer2": -1,
-    "DesignWinter1": -1,
-    "DesignWinter2": -1
-  },
-  {
-    "37571146 string": "FACD70A9",
-    "DesignAlways1": 365,
-    "DesignAlways2": 416,
-    "DesignAlways3": 396,
-    "DesignAlways4": 359,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 375,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "C91194D",
+    "37571146.HashRef": "MAIL_AN_ReShort",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1530,7 +1500,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "15E3D0B8",
+    "37571146.HashRef": "MAIL_AN_ReSpecial",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1545,7 +1515,22 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "E3F92E2B",
+    "37571146.HashRef": "MAIL_AN_ReWinter",
+    "DesignAlways1": 365,
+    "DesignAlways2": 416,
+    "DesignAlways3": 396,
+    "DesignAlways4": 359,
+    "DesignAutumn1": -1,
+    "DesignAutumn2": -1,
+    "DesignSpring1": -1,
+    "DesignSpring2": -1,
+    "DesignSummer1": -1,
+    "DesignSummer2": -1,
+    "DesignWinter1": -1,
+    "DesignWinter2": -1
+  },
+  {
+    "37571146.HashRef": "MAIL_AN_SendNormal",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1560,247 +1545,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "816303BA",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 375,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 f32": 0.181418538,
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 366,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 f32": -185.19017,
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 375,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 408,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "F9576519",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 409,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "14684B83",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 385,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 366,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 f32": -963771.75,
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 385,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 408,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "F8BE3DDD",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 375,
-    "DesignAutumn2": 385,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 408,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "967079B5",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 375,
-    "DesignAutumn2": 385,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 408,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "95CCDE9F",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 375,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "ED0A025C",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 366,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "F6E1FDC",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 375,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 408,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "2EA88895",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 386,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 409,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "7A1C2E53",
-    "DesignAlways1": 397,
-    "DesignAlways2": 380,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 385,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 406,
-    "DesignSummer1": 366,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 414
-  },
-  {
-    "37571146 string": "3826B6B2",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 385,
-    "DesignAutumn2": 433,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 408,
-    "DesignSummer2": 432,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "7B5BBA32",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 375,
-    "DesignAutumn2": 385,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 408,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "8D61298E",
-    "DesignAlways1": 397,
-    "DesignAlways2": 410,
-    "DesignAlways3": -1,
-    "DesignAlways4": -1,
-    "DesignAutumn1": 375,
-    "DesignAutumn2": 385,
-    "DesignSpring1": 379,
-    "DesignSpring2": 373,
-    "DesignSummer1": 409,
-    "DesignSummer2": 408,
-    "DesignWinter1": 367,
-    "DesignWinter2": 370
-  },
-  {
-    "37571146 string": "26C6EFFF",
+    "37571146.HashRef": "MAIL_AN_SendPresent",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1815,7 +1560,262 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "4E976EC4",
+    "37571146.HashRef": "MAIL_RND_MsgA_AN",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 375,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_BO",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 366,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_FU",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 375,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 408,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_GE",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 409,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_HA",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 385,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 366,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_KO",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 385,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 408,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_OT",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 375,
+    "DesignAutumn2": 385,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 408,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgA_ZK",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 375,
+    "DesignAutumn2": 385,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 408,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_AN",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 375,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_BO",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 366,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_FU",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 375,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 408,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_GE",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 409,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_HA",
+    "DesignAlways1": 397,
+    "DesignAlways2": 380,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 385,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 406,
+    "DesignSummer1": 366,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 414
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_KO",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 385,
+    "DesignAutumn2": 433,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 408,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_OT",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 375,
+    "DesignAutumn2": 385,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 408,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgB_ZK",
+    "DesignAlways1": 397,
+    "DesignAlways2": 410,
+    "DesignAlways3": -1,
+    "DesignAlways4": -1,
+    "DesignAutumn1": 375,
+    "DesignAutumn2": 385,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 408,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgC_AN",
+    "DesignAlways1": 365,
+    "DesignAlways2": 416,
+    "DesignAlways3": 396,
+    "DesignAlways4": 359,
+    "DesignAutumn1": 386,
+    "DesignAutumn2": 375,
+    "DesignSpring1": 379,
+    "DesignSpring2": 373,
+    "DesignSummer1": 409,
+    "DesignSummer2": 432,
+    "DesignWinter1": 367,
+    "DesignWinter2": 370
+  },
+  {
+    "37571146.HashRef": "MAIL_RND_MsgC_BO",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -1830,7 +1830,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "F7989944",
+    "37571146.HashRef": "MAIL_RND_MsgC_FU",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -1845,7 +1845,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "A0B53F",
+    "37571146.HashRef": "A0B53F",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1860,7 +1860,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": -933742.1,
+    "37571146.HashRef": "MAIL_RND_MsgC_HA",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -1875,7 +1875,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "79174AC",
+    "37571146.HashRef": "MAIL_RND_MsgC_KO",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -1890,7 +1890,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "CC5615DA",
+    "37571146.HashRef": "MAIL_RND_MsgC_OT",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -1905,7 +1905,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "76C7AA02",
+    "37571146.HashRef": "MAIL_RND_MsgC_ZK",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -1920,7 +1920,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "95F3CE66",
+    "37571146.HashRef": "MAIL_RND_MsgD_AN",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
@@ -1935,7 +1935,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "52C91D5F",
+    "37571146.HashRef": "MAIL_RND_MsgD_BO",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -1950,7 +1950,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": 13982.8838,
+    "37571146.HashRef": "MAIL_RND_MsgD_FU",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -1965,7 +1965,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "D168BD",
+    "37571146.HashRef": "D168BD",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -1980,7 +1980,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "1EAF942",
+    "37571146.HashRef": "MAIL_RND_MsgD_HA",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -1995,7 +1995,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "F1B96921",
+    "37571146.HashRef": "MAIL_RND_MsgD_KO",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -2010,7 +2010,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "6B152D52",
+    "37571146.HashRef": "MAIL_RND_MsgD_OT",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -2025,7 +2025,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "E3265D44",
+    "37571146.HashRef": "MAIL_RND_MsgD_ZK",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -2040,7 +2040,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "9B124D1E",
+    "37571146.HashRef": "MAIL_HA_LifeStart",
     "DesignAlways1": 358,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -2055,7 +2055,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "29A44099",
+    "37571146.HashRef": "MAIL_AN_LifeStart",
     "DesignAlways1": 368,
     "DesignAlways2": -1,
     "DesignAlways3": -1,
@@ -2070,7 +2070,7 @@
     "DesignWinter2": -1
   },
   {
-    "37571146 string": "516E0638",
+    "37571146.HashRef": "MAIL_BO_OverFlow",
     "DesignAlways1": 394,
     "DesignAlways2": 358,
     "DesignAlways3": 356,
@@ -2085,7 +2085,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 f32": 0.337095261,
+    "37571146.HashRef": "MAIL_HA_OverFlow",
     "DesignAlways1": 365,
     "DesignAlways2": 356,
     "DesignAlways3": 393,
@@ -2100,7 +2100,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "782EB063",
+    "37571146.HashRef": "MAIL_KO_OverFlow",
     "DesignAlways1": 368,
     "DesignAlways2": 393,
     "DesignAlways3": 382,
@@ -2115,7 +2115,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "2A056816",
+    "37571146.HashRef": "MAIL_ZK_OverFlow",
     "DesignAlways1": 382,
     "DesignAlways2": 416,
     "DesignAlways3": 360,
@@ -2130,7 +2130,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "950D4EB8",
+    "37571146.HashRef": "MAIL_FU_OverFlow",
     "DesignAlways1": 378,
     "DesignAlways2": 368,
     "DesignAlways3": 358,
@@ -2145,7 +2145,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "1534463A",
+    "37571146.HashRef": "MAIL_GE_OverFlow",
     "DesignAlways1": 378,
     "DesignAlways2": 394,
     "DesignAlways3": 384,
@@ -2160,7 +2160,7 @@
     "DesignWinter2": 414
   },
   {
-    "37571146 string": "385A378E",
+    "37571146.HashRef": "MAIL_OT_OverFlow",
     "DesignAlways1": 360,
     "DesignAlways2": 384,
     "DesignAlways3": 396,
@@ -2175,7 +2175,7 @@
     "DesignWinter2": 370
   },
   {
-    "37571146 string": "8942F057",
+    "37571146.HashRef": "MAIL_AN_OverFlow",
     "DesignAlways1": 365,
     "DesignAlways2": 416,
     "DesignAlways3": 396,
