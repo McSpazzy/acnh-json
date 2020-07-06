@@ -9,7 +9,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 0,
     "StampRackIdx": 0,
-    "512b63c string32": "002",
+    "StampRackNameExplainLabel": "002",
     "StampRackNameTextLabel": "001",
     "96d80132 string32": "001",
     "ed4b6070 u8": 1
@@ -24,7 +24,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 1,
     "StampRackIdx": 1,
-    "512b63c string32": "004",
+    "StampRackNameExplainLabel": "004",
     "StampRackNameTextLabel": "003",
     "96d80132 string32": "002",
     "ed4b6070 u8": 0
@@ -39,7 +39,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 2,
     "StampRackIdx": 2,
-    "512b63c string32": "006",
+    "StampRackNameExplainLabel": "006",
     "StampRackNameTextLabel": "005",
     "96d80132 string32": "003",
     "ed4b6070 u8": 0
@@ -54,7 +54,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 3,
     "StampRackIdx": 3,
-    "512b63c string32": "008",
+    "StampRackNameExplainLabel": "008",
     "StampRackNameTextLabel": "007",
     "96d80132 string32": "004",
     "ed4b6070 u8": 1
@@ -69,7 +69,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 4,
     "StampRackIdx": 4,
-    "512b63c string32": "010",
+    "StampRackNameExplainLabel": "010",
     "StampRackNameTextLabel": "009",
     "96d80132 string32": "005",
     "ed4b6070 u8": 0
@@ -84,7 +84,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 5,
     "StampRackIdx": 5,
-    "512b63c string32": "012",
+    "StampRackNameExplainLabel": "012",
     "StampRackNameTextLabel": "011",
     "96d80132 string32": "006",
     "ed4b6070 u8": 0
@@ -99,7 +99,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 6,
     "StampRackIdx": 6,
-    "512b63c string32": "014",
+    "StampRackNameExplainLabel": "014",
     "StampRackNameTextLabel": "013",
     "96d80132 string32": "007",
     "ed4b6070 u8": 0
@@ -114,7 +114,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 7,
     "StampRackIdx": 7,
-    "512b63c string32": "016",
+    "StampRackNameExplainLabel": "016",
     "StampRackNameTextLabel": "015",
     "96d80132 string32": "008",
     "ed4b6070 u8": 0
@@ -129,7 +129,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 8,
     "StampRackIdx": 8,
-    "512b63c string32": "018",
+    "StampRackNameExplainLabel": "018",
     "StampRackNameTextLabel": "017",
     "96d80132 string32": "009",
     "ed4b6070 u8": 0
@@ -144,7 +144,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 9,
     "StampRackIdx": 9,
-    "512b63c string32": "020",
+    "StampRackNameExplainLabel": "020",
     "StampRackNameTextLabel": "019",
     "96d80132 string32": "010",
     "ed4b6070 u8": 0
@@ -159,7 +159,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 10,
     "StampRackIdx": 10,
-    "512b63c string32": "022",
+    "StampRackNameExplainLabel": "022",
     "StampRackNameTextLabel": "021",
     "96d80132 string32": "011",
     "ed4b6070 u8": 0
@@ -174,7 +174,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 11,
     "StampRackIdx": 11,
-    "512b63c string32": "102",
+    "StampRackNameExplainLabel": "102",
     "StampRackNameTextLabel": "101",
     "96d80132 string32": "101",
     "ed4b6070 u8": 0
@@ -189,7 +189,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 12,
     "StampRackIdx": 12,
-    "512b63c string32": "104",
+    "StampRackNameExplainLabel": "104",
     "StampRackNameTextLabel": "103",
     "96d80132 string32": "102",
     "ed4b6070 u8": 0
@@ -204,7 +204,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 13,
     "StampRackIdx": 13,
-    "512b63c string32": "106",
+    "StampRackNameExplainLabel": "106",
     "StampRackNameTextLabel": "105",
     "96d80132 string32": "103",
     "ed4b6070 u8": 0
@@ -219,7 +219,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 14,
     "StampRackIdx": 14,
-    "512b63c string32": "108",
+    "StampRackNameExplainLabel": "108",
     "StampRackNameTextLabel": "107",
     "96d80132 string32": "104",
     "ed4b6070 u8": 0
@@ -234,7 +234,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 15,
     "StampRackIdx": 15,
-    "512b63c string32": "110",
+    "StampRackNameExplainLabel": "110",
     "StampRackNameTextLabel": "109",
     "96d80132 string32": "105",
     "ed4b6070 u8": 0
@@ -249,7 +249,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 16,
     "StampRackIdx": 16,
-    "512b63c string32": "112",
+    "StampRackNameExplainLabel": "112",
     "StampRackNameTextLabel": "111",
     "96d80132 string32": "106",
     "ed4b6070 u8": 0
@@ -264,7 +264,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 17,
     "StampRackIdx": 17,
-    "512b63c string32": "114",
+    "StampRackNameExplainLabel": "114",
     "StampRackNameTextLabel": "113",
     "96d80132 string32": "107",
     "ed4b6070 u8": 0
@@ -279,7 +279,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 18,
     "StampRackIdx": 18,
-    "512b63c string32": "116",
+    "StampRackNameExplainLabel": "116",
     "StampRackNameTextLabel": "115",
     "96d80132 string32": "108",
     "ed4b6070 u8": 0
@@ -294,7 +294,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 19,
     "StampRackIdx": 19,
-    "512b63c string32": "118",
+    "StampRackNameExplainLabel": "118",
     "StampRackNameTextLabel": "117",
     "96d80132 string32": "109",
     "ed4b6070 u8": 0
@@ -309,7 +309,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 20,
     "StampRackIdx": 20,
-    "512b63c string32": "120",
+    "StampRackNameExplainLabel": "120",
     "StampRackNameTextLabel": "119",
     "96d80132 string32": "110",
     "ed4b6070 u8": 0
@@ -324,7 +324,7 @@
     "d4f5b3e6 u16": 90,
     "UniqueID": 21,
     "StampRackIdx": 21,
-    "512b63c string32": "202",
+    "StampRackNameExplainLabel": "202",
     "StampRackNameTextLabel": "201",
     "96d80132 string32": "201",
     "ed4b6070 u8": 0
@@ -339,7 +339,7 @@
     "d4f5b3e6 u16": 270,
     "UniqueID": 22,
     "StampRackIdx": 22,
-    "512b63c string32": "204",
+    "StampRackNameExplainLabel": "204",
     "StampRackNameTextLabel": "203",
     "96d80132 string32": "202",
     "ed4b6070 u8": 0
@@ -354,7 +354,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 23,
     "StampRackIdx": 23,
-    "512b63c string32": "206",
+    "StampRackNameExplainLabel": "206",
     "StampRackNameTextLabel": "205",
     "96d80132 string32": "203",
     "ed4b6070 u8": 0
@@ -369,7 +369,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 24,
     "StampRackIdx": 24,
-    "512b63c string32": "208",
+    "StampRackNameExplainLabel": "208",
     "StampRackNameTextLabel": "207",
     "96d80132 string32": "204",
     "ed4b6070 u8": 0
@@ -384,7 +384,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 25,
     "StampRackIdx": 25,
-    "512b63c string32": "210",
+    "StampRackNameExplainLabel": "210",
     "StampRackNameTextLabel": "209",
     "96d80132 string32": "205",
     "ed4b6070 u8": 0
@@ -399,7 +399,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 26,
     "StampRackIdx": 26,
-    "512b63c string32": "212",
+    "StampRackNameExplainLabel": "212",
     "StampRackNameTextLabel": "211",
     "96d80132 string32": "206",
     "ed4b6070 u8": 0
@@ -414,7 +414,7 @@
     "d4f5b3e6 u16": 180,
     "UniqueID": 27,
     "StampRackIdx": 27,
-    "512b63c string32": "214",
+    "StampRackNameExplainLabel": "214",
     "StampRackNameTextLabel": "213",
     "96d80132 string32": "207",
     "ed4b6070 u8": 0
