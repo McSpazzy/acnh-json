@@ -1,14 +1,14 @@
 [
   {
     "Floorboards": 6,
-    "2fe593c3 u16": 0,
+    "UISortID": 0,
     "UniqueID": 0,
     "LandingName": "木/茶色",
     "ResourceName": "RoomTexStairsWood00"
   },
   {
     "Floorboards": 6,
-    "2fe593c3 u16": 1,
+    "UISortID": 1,
     "UniqueID": 1,
     "LandingName": "木/こげ茶",
     "ResourceName": "RoomTexStairsWood01"

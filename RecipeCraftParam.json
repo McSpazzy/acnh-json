@@ -21,7 +21,7 @@
     "Material6": -2,
     "SerialID": 1701,
     "UniqueID": 6,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -45,7 +45,7 @@
     "Material6": -2,
     "SerialID": 1600,
     "UniqueID": 9,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -69,7 +69,7 @@
     "Material6": -2,
     "SerialID": 100,
     "UniqueID": 10,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -93,7 +93,7 @@
     "Material6": -2,
     "SerialID": 200,
     "UniqueID": 13,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -117,7 +117,7 @@
     "Material6": -2,
     "SerialID": 430,
     "UniqueID": 14,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -141,7 +141,7 @@
     "Material6": -2,
     "SerialID": 311,
     "UniqueID": 15,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -165,7 +165,7 @@
     "Material6": -2,
     "SerialID": 432,
     "UniqueID": 16,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -189,7 +189,7 @@
     "Material6": -2,
     "SerialID": 317,
     "UniqueID": 17,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -213,7 +213,7 @@
     "Material6": -2,
     "SerialID": 318,
     "UniqueID": 18,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -237,7 +237,7 @@
     "Material6": -2,
     "SerialID": 103,
     "UniqueID": 19,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -261,7 +261,7 @@
     "Material6": -2,
     "SerialID": 109,
     "UniqueID": 20,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -285,7 +285,7 @@
     "Material6": -2,
     "SerialID": 105,
     "UniqueID": 21,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -309,7 +309,7 @@
     "Material6": -2,
     "SerialID": 107,
     "UniqueID": 22,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -333,7 +333,7 @@
     "Material6": -2,
     "SerialID": 353,
     "UniqueID": 23,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -357,7 +357,7 @@
     "Material6": -2,
     "SerialID": 355,
     "UniqueID": 24,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -381,7 +381,7 @@
     "Material6": -2,
     "SerialID": 354,
     "UniqueID": 26,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -405,7 +405,7 @@
     "Material6": -2,
     "SerialID": 111,
     "UniqueID": 29,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -429,7 +429,7 @@
     "Material6": -2,
     "SerialID": 704,
     "UniqueID": 30,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -453,7 +453,7 @@
     "Material6": -2,
     "SerialID": 3003,
     "UniqueID": 32,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -477,7 +477,7 @@
     "Material6": -2,
     "SerialID": 400,
     "UniqueID": 33,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -501,7 +501,7 @@
     "Material6": -2,
     "SerialID": 201,
     "UniqueID": 34,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -525,7 +525,7 @@
     "Material6": -2,
     "SerialID": 1003,
     "UniqueID": 35,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -549,7 +549,7 @@
     "Material6": -2,
     "SerialID": 811,
     "UniqueID": 36,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -573,7 +573,7 @@
     "Material6": -2,
     "SerialID": 703,
     "UniqueID": 37,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -597,7 +597,7 @@
     "Material6": -2,
     "SerialID": 350,
     "UniqueID": 38,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -621,7 +621,7 @@
     "Material6": -2,
     "SerialID": 435,
     "UniqueID": 41,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -645,7 +645,7 @@
     "Material6": -2,
     "SerialID": 802,
     "UniqueID": 42,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -669,7 +669,7 @@
     "Material6": -2,
     "SerialID": 460,
     "UniqueID": 43,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -693,7 +693,7 @@
     "Material6": -2,
     "SerialID": 406,
     "UniqueID": 44,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -717,7 +717,7 @@
     "Material6": -2,
     "SerialID": 462,
     "UniqueID": 45,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -741,7 +741,7 @@
     "Material6": -2,
     "SerialID": 2401,
     "UniqueID": 46,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -765,7 +765,7 @@
     "Material6": -2,
     "SerialID": 805,
     "UniqueID": 48,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -789,7 +789,7 @@
     "Material6": -2,
     "SerialID": 808,
     "UniqueID": 49,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -813,7 +813,7 @@
     "Material6": -2,
     "SerialID": 3006,
     "UniqueID": 51,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -837,7 +837,7 @@
     "Material6": -2,
     "SerialID": 813,
     "UniqueID": 55,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -861,7 +861,7 @@
     "Material6": -2,
     "SerialID": 1900,
     "UniqueID": 56,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -885,7 +885,7 @@
     "Material6": -2,
     "SerialID": 376,
     "UniqueID": 57,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -909,7 +909,7 @@
     "Material6": -2,
     "SerialID": 706,
     "UniqueID": 58,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -933,7 +933,7 @@
     "Material6": -2,
     "SerialID": 377,
     "UniqueID": 59,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -957,7 +957,7 @@
     "Material6": -2,
     "SerialID": 602,
     "UniqueID": 60,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -981,7 +981,7 @@
     "Material6": -2,
     "SerialID": 356,
     "UniqueID": 61,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1005,7 +1005,7 @@
     "Material6": -2,
     "SerialID": 357,
     "UniqueID": 62,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1029,7 +1029,7 @@
     "Material6": -2,
     "SerialID": 902,
     "UniqueID": 63,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1053,7 +1053,7 @@
     "Material6": -2,
     "SerialID": 900,
     "UniqueID": 64,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1077,7 +1077,7 @@
     "Material6": -2,
     "SerialID": 901,
     "UniqueID": 65,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1101,7 +1101,7 @@
     "Material6": -2,
     "SerialID": 603,
     "UniqueID": 66,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -1125,7 +1125,7 @@
     "Material6": -2,
     "SerialID": 803,
     "UniqueID": 77,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1149,7 +1149,7 @@
     "Material6": -2,
     "SerialID": 601,
     "UniqueID": 78,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1173,7 +1173,7 @@
     "Material6": -2,
     "SerialID": 915,
     "UniqueID": 79,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1197,7 +1197,7 @@
     "Material6": -2,
     "SerialID": 373,
     "UniqueID": 80,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -1221,7 +1221,7 @@
     "Material6": -2,
     "SerialID": 1100,
     "UniqueID": 81,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1245,7 +1245,7 @@
     "Material6": -2,
     "SerialID": 301,
     "UniqueID": 82,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1269,7 +1269,7 @@
     "Material6": -2,
     "SerialID": 1000,
     "UniqueID": 83,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1293,7 +1293,7 @@
     "Material6": -2,
     "SerialID": 1004,
     "UniqueID": 84,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1317,7 +1317,7 @@
     "Material6": -2,
     "SerialID": 1001,
     "UniqueID": 85,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1341,7 +1341,7 @@
     "Material6": -2,
     "SerialID": 1002,
     "UniqueID": 86,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1365,7 +1365,7 @@
     "Material6": -2,
     "SerialID": 1005,
     "UniqueID": 87,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1389,7 +1389,7 @@
     "Material6": -2,
     "SerialID": 358,
     "UniqueID": 89,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1413,7 +1413,7 @@
     "Material6": -2,
     "SerialID": 359,
     "UniqueID": 90,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1437,7 +1437,7 @@
     "Material6": -2,
     "SerialID": 1007,
     "UniqueID": 91,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1461,7 +1461,7 @@
     "Material6": -2,
     "SerialID": 1006,
     "UniqueID": 92,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -1485,7 +1485,7 @@
     "Material6": -2,
     "SerialID": 1040,
     "UniqueID": 94,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -1509,7 +1509,7 @@
     "Material6": -2,
     "SerialID": 790,
     "UniqueID": 99,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1533,7 +1533,7 @@
     "Material6": -2,
     "SerialID": 581,
     "UniqueID": 100,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -1557,7 +1557,7 @@
     "Material6": -2,
     "SerialID": 2490,
     "UniqueID": 101,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1581,7 +1581,7 @@
     "Material6": -2,
     "SerialID": 403,
     "UniqueID": 102,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1605,7 +1605,7 @@
     "Material6": -2,
     "SerialID": 202,
     "UniqueID": 103,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -1629,7 +1629,7 @@
     "Material6": -2,
     "SerialID": 800,
     "UniqueID": 104,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -1653,7 +1653,7 @@
     "Material6": -2,
     "SerialID": 801,
     "UniqueID": 105,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -1677,7 +1677,7 @@
     "Material6": -2,
     "SerialID": 122,
     "UniqueID": 107,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1701,7 +1701,7 @@
     "Material6": -2,
     "SerialID": 337,
     "UniqueID": 110,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1725,7 +1725,7 @@
     "Material6": -2,
     "SerialID": 334,
     "UniqueID": 111,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1749,7 +1749,7 @@
     "Material6": -2,
     "SerialID": 331,
     "UniqueID": 112,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1773,7 +1773,7 @@
     "Material6": -2,
     "SerialID": 335,
     "UniqueID": 113,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1797,7 +1797,7 @@
     "Material6": -2,
     "SerialID": 339,
     "UniqueID": 114,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1821,7 +1821,7 @@
     "Material6": -2,
     "SerialID": 340,
     "UniqueID": 115,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1845,7 +1845,7 @@
     "Material6": -2,
     "SerialID": 330,
     "UniqueID": 116,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1869,7 +1869,7 @@
     "Material6": -2,
     "SerialID": 336,
     "UniqueID": 117,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1893,7 +1893,7 @@
     "Material6": -2,
     "SerialID": 333,
     "UniqueID": 118,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -1917,7 +1917,7 @@
     "Material6": -2,
     "SerialID": 338,
     "UniqueID": 119,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -1941,7 +1941,7 @@
     "Material6": -2,
     "SerialID": 701,
     "UniqueID": 120,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -1965,7 +1965,7 @@
     "Material6": -2,
     "SerialID": 1230,
     "UniqueID": 121,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -1989,7 +1989,7 @@
     "Material6": -2,
     "SerialID": 930,
     "UniqueID": 122,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -2013,7 +2013,7 @@
     "Material6": -2,
     "SerialID": 931,
     "UniqueID": 123,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2037,7 +2037,7 @@
     "Material6": -2,
     "SerialID": 1009,
     "UniqueID": 124,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2061,7 +2061,7 @@
     "Material6": -2,
     "SerialID": 1008,
     "UniqueID": 125,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -2085,7 +2085,7 @@
     "Material6": -2,
     "SerialID": 903,
     "UniqueID": 126,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -2109,7 +2109,7 @@
     "Material6": -2,
     "SerialID": 905,
     "UniqueID": 128,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -2133,7 +2133,7 @@
     "Material6": -2,
     "SerialID": 1102,
     "UniqueID": 130,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -2157,7 +2157,7 @@
     "Material6": -2,
     "SerialID": 1101,
     "UniqueID": 131,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -2181,7 +2181,7 @@
     "Material6": -2,
     "SerialID": 2306,
     "UniqueID": 132,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -2205,7 +2205,7 @@
     "Material6": -2,
     "SerialID": 1103,
     "UniqueID": 133,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -2229,7 +2229,7 @@
     "Material6": -2,
     "SerialID": 3001,
     "UniqueID": 136,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -2253,7 +2253,7 @@
     "Material6": -2,
     "SerialID": 3008,
     "UniqueID": 138,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -2277,7 +2277,7 @@
     "Material6": -2,
     "SerialID": 3007,
     "UniqueID": 139,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2301,7 +2301,7 @@
     "Material6": -2,
     "SerialID": 3206,
     "UniqueID": 140,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2325,7 +2325,7 @@
     "Material6": -2,
     "SerialID": 3208,
     "UniqueID": 141,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2349,7 +2349,7 @@
     "Material6": -2,
     "SerialID": 3201,
     "UniqueID": 142,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2373,7 +2373,7 @@
     "Material6": -2,
     "SerialID": 3202,
     "UniqueID": 143,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2397,7 +2397,7 @@
     "Material6": -2,
     "SerialID": 3209,
     "UniqueID": 145,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2421,7 +2421,7 @@
     "Material6": -2,
     "SerialID": 3203,
     "UniqueID": 146,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2445,7 +2445,7 @@
     "Material6": -2,
     "SerialID": 3205,
     "UniqueID": 147,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2469,7 +2469,7 @@
     "Material6": -2,
     "SerialID": 3207,
     "UniqueID": 148,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -2493,7 +2493,7 @@
     "Material6": -2,
     "SerialID": 3204,
     "UniqueID": 149,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2517,7 +2517,7 @@
     "Material6": -2,
     "SerialID": 2430,
     "UniqueID": 151,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2541,7 +2541,7 @@
     "Material6": -2,
     "SerialID": 2409,
     "UniqueID": 152,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2565,7 +2565,7 @@
     "Material6": -2,
     "SerialID": 2402,
     "UniqueID": 153,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2589,7 +2589,7 @@
     "Material6": -2,
     "SerialID": 2412,
     "UniqueID": 154,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2613,7 +2613,7 @@
     "Material6": -2,
     "SerialID": 2405,
     "UniqueID": 155,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2637,7 +2637,7 @@
     "Material6": -2,
     "SerialID": 2403,
     "UniqueID": 157,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2661,7 +2661,7 @@
     "Material6": -2,
     "SerialID": 2500,
     "UniqueID": 158,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2685,7 +2685,7 @@
     "Material6": -2,
     "SerialID": 2410,
     "UniqueID": 159,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2709,7 +2709,7 @@
     "Material6": -2,
     "SerialID": 352,
     "UniqueID": 160,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -2733,7 +2733,7 @@
     "Material6": -2,
     "SerialID": 1400,
     "UniqueID": 161,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -2757,7 +2757,7 @@
     "Material6": -2,
     "SerialID": 1430,
     "UniqueID": 162,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2781,7 +2781,7 @@
     "Material6": -2,
     "SerialID": 1800,
     "UniqueID": 163,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2805,7 +2805,7 @@
     "Material6": -2,
     "SerialID": 402,
     "UniqueID": 164,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2829,7 +2829,7 @@
     "Material6": -2,
     "SerialID": 431,
     "UniqueID": 165,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2853,7 +2853,7 @@
     "Material6": -2,
     "SerialID": 372,
     "UniqueID": 166,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -2877,7 +2877,7 @@
     "Material6": -2,
     "SerialID": 1200,
     "UniqueID": 167,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2901,7 +2901,7 @@
     "Material6": -2,
     "SerialID": 310,
     "UniqueID": 168,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -2925,7 +2925,7 @@
     "Material6": -2,
     "SerialID": 907,
     "UniqueID": 169,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2949,7 +2949,7 @@
     "Material6": -2,
     "SerialID": 313,
     "UniqueID": 170,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2973,7 +2973,7 @@
     "Material6": -2,
     "SerialID": 481,
     "UniqueID": 171,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -2997,7 +2997,7 @@
     "Material6": -2,
     "SerialID": 316,
     "UniqueID": 172,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3021,7 +3021,7 @@
     "Material6": -2,
     "SerialID": 322,
     "UniqueID": 173,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3045,7 +3045,7 @@
     "Material6": -2,
     "SerialID": 371,
     "UniqueID": 174,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3069,7 +3069,7 @@
     "Material6": 1382,
     "SerialID": 2705,
     "UniqueID": 175,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3093,7 +3093,7 @@
     "Material6": -2,
     "SerialID": 2704,
     "UniqueID": 176,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3117,7 +3117,7 @@
     "Material6": -2,
     "SerialID": 2700,
     "UniqueID": 177,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3141,7 +3141,7 @@
     "Material6": -2,
     "SerialID": 2702,
     "UniqueID": 178,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3165,7 +3165,7 @@
     "Material6": -2,
     "SerialID": 2701,
     "UniqueID": 180,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3189,7 +3189,7 @@
     "Material6": -2,
     "SerialID": 2703,
     "UniqueID": 181,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3213,7 +3213,7 @@
     "Material6": -2,
     "SerialID": 2706,
     "UniqueID": 182,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -3237,7 +3237,7 @@
     "Material6": -2,
     "SerialID": 121,
     "UniqueID": 183,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -3261,7 +3261,7 @@
     "Material6": -2,
     "SerialID": 1330,
     "UniqueID": 184,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -3285,7 +3285,7 @@
     "Material6": -2,
     "SerialID": 1300,
     "UniqueID": 185,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -3309,7 +3309,7 @@
     "Material6": -2,
     "SerialID": 1601,
     "UniqueID": 186,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -3333,7 +3333,7 @@
     "Material6": -2,
     "SerialID": 1500,
     "UniqueID": 187,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -3357,7 +3357,7 @@
     "Material6": -2,
     "SerialID": 1501,
     "UniqueID": 188,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -3381,7 +3381,7 @@
     "Material6": -2,
     "SerialID": 1700,
     "UniqueID": 189,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -3405,7 +3405,7 @@
     "Material6": -2,
     "SerialID": 1201,
     "UniqueID": 190,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3429,7 +3429,7 @@
     "Material6": -2,
     "SerialID": 131,
     "UniqueID": 191,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -3453,7 +3453,7 @@
     "Material6": -2,
     "SerialID": 702,
     "UniqueID": 192,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3477,7 +3477,7 @@
     "Material6": -2,
     "SerialID": 463,
     "UniqueID": 193,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -3501,7 +3501,7 @@
     "Material6": -2,
     "SerialID": 3200,
     "UniqueID": 194,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3525,7 +3525,7 @@
     "Material6": -2,
     "SerialID": 464,
     "UniqueID": 195,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -3549,7 +3549,7 @@
     "Material6": -2,
     "SerialID": 2100,
     "UniqueID": 196,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -3573,7 +3573,7 @@
     "Material6": -2,
     "SerialID": 2111,
     "UniqueID": 197,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -3597,7 +3597,7 @@
     "Material6": -2,
     "SerialID": 908,
     "UniqueID": 199,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3621,7 +3621,7 @@
     "Material6": -2,
     "SerialID": 2707,
     "UniqueID": 200,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3645,7 +3645,7 @@
     "Material6": -2,
     "SerialID": 315,
     "UniqueID": 201,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3669,7 +3669,7 @@
     "Material6": -2,
     "SerialID": 3410,
     "UniqueID": 203,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -3693,7 +3693,7 @@
     "Material6": -2,
     "SerialID": 2000,
     "UniqueID": 204,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3717,7 +3717,7 @@
     "Material6": -2,
     "SerialID": 439,
     "UniqueID": 213,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -3741,7 +3741,7 @@
     "Material6": -2,
     "SerialID": 1231,
     "UniqueID": 214,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3765,7 +3765,7 @@
     "Material6": -2,
     "SerialID": 405,
     "UniqueID": 215,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3789,7 +3789,7 @@
     "Material6": -2,
     "SerialID": 404,
     "UniqueID": 216,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -3813,7 +3813,7 @@
     "Material6": -2,
     "SerialID": 2407,
     "UniqueID": 217,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -3837,7 +3837,7 @@
     "Material6": -2,
     "SerialID": 133,
     "UniqueID": 218,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3861,7 +3861,7 @@
     "Material6": 1382,
     "SerialID": 2840,
     "UniqueID": 219,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -3885,7 +3885,7 @@
     "Material6": -2,
     "SerialID": 3000,
     "UniqueID": 220,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -3909,7 +3909,7 @@
     "Material6": -2,
     "SerialID": 3040,
     "UniqueID": 221,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -3933,7 +3933,7 @@
     "Material6": -2,
     "SerialID": 3340,
     "UniqueID": 222,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -3957,7 +3957,7 @@
     "Material6": -2,
     "SerialID": 1940,
     "UniqueID": 223,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -3981,7 +3981,7 @@
     "Material6": -2,
     "SerialID": 375,
     "UniqueID": 224,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -4005,7 +4005,7 @@
     "Material6": -2,
     "SerialID": 240,
     "UniqueID": 225,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -4029,7 +4029,7 @@
     "Material6": -2,
     "SerialID": 3440,
     "UniqueID": 226,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4053,7 +4053,7 @@
     "Material6": -2,
     "SerialID": 3546,
     "UniqueID": 227,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4077,7 +4077,7 @@
     "Material6": -2,
     "SerialID": 3540,
     "UniqueID": 228,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4101,7 +4101,7 @@
     "Material6": -2,
     "SerialID": 3552,
     "UniqueID": 229,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4125,7 +4125,7 @@
     "Material6": -2,
     "SerialID": 3557,
     "UniqueID": 230,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4149,7 +4149,7 @@
     "Material6": -2,
     "SerialID": 3543,
     "UniqueID": 231,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4173,7 +4173,7 @@
     "Material6": -2,
     "SerialID": 3560,
     "UniqueID": 232,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -4197,7 +4197,7 @@
     "Material6": -2,
     "SerialID": 2227,
     "UniqueID": 233,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -4221,7 +4221,7 @@
     "Material6": -2,
     "SerialID": 2202,
     "UniqueID": 234,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -4245,7 +4245,7 @@
     "Material6": -2,
     "SerialID": 2203,
     "UniqueID": 235,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -4269,7 +4269,7 @@
     "Material6": -2,
     "SerialID": 2220,
     "UniqueID": 236,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4293,7 +4293,7 @@
     "Material6": -2,
     "SerialID": 3620,
     "UniqueID": 237,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4317,7 +4317,7 @@
     "Material6": -2,
     "SerialID": 3621,
     "UniqueID": 238,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4341,7 +4341,7 @@
     "Material6": -2,
     "SerialID": 3622,
     "UniqueID": 239,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4365,7 +4365,7 @@
     "Material6": -2,
     "SerialID": 3600,
     "UniqueID": 240,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4389,7 +4389,7 @@
     "Material6": -2,
     "SerialID": 3601,
     "UniqueID": 241,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4413,7 +4413,7 @@
     "Material6": -2,
     "SerialID": 3602,
     "UniqueID": 242,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4437,7 +4437,7 @@
     "Material6": -2,
     "SerialID": 3609,
     "UniqueID": 243,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4461,7 +4461,7 @@
     "Material6": -2,
     "SerialID": 3610,
     "UniqueID": 244,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4485,7 +4485,7 @@
     "Material6": -2,
     "SerialID": 3611,
     "UniqueID": 245,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4509,7 +4509,7 @@
     "Material6": -2,
     "SerialID": 3617,
     "UniqueID": 246,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4533,7 +4533,7 @@
     "Material6": -2,
     "SerialID": 3618,
     "UniqueID": 247,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4557,7 +4557,7 @@
     "Material6": -2,
     "SerialID": 3619,
     "UniqueID": 248,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4581,7 +4581,7 @@
     "Material6": -2,
     "SerialID": 3606,
     "UniqueID": 249,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4605,7 +4605,7 @@
     "Material6": -2,
     "SerialID": 3607,
     "UniqueID": 250,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4629,7 +4629,7 @@
     "Material6": -2,
     "SerialID": 3608,
     "UniqueID": 251,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4653,7 +4653,7 @@
     "Material6": -2,
     "SerialID": 3612,
     "UniqueID": 252,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4677,7 +4677,7 @@
     "Material6": -2,
     "SerialID": 3613,
     "UniqueID": 253,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4701,7 +4701,7 @@
     "Material6": -2,
     "SerialID": 3614,
     "UniqueID": 254,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4725,7 +4725,7 @@
     "Material6": -2,
     "SerialID": 3623,
     "UniqueID": 255,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4749,7 +4749,7 @@
     "Material6": -2,
     "SerialID": 3624,
     "UniqueID": 256,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4773,7 +4773,7 @@
     "Material6": -2,
     "SerialID": 3625,
     "UniqueID": 257,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4797,7 +4797,7 @@
     "Material6": -2,
     "SerialID": 3603,
     "UniqueID": 258,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4821,7 +4821,7 @@
     "Material6": -2,
     "SerialID": 3604,
     "UniqueID": 259,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4845,7 +4845,7 @@
     "Material6": -2,
     "SerialID": 3605,
     "UniqueID": 260,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4869,7 +4869,7 @@
     "Material6": -2,
     "SerialID": 1280,
     "UniqueID": 261,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -4893,7 +4893,7 @@
     "Material6": -2,
     "SerialID": 1106,
     "UniqueID": 262,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -4917,7 +4917,7 @@
     "Material6": -2,
     "SerialID": 302,
     "UniqueID": 263,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -4941,7 +4941,7 @@
     "Material6": -2,
     "SerialID": 135,
     "UniqueID": 264,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -4965,7 +4965,7 @@
     "Material6": -2,
     "SerialID": 890,
     "UniqueID": 266,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -4989,7 +4989,7 @@
     "Material6": -2,
     "SerialID": 991,
     "UniqueID": 267,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5013,7 +5013,7 @@
     "Material6": -2,
     "SerialID": 583,
     "UniqueID": 268,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5037,7 +5037,7 @@
     "Material6": -2,
     "SerialID": 580,
     "UniqueID": 269,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5061,7 +5061,7 @@
     "Material6": -2,
     "SerialID": 102,
     "UniqueID": 271,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -5085,7 +5085,7 @@
     "Material6": -2,
     "SerialID": 3404,
     "UniqueID": 273,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -5109,7 +5109,7 @@
     "Material6": -2,
     "SerialID": 3403,
     "UniqueID": 274,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -5133,7 +5133,7 @@
     "Material6": -2,
     "SerialID": 917,
     "UniqueID": 277,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -5157,7 +5157,7 @@
     "Material6": -2,
     "SerialID": 2101,
     "UniqueID": 278,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5181,7 +5181,7 @@
     "Material6": -2,
     "SerialID": 483,
     "UniqueID": 279,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5205,7 +5205,7 @@
     "Material6": -2,
     "SerialID": 110,
     "UniqueID": 280,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5229,7 +5229,7 @@
     "Material6": -2,
     "SerialID": 104,
     "UniqueID": 281,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5253,7 +5253,7 @@
     "Material6": -2,
     "SerialID": 106,
     "UniqueID": 282,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5277,7 +5277,7 @@
     "Material6": -2,
     "SerialID": 108,
     "UniqueID": 283,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5301,7 +5301,7 @@
     "Material6": -2,
     "SerialID": 465,
     "UniqueID": 284,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -5325,7 +5325,7 @@
     "Material6": -2,
     "SerialID": 101,
     "UniqueID": 285,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -5349,7 +5349,7 @@
     "Material6": -2,
     "SerialID": 2251,
     "UniqueID": 286,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -5373,7 +5373,7 @@
     "Material6": -2,
     "SerialID": 3260,
     "UniqueID": 288,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -5397,7 +5397,7 @@
     "Material6": -2,
     "SerialID": 3361,
     "UniqueID": 289,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5421,7 +5421,7 @@
     "Material6": -2,
     "SerialID": 2950,
     "UniqueID": 290,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -5445,7 +5445,7 @@
     "Material6": -2,
     "SerialID": 3450,
     "UniqueID": 291,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -5469,7 +5469,7 @@
     "Material6": -2,
     "SerialID": 2252,
     "UniqueID": 292,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -5493,7 +5493,7 @@
     "Material6": -2,
     "SerialID": 3250,
     "UniqueID": 293,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -5517,7 +5517,7 @@
     "Material6": -2,
     "SerialID": 2250,
     "UniqueID": 294,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -5541,7 +5541,7 @@
     "Material6": -2,
     "SerialID": 3350,
     "UniqueID": 295,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -5565,7 +5565,7 @@
     "Material6": -2,
     "SerialID": 2050,
     "UniqueID": 296,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -5589,7 +5589,7 @@
     "Material6": -2,
     "SerialID": 1151,
     "UniqueID": 298,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -5613,7 +5613,7 @@
     "Material6": -2,
     "SerialID": 1150,
     "UniqueID": 299,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -5637,7 +5637,7 @@
     "Material6": -2,
     "SerialID": 2551,
     "UniqueID": 300,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -5661,7 +5661,7 @@
     "Material6": -2,
     "SerialID": 650,
     "UniqueID": 301,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -5685,7 +5685,7 @@
     "Material6": -2,
     "SerialID": 3351,
     "UniqueID": 302,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -5709,7 +5709,7 @@
     "Material6": -2,
     "SerialID": 1350,
     "UniqueID": 303,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -5733,7 +5733,7 @@
     "Material6": -2,
     "SerialID": 1750,
     "UniqueID": 304,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -5757,7 +5757,7 @@
     "Material6": -2,
     "SerialID": 1650,
     "UniqueID": 305,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -5781,7 +5781,7 @@
     "Material6": -2,
     "SerialID": 1550,
     "UniqueID": 306,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -5805,7 +5805,7 @@
     "Material6": -2,
     "SerialID": 1450,
     "UniqueID": 307,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -5829,7 +5829,7 @@
     "Material6": -2,
     "SerialID": 3051,
     "UniqueID": 308,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5853,7 +5853,7 @@
     "Material6": -2,
     "SerialID": 523,
     "UniqueID": 309,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5877,7 +5877,7 @@
     "Material6": -2,
     "SerialID": 521,
     "UniqueID": 310,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5901,7 +5901,7 @@
     "Material6": -2,
     "SerialID": 522,
     "UniqueID": 311,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5925,7 +5925,7 @@
     "Material6": -2,
     "SerialID": 524,
     "UniqueID": 312,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5949,7 +5949,7 @@
     "Material6": -2,
     "SerialID": 525,
     "UniqueID": 313,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5973,7 +5973,7 @@
     "Material6": -2,
     "SerialID": 528,
     "UniqueID": 314,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -5997,7 +5997,7 @@
     "Material6": -2,
     "SerialID": 527,
     "UniqueID": 315,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -6021,7 +6021,7 @@
     "Material6": -2,
     "SerialID": 2112,
     "UniqueID": 316,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -6045,7 +6045,7 @@
     "Material6": -2,
     "SerialID": 2103,
     "UniqueID": 317,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -6069,7 +6069,7 @@
     "Material6": -2,
     "SerialID": 850,
     "UniqueID": 318,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6093,7 +6093,7 @@
     "Material6": -2,
     "SerialID": 526,
     "UniqueID": 319,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6117,7 +6117,7 @@
     "Material6": -2,
     "SerialID": 520,
     "UniqueID": 320,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -6141,7 +6141,7 @@
     "Material6": -2,
     "SerialID": 2651,
     "UniqueID": 321,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6165,7 +6165,7 @@
     "Material6": -2,
     "SerialID": 2450,
     "UniqueID": 322,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -6189,7 +6189,7 @@
     "Material6": -2,
     "SerialID": 3352,
     "UniqueID": 323,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -6213,7 +6213,7 @@
     "Material6": -2,
     "SerialID": 851,
     "UniqueID": 324,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -6237,7 +6237,7 @@
     "Material6": -2,
     "SerialID": 950,
     "UniqueID": 325,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6261,7 +6261,7 @@
     "Material6": -2,
     "SerialID": 1250,
     "UniqueID": 326,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6285,7 +6285,7 @@
     "Material6": -2,
     "SerialID": 2408,
     "UniqueID": 359,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6309,7 +6309,7 @@
     "Material6": -2,
     "SerialID": 3549,
     "UniqueID": 360,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6333,7 +6333,7 @@
     "Material6": -2,
     "SerialID": 3550,
     "UniqueID": 361,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6357,7 +6357,7 @@
     "Material6": -2,
     "SerialID": 3551,
     "UniqueID": 362,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -6381,7 +6381,7 @@
     "Material6": -2,
     "SerialID": 3210,
     "UniqueID": 364,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -6405,7 +6405,7 @@
     "Material6": -2,
     "SerialID": 906,
     "UniqueID": 365,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6429,7 +6429,7 @@
     "Material6": -2,
     "SerialID": 2310,
     "UniqueID": 366,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6453,7 +6453,7 @@
     "Material6": -2,
     "SerialID": 2300,
     "UniqueID": 367,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6477,7 +6477,7 @@
     "Material6": -2,
     "SerialID": 2305,
     "UniqueID": 368,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6501,7 +6501,7 @@
     "Material6": -2,
     "SerialID": 2309,
     "UniqueID": 370,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6525,7 +6525,7 @@
     "Material6": -2,
     "SerialID": 2303,
     "UniqueID": 371,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -6549,7 +6549,7 @@
     "Material6": -2,
     "SerialID": 3401,
     "UniqueID": 372,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6573,7 +6573,7 @@
     "Material6": -2,
     "SerialID": 2226,
     "UniqueID": 373,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -6597,7 +6597,7 @@
     "Material6": -2,
     "SerialID": 810,
     "UniqueID": 374,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -6621,7 +6621,7 @@
     "Material6": -2,
     "SerialID": 2601,
     "UniqueID": 375,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6645,7 +6645,7 @@
     "Material6": -2,
     "SerialID": 2308,
     "UniqueID": 376,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6669,7 +6669,7 @@
     "Material6": -2,
     "SerialID": 2302,
     "UniqueID": 377,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6693,7 +6693,7 @@
     "Material6": -2,
     "SerialID": 482,
     "UniqueID": 378,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6717,7 +6717,7 @@
     "Material6": -2,
     "SerialID": 2222,
     "UniqueID": 379,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6741,7 +6741,7 @@
     "Material6": -2,
     "SerialID": 2307,
     "UniqueID": 380,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6765,7 +6765,7 @@
     "Material6": -2,
     "SerialID": 2223,
     "UniqueID": 381,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6789,7 +6789,7 @@
     "Material6": -2,
     "SerialID": 2503,
     "UniqueID": 382,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6813,7 +6813,7 @@
     "Material6": -2,
     "SerialID": 441,
     "UniqueID": 383,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6837,7 +6837,7 @@
     "Material6": -2,
     "SerialID": 2301,
     "UniqueID": 384,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -6861,7 +6861,7 @@
     "Material6": -2,
     "SerialID": 2504,
     "UniqueID": 385,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -6885,7 +6885,7 @@
     "Material6": -2,
     "SerialID": 2225,
     "UniqueID": 386,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6909,7 +6909,7 @@
     "Material6": -2,
     "SerialID": 351,
     "UniqueID": 387,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -6933,7 +6933,7 @@
     "Material6": -2,
     "SerialID": 3402,
     "UniqueID": 388,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -6957,7 +6957,7 @@
     "Material6": -2,
     "SerialID": 911,
     "UniqueID": 389,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -6981,7 +6981,7 @@
     "Material6": -2,
     "SerialID": 466,
     "UniqueID": 390,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7005,7 +7005,7 @@
     "Material6": -2,
     "SerialID": 1202,
     "UniqueID": 391,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -7029,7 +7029,7 @@
     "Material6": -2,
     "SerialID": 3409,
     "UniqueID": 392,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -7053,7 +7053,7 @@
     "Material6": -2,
     "SerialID": 910,
     "UniqueID": 393,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -7077,7 +7077,7 @@
     "Material6": -2,
     "SerialID": 2150,
     "UniqueID": 394,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -7101,7 +7101,7 @@
     "Material6": -2,
     "SerialID": 914,
     "UniqueID": 395,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7125,7 +7125,7 @@
     "Material6": -2,
     "SerialID": 1232,
     "UniqueID": 396,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7149,7 +7149,7 @@
     "Material6": -2,
     "SerialID": 2413,
     "UniqueID": 397,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7173,7 +7173,7 @@
     "Material6": -2,
     "SerialID": 134,
     "UniqueID": 398,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7197,7 +7197,7 @@
     "Material6": -2,
     "SerialID": 2311,
     "UniqueID": 399,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -7221,7 +7221,7 @@
     "Material6": 2288,
     "SerialID": 1901,
     "UniqueID": 400,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -7245,7 +7245,7 @@
     "Material6": -2,
     "SerialID": 3408,
     "UniqueID": 401,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7269,7 +7269,7 @@
     "Material6": -2,
     "SerialID": 467,
     "UniqueID": 402,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7293,7 +7293,7 @@
     "Material6": -2,
     "SerialID": 461,
     "UniqueID": 403,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -7317,7 +7317,7 @@
     "Material6": -2,
     "SerialID": 2102,
     "UniqueID": 404,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7341,7 +7341,7 @@
     "Material6": -2,
     "SerialID": 1830,
     "UniqueID": 405,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -7365,7 +7365,7 @@
     "Material6": -2,
     "SerialID": 3407,
     "UniqueID": 406,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7389,7 +7389,7 @@
     "Material6": -2,
     "SerialID": 2304,
     "UniqueID": 407,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -7413,7 +7413,7 @@
     "Material6": -2,
     "SerialID": 707,
     "UniqueID": 408,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7437,7 +7437,7 @@
     "Material6": -2,
     "SerialID": 2221,
     "UniqueID": 409,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -7461,7 +7461,7 @@
     "Material6": -2,
     "SerialID": 812,
     "UniqueID": 410,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7485,7 +7485,7 @@
     "Material6": -2,
     "SerialID": 2905,
     "UniqueID": 411,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7509,7 +7509,7 @@
     "Material6": -2,
     "SerialID": 341,
     "UniqueID": 412,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -7533,7 +7533,7 @@
     "Material6": -2,
     "SerialID": 2110,
     "UniqueID": 413,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7557,7 +7557,7 @@
     "Material6": -2,
     "SerialID": 2930,
     "UniqueID": 414,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7581,7 +7581,7 @@
     "Material6": -2,
     "SerialID": 2906,
     "UniqueID": 415,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7605,7 +7605,7 @@
     "Material6": -2,
     "SerialID": 2907,
     "UniqueID": 416,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7629,7 +7629,7 @@
     "Material6": -2,
     "SerialID": 2908,
     "UniqueID": 417,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -7653,7 +7653,7 @@
     "Material6": -2,
     "SerialID": 2600,
     "UniqueID": 418,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -7677,7 +7677,7 @@
     "Material6": -2,
     "SerialID": 2602,
     "UniqueID": 419,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7701,7 +7701,7 @@
     "Material6": -2,
     "SerialID": 2404,
     "UniqueID": 420,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7725,7 +7725,7 @@
     "Material6": -2,
     "SerialID": 2406,
     "UniqueID": 421,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -7749,7 +7749,7 @@
     "Material6": -2,
     "SerialID": 2603,
     "UniqueID": 422,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -7773,7 +7773,7 @@
     "Material6": -2,
     "SerialID": 2909,
     "UniqueID": 423,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -7797,7 +7797,7 @@
     "Material6": -2,
     "SerialID": 2502,
     "UniqueID": 424,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -7821,7 +7821,7 @@
     "Material6": -2,
     "SerialID": 2630,
     "UniqueID": 426,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -7845,7 +7845,7 @@
     "Material6": -2,
     "SerialID": 2604,
     "UniqueID": 427,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7869,7 +7869,7 @@
     "Material6": -2,
     "SerialID": 2200,
     "UniqueID": 429,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7893,7 +7893,7 @@
     "Material6": -2,
     "SerialID": 2231,
     "UniqueID": 430,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7917,7 +7917,7 @@
     "Material6": -2,
     "SerialID": 2201,
     "UniqueID": 432,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -7941,7 +7941,7 @@
     "Material6": -2,
     "SerialID": 3430,
     "UniqueID": 433,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -7965,7 +7965,7 @@
     "Material6": -2,
     "SerialID": 2224,
     "UniqueID": 434,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -7989,7 +7989,7 @@
     "Material6": -2,
     "SerialID": 912,
     "UniqueID": 435,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8013,7 +8013,7 @@
     "Material6": -2,
     "SerialID": 332,
     "UniqueID": 436,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8037,7 +8037,7 @@
     "Material6": -2,
     "SerialID": 480,
     "UniqueID": 437,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8061,7 +8061,7 @@
     "Material6": -2,
     "SerialID": 3563,
     "UniqueID": 438,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8085,7 +8085,7 @@
     "Material6": -2,
     "SerialID": 3542,
     "UniqueID": 440,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8109,7 +8109,7 @@
     "Material6": -2,
     "SerialID": 3541,
     "UniqueID": 441,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8133,7 +8133,7 @@
     "Material6": -2,
     "SerialID": 3545,
     "UniqueID": 442,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8157,7 +8157,7 @@
     "Material6": -2,
     "SerialID": 3544,
     "UniqueID": 443,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8181,7 +8181,7 @@
     "Material6": -2,
     "SerialID": 3548,
     "UniqueID": 444,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8205,7 +8205,7 @@
     "Material6": -2,
     "SerialID": 3547,
     "UniqueID": 445,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8229,7 +8229,7 @@
     "Material6": -2,
     "SerialID": 3554,
     "UniqueID": 446,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8253,7 +8253,7 @@
     "Material6": -2,
     "SerialID": 3555,
     "UniqueID": 447,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8277,7 +8277,7 @@
     "Material6": -2,
     "SerialID": 3553,
     "UniqueID": 448,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8301,7 +8301,7 @@
     "Material6": -2,
     "SerialID": 3556,
     "UniqueID": 449,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8325,7 +8325,7 @@
     "Material6": -2,
     "SerialID": 3559,
     "UniqueID": 450,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8349,7 +8349,7 @@
     "Material6": -2,
     "SerialID": 3558,
     "UniqueID": 451,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8373,7 +8373,7 @@
     "Material6": -2,
     "SerialID": 3562,
     "UniqueID": 452,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8397,7 +8397,7 @@
     "Material6": -2,
     "SerialID": 3561,
     "UniqueID": 453,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8421,7 +8421,7 @@
     "Material6": -2,
     "SerialID": 3565,
     "UniqueID": 454,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8445,7 +8445,7 @@
     "Material6": -2,
     "SerialID": 3564,
     "UniqueID": 455,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8469,7 +8469,7 @@
     "Material6": -2,
     "SerialID": 1282,
     "UniqueID": 456,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8493,7 +8493,7 @@
     "Material6": -2,
     "SerialID": 203,
     "UniqueID": 457,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 49,
@@ -8517,7 +8517,7 @@
     "Material6": -2,
     "SerialID": 1,
     "UniqueID": 458,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8541,7 +8541,7 @@
     "Material6": -2,
     "SerialID": 3615,
     "UniqueID": 459,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8565,7 +8565,7 @@
     "Material6": -2,
     "SerialID": 3616,
     "UniqueID": 460,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 49,
@@ -8589,7 +8589,7 @@
     "Material6": -2,
     "SerialID": 1,
     "UniqueID": 461,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -8613,7 +8613,7 @@
     "Material6": -2,
     "SerialID": 2120,
     "UniqueID": 462,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -8637,7 +8637,7 @@
     "Material6": -2,
     "SerialID": 2121,
     "UniqueID": 463,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -8661,7 +8661,7 @@
     "Material6": -2,
     "SerialID": 840,
     "UniqueID": 464,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8685,7 +8685,7 @@
     "Material6": -2,
     "SerialID": 502,
     "UniqueID": 465,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8709,7 +8709,7 @@
     "Material6": -2,
     "SerialID": 501,
     "UniqueID": 466,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8733,7 +8733,7 @@
     "Material6": -2,
     "SerialID": 500,
     "UniqueID": 467,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -8757,7 +8757,7 @@
     "Material6": -2,
     "SerialID": 940,
     "UniqueID": 468,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -8781,7 +8781,7 @@
     "Material6": -2,
     "SerialID": 941,
     "UniqueID": 469,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8805,7 +8805,7 @@
     "Material6": -2,
     "SerialID": 1260,
     "UniqueID": 470,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -8829,7 +8829,7 @@
     "Material6": -2,
     "SerialID": 1251,
     "UniqueID": 471,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -8853,7 +8853,7 @@
     "Material6": -2,
     "SerialID": 2060,
     "UniqueID": 472,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -8877,7 +8877,7 @@
     "Material6": -2,
     "SerialID": 2190,
     "UniqueID": 473,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -8901,7 +8901,7 @@
     "Material6": -2,
     "SerialID": 860,
     "UniqueID": 474,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -8925,7 +8925,7 @@
     "Material6": -2,
     "SerialID": 1160,
     "UniqueID": 475,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -8949,7 +8949,7 @@
     "Material6": -2,
     "SerialID": 2960,
     "UniqueID": 476,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -8973,7 +8973,7 @@
     "Material6": -2,
     "SerialID": 2262,
     "UniqueID": 477,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -8997,7 +8997,7 @@
     "Material6": -2,
     "SerialID": 2261,
     "UniqueID": 478,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -9021,7 +9021,7 @@
     "Material6": -2,
     "SerialID": 2660,
     "UniqueID": 479,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -9045,7 +9045,7 @@
     "Material6": -2,
     "SerialID": 2650,
     "UniqueID": 480,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -9069,7 +9069,7 @@
     "Material6": -2,
     "SerialID": 2260,
     "UniqueID": 482,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -9093,7 +9093,7 @@
     "Material6": -2,
     "SerialID": 3360,
     "UniqueID": 483,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -9117,7 +9117,7 @@
     "Material6": -2,
     "SerialID": 3050,
     "UniqueID": 484,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9141,7 +9141,7 @@
     "Material6": -2,
     "SerialID": 2460,
     "UniqueID": 485,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -9165,7 +9165,7 @@
     "Material6": -2,
     "SerialID": 660,
     "UniqueID": 486,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9189,7 +9189,7 @@
     "Material6": -2,
     "SerialID": 1261,
     "UniqueID": 487,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -9213,7 +9213,7 @@
     "Material6": -2,
     "SerialID": 3060,
     "UniqueID": 488,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -9237,7 +9237,7 @@
     "Material6": -2,
     "SerialID": 960,
     "UniqueID": 489,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -9261,7 +9261,7 @@
     "Material6": -2,
     "SerialID": 916,
     "UniqueID": 490,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9285,7 +9285,7 @@
     "Material6": -2,
     "SerialID": 314,
     "UniqueID": 491,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9309,7 +9309,7 @@
     "Material6": -2,
     "SerialID": 312,
     "UniqueID": 492,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9333,7 +9333,7 @@
     "Material6": -2,
     "SerialID": 319,
     "UniqueID": 493,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9357,7 +9357,7 @@
     "Material6": -2,
     "SerialID": 300,
     "UniqueID": 494,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9381,7 +9381,7 @@
     "Material6": -2,
     "SerialID": 3503,
     "UniqueID": 495,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -9405,7 +9405,7 @@
     "Material6": -2,
     "SerialID": 2132,
     "UniqueID": 496,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -9429,7 +9429,7 @@
     "Material6": -2,
     "SerialID": 2133,
     "UniqueID": 497,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -9453,7 +9453,7 @@
     "Material6": -2,
     "SerialID": 2130,
     "UniqueID": 498,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -9477,7 +9477,7 @@
     "Material6": -2,
     "SerialID": 2131,
     "UniqueID": 500,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9501,7 +9501,7 @@
     "Material6": -2,
     "SerialID": 3502,
     "UniqueID": 501,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9525,7 +9525,7 @@
     "Material6": -2,
     "SerialID": 320,
     "UniqueID": 502,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9549,7 +9549,7 @@
     "Material6": -2,
     "SerialID": 3500,
     "UniqueID": 503,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -9573,7 +9573,7 @@
     "Material6": -2,
     "SerialID": 600,
     "UniqueID": 504,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9597,7 +9597,7 @@
     "Material6": -2,
     "SerialID": 3501,
     "UniqueID": 505,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9621,7 +9621,7 @@
     "Material6": -2,
     "SerialID": 3506,
     "UniqueID": 506,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9645,7 +9645,7 @@
     "Material6": -2,
     "SerialID": 3504,
     "UniqueID": 507,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9669,7 +9669,7 @@
     "Material6": -2,
     "SerialID": 433,
     "UniqueID": 508,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9693,7 +9693,7 @@
     "Material6": -2,
     "SerialID": 2903,
     "UniqueID": 509,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9717,7 +9717,7 @@
     "Material6": -2,
     "SerialID": 440,
     "UniqueID": 510,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -9741,7 +9741,7 @@
     "Material6": -2,
     "SerialID": 820,
     "UniqueID": 511,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -9765,7 +9765,7 @@
     "Material6": -2,
     "SerialID": 821,
     "UniqueID": 512,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -9789,7 +9789,7 @@
     "Material6": -2,
     "SerialID": 819,
     "UniqueID": 513,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -9813,7 +9813,7 @@
     "Material6": -2,
     "SerialID": 2230,
     "UniqueID": 514,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9837,7 +9837,7 @@
     "Material6": -2,
     "SerialID": 3507,
     "UniqueID": 515,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -9861,7 +9861,7 @@
     "Material6": -2,
     "SerialID": 3505,
     "UniqueID": 516,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -9885,7 +9885,7 @@
     "Material6": -2,
     "SerialID": 814,
     "UniqueID": 518,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -9909,7 +9909,7 @@
     "Material6": -2,
     "SerialID": 2904,
     "UniqueID": 519,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -9933,7 +9933,7 @@
     "Material6": -2,
     "SerialID": 705,
     "UniqueID": 520,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -9957,7 +9957,7 @@
     "Material6": -2,
     "SerialID": 2140,
     "UniqueID": 521,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -9981,7 +9981,7 @@
     "Material6": -2,
     "SerialID": 2291,
     "UniqueID": 523,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10005,7 +10005,7 @@
     "Material6": -2,
     "SerialID": 3676,
     "UniqueID": 524,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10029,7 +10029,7 @@
     "Material6": -2,
     "SerialID": 3670,
     "UniqueID": 525,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10053,7 +10053,7 @@
     "Material6": -2,
     "SerialID": 3673,
     "UniqueID": 526,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10077,7 +10077,7 @@
     "Material6": -2,
     "SerialID": 3675,
     "UniqueID": 527,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10101,7 +10101,7 @@
     "Material6": -2,
     "SerialID": 3672,
     "UniqueID": 528,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10125,7 +10125,7 @@
     "Material6": -2,
     "SerialID": 3674,
     "UniqueID": 529,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10149,7 +10149,7 @@
     "Material6": -2,
     "SerialID": 3677,
     "UniqueID": 530,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10173,7 +10173,7 @@
     "Material6": -2,
     "SerialID": 3671,
     "UniqueID": 531,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 41,
@@ -10197,7 +10197,7 @@
     "Material6": -2,
     "SerialID": 123,
     "UniqueID": 532,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -10221,7 +10221,7 @@
     "Material6": -2,
     "SerialID": 3290,
     "UniqueID": 533,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -10245,7 +10245,7 @@
     "Material6": -2,
     "SerialID": 2890,
     "UniqueID": 534,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10269,7 +10269,7 @@
     "Material6": -2,
     "SerialID": 290,
     "UniqueID": 535,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -10293,7 +10293,7 @@
     "Material6": -2,
     "SerialID": 3090,
     "UniqueID": 536,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -10317,7 +10317,7 @@
     "Material6": -2,
     "SerialID": 2690,
     "UniqueID": 537,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10341,7 +10341,7 @@
     "Material6": -2,
     "SerialID": 2590,
     "UniqueID": 538,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -10365,7 +10365,7 @@
     "Material6": -2,
     "SerialID": 1190,
     "UniqueID": 539,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -10389,7 +10389,7 @@
     "Material6": -2,
     "SerialID": 999,
     "UniqueID": 540,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10413,7 +10413,7 @@
     "Material6": -2,
     "SerialID": 2980,
     "UniqueID": 541,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -10437,7 +10437,7 @@
     "Material6": -2,
     "SerialID": 1770,
     "UniqueID": 542,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -10461,7 +10461,7 @@
     "Material6": -2,
     "SerialID": 1470,
     "UniqueID": 543,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -10485,7 +10485,7 @@
     "Material6": -2,
     "SerialID": 1370,
     "UniqueID": 544,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -10509,7 +10509,7 @@
     "Material6": -2,
     "SerialID": 1570,
     "UniqueID": 545,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10533,7 +10533,7 @@
     "Material6": -2,
     "SerialID": 1670,
     "UniqueID": 546,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -10557,7 +10557,7 @@
     "Material6": -2,
     "SerialID": 990,
     "UniqueID": 549,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10581,7 +10581,7 @@
     "Material6": -2,
     "SerialID": 597,
     "UniqueID": 550,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10605,7 +10605,7 @@
     "Material6": -2,
     "SerialID": 1290,
     "UniqueID": 552,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10629,7 +10629,7 @@
     "Material6": -2,
     "SerialID": 584,
     "UniqueID": 553,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -10653,7 +10653,7 @@
     "Material6": -2,
     "SerialID": 891,
     "UniqueID": 555,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -10677,7 +10677,7 @@
     "Material6": -2,
     "SerialID": 893,
     "UniqueID": 556,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10701,7 +10701,7 @@
     "Material6": -2,
     "SerialID": 585,
     "UniqueID": 561,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -10725,7 +10725,7 @@
     "Material6": -2,
     "SerialID": 2860,
     "UniqueID": 564,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -10749,7 +10749,7 @@
     "Material6": -2,
     "SerialID": 2862,
     "UniqueID": 565,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -10773,7 +10773,7 @@
     "Material6": -2,
     "SerialID": 1181,
     "UniqueID": 566,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -10797,7 +10797,7 @@
     "Material6": -2,
     "SerialID": 130,
     "UniqueID": 567,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -10821,7 +10821,7 @@
     "Material6": -2,
     "SerialID": 815,
     "UniqueID": 568,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -10845,7 +10845,7 @@
     "Material6": -2,
     "SerialID": 1105,
     "UniqueID": 569,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -10869,7 +10869,7 @@
     "Material6": -2,
     "SerialID": 816,
     "UniqueID": 570,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10893,7 +10893,7 @@
     "Material6": -2,
     "SerialID": 436,
     "UniqueID": 571,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -10917,7 +10917,7 @@
     "Material6": -2,
     "SerialID": 321,
     "UniqueID": 572,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -10941,7 +10941,7 @@
     "Material6": -2,
     "SerialID": 904,
     "UniqueID": 573,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -10965,7 +10965,7 @@
     "Material6": -2,
     "SerialID": 700,
     "UniqueID": 574,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -10989,7 +10989,7 @@
     "Material6": -2,
     "SerialID": 1801,
     "UniqueID": 575,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11013,7 +11013,7 @@
     "Material6": -2,
     "SerialID": 401,
     "UniqueID": 576,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11037,7 +11037,7 @@
     "Material6": -2,
     "SerialID": 2160,
     "UniqueID": 577,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -11061,7 +11061,7 @@
     "Material6": -2,
     "SerialID": 1107,
     "UniqueID": 578,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11085,7 +11085,7 @@
     "Material6": -2,
     "SerialID": 468,
     "UniqueID": 579,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11109,7 +11109,7 @@
     "Material6": -2,
     "SerialID": 442,
     "UniqueID": 580,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11133,7 +11133,7 @@
     "Material6": -2,
     "SerialID": 378,
     "UniqueID": 582,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11157,7 +11157,7 @@
     "Material6": -2,
     "SerialID": 379,
     "UniqueID": 583,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11181,7 +11181,7 @@
     "Material6": -2,
     "SerialID": 380,
     "UniqueID": 584,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11205,7 +11205,7 @@
     "Material6": -2,
     "SerialID": 381,
     "UniqueID": 585,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11229,7 +11229,7 @@
     "Material6": -2,
     "SerialID": 2902,
     "UniqueID": 586,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11253,7 +11253,7 @@
     "Material6": -2,
     "SerialID": 2501,
     "UniqueID": 587,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11277,7 +11277,7 @@
     "Material6": -2,
     "SerialID": 2900,
     "UniqueID": 588,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11301,7 +11301,7 @@
     "Material6": -2,
     "SerialID": 2901,
     "UniqueID": 589,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11325,7 +11325,7 @@
     "Material6": -2,
     "SerialID": 2400,
     "UniqueID": 590,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11349,7 +11349,7 @@
     "Material6": -2,
     "SerialID": 2411,
     "UniqueID": 591,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11373,7 +11373,7 @@
     "Material6": -2,
     "SerialID": 2910,
     "UniqueID": 592,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11397,7 +11397,7 @@
     "Material6": -2,
     "SerialID": 437,
     "UniqueID": 593,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -11421,7 +11421,7 @@
     "Material6": -2,
     "SerialID": 2228,
     "UniqueID": 594,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -11445,7 +11445,7 @@
     "Material6": -2,
     "SerialID": 1130,
     "UniqueID": 595,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -11469,7 +11469,7 @@
     "Material6": -2,
     "SerialID": 438,
     "UniqueID": 596,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 16,
@@ -11493,7 +11493,7 @@
     "Material6": -2,
     "SerialID": 708,
     "UniqueID": 598,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -11517,7 +11517,7 @@
     "Material6": -2,
     "SerialID": 804,
     "UniqueID": 599,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -11541,7 +11541,7 @@
     "Material6": -2,
     "SerialID": 913,
     "UniqueID": 600,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -11565,7 +11565,7 @@
     "Material6": -2,
     "SerialID": 1131,
     "UniqueID": 601,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -11589,7 +11589,7 @@
     "Material6": -2,
     "SerialID": 1132,
     "UniqueID": 602,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11613,7 +11613,7 @@
     "Material6": -2,
     "SerialID": 1286,
     "UniqueID": 603,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11637,7 +11637,7 @@
     "Material6": -2,
     "SerialID": 1285,
     "UniqueID": 604,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11661,7 +11661,7 @@
     "Material6": -2,
     "SerialID": 1287,
     "UniqueID": 605,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11685,7 +11685,7 @@
     "Material6": -2,
     "SerialID": 1283,
     "UniqueID": 606,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11709,7 +11709,7 @@
     "Material6": -2,
     "SerialID": 1284,
     "UniqueID": 607,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11733,7 +11733,7 @@
     "Material6": 3727,
     "SerialID": 3508,
     "UniqueID": 608,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11757,7 +11757,7 @@
     "Material6": -2,
     "SerialID": 2134,
     "UniqueID": 609,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11781,7 +11781,7 @@
     "Material6": -2,
     "SerialID": 2135,
     "UniqueID": 610,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11805,7 +11805,7 @@
     "Material6": -2,
     "SerialID": 2136,
     "UniqueID": 611,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11829,7 +11829,7 @@
     "Material6": -2,
     "SerialID": 1482,
     "UniqueID": 612,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11853,7 +11853,7 @@
     "Material6": -2,
     "SerialID": 1481,
     "UniqueID": 613,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -11877,7 +11877,7 @@
     "Material6": -2,
     "SerialID": 1480,
     "UniqueID": 614,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11901,7 +11901,7 @@
     "Material6": -2,
     "SerialID": 1682,
     "UniqueID": 615,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11925,7 +11925,7 @@
     "Material6": -2,
     "SerialID": 1681,
     "UniqueID": 616,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -11949,7 +11949,7 @@
     "Material6": -2,
     "SerialID": 1680,
     "UniqueID": 617,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -11973,7 +11973,7 @@
     "Material6": -2,
     "SerialID": 1582,
     "UniqueID": 618,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -11997,7 +11997,7 @@
     "Material6": -2,
     "SerialID": 1581,
     "UniqueID": 619,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -12021,7 +12021,7 @@
     "Material6": -2,
     "SerialID": 1580,
     "UniqueID": 620,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -12045,7 +12045,7 @@
     "Material6": -2,
     "SerialID": 1782,
     "UniqueID": 621,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -12069,7 +12069,7 @@
     "Material6": -2,
     "SerialID": 1781,
     "UniqueID": 622,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 12,
@@ -12093,7 +12093,7 @@
     "Material6": -2,
     "SerialID": 1780,
     "UniqueID": 623,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -12117,7 +12117,7 @@
     "Material6": -2,
     "SerialID": 1381,
     "UniqueID": 624,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -12141,7 +12141,7 @@
     "Material6": -2,
     "SerialID": 1380,
     "UniqueID": 625,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -12165,7 +12165,7 @@
     "Material6": -2,
     "SerialID": 1382,
     "UniqueID": 626,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -12189,7 +12189,7 @@
     "Material6": -2,
     "SerialID": 2281,
     "UniqueID": 627,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 48,
@@ -12213,7 +12213,7 @@
     "Material6": -2,
     "SerialID": 2280,
     "UniqueID": 628,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -12237,7 +12237,7 @@
     "Material6": -2,
     "SerialID": 2680,
     "UniqueID": 629,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -12261,7 +12261,7 @@
     "Material6": -2,
     "SerialID": 2681,
     "UniqueID": 630,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12285,7 +12285,7 @@
     "Material6": -2,
     "SerialID": 2981,
     "UniqueID": 631,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12309,7 +12309,7 @@
     "Material6": -2,
     "SerialID": 2982,
     "UniqueID": 632,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -12333,7 +12333,7 @@
     "Material6": -2,
     "SerialID": 3380,
     "UniqueID": 633,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -12357,7 +12357,7 @@
     "Material6": -2,
     "SerialID": 2880,
     "UniqueID": 634,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -12381,7 +12381,7 @@
     "Material6": -2,
     "SerialID": 1281,
     "UniqueID": 635,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -12405,7 +12405,7 @@
     "Material6": -2,
     "SerialID": 1288,
     "UniqueID": 636,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 15,
@@ -12429,7 +12429,7 @@
     "Material6": -2,
     "SerialID": 3280,
     "UniqueID": 637,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12453,7 +12453,7 @@
     "Material6": -2,
     "SerialID": 570,
     "UniqueID": 638,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -12477,7 +12477,7 @@
     "Material6": -2,
     "SerialID": 981,
     "UniqueID": 640,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -12501,7 +12501,7 @@
     "Material6": -2,
     "SerialID": 980,
     "UniqueID": 641,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -12525,7 +12525,7 @@
     "Material6": -2,
     "SerialID": 982,
     "UniqueID": 642,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12549,7 +12549,7 @@
     "Material6": -2,
     "SerialID": 1182,
     "UniqueID": 643,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12573,7 +12573,7 @@
     "Material6": -2,
     "SerialID": 1180,
     "UniqueID": 644,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -12597,7 +12597,7 @@
     "Material6": -2,
     "SerialID": 2580,
     "UniqueID": 645,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -12621,7 +12621,7 @@
     "Material6": -2,
     "SerialID": 806,
     "UniqueID": 646,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -12645,7 +12645,7 @@
     "Material6": -2,
     "SerialID": 807,
     "UniqueID": 647,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 43,
@@ -12669,7 +12669,7 @@
     "Material6": -2,
     "SerialID": 3080,
     "UniqueID": 648,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 40,
@@ -12693,7 +12693,7 @@
     "Material6": -2,
     "SerialID": 2661,
     "UniqueID": 649,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -12717,7 +12717,7 @@
     "Material6": -2,
     "SerialID": 3400,
     "UniqueID": 650,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -12741,7 +12741,7 @@
     "Material6": -2,
     "SerialID": 817,
     "UniqueID": 651,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -12765,7 +12765,7 @@
     "Material6": -2,
     "SerialID": 809,
     "UniqueID": 652,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 17,
@@ -12789,7 +12789,7 @@
     "Material6": -2,
     "SerialID": 818,
     "UniqueID": 653,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -12813,7 +12813,7 @@
     "Material6": -2,
     "SerialID": 2161,
     "UniqueID": 654,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12837,7 +12837,7 @@
     "Material6": -2,
     "SerialID": 204,
     "UniqueID": 655,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12861,7 +12861,7 @@
     "Material6": -2,
     "SerialID": 588,
     "UniqueID": 656,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -12885,7 +12885,7 @@
     "Material6": -2,
     "SerialID": 592,
     "UniqueID": 657,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12909,7 +12909,7 @@
     "Material6": -2,
     "SerialID": 115,
     "UniqueID": 658,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12933,7 +12933,7 @@
     "Material6": -2,
     "SerialID": 116,
     "UniqueID": 659,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12957,7 +12957,7 @@
     "Material6": -2,
     "SerialID": 113,
     "UniqueID": 660,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -12981,7 +12981,7 @@
     "Material6": -2,
     "SerialID": 117,
     "UniqueID": 661,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -13005,7 +13005,7 @@
     "Material6": -2,
     "SerialID": 114,
     "UniqueID": 662,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 47,
@@ -13029,7 +13029,7 @@
     "Material6": -2,
     "SerialID": 112,
     "UniqueID": 663,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -13053,7 +13053,7 @@
     "Material6": -2,
     "SerialID": 690,
     "UniqueID": 664,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -13077,7 +13077,7 @@
     "Material6": -2,
     "SerialID": 2851,
     "UniqueID": 665,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -13101,7 +13101,7 @@
     "Material6": -2,
     "SerialID": 2850,
     "UniqueID": 666,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -13125,7 +13125,7 @@
     "Material6": -2,
     "SerialID": 2861,
     "UniqueID": 667,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -13149,7 +13149,7 @@
     "Material6": -2,
     "SerialID": 2770,
     "UniqueID": 668,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -13173,7 +13173,7 @@
     "Material6": 1382,
     "SerialID": 2760,
     "UniqueID": 669,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 42,
@@ -13197,7 +13197,7 @@
     "Material6": -2,
     "SerialID": 374,
     "UniqueID": 670,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -13221,7 +13221,7 @@
     "Material6": -2,
     "SerialID": 2570,
     "UniqueID": 671,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 14,
@@ -13245,7 +13245,7 @@
     "Material6": -2,
     "SerialID": 2470,
     "UniqueID": 672,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 13,
@@ -13269,7 +13269,7 @@
     "Material6": -2,
     "SerialID": 3760,
     "UniqueID": 673,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13293,7 +13293,7 @@
     "Material6": -2,
     "SerialID": 3761,
     "UniqueID": 674,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13317,7 +13317,7 @@
     "Material6": -2,
     "SerialID": 3762,
     "UniqueID": 675,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13341,7 +13341,7 @@
     "Material6": -2,
     "SerialID": 3763,
     "UniqueID": 676,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13365,7 +13365,7 @@
     "Material6": -2,
     "SerialID": 3764,
     "UniqueID": 677,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13389,7 +13389,7 @@
     "Material6": -2,
     "SerialID": 3765,
     "UniqueID": 678,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13413,7 +13413,7 @@
     "Material6": -2,
     "SerialID": 3766,
     "UniqueID": 679,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13437,7 +13437,7 @@
     "Material6": -2,
     "SerialID": 3767,
     "UniqueID": 680,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13461,7 +13461,7 @@
     "Material6": -2,
     "SerialID": 3768,
     "UniqueID": 681,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13485,7 +13485,7 @@
     "Material6": -2,
     "SerialID": 3769,
     "UniqueID": 682,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13509,7 +13509,7 @@
     "Material6": -2,
     "SerialID": 3770,
     "UniqueID": 683,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13533,7 +13533,7 @@
     "Material6": -2,
     "SerialID": 3771,
     "UniqueID": 684,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13557,7 +13557,7 @@
     "Material6": -2,
     "SerialID": 3772,
     "UniqueID": 685,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13581,7 +13581,7 @@
     "Material6": -2,
     "SerialID": 3773,
     "UniqueID": 686,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13605,7 +13605,7 @@
     "Material6": -2,
     "SerialID": 3774,
     "UniqueID": 687,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13629,7 +13629,7 @@
     "Material6": -2,
     "SerialID": 3775,
     "UniqueID": 688,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13653,7 +13653,7 @@
     "Material6": -2,
     "SerialID": 3776,
     "UniqueID": 689,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13677,7 +13677,7 @@
     "Material6": -2,
     "SerialID": 3777,
     "UniqueID": 690,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13701,7 +13701,7 @@
     "Material6": 12514,
     "SerialID": 3778,
     "UniqueID": 691,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13725,7 +13725,7 @@
     "Material6": 12514,
     "SerialID": 3779,
     "UniqueID": 692,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13749,7 +13749,7 @@
     "Material6": 12514,
     "SerialID": 3780,
     "UniqueID": 693,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13773,7 +13773,7 @@
     "Material6": 12514,
     "SerialID": 3781,
     "UniqueID": 694,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13797,7 +13797,7 @@
     "Material6": 12514,
     "SerialID": 3708,
     "UniqueID": 695,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13821,7 +13821,7 @@
     "Material6": 12514,
     "SerialID": 3709,
     "UniqueID": 696,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13845,7 +13845,7 @@
     "Material6": -2,
     "SerialID": 3705,
     "UniqueID": 697,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13869,7 +13869,7 @@
     "Material6": 12514,
     "SerialID": 3704,
     "UniqueID": 698,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13893,7 +13893,7 @@
     "Material6": -2,
     "SerialID": 3700,
     "UniqueID": 699,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13917,7 +13917,7 @@
     "Material6": 12514,
     "SerialID": 3731,
     "UniqueID": 700,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13941,7 +13941,7 @@
     "Material6": -2,
     "SerialID": 3730,
     "UniqueID": 701,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13965,7 +13965,7 @@
     "Material6": -2,
     "SerialID": 3706,
     "UniqueID": 702,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -13989,7 +13989,7 @@
     "Material6": -2,
     "SerialID": 3703,
     "UniqueID": 703,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14013,7 +14013,7 @@
     "Material6": -2,
     "SerialID": 3707,
     "UniqueID": 704,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14037,7 +14037,7 @@
     "Material6": -2,
     "SerialID": 3701,
     "UniqueID": 705,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14061,7 +14061,7 @@
     "Material6": -2,
     "SerialID": 3702,
     "UniqueID": 706,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14085,7 +14085,7 @@
     "Material6": 12514,
     "SerialID": 3740,
     "UniqueID": 707,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14109,7 +14109,7 @@
     "Material6": 12514,
     "SerialID": 3750,
     "UniqueID": 708,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14133,7 +14133,7 @@
     "Material6": 12514,
     "SerialID": 3752,
     "UniqueID": 709,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14157,7 +14157,7 @@
     "Material6": 12514,
     "SerialID": 3751,
     "UniqueID": 710,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14181,7 +14181,7 @@
     "Material6": -2,
     "SerialID": 3791,
     "UniqueID": 711,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 13,
@@ -14205,7 +14205,7 @@
     "Material6": 12514,
     "SerialID": 3790,
     "UniqueID": 712,
-    "33ddefc8 string66": "Easter"
+    "SelectCalendarEventSeason": "Easter"
   },
   {
     "BoardColorID": 14,
@@ -14229,7 +14229,7 @@
     "Material6": -2,
     "SerialID": 1291,
     "UniqueID": 713,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 45,
@@ -14253,7 +14253,7 @@
     "Material6": -2,
     "SerialID": 992,
     "UniqueID": 714,
-    "33ddefc8 string66": "JuneBride"
+    "SelectCalendarEventSeason": "JuneBride"
   },
   {
     "BoardColorID": 14,
@@ -14277,7 +14277,7 @@
     "Material6": -2,
     "SerialID": 3678,
     "UniqueID": 715,
-    "33ddefc8 string66": "JuneBride"
+    "SelectCalendarEventSeason": "JuneBride"
   },
   {
     "BoardColorID": 46,
@@ -14301,7 +14301,7 @@
     "Material6": -2,
     "SerialID": 2709,
     "UniqueID": 717,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14325,7 +14325,7 @@
     "Material6": -2,
     "SerialID": 2710,
     "UniqueID": 718,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14349,7 +14349,7 @@
     "Material6": -2,
     "SerialID": 2711,
     "UniqueID": 719,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14373,7 +14373,7 @@
     "Material6": -2,
     "SerialID": 2712,
     "UniqueID": 720,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14397,7 +14397,7 @@
     "Material6": -2,
     "SerialID": 2713,
     "UniqueID": 721,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14421,7 +14421,7 @@
     "Material6": -2,
     "SerialID": 2730,
     "UniqueID": 722,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14445,7 +14445,7 @@
     "Material6": -2,
     "SerialID": 2714,
     "UniqueID": 723,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14469,7 +14469,7 @@
     "Material6": -2,
     "SerialID": 2715,
     "UniqueID": 724,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14493,7 +14493,7 @@
     "Material6": -2,
     "SerialID": 2716,
     "UniqueID": 725,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14517,7 +14517,7 @@
     "Material6": -2,
     "SerialID": 2717,
     "UniqueID": 726,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14541,7 +14541,7 @@
     "Material6": -2,
     "SerialID": 2718,
     "UniqueID": 727,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14565,7 +14565,7 @@
     "Material6": -2,
     "SerialID": 2771,
     "UniqueID": 728,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14589,7 +14589,7 @@
     "Material6": 1382,
     "SerialID": 2750,
     "UniqueID": 729,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   },
   {
     "BoardColorID": 46,
@@ -14613,6 +14613,6 @@
     "Material6": -2,
     "SerialID": 2761,
     "UniqueID": 730,
-    "33ddefc8 string66": "EventNone"
+    "SelectCalendarEventSeason": "EventNone"
   }
 ]
