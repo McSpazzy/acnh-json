@@ -2,875 +2,875 @@
   {
     "ItemCategory": 1,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "3B9F1A58",
+    "37571146.HashRef": "MAIL_BO_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 2,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "262070F2",
+    "37571146.HashRef": "MAIL_BO_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 3,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "914F115F",
+    "37571146.HashRef": "MAIL_BO_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 4,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5BAD0CB8",
+    "37571146.HashRef": "MAIL_BO_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "44558F54",
+    "37571146.HashRef": "MAIL_BO_SendPresent-105",
     "e060d3cd u16": 8,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 5,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5A96AD96",
+    "37571146.HashRef": "MAIL_HA_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 6,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "66DEC3B7",
+    "37571146.HashRef": "MAIL_HA_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 7,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E8C3FE5F",
+    "37571146.HashRef": "MAIL_HA_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 8,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "6690D062",
+    "37571146.HashRef": "MAIL_HA_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 9,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "14A23918",
+    "37571146.HashRef": "MAIL_HA_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 10,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "2709782",
+    "37571146.HashRef": "MAIL_KO_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "C380D13D",
+    "37571146.HashRef": "MAIL_KO_SendPresent-102",
     "e060d3cd u16": 4,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 57,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "50BA2974",
+    "37571146.HashRef": "MAIL_KO_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 58,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "2D61B9D3",
+    "37571146.HashRef": "MAIL_KO_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 59,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "1FA73C4D",
+    "37571146.HashRef": "MAIL_KO_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 11,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "F50620A7",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 12,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "32E7C0C5",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 13,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "1AEAA4ED",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 55,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "951285D2",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 14,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "96267681",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 15,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "92B4CC8A",
+    "37571146.HashRef": "MAIL_FU_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 56,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E97D29A3",
+    "37571146.HashRef": "MAIL_FU_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 16,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "51508135",
+    "37571146.HashRef": "MAIL_FU_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 17,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "643F4DD8",
+    "37571146.HashRef": "MAIL_FU_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 18,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E1DAD478",
+    "37571146.HashRef": "MAIL_FU_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 19,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "6D0E372C",
+    "37571146.HashRef": "MAIL_OT_SendPresent-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 20,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "28D1C8E",
+    "37571146.HashRef": "MAIL_OT_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 21,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5F9AC0BF",
+    "37571146.HashRef": "MAIL_OT_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 22,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "390F6FC2",
+    "37571146.HashRef": "MAIL_OT_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 23,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5EC471B3",
+    "37571146.HashRef": "MAIL_OT_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "9F503F20",
+    "37571146.HashRef": "MAIL_GE_SendPresent-101",
     "e060d3cd u16": 5,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "689000C2",
+    "37571146.HashRef": "MAIL_GE_SendPresent-102",
     "e060d3cd u16": 6,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 26,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "15EBB6F6",
+    "37571146.HashRef": "MAIL_GE_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 27,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "388D1436",
+    "37571146.HashRef": "MAIL_GE_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 28,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B8ADBE1B",
+    "37571146.HashRef": "MAIL_GE_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "7F8C9F4D",
+    "37571146.HashRef": "MAIL_AN_SendPresent-101",
     "e060d3cd u16": 7,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 2,
-    "37571146.HashRef": "4D7E69EF",
+    "37571146.HashRef": "MAIL_AN_SendPresent-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 30,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "AEA6274B",
+    "37571146.HashRef": "MAIL_AN_SendPresent-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 31,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "AA1DD5B2",
+    "37571146.HashRef": "MAIL_AN_SendPresent-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 32,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E9A1A96",
+    "37571146.HashRef": "MAIL_AN_SendPresent-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "170A6EF4",
+    "37571146.HashRef": "MAIL_XX_ReBirthDay-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B70498A5",
+    "37571146.HashRef": "MAIL_XX_ReBirthDay-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "874043EF",
+    "37571146.HashRef": "MAIL_XX_ReBirthDay-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "7D555770",
+    "37571146.HashRef": "MAIL_XX_ReLong-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "F42BBC73",
+    "37571146.HashRef": "MAIL_XX_ReLong-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B9213DDA",
+    "37571146.HashRef": "MAIL_XX_ReLong-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5AE8F5CA",
+    "37571146.HashRef": "MAIL_XX_ReMax-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "505E2EA1",
+    "37571146.HashRef": "MAIL_XX_ReMax-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "3CB667D3",
+    "37571146.HashRef": "MAIL_XX_ReMax-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "A203BC6",
+    "37571146.HashRef": "MAIL_XX_ReMoveIn-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E07C5A06",
+    "37571146.HashRef": "MAIL_XX_ReMoveIn-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "622C5F5A",
+    "37571146.HashRef": "MAIL_XX_ReMoveIn-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "35917FF3",
+    "37571146.HashRef": "MAIL_XX_ReShort-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "63CEDF0B",
+    "37571146.HashRef": "MAIL_XX_ReShort-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "1CC53364",
+    "37571146.HashRef": "MAIL_XX_ReShort-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E3D4DFC",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-101",
     "e060d3cd u16": 10,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "8C38E6DB",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-102",
     "e060d3cd u16": 10,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5EF3CF70",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-103",
     "e060d3cd u16": 10,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "851C5F43",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-104",
     "e060d3cd u16": 9,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E875EECA",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-105",
     "e060d3cd u16": 9,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "25DD9360",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-106",
     "e060d3cd u16": 9,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "54A7BE37",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-107",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "1EADC7F7",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-108",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "BA32DFE7",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-109",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "C585D3D6",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-110",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "34C6F8DF",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-111",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "881D1410",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-112",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "D28CAAF3",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-113",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "8E28362",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-118",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "886C6402",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-119",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5A00FEF2",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-120",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "4658582A",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-121",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5845F763",
+    "37571146.HashRef": "MAIL_XX_ReWinter-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E8A2F508",
+    "37571146.HashRef": "MAIL_XX_ReWinter-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "4A553855",
+    "37571146.HashRef": "MAIL_XX_ReWinter-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5D4BEDC2",
+    "37571146.HashRef": "MAIL_XX_HHA_BuildCelebration-101",
     "e060d3cd u16": 2,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "87C17C00",
+    "37571146.HashRef": "MAIL_XX_HHA_BuildCelebration-102",
     "e060d3cd u16": 2,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "EBA7C513",
+    "37571146.HashRef": "MAIL_XX_HHA_BuildCelebration-103",
     "e060d3cd u16": 2,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "1348FD60",
+    "37571146.HashRef": "MAIL_XX_HHA_BuildCelebration-104",
     "e060d3cd u16": 2,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "CBB0E8F8",
+    "37571146.HashRef": "MAIL_RND_MsgA_XX-101",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "530FFE29",
+    "37571146.HashRef": "MAIL_RND_MsgA_XX-102",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "FFEC14F1",
+    "37571146.HashRef": "MAIL_RND_MsgA_XX-103",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "F7CECD08",
+    "37571146.HashRef": "MAIL_RND_MsgA_XX-104",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "FC9701B2",
+    "37571146.HashRef": "MAIL_RND_MsgA_XX-105",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "52EB5706",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-108",
     "e060d3cd u16": 16,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "8592F9E9",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-107",
     "e060d3cd u16": 15,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 75,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "AC9BFDD7",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "CFECB972",
+    "37571146.HashRef": "MAIL_OT_SendPresent-110",
     "e060d3cd u16": 8,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 66,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "59AD268",
+    "37571146.HashRef": "MAIL_OT_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 71,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "8E952274",
+    "37571146.HashRef": "MAIL_OT_SendPresent-108",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E2B79A7D",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-109",
     "e060d3cd u16": 12,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 65,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "6724E305",
+    "37571146.HashRef": "MAIL_OT_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 63,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "339818FE",
+    "37571146.HashRef": "MAIL_KO_SendPresent-110",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 76,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "9FF7103C",
+    "37571146.HashRef": "MAIL_KO_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "762C7E64",
+    "37571146.HashRef": "MAIL_KO_SendPresent-108",
     "e060d3cd u16": 18,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 67,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "CBF9C0A7",
+    "37571146.HashRef": "MAIL_FU_SendPresent-108",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "2CFC5B2A",
+    "37571146.HashRef": "MAIL_FU_SendPresent-107",
     "e060d3cd u16": 14,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "D5069365",
+    "37571146.HashRef": "MAIL_OT_SendPresent-107",
     "e060d3cd u16": 16,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E59B3715",
+    "37571146.HashRef": "MAIL_ZK_SendPresent-110",
     "e060d3cd u16": 14,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 64,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E1601706",
+    "37571146.HashRef": "MAIL_FU_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 74,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "D3502161",
+    "37571146.HashRef": "MAIL_FU_SendPresent-110",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 76,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E1DF0DD0",
+    "37571146.HashRef": "MAIL_GE_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 62,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "C726BDF7",
+    "37571146.HashRef": "MAIL_GE_SendPresent-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E1D7947E",
+    "37571146.HashRef": "MAIL_KO_SendPresent-107",
     "e060d3cd u16": 6,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 61,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "970E39AB",
+    "37571146.HashRef": "MAIL_GE_SendPresent-108",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 73,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "A6FD1128",
+    "37571146.HashRef": "MAIL_GE_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 60,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "78BDF21E",
+    "37571146.HashRef": "MAIL_GE_SendPresent-110",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "C12D89E6",
+    "37571146.HashRef": "MAIL_HA_SendPresent-106",
     "e060d3cd u16": 15,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 70,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "40FA5AF1",
+    "37571146.HashRef": "MAIL_HA_SendPresent-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "21FB0CED",
+    "37571146.HashRef": "MAIL_HA_SendPresent-108",
     "e060d3cd u16": 11,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "266372D",
+    "37571146.HashRef": "MAIL_HA_SendPresent-109",
     "e060d3cd u16": 17,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "EC4DE2B5",
+    "37571146.HashRef": "MAIL_KO_SendPresent-106",
     "e060d3cd u16": 17,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5559486E",
+    "37571146.HashRef": "MAIL_HA_SendPresent-110",
     "e060d3cd u16": 16,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 72,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "6E336C12",
+    "37571146.HashRef": "MAIL_AN_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 69,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "EB138A88",
+    "37571146.HashRef": "MAIL_AN_SendPresent-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 20,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "EFACDD1F",
+    "37571146.HashRef": "MAIL_FU_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 26,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "F3459846",
+    "37571146.HashRef": "MAIL_AN_SendPresent-108",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 23,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "9429BAC3",
+    "37571146.HashRef": "MAIL_AN_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 68,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "C5F7DD6",
+    "37571146.HashRef": "MAIL_AN_SendPresent-110",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "FA8E8994",
+    "37571146.HashRef": "MAIL_BO_SendPresent-110",
     "e060d3cd u16": 13,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 15,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B90A6C6A",
+    "37571146.HashRef": "MAIL_BO_SendPresent-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "9FB4FB64",
+    "37571146.HashRef": "MAIL_BO_SendPresent-107",
     "e060d3cd u16": 11,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 70,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B82F5094",
+    "37571146.HashRef": "MAIL_BO_SendPresent-108",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 20,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "4FBA836F",
+    "37571146.HashRef": "MAIL_BO_SendPresent-109",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "D676EFCB",
+    "37571146.HashRef": "MAIL_XX_ReSpecial-114",
     "e060d3cd u16": 1,
     "ItemRemakeType": 0
   }

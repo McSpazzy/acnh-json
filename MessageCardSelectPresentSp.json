@@ -2,133 +2,133 @@
   {
     "ItemCategory": 33,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "A5924EFB",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 34,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "6A84DCB3",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 35,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5F669172",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 36,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "4C8980E5",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 1,
-    "37571146.HashRef": "4FDB31B",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 40,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "4030C926",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 41,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "152195B7",
+    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 48,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "F408423D",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 49,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "14D168D1",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 50,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B779E37E",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 51,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "D79E74F6",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 52,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5F74F2E7",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 53,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "5CC22205",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 54,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E97DDB9B",
+    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "A2235DF4",
+    "37571146.HashRef": "MAIL_SP_HHA_Mission-101",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "CEBF878C",
+    "37571146.HashRef": "MAIL_SP_HHA_Mission-102",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "E8CE7187",
+    "37571146.HashRef": "MAIL_SP_HHA_Mission-103",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "2687E7BA",
+    "37571146.HashRef": "MAIL_SP_HHA_Mission-104",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "B9CD6253",
+    "37571146.HashRef": "MAIL_SP_HHA_Mission-105",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   }
