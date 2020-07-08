@@ -1,834 +1,834 @@
 [
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 0,
     "Label": "None",
     "Name": "なし"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 47,
     "Label": "ShopDefault",
     "Name": "店_初期"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 17,
     "Label": "ShopMiscGoods",
     "Name": "店_雑貨"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 19,
     "Label": "ShopLargeGoods",
     "Name": "店_大型"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 21,
     "Label": "ShopHighClass",
     "Name": "店_高級"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 55,
     "Label": "ShopLv1",
     "Name": "店_店舗小"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 56,
     "Label": "ShopLv2",
     "Name": "店_店舗大"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 20,
     "Label": "ShopSeasonSale",
     "Name": "店_季節限定"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 37,
     "Label": "MarketAlways",
     "Name": "店_固定"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 140,
     "Label": "DefaultFtr",
     "Name": "初期支給家具"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 13,
     "Label": "MarketingRouteA",
     "Name": "店_流通A(家具設定不可)"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 15,
     "Label": "MarketingRouteC",
     "Name": "店_流通C(家具設定不可)"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 14,
     "Label": "MarketingRouteB",
     "Name": "店_流通B(家具設定不可)"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 16,
     "Label": "MarketingRouteD",
     "Name": "店_流通D(家具設定不可)"
   },
   {
-    "d62525d0 u16": 3,
+    "HHABaseScore": 3,
     "UniqueID": 81,
     "Label": "ShopUmbrellaLv1",
     "Name": "店_カサ小"
   },
   {
-    "d62525d0 u16": 3,
+    "HHABaseScore": 3,
     "UniqueID": 82,
     "Label": "ShopUmbrellaLv2",
     "Name": "店_カサ大"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 108,
     "Label": "ShopWrappingPaper",
     "Name": "店_ラッピングペーパー"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 135,
     "Label": "ShopCracker",
     "Name": "店_クラッカー"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 138,
     "Label": "ShopTimer",
     "Name": "店_店舗大固定"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 93,
     "Label": "ShopVarietyFishingRod",
     "Name": "店_店売り：つりざお"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 94,
     "Label": "ShopVarietyNet",
     "Name": "店_店売り：あみ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 95,
     "Label": "ShopVarietyShovel",
     "Name": "店_店売り：スコップ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 96,
     "Label": "ShopVarietyWatering",
     "Name": "店_店売り：ジョウロ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 97,
     "Label": "ShopVarietySlingShot",
     "Name": "店_店売り：パチンコ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 178,
     "Label": "ShopVarietyManieSuit",
     "Name": "店_店売り：水着"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 72,
     "Label": "Shop_EnableShovel",
     "Name": "店_スコップ解禁"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 71,
     "Label": "Shop_EnableAxe",
     "Name": "店_オノ解禁"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 118,
     "Label": "ShopRecipeBook2",
     "Name": "店_レシピブック2"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 88,
     "Label": "ShopRemakeKit",
     "Name": "店_リメイクキット"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 84,
     "Label": "Shop_EnableRecipeWatering",
     "Name": "店_レシピ解禁(ジョウロ)"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 85,
     "Label": "Shop_EnableRecipeScoop",
     "Name": "店_レシピ解禁(スコップ高跳び)"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 141,
     "Label": "Shop_EnableRecipeLadder",
     "Name": "店_レシピ解禁(ハシゴ)"
   },
   {
-    "d62525d0 u16": 151,
+    "HHABaseScore": 151,
     "UniqueID": 66,
     "Label": "SonkatsuRewardTent",
     "Name": "マイル交換_初期"
   },
   {
-    "d62525d0 u16": 171,
+    "HHABaseScore": 171,
     "UniqueID": 70,
     "Label": "SonkatsuRewardShop",
     "Name": "マイル交換_プラス"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 105,
     "Label": "MileExchangeOnce",
     "Name": "マイル交換_プラス(買い切り)"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 32,
     "Label": "SonkatsuReward2",
     "Name": "マイル交換_案内所"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 92,
     "Label": "MileExchangePhoneCase",
     "Name": "マイル交換_スマホケース"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 86,
     "Label": "MileExchangeLicense",
     "Name": "マイル交換_工事ライセンス(買い切り)"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 129,
     "Label": "MileExchangePocket40",
     "Name": "マイル交換_持ち物欄40(買い切り)"
   },
   {
-    "d62525d0 u16": 83,
+    "HHABaseScore": 83,
     "UniqueID": 130,
     "Label": "MileExchangeRecipe1",
     "Name": "マイル交換_家具レシピ800"
   },
   {
-    "d62525d0 u16": 121,
+    "HHABaseScore": 121,
     "UniqueID": 131,
     "Label": "MileExchangeRecipe2",
     "Name": "マイル交換_家具レシピ1500"
   },
   {
-    "d62525d0 u16": 171,
+    "HHABaseScore": 171,
     "UniqueID": 132,
     "Label": "MileExchangeRecipe3",
     "Name": "マイル交換_家具レシピ2000"
   },
   {
-    "d62525d0 u16": 221,
+    "HHABaseScore": 221,
     "UniqueID": 133,
     "Label": "MileExchangeRecipe4",
     "Name": "マイル交換_家具レシピ3000"
   },
   {
-    "d62525d0 u16": 403,
+    "HHABaseScore": 403,
     "UniqueID": 134,
     "Label": "MileExchangeRecipe5",
     "Name": "マイル交換_家具レシピ5000"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 165,
     "Label": "MileExchangeNsoPresent",
     "Name": "マイル交換_NSO加入特典"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 67,
     "Label": "Bridge",
     "Name": "案内所_橋"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 68,
     "Label": "Slope",
     "Name": "案内所_坂"
   },
   {
-    "d62525d0 u16": 51,
+    "HHABaseScore": 51,
     "UniqueID": 139,
     "Label": "OnlineShoppingOnly",
     "Name": "通信販売のみ"
   },
   {
-    "d62525d0 u16": 51,
+    "HHABaseScore": 51,
     "UniqueID": 7,
     "Label": "Tailor",
     "Name": "仕立て屋"
   },
   {
-    "d62525d0 u16": 51,
+    "HHABaseScore": 51,
     "UniqueID": 8,
     "Label": "TailorMarketOnly",
     "Name": "仕立て屋_店舗"
   },
   {
-    "d62525d0 u16": 51,
+    "HHABaseScore": 51,
     "UniqueID": 161,
     "Label": "TailorXmas",
     "Name": "仕立て屋_クリスマス"
   },
   {
-    "d62525d0 u16": 51,
+    "HHABaseScore": 51,
     "UniqueID": 162,
     "Label": "TailorMarketOnlyXmas",
     "Name": "仕立て屋_店舗_クリスマス"
   },
   {
-    "d62525d0 u16": 253,
+    "HHABaseScore": 253,
     "UniqueID": 22,
     "Label": "RugS",
     "Name": "ローラン_S"
   },
   {
-    "d62525d0 u16": 253,
+    "HHABaseScore": 253,
     "UniqueID": 23,
     "Label": "RugM",
     "Name": "ローラン_M"
   },
   {
-    "d62525d0 u16": 253,
+    "HHABaseScore": 253,
     "UniqueID": 24,
     "Label": "RugL",
     "Name": "ローラン_L"
   },
   {
-    "d62525d0 u16": 451,
+    "HHABaseScore": 451,
     "UniqueID": 73,
     "Label": "LaurentWallFloor",
     "Name": "ローラン壁床"
   },
   {
-    "d62525d0 u16": 23,
+    "HHABaseScore": 23,
     "UniqueID": 10,
     "Label": "ShoesBagShop",
     "Name": "シャンク"
   },
   {
-    "d62525d0 u16": 351,
+    "HHABaseScore": 351,
     "UniqueID": 65,
     "Label": "HgcQuestReward",
     "Name": "ことの報酬"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 5,
     "Label": "Gardening",
     "Name": "園芸店"
   },
   {
-    "d62525d0 u16": 451,
+    "HHABaseScore": 451,
     "UniqueID": 166,
     "Label": "InariMarket",
     "Name": "いなりマーケット"
   },
   {
-    "d62525d0 u16": 17,
+    "HHABaseScore": 17,
     "UniqueID": 167,
     "Label": "InariMarketFake",
     "Name": "いなりマーケット_贋作"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 38,
     "Label": "TkkGood",
     "Name": "とたけけ_ゴキゲン！"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 39,
     "Label": "TkkBad",
     "Name": "とたけけ_フキゲン"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 40,
     "Label": "TkkRelax",
     "Name": "とたけけ_まったり"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 41,
     "Label": "TkkBlue",
     "Name": "とたけけ_ブルーかも"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 42,
     "Label": "TkkUnsure",
     "Name": "とたけけ_よくわからない"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 43,
     "Label": "TkkHidden",
     "Name": "とたけけ_隠し曲"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 44,
     "Label": "TkkMiss",
     "Name": "とたけけ_はずれ曲"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 45,
     "Label": "TkkBirthday",
     "Name": "とたけけ_誕生日曲"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 46,
     "Label": "TkkFirst",
     "Name": "とたけけ_初ライブ曲"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 75,
     "Label": "TkkNewGood",
     "Name": "とたけけ新曲_ゴキゲン！"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 77,
     "Label": "TkkNewBad",
     "Name": "とたけけ新曲_フキゲン"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 76,
     "Label": "TkkNewRelax",
     "Name": "とたけけ新曲_まったり"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 79,
     "Label": "TkkNewBlue",
     "Name": "とたけけ新曲_ブルーかも"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 78,
     "Label": "TkkNewUnsure",
     "Name": "とたけけ新曲_よくわからない"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 74,
     "Label": "TkkNew",
     "Name": "とたけけ_新曲"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 11,
     "Label": "TreasureQuest",
     "Name": "宝探しクエスト"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 12,
     "Label": "TreasureQuestDust",
     "Name": "宝探しクエストごみ"
   },
   {
-    "d62525d0 u16": 444,
+    "HHABaseScore": 444,
     "UniqueID": 29,
     "Label": "SnowmanReward",
     "Name": "ゆきだるま"
   },
   {
-    "d62525d0 u16": 573,
+    "HHABaseScore": 573,
     "UniqueID": 54,
     "Label": "PcBday",
     "Name": "PC誕生日"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 2,
     "Label": "JohnnyQuest",
     "Name": "ジョニークエスト"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 3,
     "Label": "JohnnyQuestDust",
     "Name": "ジョニークエストごみ"
   },
   {
-    "d62525d0 u16": 451,
+    "HHABaseScore": 451,
     "UniqueID": 4,
     "Label": "JohnnyQuestReward",
     "Name": "ジョニークエスト報酬"
   },
   {
-    "d62525d0 u16": 451,
+    "HHABaseScore": 451,
     "UniqueID": 171,
     "Label": "PirateQuestReward",
     "Name": "海賊クエスト報酬"
   },
   {
-    "d62525d0 u16": 501,
+    "HHABaseScore": 501,
     "UniqueID": 25,
     "Label": "TournamentFishing",
     "Name": "つり大会"
   },
   {
-    "d62525d0 u16": 501,
+    "HHABaseScore": 501,
     "UniqueID": 26,
     "Label": "TournamentInsect",
     "Name": "ムシとり大会"
   },
   {
-    "d62525d0 u16": 33,
+    "HHABaseScore": 33,
     "UniqueID": 52,
     "Label": "CountDown",
     "Name": "カウントダウン"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 90,
     "Label": "BeyDailyFishModel",
     "Name": "ジャスティン(来訪)"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 91,
     "Label": "ChyDailyInsectModel",
     "Name": "レオン(来訪)"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 170,
     "Label": "SeoReward",
     "Name": "ラコスケ報酬"
   },
   {
-    "d62525d0 u16": 53,
+    "HHABaseScore": 53,
     "UniqueID": 137,
     "Label": "RecycleBox",
     "Name": "リサイクルBOX"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 64,
     "Label": "ShopSeed_Chrysanthemum",
     "Name": "販売種_菊"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 63,
     "Label": "ShopSeed_Lily",
     "Name": "販売種_ユリ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 62,
     "Label": "ShopSeed_Cosmos",
     "Name": "販売種_コスモス"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 57,
     "Label": "ShopSeed_Hyacinth",
     "Name": "販売種_ヒヤシンス"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 58,
     "Label": "ShopSeed_Rose",
     "Name": "販売種_バラ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 59,
     "Label": "ShopSeed_Anemone",
     "Name": "販売種_アネモネ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 61,
     "Label": "ShopSeed_Tulip",
     "Name": "販売種_チューリップ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 60,
     "Label": "ShopSeed_Pansy",
     "Name": "販売種_パンジー"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 109,
     "Label": "FruitApple",
     "Name": "<フルーツ>リンゴ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 110,
     "Label": "FruitOrange",
     "Name": "<フルーツ>オレンジ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 111,
     "Label": "FruitPear",
     "Name": "<フルーツ>ナシ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 112,
     "Label": "FruitPeach",
     "Name": "<フルーツ>モモ"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 113,
     "Label": "FruitCherry",
     "Name": "<フルーツ>サクランボ"
   },
   {
-    "d62525d0 u16": 64,
+    "HHABaseScore": 64,
     "UniqueID": 121,
     "Label": "Insect",
     "Name": "生き物：ムシ"
   },
   {
-    "d62525d0 u16": 71,
+    "HHABaseScore": 71,
     "UniqueID": 122,
     "Label": "Fish",
     "Name": "生き物：サカナ"
   },
   {
-    "d62525d0 u16": 87,
+    "HHABaseScore": 87,
     "UniqueID": 120,
     "Label": "Fossil",
     "Name": "化石"
   },
   {
-    "d62525d0 u16": 87,
+    "HHABaseScore": 87,
     "UniqueID": 127,
     "Label": "Flower",
     "Name": "植物：花"
   },
   {
-    "d62525d0 u16": 351,
+    "HHABaseScore": 351,
     "UniqueID": 123,
     "Label": "Bromide",
     "Name": "ブロマイド"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 124,
     "Label": "Poster",
     "Name": "ポスター"
   },
   {
-    "d62525d0 u16": 573,
+    "HHABaseScore": 573,
     "UniqueID": 125,
     "Label": "HHAGift",
     "Name": "HHA報酬"
   },
   {
-    "d62525d0 u16": 573,
+    "HHABaseScore": 573,
     "UniqueID": 128,
     "Label": "Trophy",
     "Name": "トロフィー"
   },
   {
-    "d62525d0 u16": 365,
+    "HHABaseScore": 365,
     "UniqueID": 126,
     "Label": "Mother",
     "Name": "はは"
   },
   {
-    "d62525d0 u16": 251,
+    "HHABaseScore": 251,
     "UniqueID": 136,
     "Label": "AirportNovelty",
     "Name": "飛行場記念品"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 28,
     "Label": "ShopDIY",
     "Name": "<DIY素材>"
   },
   {
-    "d62525d0 u16": 103,
+    "HHABaseScore": 103,
     "UniqueID": 98,
     "Label": "DIYNormal",
     "Name": "<DIY>汎用"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 35,
     "Label": "Fence",
     "Name": "<DIY>柵"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 53,
     "Label": "DIY_Mushroom",
     "Name": "<DIY>きのこ"
   },
   {
-    "d62525d0 u16": 301,
+    "HHABaseScore": 301,
     "UniqueID": 80,
     "Label": "DIYZodiac",
     "Name": "<DIY>12星座"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 100,
     "Label": "DIYSpringBamboo",
     "Name": "<DIY>春の若竹"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 101,
     "Label": "DIYSummerShell",
     "Name": "<DIY>夏の貝がら"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 102,
     "Label": "DIYAutmnNuts",
     "Name": "<DIY>秋の木の実"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 104,
     "Label": "DIYOrnament",
     "Name": "<DIY>オーナメント"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 83,
     "Label": "DIYMapleLeaf",
     "Name": "<DIY>もみじのはっぱ"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 99,
     "Label": "DIYCherryBrossom",
     "Name": "<DIY>桜の花びら"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 103,
     "Label": "DIYSnowCrystal",
     "Name": "<DIY>雪の結晶"
   },
   {
-    "d62525d0 u16": 351,
+    "HHABaseScore": 351,
     "UniqueID": 158,
     "Label": "DIYEasterEgg",
     "Name": "<DIY>イースターのたまご"
   },
   {
-    "d62525d0 u16": 451,
+    "HHABaseScore": 451,
     "UniqueID": 176,
     "Label": "DIYPearl",
     "Name": "<DIY>しんじゅ"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 143,
     "Label": "MotherDay",
     "Name": "<リージョン>母の日"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 144,
     "Label": "WoldChildDay",
     "Name": "<リージョン>ワールドチャイルド"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 145,
     "Label": "FatherDay",
     "Name": "<リージョン>父の日"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 146,
     "Label": "SummerSolstice",
     "Name": "<リージョン>夏至祭"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 147,
     "Label": "StarFestival",
     "Name": "<リージョン>七夕"
   },
   {
-    "d62525d0 u16": 201,
+    "HHABaseScore": 201,
     "UniqueID": 168,
     "Label": "WinterSolstice_Southern",
     "Name": "<リージョン>冬至祭（６月南半球）"
   },
   {
-    "d62525d0 u16": 178,
+    "HHABaseScore": 178,
     "UniqueID": 159,
     "Label": "DeliveryPocketCamp",
     "Name": "<永続配信>ポケ森コラボ"
   },
   {
-    "d62525d0 u16": 351,
+    "HHABaseScore": 351,
     "UniqueID": 163,
     "Label": "Easter",
     "Name": "イースター"
   },
   {
-    "d62525d0 u16": 437,
+    "HHABaseScore": 437,
     "UniqueID": 160,
     "Label": "JuneBride",
     "Name": "ジューンブライド"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 106,
     "Label": "FutureItem",
     "Name": "■アップデート向け■"
   },
   {
-    "d62525d0 u16": 0,
+    "HHABaseScore": 0,
     "UniqueID": 107,
     "Label": "NotAvailable",
     "Name": "◆入手不可◆"
