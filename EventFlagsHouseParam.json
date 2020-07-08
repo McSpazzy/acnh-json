@@ -4,7 +4,7 @@
     "MaxValue": 1,
     "UniqueID": 1,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder1",
     "Name": "テント→6x6増築申込"
   },
@@ -13,7 +13,7 @@
     "MaxValue": 1,
     "UniqueID": 2,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder2",
     "Name": "6x6→8x8増築申込"
   },
@@ -22,7 +22,7 @@
     "MaxValue": 1,
     "UniqueID": 3,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder3",
     "Name": "8x8→8x8+奥増築申込"
   },
@@ -31,7 +31,7 @@
     "MaxValue": 1,
     "UniqueID": 4,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder4",
     "Name": "8x8+奥→8x8+奥左増築申込"
   },
@@ -40,7 +40,7 @@
     "MaxValue": 1,
     "UniqueID": 5,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder5",
     "Name": "8x8+奥左→8x8+奥左右増築申込"
   },
@@ -49,7 +49,7 @@
     "MaxValue": 1,
     "UniqueID": 6,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder6",
     "Name": "8x8+奥左右→2F増築申込"
   },
@@ -58,7 +58,7 @@
     "MaxValue": 1,
     "UniqueID": 7,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HouseOrder7",
     "Name": "2F→地下増築申込"
   },
@@ -67,7 +67,7 @@
     "MaxValue": 10000,
     "UniqueID": 9,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 1,
+    "FlagsFlowAccess": 1,
     "Key": "CountHouseBuild",
     "Name": "テントから家になって何日目か"
   },
@@ -76,7 +76,7 @@
     "MaxValue": 10000,
     "UniqueID": 10,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 1,
+    "FlagsFlowAccess": 1,
     "Key": "CountUnderGroundBuild",
     "Name": "地下室ができて何日目か"
   },
@@ -85,7 +85,7 @@
     "MaxValue": 10000,
     "UniqueID": 11,
     "5140e4b4 u8": 0,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "CountHouseExtension",
     "Name": "最後に増築してからの日数"
   }

@@ -5,7 +5,7 @@
     "UniqueID": 0,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TreasureQuestPlayerWin",
     "Name": "宝探しクエストプレイヤー勝利"
   },
@@ -15,7 +15,7 @@
     "UniqueID": 1,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 1,
+    "FlagsFlowAccess": 1,
     "Key": "CatchFesGetPoint",
     "Name": "ムシ取り、つり大会|獲得ポイント"
   },
@@ -25,7 +25,7 @@
     "UniqueID": 2,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoDoneDIYmeselfNow",
     "Name": "たぬきち|このシーンでたぬきちテント作業台でDIYした"
   },
@@ -35,7 +35,7 @@
     "UniqueID": 3,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoDonationNow",
     "Name": "たぬきち|このシーンで虫魚寄贈した"
   },
@@ -45,7 +45,7 @@
     "UniqueID": 4,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "KinuyoTalkSceneFlag",
     "Name": "きぬよ|このシーンで会話した？"
   },
@@ -55,7 +55,7 @@
     "UniqueID": 5,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SkkTalkSceneFlag",
     "Name": "シャンク|このシーンで会話した？"
   },
@@ -65,7 +65,7 @@
     "UniqueID": 6,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "ReijiTalkSceneFlag",
     "Name": "レイジ|このシーンで会話した？"
   },
@@ -75,7 +75,7 @@
     "UniqueID": 7,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmTalkSceneFlag",
     "Name": "まめきち|このシーンで会話した？"
   },
@@ -85,7 +85,7 @@
     "UniqueID": 9,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlWokeHimUp",
     "Name": "フータ|この会話の冒頭で起こした"
   },
@@ -95,7 +95,7 @@
     "UniqueID": 10,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SickQuestGossip",
     "Name": "病気クエストうわさフラグ"
   },
@@ -105,7 +105,7 @@
     "UniqueID": 12,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmSellItemSingle",
     "Name": "まめきち|アイテム買取単品"
   },
@@ -115,7 +115,7 @@
     "UniqueID": 13,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmViaItemCheck",
     "Name": "まめきち|陳列品チェックした"
   },
@@ -125,7 +125,7 @@
     "UniqueID": 14,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TownNewsTopicCount",
     "Name": "村内放送|村内放送のトピック数"
   },
@@ -135,7 +135,7 @@
     "UniqueID": 15,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TownNewsConnectCount",
     "Name": "村内放送|村内放送の連結メッセージ表示回数"
   },
@@ -145,7 +145,7 @@
     "UniqueID": 16,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CatchBeeCount",
     "Name": "ハチを連続で捕まえた回数用カウント"
   },
@@ -155,7 +155,7 @@
     "UniqueID": 17,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CatchInsectFesGetNum",
     "Name": "ムシ取り大会|ムシ取得数"
   },
@@ -165,7 +165,7 @@
     "UniqueID": 18,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FtrChestCheck",
     "Name": "タンス｜このシーンでチェックした？"
   },
@@ -175,7 +175,7 @@
     "UniqueID": 20,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SzaTalkInsideOffice",
     "Name": "しずえ|役場シーン内で会話した？"
   },
@@ -185,7 +185,7 @@
     "UniqueID": 21,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FoxBuyNowFlag",
     "Name": "つねきち|今回の入店中に買い物した？"
   },
@@ -195,7 +195,7 @@
     "UniqueID": 22,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag0",
     "Name": "つねきち|今回の入店中にAのアイテムをチェックした？"
   },
@@ -205,7 +205,7 @@
     "UniqueID": 23,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag1",
     "Name": "つねきち|今回の入店中にBのアイテムをチェックした？"
   },
@@ -215,7 +215,7 @@
     "UniqueID": 24,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag2",
     "Name": "つねきち|今回の入店中にCのアイテムをチェックした？"
   },
@@ -225,7 +225,7 @@
     "UniqueID": 25,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag3",
     "Name": "つねきち|今回の入店中にDのアイテムをチェックした？"
   },
@@ -235,7 +235,7 @@
     "UniqueID": 26,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag4",
     "Name": "つねきち|今回の入店中にEのアイテムをチェックした？"
   },
@@ -245,7 +245,7 @@
     "UniqueID": 27,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FoxCheckItemFlag5",
     "Name": "つねきち|今回の入店中にFのアイテムをチェックした？"
   },
@@ -255,7 +255,7 @@
     "UniqueID": 28,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PcDonation4TownOfficeChk",
     "Name": "役場建設用寄贈品の所持状況チェック"
   },
@@ -265,7 +265,7 @@
     "UniqueID": 29,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PcAvailableDonation4TownOffice",
     "Name": "役場建設用に寄贈できるものを持っているか？"
   },
@@ -275,7 +275,7 @@
     "UniqueID": 31,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CatchFishFesGetNum",
     "Name": "つり大会|サカナ取得数"
   },
@@ -285,7 +285,7 @@
     "UniqueID": 32,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoTentAskedHintTmp",
     "Name": "たぬきち|「何すればいい？」選択した"
   },
@@ -295,7 +295,7 @@
     "UniqueID": 33,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlKnownFossil",
     "Name": "フータ|初化石選択が鑑定済化石だった"
   },
@@ -305,7 +305,7 @@
     "UniqueID": 34,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "NnpcApproachSelectCount",
     "Name": "アプローチ会話|内容を再抽選した回数"
   },
@@ -315,7 +315,7 @@
     "UniqueID": 35,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PrologueArrivalTalked",
     "Name": "つぶまめ序盤到着会話直後か？"
   },
@@ -325,7 +325,7 @@
     "UniqueID": 36,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RctTalkSceneFlag",
     "Name": "つぶきち|このシーンで会話した？"
   },
@@ -335,7 +335,7 @@
     "UniqueID": 37,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmSellCampingStuff",
     "Name": "まめきち|序盤に支給品を売却しようとした"
   },
@@ -345,7 +345,7 @@
     "UniqueID": 38,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoTalkSceneFlag",
     "Name": "たぬきち|このシーンで会話した？"
   },
@@ -355,7 +355,7 @@
     "UniqueID": 39,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "GotRecipeorMaterial",
     "Name": "DIY会話|レシピか素材をもらった直後である"
   },
@@ -365,7 +365,7 @@
     "UniqueID": 41,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmBoughtGrocery",
     "Name": "まめきち|今回のシーケンス中にUIで買い物した"
   },
@@ -375,7 +375,7 @@
     "UniqueID": 42,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DodTalkSceneFlag",
     "Name": "飛行場職員|このシーンで会話した？"
   },
@@ -385,7 +385,7 @@
     "UniqueID": 43,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "MysteryTourTalkSceneFlag",
     "Name": "ミステリーツアー|このシーンでNNPCと会話した？"
   },
@@ -395,7 +395,7 @@
     "UniqueID": 44,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "NnpcTalkSelectCount",
     "Name": "基本会話｜雑談を再抽選した回数"
   },
@@ -405,7 +405,7 @@
     "UniqueID": 45,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 1,
+    "FlagsFlowAccess": 1,
     "Key": "SzaCountDownHatColorMatch",
     "Name": "しずえ|カウントダウンで渡す帽子が服の色にあうか"
   },
@@ -415,7 +415,7 @@
     "UniqueID": 46,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 1,
+    "FlagsFlowAccess": 1,
     "Key": "ForceToolBreakDemo",
     "Name": "道具|強制壊れデモ"
   },
@@ -425,7 +425,7 @@
     "UniqueID": 47,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "ImmQPutInFtrNow",
     "Name": "移住クエスト|今箱に家具を入れたか？"
   },
@@ -435,7 +435,7 @@
     "UniqueID": 48,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "ImmQCompleteCountNow",
     "Name": "たぬきち|この会話中で何件目の完成通知か？"
   },
@@ -445,7 +445,7 @@
     "UniqueID": 49,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HghEnterBalloon",
     "Name": "きぬよ|入店時バルーンを出した"
   },
@@ -455,7 +455,7 @@
     "UniqueID": 50,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HghExitBalloon",
     "Name": "きぬよ|退店時バルーンを出した"
   },
@@ -465,7 +465,7 @@
     "UniqueID": 51,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampInviteInProgress",
     "Name": "キャンプ勧誘会話中"
   },
@@ -475,7 +475,7 @@
     "UniqueID": 52,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoOfficeFirstTalkNow",
     "Name": "たぬきち|このシーンで案内所建物初会話をした"
   },
@@ -485,7 +485,7 @@
     "UniqueID": 54,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SzaIslandEvaluationUnlockNow",
     "Name": "しずえ|このシーンで村の環境が解禁した"
   },
@@ -495,7 +495,7 @@
     "UniqueID": 55,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoMachineTalkCntl",
     "Name": "タヌポート強制会話制御用フラグ"
   },
@@ -505,7 +505,7 @@
     "UniqueID": 56,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmEnterBalloon",
     "Name": "まめきち|入店時バルーンを出した"
   },
@@ -515,7 +515,7 @@
     "UniqueID": 57,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmExitBalloon",
     "Name": "まめきち|退店時バルーンを出した"
   },
@@ -525,7 +525,7 @@
     "UniqueID": 58,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RctEnterBalloon",
     "Name": "つぶきち|入店時バルーンを出した"
   },
@@ -535,7 +535,7 @@
     "UniqueID": 59,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RctExitBalloon",
     "Name": "つぶきち|退店時バルーンを出した"
   },
@@ -545,7 +545,7 @@
     "UniqueID": 60,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "StoreSellFruitChk",
     "Name": "店でフルーツを売ろうとした"
   },
@@ -555,7 +555,7 @@
     "UniqueID": 61,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcmShopshelfCheck",
     "Name": "まめきち|棚をチェックした"
   },
@@ -565,7 +565,7 @@
     "UniqueID": 62,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HghNoticeTicket",
     "Name": "きぬよ|したてやクーポン持ってることに言及した"
   },
@@ -575,7 +575,7 @@
     "UniqueID": 63,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "ImmQPutInFtrNum",
     "Name": "移住クエスト|残り家具の数いくつ？"
   },
@@ -585,7 +585,7 @@
     "UniqueID": 64,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoForceTalk",
     "Name": "たぬきち|この移住クエスト完了会話が強制会話か？"
   },
@@ -595,7 +595,7 @@
     "UniqueID": 65,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "MysteryTourInviteFlag",
     "Name": "ミステリーツアー|勧誘後、会話した？"
   },
@@ -605,7 +605,7 @@
     "UniqueID": 66,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DocCommuneIslandFirstTalkDone",
     "Name": "ロドリー|コミューン島到着強制会話済"
   },
@@ -615,7 +615,7 @@
     "UniqueID": 67,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoAccessWorkingTable",
     "Name": "たぬきち|作業台アクセス経由の会話か？"
   },
@@ -625,7 +625,7 @@
     "UniqueID": 68,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoHeardKkProjectNow",
     "Name": "たぬきち|けけプロジェクトの存在をこのシーンで聞いた？"
   },
@@ -635,7 +635,7 @@
     "UniqueID": 69,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AppUrgentEscapePaidMileNow",
     "Name": "緊急脱出|このシーケンスでマイル支払った？"
   },
@@ -645,7 +645,7 @@
     "UniqueID": 70,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "ImmQNowHandInFtrNum",
     "Name": "移住クエスト|今提出成功した家具の数いくつ？"
   },
@@ -655,7 +655,7 @@
     "UniqueID": 71,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "NFPControllerAssertDone",
     "Name": "NFP読み込み不可警告を表示済(コントローラー）"
   },
@@ -665,7 +665,7 @@
     "UniqueID": 72,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "NFPFlightModeAssertDone",
     "Name": "NFP読み込み不可警告を表示済(フライトモード）"
   },
@@ -675,7 +675,7 @@
     "UniqueID": 73,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PhotoStudioAmiiboInfoDone",
     "Name": "撮影スタジオのamiibo解説ダイアログを表示した"
   },
@@ -685,7 +685,7 @@
     "UniqueID": 74,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoHeardOfficeOBJ",
     "Name": "同一シーン内で案内所BOXかポートの説明聞いた"
   },
@@ -695,7 +695,7 @@
     "UniqueID": 75,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "GrowupNsoServerOptimization",
     "Name": "成長処理時の独自サーバ最適化をおこなうか？"
   },
@@ -705,7 +705,7 @@
     "UniqueID": 77,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TalkClothesPNow",
     "Name": "今ClothesPを見た"
   },
@@ -715,7 +715,7 @@
     "UniqueID": 78,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampGameStartFailed",
     "Name": "アイテムがいっぱいでキャンプ場のゲームを開始できなかった"
   },
@@ -725,7 +725,7 @@
     "UniqueID": 80,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OfficeTalkSitDown",
     "Name": "案内所|会話制御用：座り中？"
   },
@@ -735,7 +735,7 @@
     "UniqueID": 81,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampSetTool",
     "Name": "キャンパーが装備している道具"
   },
@@ -745,7 +745,7 @@
     "UniqueID": 82,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampGameHitRare",
     "Name": "キャンプゲームでレア枠が抽選された"
   },
@@ -755,7 +755,7 @@
     "UniqueID": 83,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampCurrentSceneTalkDone",
     "Name": "キャンパーとシーン中に会話したか？"
   },
@@ -765,7 +765,7 @@
     "UniqueID": 85,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "VisitPReceivedGift",
     "Name": "訪問Pで手土産もらった"
   },
@@ -775,7 +775,7 @@
     "UniqueID": 87,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "QuestCancell",
     "Name": "クエスト断った"
   },
@@ -785,7 +785,7 @@
     "UniqueID": 88,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TailorChkObject",
     "Name": "仕立て屋でオブジェクト系にアクセス中"
   },
@@ -795,7 +795,7 @@
     "UniqueID": 89,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PynTalkNowFlag",
     "Name": "ぴょんたろう|この場で会話した？"
   },
@@ -805,7 +805,7 @@
     "UniqueID": 92,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "CampInviteRejected",
     "Name": "キャンプ場の移住勧誘を断られた（通常来訪）"
   },
@@ -815,7 +815,7 @@
     "UniqueID": 93,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FoxEnterBalloon",
     "Name": "つねきち|入店時バルーンを出した"
   },
@@ -825,7 +825,7 @@
     "UniqueID": 94,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FoxExitBalloon",
     "Name": "つねきち|退店時バルーンを出した"
   },
@@ -835,7 +835,7 @@
     "UniqueID": 96,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "XctTalkMayDayTourNow",
     "Name": "みしらぬネコ|メーデーツアーで会話した？"
   },
@@ -845,7 +845,7 @@
     "UniqueID": 97,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DocMayDayTourFirstTalkDone",
     "Name": "ロドリー|メーデーツアー到着強制会話済"
   },
@@ -855,7 +855,7 @@
     "UniqueID": 103,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "InJuneBrideStudio",
     "Name": "ジューンブライド|ジューンブライド専用ステージ内か？"
   },
@@ -865,7 +865,7 @@
     "UniqueID": 104,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "MyDesignExchangeCallMyIdList",
     "Name": "マイデザイン交換端末|このシーンで自身のID一覧を取得したか？"
   },
@@ -875,7 +875,7 @@
     "UniqueID": 106,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TalkPresentNow",
     "Name": "今FreeI_Presentを見た"
   },
@@ -885,7 +885,7 @@
     "UniqueID": 108,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AirportTripListError",
     "Name": "飛行場|おでかけ先リスト画面での通信エラー発生"
   },
@@ -895,7 +895,7 @@
     "UniqueID": 110,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "IsJuneBrideCeremonyDemo",
     "Name": "ジューンブライド|結婚式セレモニーデモ中か？"
   },
@@ -905,7 +905,7 @@
     "UniqueID": 111,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FreeISelectCount",
     "Name": "FreeI会話|報酬を再抽選した回数"
   },
@@ -915,7 +915,7 @@
     "UniqueID": 112,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ShopPlayerInNextGoto",
     "Name": "ショップ|NextGotoを踏んだか？"
   },
@@ -925,7 +925,7 @@
     "UniqueID": 115,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AlwJuneBrideDayScoreCount",
     "Name": "リサ/ジューンブライド|もらえるあいのけっしょう数用カウント"
   },
@@ -935,7 +935,7 @@
     "UniqueID": 117,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DocHintMayDayTour",
     "Name": "ロドリー|メーデーツアーの謎解きヒント用カウント"
   },
@@ -945,7 +945,7 @@
     "UniqueID": 118,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AlwJuneBrideSitDownFlag",
     "Name": "リサ/ジューンブライド|座っているときの受け渡しした？"
   },
@@ -955,7 +955,7 @@
     "UniqueID": 119,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AlwJuneBrideBouquetFlag",
     "Name": "リサ/ジューンブライド|ブーケしまった？"
   },
@@ -965,7 +965,7 @@
     "UniqueID": 120,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "PublicAnnounceEarthDayToday",
     "Name": "島内放送|今日アースデーのニュースをした？"
   },
@@ -975,7 +975,7 @@
     "UniqueID": 121,
     "3dad9135 u8": 1,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "AlwJuneBridePartyEndFlag",
     "Name": "リサ/ジューンブライド|パーティ終わる場合の会話聞いた"
   },
@@ -985,7 +985,7 @@
     "UniqueID": 122,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RecommendDIYtrialMayDay",
     "Name": "たぬきち/メーデー|DIY体験会を受けるように勧められた"
   },
@@ -995,7 +995,7 @@
     "UniqueID": 123,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FoxCheckArtCount",
     "Name": "つねきち|チェックした美術品の数"
   },
@@ -1005,7 +1005,7 @@
     "UniqueID": 125,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "IsJuneBrideDemoSitStart",
     "Name": "ジューンブライド|座り状態でセレモニーデモ開始したか？"
   }

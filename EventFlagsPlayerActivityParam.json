@@ -5,7 +5,7 @@
     "TalkValueVillager": 180,
     "TalkValueVisitor": 60,
     "UniqueID": 0,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "PlayTime",
     "Name": "プレイ時間"
   },
@@ -15,7 +15,7 @@
     "TalkValueVillager": 40,
     "TalkValueVisitor": 15,
     "UniqueID": 1,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetFishCount",
     "Name": "サカナを釣った回数"
   },
@@ -25,7 +25,7 @@
     "TalkValueVillager": 40,
     "TalkValueVisitor": 15,
     "UniqueID": 2,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetInsectCount",
     "Name": "ムシをつかまえた回数"
   },
@@ -35,7 +35,7 @@
     "TalkValueVillager": 15,
     "TalkValueVisitor": 10,
     "UniqueID": 3,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetShellfishCount",
     "Name": "潮干狩りした回数"
   },
@@ -45,7 +45,7 @@
     "TalkValueVillager": 25,
     "TalkValueVisitor": 15,
     "UniqueID": 4,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetShellDriftCount",
     "Name": "漂着貝を拾った回数"
   },
@@ -55,7 +55,7 @@
     "TalkValueVillager": 8,
     "TalkValueVisitor": 0,
     "UniqueID": 5,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "BreakBalloonCount",
     "Name": "風船を撃ち落とした回数"
   },
@@ -65,7 +65,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 16,
     "UniqueID": 6,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "WishStarCount",
     "Name": "流れ星に祈った回数"
   },
@@ -75,7 +75,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 30,
     "UniqueID": 7,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ShakeTreeCount",
     "Name": "木を揺すった回数"
   },
@@ -85,7 +85,7 @@
     "TalkValueVillager": 200,
     "TalkValueVisitor": 50,
     "UniqueID": 8,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "DropWoodCount",
     "Name": "木を叩いて木材を出した回数"
   },
@@ -95,7 +95,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 30,
     "UniqueID": 9,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "CutTreeCount",
     "Name": "木を切り倒した回数"
   },
@@ -105,7 +105,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 15,
     "UniqueID": 10,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "PlantTreeCount",
     "Name": "花・木（フルーツ込み）を植えた回数"
   },
@@ -115,7 +115,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 20,
     "UniqueID": 11,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "WaterFlowerCount",
     "Name": "花に水をあげた回数"
   },
@@ -125,7 +125,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 100,
     "UniqueID": 12,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "UseReactionCount",
     "Name": "リアクションを使った回数"
   },
@@ -135,7 +135,7 @@
     "TalkValueVillager": 10,
     "TalkValueVisitor": 0,
     "UniqueID": 13,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "VisitOtherIslandCount",
     "Name": "通信でよその島にでかけた回数"
   },
@@ -145,7 +145,7 @@
     "TalkValueVillager": 15,
     "TalkValueVisitor": 0,
     "UniqueID": 14,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "InviteVisitorNum",
     "Name": "通信で招いたプレイヤーの累計人数"
   },
@@ -155,7 +155,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 10,
     "UniqueID": 15,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "DiyCount",
     "Name": "DIYした回数（案内所＋フィールド累計）"
   },
@@ -165,7 +165,7 @@
     "TalkValueVillager": 10,
     "TalkValueVisitor": 5,
     "UniqueID": 16,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "BreakToolCount",
     "Name": "道具を壊した回数"
   },
@@ -175,7 +175,7 @@
     "TalkValueVillager": 90,
     "TalkValueVisitor": 0,
     "UniqueID": 17,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "InMyHouseTime",
     "Name": "自宅内にいた累計時間"
   },
@@ -185,7 +185,7 @@
     "TalkValueVillager": 120,
     "TalkValueVisitor": 0,
     "UniqueID": 18,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "InFieldTime",
     "Name": "フィールドにいた累計時間"
   },
@@ -195,7 +195,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 1,
     "UniqueID": 19,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FillPitCount",
     "Name": "落とし穴を作った回数"
   },
@@ -205,7 +205,7 @@
     "TalkValueVillager": 4,
     "TalkValueVisitor": 4,
     "UniqueID": 20,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "CaughtPitCount",
     "Name": "落とし穴にハマった回数"
   },
@@ -215,7 +215,7 @@
     "TalkValueVillager": 60,
     "TalkValueVisitor": 0,
     "UniqueID": 21,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "InteriorModeTime",
     "Name": "インテリアモード起動時間 "
   },
@@ -225,7 +225,7 @@
     "TalkValueVillager": 60,
     "TalkValueVisitor": 0,
     "UniqueID": 22,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "DesignEditTime",
     "Name": "マイデザインエディタ起動時間"
   },
@@ -235,7 +235,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 34,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc0Count",
     "Name": "住民NPC0との会話回数"
   },
@@ -245,7 +245,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 35,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc1Count",
     "Name": "住民NPC1との会話回数"
   },
@@ -255,7 +255,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 36,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc2Count",
     "Name": "住民NPC2との会話回数"
   },
@@ -265,7 +265,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 37,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc3Count",
     "Name": "住民NPC3との会話回数"
   },
@@ -275,7 +275,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 38,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc4Count",
     "Name": "住民NPC4との会話回数"
   },
@@ -285,7 +285,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 39,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc5Count",
     "Name": "住民NPC5との会話回数"
   },
@@ -295,7 +295,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 40,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc6Count",
     "Name": "住民NPC6との会話回数"
   },
@@ -305,7 +305,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 41,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc7Count",
     "Name": "住民NPC7との会話回数"
   },
@@ -315,7 +315,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 42,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc8Count",
     "Name": "住民NPC8との会話回数"
   },
@@ -325,7 +325,7 @@
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,
     "UniqueID": 43,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkNpc9Count",
     "Name": "住民NPC9との会話回数"
   },
@@ -335,7 +335,7 @@
     "TalkValueVillager": 50,
     "TalkValueVisitor": 20,
     "UniqueID": 44,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TalkAllNpcCount",
     "Name": "全住民NPCとの会話回数"
   },
@@ -345,7 +345,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 45,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "BittenBeeCount",
     "Name": "ハチにさされた回数"
   },
@@ -355,7 +355,7 @@
     "TalkValueVillager": 3,
     "TalkValueVisitor": 0,
     "UniqueID": 46,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "DigFossilCount",
     "Name": "化石を掘り出した回数"
   },
@@ -365,7 +365,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 0,
     "UniqueID": 47,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "HitStoneCount",
     "Name": "岩を叩いてアイテムを出した回数"
   },
@@ -375,7 +375,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 48,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "PlantMoneyFlag",
     "Name": "ベルを植えたか"
   },
@@ -385,7 +385,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 30,
     "UniqueID": 49,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "PickUpFruitsCount",
     "Name": "フルーツを拾った個数"
   },
@@ -395,7 +395,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 0,
     "UniqueID": 50,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "UseSmartphoneFieldCount",
     "Name": "フィールドでスマホを開いた回数"
   },
@@ -405,7 +405,7 @@
     "TalkValueVillager": 90,
     "TalkValueVisitor": 0,
     "UniqueID": 51,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "UseSmartphoneFieldTime",
     "Name": "フィールドでスマホを開いていた累計時間"
   },
@@ -415,7 +415,7 @@
     "TalkValueVillager": 50,
     "TalkValueVisitor": 0,
     "UniqueID": 52,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "WayEditCount",
     "Name": "道を造成した回数"
   },
@@ -425,7 +425,7 @@
     "TalkValueVillager": 50,
     "TalkValueVisitor": 0,
     "UniqueID": 53,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "RiverEditCount",
     "Name": "川を造成した回数"
   },
@@ -435,7 +435,7 @@
     "TalkValueVillager": 50,
     "TalkValueVisitor": 0,
     "UniqueID": 54,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "CliffEditCount",
     "Name": "崖を造成した回数"
   },
@@ -445,7 +445,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 0,
     "UniqueID": 55,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "FenceEditCount",
     "Name": "柵を設置・撤去した回数"
   },
@@ -455,7 +455,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 0,
     "UniqueID": 56,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "MoveFurnitureFieldCount",
     "Name": "フィールドで家具を操作した回数"
   },
@@ -465,7 +465,7 @@
     "TalkValueVillager": 32,
     "TalkValueVisitor": 0,
     "UniqueID": 57,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetMiles",
     "Name": "獲得マイルの累計"
   },
@@ -475,7 +475,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 58,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ReturnLoanFlag",
     "Name": "ローンを完済したか"
   },
@@ -485,7 +485,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 0,
     "UniqueID": 59,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "EnterShopCount",
     "Name": "タヌキ商店に入った回数"
   },
@@ -495,7 +495,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 60,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ChangeMelodyFlag",
     "Name": "村メロを変更したか"
   },
@@ -505,7 +505,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 61,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ChangeFlagFlag",
     "Name": "村の旗を変更したか"
   },
@@ -515,7 +515,7 @@
     "TalkValueVillager": 10,
     "TalkValueVisitor": 10,
     "UniqueID": 62,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TransformFieldCount",
     "Name": "フィールドで変身ステッキを使った回数"
   },
@@ -525,7 +525,7 @@
     "TalkValueVillager": 30,
     "TalkValueVisitor": 16,
     "UniqueID": 63,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "JumpWithPoleCount",
     "Name": "高跳び棒を使って飛び越えた回数"
   },
@@ -535,7 +535,7 @@
     "TalkValueVillager": 200,
     "TalkValueVisitor": 0,
     "UniqueID": 64,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TurnipBuyTotal",
     "Name": "カブ購入数の累計"
   },
@@ -545,7 +545,7 @@
     "TalkValueVillager": 300,
     "TalkValueVisitor": 300,
     "UniqueID": 65,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TurnipSellPrice",
     "Name": "カブ売却時の単価"
   },
@@ -555,7 +555,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 100,
     "UniqueID": 66,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ChatBalloonCount",
     "Name": "チャットバルーン送信回数"
   },
@@ -565,7 +565,7 @@
     "TalkValueVillager": 100,
     "TalkValueVisitor": 50,
     "UniqueID": 67,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "PullWeedCount",
     "Name": "雑草を抜いた回数"
   },
@@ -575,7 +575,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 68,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ChangeHairFlag",
     "Name": "髪型を変更したか"
   },
@@ -585,7 +585,7 @@
     "TalkValueVillager": 1,
     "TalkValueVisitor": 0,
     "UniqueID": 69,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "ChangeFaceFlag",
     "Name": "顔を変更したか"
   },
@@ -595,7 +595,7 @@
     "TalkValueVillager": 50,
     "TalkValueVisitor": 20,
     "UniqueID": 70,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "TakePictureCount",
     "Name": "撮影モードで撮影した回数"
   },
@@ -605,7 +605,7 @@
     "TalkValueVillager": 40,
     "TalkValueVisitor": 15,
     "UniqueID": 71,
-    "fa93f14b u8": 0,
+    "FlagsFlowAccess": 0,
     "Key": "GetDiveFishCount",
     "Name": "海の幸を採った回数"
   }

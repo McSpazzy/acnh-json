@@ -4,980 +4,980 @@
     "WatchItem": 4191,
     "WatchPointID": 4,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12848,
+    "BalloonTalkLabelKey": "3230",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 5,
     "WatchItem": 2241,
     "WatchPointID": 5,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "383030"
+    "ReactionTalkLabelKey": "383030"
   },
   {
     "UniqueID": 6,
     "WatchItem": 2255,
     "WatchPointID": 6,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12592,
+    "BalloonTalkLabelKey": "3130",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "333030"
+    "ReactionTalkLabelKey": "333030"
   },
   {
     "UniqueID": 11,
     "WatchItem": 2258,
     "WatchPointID": 8,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12848,
+    "BalloonTalkLabelKey": "3230",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "373030"
+    "ReactionTalkLabelKey": "373030"
   },
   {
     "UniqueID": 12,
     "WatchItem": 2260,
     "WatchPointID": 9,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 15,
     "WatchItem": 2257,
     "WatchPointID": 10,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12592,
+    "BalloonTalkLabelKey": "3130",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "313030"
+    "ReactionTalkLabelKey": "313030"
   },
   {
     "UniqueID": 16,
     "WatchItem": 2220,
     "WatchPointID": 11,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12848,
+    "BalloonTalkLabelKey": "3230",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "343030"
+    "ReactionTalkLabelKey": "343030"
   },
   {
     "UniqueID": 17,
     "WatchItem": 2239,
     "WatchPointID": 12,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "353130"
+    "ReactionTalkLabelKey": "353130"
   },
   {
     "UniqueID": 18,
     "WatchItem": 2245,
     "WatchPointID": 13,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12848,
+    "BalloonTalkLabelKey": "3230",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "353030"
+    "ReactionTalkLabelKey": "353030"
   },
   {
     "UniqueID": 19,
     "WatchItem": 2278,
     "WatchPointID": 14,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 20,
     "WatchItem": 2282,
     "WatchPointID": 15,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 21,
     "WatchItem": 2280,
     "WatchPointID": 16,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "373130"
+    "ReactionTalkLabelKey": "373130"
   },
   {
     "UniqueID": 22,
     "WatchItem": 4202,
     "WatchPointID": 17,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "383130"
+    "ReactionTalkLabelKey": "383130"
   },
   {
     "UniqueID": 23,
     "WatchItem": 2284,
     "WatchPointID": 18,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13360,
+    "BalloonTalkLabelKey": "3430",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "343130"
+    "ReactionTalkLabelKey": "343130"
   },
   {
     "UniqueID": 24,
     "WatchItem": 2283,
     "WatchPointID": 19,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "393130"
+    "ReactionTalkLabelKey": "393130"
   },
   {
     "UniqueID": 25,
     "WatchItem": 4663,
     "WatchPointID": 20,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13105,
+    "BalloonTalkLabelKey": "3331",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "393030"
+    "ReactionTalkLabelKey": "393030"
   },
   {
     "UniqueID": 26,
     "WatchItem": 4651,
     "WatchPointID": 21,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13105,
+    "BalloonTalkLabelKey": "3331",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "383030"
+    "ReactionTalkLabelKey": "383030"
   },
   {
     "UniqueID": 27,
     "WatchItem": 4660,
     "WatchPointID": 22,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13105,
+    "BalloonTalkLabelKey": "3331",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 28,
     "WatchItem": 4697,
     "WatchPointID": 23,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12849,
+    "BalloonTalkLabelKey": "3231",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 29,
     "WatchItem": 226,
     "WatchPointID": 24,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12849,
+    "BalloonTalkLabelKey": "3231",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "353030"
+    "ReactionTalkLabelKey": "353030"
   },
   {
     "UniqueID": 30,
     "WatchItem": 238,
     "WatchPointID": 25,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12593,
+    "BalloonTalkLabelKey": "3131",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "343030"
+    "ReactionTalkLabelKey": "343030"
   },
   {
     "UniqueID": 31,
     "WatchItem": 4688,
     "WatchPointID": 26,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12849,
+    "BalloonTalkLabelKey": "3231",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 32,
     "WatchItem": 210,
     "WatchPointID": 27,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12593,
+    "BalloonTalkLabelKey": "3131",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313030"
+    "ReactionTalkLabelKey": "313030"
   },
   {
     "UniqueID": 33,
     "WatchItem": 4658,
     "WatchPointID": 28,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12593,
+    "BalloonTalkLabelKey": "3131",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "323030"
+    "ReactionTalkLabelKey": "323030"
   },
   {
     "UniqueID": 34,
     "WatchItem": 195,
     "WatchPointID": 29,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12849,
+    "BalloonTalkLabelKey": "3231",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "373030"
+    "ReactionTalkLabelKey": "373030"
   },
   {
     "UniqueID": 35,
     "WatchItem": 612,
     "WatchPointID": 30,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13872,
+    "BalloonTalkLabelKey": "3630",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "313030"
+    "ReactionTalkLabelKey": "313030"
   },
   {
     "UniqueID": 36,
     "WatchItem": 637,
     "WatchPointID": 31,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13872,
+    "BalloonTalkLabelKey": "3630",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "323030"
+    "ReactionTalkLabelKey": "323030"
   },
   {
     "UniqueID": 37,
     "WatchItem": 632,
     "WatchPointID": 32,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13872,
+    "BalloonTalkLabelKey": "3630",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "333030"
+    "ReactionTalkLabelKey": "333030"
   },
   {
     "UniqueID": 38,
     "WatchItem": 645,
     "WatchPointID": 33,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "393030"
+    "ReactionTalkLabelKey": "393030"
   },
   {
     "UniqueID": 39,
     "WatchItem": 3479,
     "WatchPointID": 34,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "383030"
+    "ReactionTalkLabelKey": "383030"
   },
   {
     "UniqueID": 40,
     "WatchItem": 607,
     "WatchPointID": 35,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13872,
+    "BalloonTalkLabelKey": "3630",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "353030"
+    "ReactionTalkLabelKey": "353030"
   },
   {
     "UniqueID": 41,
     "WatchItem": 600,
     "WatchPointID": 36,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13872,
+    "BalloonTalkLabelKey": "3630",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "343030"
+    "ReactionTalkLabelKey": "343030"
   },
   {
     "UniqueID": 42,
     "WatchItem": 639,
     "WatchPointID": 37,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "373030"
+    "ReactionTalkLabelKey": "373030"
   },
   {
     "UniqueID": 43,
     "WatchItem": 652,
     "WatchPointID": 38,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14384,
+    "BalloonTalkLabelKey": "3830",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "333130"
+    "ReactionTalkLabelKey": "333130"
   },
   {
     "UniqueID": 44,
     "WatchItem": 3483,
     "WatchPointID": 39,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "383130"
+    "ReactionTalkLabelKey": "383130"
   },
   {
     "UniqueID": 45,
     "WatchItem": 3484,
     "WatchPointID": 40,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 46,
     "WatchItem": 620,
     "WatchPointID": 41,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 47,
     "WatchItem": 627,
     "WatchPointID": 42,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 48,
     "WatchItem": 586,
     "WatchPointID": 43,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14384,
+    "BalloonTalkLabelKey": "3830",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "343130"
+    "ReactionTalkLabelKey": "343130"
   },
   {
     "UniqueID": 49,
     "WatchItem": 603,
     "WatchPointID": 44,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 51,
     "WatchItem": 616,
     "WatchPointID": 46,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "393130"
+    "ReactionTalkLabelKey": "393130"
   },
   {
     "UniqueID": 52,
     "WatchItem": 642,
     "WatchPointID": 47,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "303230"
+    "ReactionTalkLabelKey": "303230"
   },
   {
     "UniqueID": 53,
     "WatchItem": 640,
     "WatchPointID": 48,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14640,
+    "BalloonTalkLabelKey": "3930",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "353130"
+    "ReactionTalkLabelKey": "353130"
   },
   {
     "UniqueID": 54,
     "WatchItem": 643,
     "WatchPointID": 49,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14640,
+    "BalloonTalkLabelKey": "3930",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "363130"
+    "ReactionTalkLabelKey": "363130"
   },
   {
     "UniqueID": 56,
     "WatchItem": 296,
     "WatchPointID": 59,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13361,
+    "BalloonTalkLabelKey": "3431",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 57,
     "WatchItem": 4665,
     "WatchPointID": 60,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13361,
+    "BalloonTalkLabelKey": "3431",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "333130"
+    "ReactionTalkLabelKey": "333130"
   },
   {
     "UniqueID": 58,
     "WatchItem": 641,
     "WatchPointID": 55,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13617,
+    "BalloonTalkLabelKey": "3531",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "313230"
+    "ReactionTalkLabelKey": "313230"
   },
   {
     "UniqueID": 59,
     "WatchItem": 3487,
     "WatchPointID": 56,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "323230"
+    "ReactionTalkLabelKey": "323230"
   },
   {
     "UniqueID": 60,
     "WatchItem": 5339,
     "WatchPointID": 57,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "333230"
+    "ReactionTalkLabelKey": "333230"
   },
   {
     "UniqueID": 61,
     "WatchItem": 606,
     "WatchPointID": 58,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "343230"
+    "ReactionTalkLabelKey": "343230"
   },
   {
     "UniqueID": 62,
     "WatchItem": 4189,
     "WatchPointID": 52,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "303230"
+    "ReactionTalkLabelKey": "303230"
   },
   {
     "UniqueID": 63,
     "WatchItem": 2252,
     "WatchPointID": 53,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13360,
+    "BalloonTalkLabelKey": "3430",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "313230"
+    "ReactionTalkLabelKey": "313230"
   },
   {
     "UniqueID": 64,
     "WatchItem": 2279,
     "WatchPointID": 54,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "323230"
+    "ReactionTalkLabelKey": "323230"
   },
   {
     "UniqueID": 68,
     "WatchItem": 4201,
     "WatchPointID": 50,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12592,
+    "BalloonTalkLabelKey": "3130",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "323030"
+    "ReactionTalkLabelKey": "323030"
   },
   {
     "UniqueID": 69,
     "WatchItem": -2,
     "WatchPointID": 67,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 70,
     "WatchItem": -2,
     "WatchPointID": 68,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 71,
     "WatchItem": -2,
     "WatchPointID": 69,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 72,
     "WatchItem": -2,
     "WatchPointID": 70,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 73,
     "WatchItem": -2,
     "WatchPointID": 71,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 74,
     "WatchItem": -2,
     "WatchPointID": 72,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 75,
     "WatchItem": -2,
     "WatchPointID": 73,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 76,
     "WatchItem": -2,
     "WatchPointID": 74,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 77,
     "WatchItem": -2,
     "WatchPointID": 75,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 78,
     "WatchItem": -2,
     "WatchPointID": 76,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 79,
     "WatchItem": -2,
     "WatchPointID": 77,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 80,
     "WatchItem": -2,
     "WatchPointID": 78,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 81,
     "WatchItem": -2,
     "WatchPointID": 79,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 82,
     "WatchItem": -2,
     "WatchPointID": 80,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 83,
     "WatchItem": -2,
     "WatchPointID": 81,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 84,
     "WatchItem": -2,
     "WatchPointID": 82,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 86,
     "WatchItem": 206,
     "WatchPointID": 51,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12593,
+    "BalloonTalkLabelKey": "3131",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "333030"
+    "ReactionTalkLabelKey": "333030"
   },
   {
     "UniqueID": 89,
     "WatchItem": 3484,
     "WatchPointID": 85,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 90,
     "WatchItem": 620,
     "WatchPointID": 86,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 91,
     "WatchItem": 627,
     "WatchPointID": 87,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14128,
+    "BalloonTalkLabelKey": "3730",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 92,
     "WatchItem": -2,
     "WatchPointID": 88,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13873,
+    "BalloonTalkLabelKey": "3631",
     "ReactionTalkKey": "BO_React_Watching_Fossil",
-    "97be8767.HashRef": "313032"
+    "ReactionTalkLabelKey": "313032"
   },
   {
     "UniqueID": 93,
     "WatchItem": 2282,
     "WatchPointID": 89,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 94,
     "WatchItem": 2282,
     "WatchPointID": 90,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 95,
     "WatchItem": 2280,
     "WatchPointID": 91,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "373130"
+    "ReactionTalkLabelKey": "373130"
   },
   {
     "UniqueID": 96,
     "WatchItem": 2278,
     "WatchPointID": 92,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 97,
     "WatchItem": 2253,
     "WatchPointID": 3,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13104,
+    "BalloonTalkLabelKey": "3330",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "393030"
+    "ReactionTalkLabelKey": "393030"
   },
   {
     "UniqueID": 98,
     "WatchItem": 603,
     "WatchPointID": 93,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12337,
+    "BalloonTalkLabelKey": "3031",
     "ReactionTalkKey": "BO_React_Watching_Insect",
-    "97be8767.HashRef": "373130"
+    "ReactionTalkLabelKey": "373130"
   },
   {
     "UniqueID": 99,
     "WatchItem": 2249,
     "WatchPointID": 94,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13616,
+    "BalloonTalkLabelKey": "3530",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "363130"
+    "ReactionTalkLabelKey": "363130"
   },
   {
     "UniqueID": 100,
     "WatchItem": 2250,
     "WatchPointID": 95,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13360,
+    "BalloonTalkLabelKey": "3430",
     "ReactionTalkKey": "BO_React_Watching_Fish",
-    "97be8767.HashRef": "333130"
+    "ReactionTalkLabelKey": "333130"
   },
   {
     "UniqueID": 101,
     "WatchItem": 2857,
     "WatchPointID": 96,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13107,
+    "BalloonTalkLabelKey": "3333",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "313030"
+    "ReactionTalkLabelKey": "313030"
   },
   {
     "UniqueID": 102,
     "WatchItem": 7228,
     "WatchPointID": 97,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13363,
+    "BalloonTalkLabelKey": "3433",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "323030"
+    "ReactionTalkLabelKey": "323030"
   },
   {
     "UniqueID": 103,
     "WatchItem": 2849,
     "WatchPointID": 98,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13107,
+    "BalloonTalkLabelKey": "3333",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "333030"
+    "ReactionTalkLabelKey": "333030"
   },
   {
     "UniqueID": 104,
     "WatchItem": 7214,
     "WatchPointID": 99,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12595,
+    "BalloonTalkLabelKey": "3133",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "343030"
+    "ReactionTalkLabelKey": "343030"
   },
   {
     "UniqueID": 105,
     "WatchItem": 7252,
     "WatchPointID": 100,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12339,
+    "BalloonTalkLabelKey": "3033",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "353030"
+    "ReactionTalkLabelKey": "353030"
   },
   {
     "UniqueID": 106,
     "WatchItem": 2852,
     "WatchPointID": 101,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12851,
+    "BalloonTalkLabelKey": "3233",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 107,
     "WatchItem": 7245,
     "WatchPointID": 102,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12339,
+    "BalloonTalkLabelKey": "3033",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "373030"
+    "ReactionTalkLabelKey": "373030"
   },
   {
     "UniqueID": 108,
     "WatchItem": 2856,
     "WatchPointID": 103,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13363,
+    "BalloonTalkLabelKey": "3433",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "383030"
+    "ReactionTalkLabelKey": "383030"
   },
   {
     "UniqueID": 109,
     "WatchItem": 2853,
     "WatchPointID": 104,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12595,
+    "BalloonTalkLabelKey": "3133",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "393030"
+    "ReactionTalkLabelKey": "393030"
   },
   {
     "UniqueID": 110,
     "WatchItem": 2858,
     "WatchPointID": 105,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12851,
+    "BalloonTalkLabelKey": "3233",
     "ReactionTalkKey": "BO_React_Watching_DFish",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 111,
     "WatchItem": 12535,
     "WatchPointID": 106,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12338,
+    "BalloonTalkLabelKey": "3032",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "313030"
+    "ReactionTalkLabelKey": "313030"
   },
   {
     "UniqueID": 112,
     "WatchItem": 1345,
     "WatchPointID": 107,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12594,
+    "BalloonTalkLabelKey": "3132",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "323030"
+    "ReactionTalkLabelKey": "323030"
   },
   {
     "UniqueID": 113,
     "WatchItem": 1333,
     "WatchPointID": 108,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12850,
+    "BalloonTalkLabelKey": "3232",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "333030"
+    "ReactionTalkLabelKey": "333030"
   },
   {
     "UniqueID": 114,
     "WatchItem": 18,
     "WatchPointID": 109,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13106,
+    "BalloonTalkLabelKey": "3332",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "343030"
+    "ReactionTalkLabelKey": "343030"
   },
   {
     "UniqueID": 115,
     "WatchItem": 32,
     "WatchPointID": 110,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13874,
+    "BalloonTalkLabelKey": "3632",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "353030"
+    "ReactionTalkLabelKey": "353030"
   },
   {
     "UniqueID": 116,
     "WatchItem": 56,
     "WatchPointID": 111,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14130,
+    "BalloonTalkLabelKey": "3732",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "363030"
+    "ReactionTalkLabelKey": "363030"
   },
   {
     "UniqueID": 117,
     "WatchItem": 72,
     "WatchPointID": 112,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14130,
+    "BalloonTalkLabelKey": "3732",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "373030"
+    "ReactionTalkLabelKey": "373030"
   },
   {
     "UniqueID": 118,
     "WatchItem": 68,
     "WatchPointID": 113,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 14130,
+    "BalloonTalkLabelKey": "3732",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "383030"
+    "ReactionTalkLabelKey": "383030"
   },
   {
     "UniqueID": 119,
     "WatchItem": 12621,
     "WatchPointID": 114,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13106,
+    "BalloonTalkLabelKey": "3332",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "393030"
+    "ReactionTalkLabelKey": "393030"
   },
   {
     "UniqueID": 120,
     "WatchItem": 12625,
     "WatchPointID": 115,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13362,
+    "BalloonTalkLabelKey": "3432",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "303130"
+    "ReactionTalkLabelKey": "303130"
   },
   {
     "UniqueID": 121,
     "WatchItem": 78,
     "WatchPointID": 116,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13874,
+    "BalloonTalkLabelKey": "3632",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "313130"
+    "ReactionTalkLabelKey": "313130"
   },
   {
     "UniqueID": 122,
     "WatchItem": 12618,
     "WatchPointID": 117,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13618,
+    "BalloonTalkLabelKey": "3532",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "323130"
+    "ReactionTalkLabelKey": "323130"
   },
   {
     "UniqueID": 123,
     "WatchItem": 38,
     "WatchPointID": 118,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 13618,
+    "BalloonTalkLabelKey": "3532",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "333130"
+    "ReactionTalkLabelKey": "333130"
   },
   {
     "UniqueID": 124,
     "WatchItem": 12539,
     "WatchPointID": 119,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12594,
+    "BalloonTalkLabelKey": "3132",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "343130"
+    "ReactionTalkLabelKey": "343130"
   },
   {
     "UniqueID": 125,
     "WatchItem": 1337,
     "WatchPointID": 120,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12338,
+    "BalloonTalkLabelKey": "3032",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "353130"
+    "ReactionTalkLabelKey": "353130"
   },
   {
     "UniqueID": 126,
     "WatchItem": 12541,
     "WatchPointID": 121,
     "BalloonTalkKey": "BLN_Spot_Museum",
-    "b434805d u32": 12594,
+    "BalloonTalkLabelKey": "3132",
     "ReactionTalkKey": "BO_React_Watching_Art",
-    "97be8767.HashRef": "363130"
+    "ReactionTalkLabelKey": "363130"
   }
 ]

@@ -3,7 +3,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 0,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkRuleFirst",
     "Name": "カメヤマ(DC)|開催中、初回ルール説明聞いたか？"
   },
@@ -11,7 +11,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 1,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmQuestFinish",
     "Name": "カメヤマ(DC)|結果発表あるか？"
   },
@@ -19,7 +19,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 2,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkFirst_BeforeEv",
     "Name": "カメヤマ(DC)|カメヤマさんと面識ある？"
   },
@@ -27,7 +27,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 3,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkPoint_BeforeEv",
     "Name": "カメヤマ(DC)|準備中、ポイント交換のお誘い聞いた?"
   },
@@ -35,7 +35,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 7,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "BirthdayNGavePresent_DC",
     "Name": "NPC誕生日|ホストにプレゼントを渡した？(DC)"
   },
@@ -43,7 +43,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 8,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "VisitorTalkedOwl",
     "Name": "よその村の博物館でフータと会話した？"
   },
@@ -51,7 +51,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 11,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkFirst_EvQuestFinish",
     "Name": "カメヤマ(DC)|今日大会クエストしたか？"
   },
@@ -59,7 +59,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 12,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkFirst_AfterEv",
     "Name": "カメヤマ(DC)|開催後、初回会話聞いた？"
   },
@@ -67,7 +67,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 13,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SzaVisitorTalkBeforeCountdown",
     "Name": "しずえ|お出かけ先で年越し前に会話した？"
   },
@@ -75,7 +75,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 14,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "SzaVisitorTalkAfterCountdown",
     "Name": "しずえ|お出かけ先で年越し後に会話した？"
   },
@@ -83,7 +83,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 15,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TkkVisitorTalk",
     "Name": "とたけけ|お出かけ先で会話した？"
   },
@@ -91,7 +91,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 16,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "TkkVisitorLive",
     "Name": "とたけけ|お出かけ先でライブ聴いた？"
   },
@@ -99,7 +99,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 24,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevTalkRuleFirst",
     "Name": "うおまさ(DC)|開催中、初回ルール説明聞いたか？"
   },
@@ -107,7 +107,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 25,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevQuestFinish",
     "Name": "うおまさ(DC)|結果発表あるか？"
   },
@@ -115,7 +115,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 26,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevTalkFirst_BeforeEv",
     "Name": "うおまさ(DC)|うおまさと面識ある？"
   },
@@ -123,7 +123,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 27,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevTalkPoint_BeforeEv",
     "Name": "うおまさ(DC)|準備中、ポイント交換のお誘い聞いた?"
   },
@@ -131,7 +131,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 28,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevTalkFirst_EvQuestFinish",
     "Name": "うおまさ(DC)|今日クエストしたか？"
   },
@@ -139,7 +139,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 29,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BevTalkFirst_AfterEv",
     "Name": "うおまさ(DC)|開催後、初回会話聞いた？"
   },
@@ -147,7 +147,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 34,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_CatchFishFes_Bonus",
     "Name": "つり大会(DC)｜到達ボーナスある？"
   },
@@ -155,7 +155,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 35,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_CatchFishFes_CooperativeBonus",
     "Name": "つり大会(DC)｜協力ボーナスある？"
   },
@@ -163,7 +163,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 36,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_CatchInsectFes_Bonus",
     "Name": "ムシとり大会(DC)｜到達ボーナスある？"
   },
@@ -171,7 +171,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 37,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_CatchInsectFes_CooperativeBonus",
     "Name": "ムシとり大会(DC)｜協力ボーナスある？"
   },
@@ -179,7 +179,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 38,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoVisitorTalkBeforeCountdown",
     "Name": "たぬきち|お出かけ先で年越し前に会話した？"
   },
@@ -187,7 +187,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 39,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "RcoVisitorTalkAfterCountdown",
     "Name": "たぬきち|お出かけ先で年越し後に会話した？"
   },
@@ -195,7 +195,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 41,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "VisitorGotCracker",
     "Name": "お出かけ先でクラッカーもらった？"
   },
@@ -203,7 +203,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 42,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_BeyDaily_TalkFirst",
     "Name": "うおまさJr(DC)|来訪_初回会話聞いた？"
   },
@@ -211,7 +211,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 43,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_ChyDaily_TalkFirst",
     "Name": "カメヤマJr(DC)|来訪_初回会話聞いた？"
   },
@@ -219,7 +219,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 44,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "HghPeddlerVisitorTalk1st",
     "Name": "きぬよ(行商)|お出かけ先で会話した？"
   },
@@ -227,7 +227,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 45,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "V_Sza_TalkInside1st",
     "Name": "しずえ|お出かけ先の案内所で会話したか"
   },
@@ -235,7 +235,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 46,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "VisitorRemakeWorkingTable",
     "Name": "作業台|お出かけ先でリメイク選んだか？"
   },
@@ -243,7 +243,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 47,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanTalkTodayFlag",
     "Name": "ローラン|おでかけ先ですでに会話した？"
   },
@@ -251,7 +251,7 @@
     "DefaultValue": 0,
     "MaxValue": 3,
     "UniqueID": 48,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanBuyLargeCount",
     "Name": "ローラン|おでかけ先でラグ大を買った枚数"
   },
@@ -259,7 +259,7 @@
     "DefaultValue": 0,
     "MaxValue": 3,
     "UniqueID": 49,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanBuyMediumCount",
     "Name": "ローラン|おでかけ先でラグ中を買った枚数"
   },
@@ -267,7 +267,7 @@
     "DefaultValue": 0,
     "MaxValue": 3,
     "UniqueID": 50,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanBuySmallCount",
     "Name": "ローラン|おでかけ先でラグ小を買った枚数"
   },
@@ -275,7 +275,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 51,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanGotWallpaperFlag",
     "Name": "ローラン|おでかけ先でかべがみひきかえた？"
   },
@@ -283,7 +283,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 52,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanGotCarpetFlag",
     "Name": "ローラン|おでかけ先でゆかひきかえた？"
   },
@@ -291,7 +291,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 53,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanBuyWallpaperCount",
     "Name": "ローラン|おでかけ先でフシギなかべがみを買った？"
   },
@@ -299,7 +299,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 54,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_RollanBuyCarpetCount",
     "Name": "ローラン|おでかけ先でフシギなゆかを買った？"
   },
@@ -307,7 +307,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 55,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_KaburibaTalkFlag",
     "Name": "カブリバ孫|おでかけ先でウリと会話した？"
   },
@@ -315,7 +315,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 56,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_KaburibaBuyFlag",
     "Name": "カブリバ孫|おでかけ先でカブ買った？"
   },
@@ -323,7 +323,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 57,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_SkkTalkFlag",
     "Name": "シャンク|おでかけ先で会話した？"
   },
@@ -331,7 +331,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 58,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_SkkBuyFlag",
     "Name": "シャンク|おでかけ先で商品購入した？"
   },
@@ -339,7 +339,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 60,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_PynTalkFlag",
     "Name": "ぴょんたろう|おでかけ先で会話した？"
   },
@@ -347,7 +347,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 61,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_PynExplainExchangeEggsFlag",
     "Name": "ぴょんたろう|おでかけ先でたまご交換の説明を聞いた？"
   },
@@ -355,7 +355,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 62,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_PynGetEggBasketFlag",
     "Name": "ぴょんたろう|おでかけ先でたまごのバスケットを入手済み？"
   },
@@ -363,7 +363,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 63,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_PynTalkBackTodayFlag",
     "Name": "ぴょんたろう|今日おでかけ先で背後から話しかけたことある？"
   },
@@ -371,7 +371,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 64,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "StampRallyRunningForPlayer",
     "Name": "お出かけ先|スタンプラリーに参加中？"
   },
@@ -379,7 +379,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 65,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally1",
     "Name": "お出かけ先|スタンプラリー（ムシ）1つ目を押した？"
   },
@@ -387,7 +387,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 66,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally2",
     "Name": "お出かけ先|スタンプラリー（ムシ）2つ目を押した？"
   },
@@ -395,7 +395,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 67,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally3",
     "Name": "お出かけ先|スタンプラリー（ムシ）3つ目を押した？"
   },
@@ -403,7 +403,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 68,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally1",
     "Name": "お出かけ先|スタンプラリー（サカナ）1つ目を押した？"
   },
@@ -411,7 +411,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 69,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally2",
     "Name": "お出かけ先|スタンプラリー（サカナ）2つ目を押した？"
   },
@@ -419,7 +419,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 70,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally3",
     "Name": "お出かけ先|スタンプラリー（サカナ）3つ目を押した？"
   },
@@ -427,7 +427,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 71,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally1",
     "Name": "お出かけ先|スタンプラリー（かせき）1つ目を押した？"
   },
@@ -435,7 +435,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 72,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally2",
     "Name": "お出かけ先|スタンプラリー（かせき）2つ目を押した？"
   },
@@ -443,7 +443,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 73,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally3",
     "Name": "お出かけ先|スタンプラリー（かせき）3つ目を押した？"
   },
@@ -451,7 +451,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 74,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlStampPocketWasFull",
     "Name": "お出かけ先|スタンプラリー報酬受け取りでポケットいっぱいだった"
   },
@@ -459,7 +459,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 75,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlStampGotInsect",
     "Name": "お出かけ先|その日、フータスタンプ(ムシ)を押した"
   },
@@ -467,7 +467,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 76,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFish",
     "Name": "お出かけ先|その日、フータスタンプ(サカナ)を押した"
   },
@@ -475,7 +475,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 77,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFossil",
     "Name": "お出かけ先|その日、フータスタンプ(化石)を押した"
   },
@@ -483,7 +483,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 78,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "FoxTalkFlag",
     "Name": "つねきち|おでかけ先で会話した？"
   },
@@ -491,7 +491,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 79,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "DC_FoxBuyTodayFlag",
     "Name": "つねきち|おでかけ先のいなりマーケットで買い物した？"
   },
@@ -499,7 +499,7 @@
     "DefaultValue": 0,
     "MaxValue": 1,
     "UniqueID": 80,
-    "fa93f14b u8": 2,
+    "FlagsFlowAccess": 2,
     "Key": "OwlStampGotRewardExplain",
     "Name": "フータ|スタンプラリー報酬は二重に貰えない説明を受けた"
   }
