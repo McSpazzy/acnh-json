@@ -14,8 +14,8 @@
     "Label": "Monshirocho",
     "Property": 0,
     "ResNameField": "InsectMonshirocho",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -32,8 +32,8 @@
     "Label": "Monkicho",
     "Property": 0,
     "ResNameField": "InsectMonkicho",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -50,8 +50,8 @@
     "Label": "Agehacho",
     "Property": 0,
     "ResNameField": "InsectAgehacho",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -68,8 +68,8 @@
     "Label": "Karasuageha",
     "Property": 0,
     "ResNameField": "InsectKarasuageha",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -86,8 +86,8 @@
     "Label": "Aosujiageha",
     "Property": 0,
     "ResNameField": "InsectAosujiageha",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -104,8 +104,8 @@
     "Label": "Ohgomamadara",
     "Property": 0,
     "ResNameField": "InsectOhgomamadara",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -122,8 +122,8 @@
     "Label": "Ohmurasaki",
     "Property": 2,
     "ResNameField": "InsectOhmurasaki",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -140,8 +140,8 @@
     "Label": "Ohkabamadara",
     "Property": 2,
     "ResNameField": "InsectOhkabamadara",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -158,8 +158,8 @@
     "Label": "Morufuocho",
     "Property": 0,
     "ResNameField": "InsectMorufuocho",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -176,8 +176,8 @@
     "Label": "Miirotateha",
     "Property": 2,
     "ResNameField": "InsectMiirotateha",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -194,8 +194,8 @@
     "Label": "Akaeritoribaneageha",
     "Property": 0,
     "ResNameField": "InsectAkaeritoribaneageha",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -212,8 +212,8 @@
     "Label": "Arekisandoratoribaneageha",
     "Property": 2,
     "ResNameField": "InsectArekisandoratoribaneageha",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -230,8 +230,8 @@
     "Label": "Ga",
     "Property": 0,
     "ResNameField": "InsectGa",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -248,8 +248,8 @@
     "Label": "Yonagunisan",
     "Property": 0,
     "ResNameField": "InsectYonagunisan",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -266,8 +266,8 @@
     "Label": "Nishikiohtsubamega",
     "Property": 2,
     "ResNameField": "InsectNishikiohtsubamega",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -284,8 +284,8 @@
     "Label": "Shoryobatta",
     "Property": 0,
     "ResNameField": "InsectShoryobatta",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -302,8 +302,8 @@
     "Label": "Tonosamabatta",
     "Property": 0,
     "ResNameField": "InsectTonosamabatta",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -320,8 +320,8 @@
     "Label": "Inago",
     "Property": 0,
     "ResNameField": "InsectInago",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -338,8 +338,8 @@
     "Label": "Kirigirisu",
     "Property": 65,
     "ResNameField": "InsectKirigirisu",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -356,8 +356,8 @@
     "Label": "Kohrogi",
     "Property": 65,
     "ResNameField": "InsectKohrogi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -374,8 +374,8 @@
     "Label": "Suzumushi",
     "Property": 65,
     "ResNameField": "InsectSuzumushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -392,8 +392,8 @@
     "Label": "Kamakiri",
     "Property": 64,
     "ResNameField": "InsectKamakiri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -410,8 +410,8 @@
     "Label": "Hanakamakiri",
     "Property": 64,
     "ResNameField": "InsectHanakamakiri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -428,8 +428,8 @@
     "Label": "Mitsubachi",
     "Property": 0,
     "ResNameField": "InsectMitsubachi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -446,8 +446,8 @@
     "Label": "Hachi",
     "Property": 128,
     "ResNameField": "InsectHachi",
-    "4c777e9e string32": "InsectHachiField",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "InsectHachiField",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -464,8 +464,8 @@
     "Label": "Aburazemi",
     "Property": 4,
     "ResNameField": "InsectAburazemi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -482,8 +482,8 @@
     "Label": "Minminzemi",
     "Property": 4,
     "ResNameField": "InsectMinminzemi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -500,8 +500,8 @@
     "Label": "Kumazemi",
     "Property": 4,
     "ResNameField": "InsectKumazemi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -518,8 +518,8 @@
     "Label": "Tsukutsukuhousi",
     "Property": 4,
     "ResNameField": "InsectTsukutsukuhousi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -536,8 +536,8 @@
     "Label": "Higurashi",
     "Property": 4,
     "ResNameField": "InsectHigurashi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -554,8 +554,8 @@
     "Label": "Seminonukegara",
     "Property": 0,
     "ResNameField": "InsectSeminonukegara",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": "InsectSeminonukegaraMuseum"
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": "InsectSeminonukegaraMuseum"
   },
   {
     "AppearArea": 0,
@@ -572,8 +572,8 @@
     "Label": "Akiakane",
     "Property": 64,
     "ResNameField": "InsectAkiakane",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -590,8 +590,8 @@
     "Label": "Ginyanma",
     "Property": 64,
     "ResNameField": "InsectGinyanma",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -608,8 +608,8 @@
     "Label": "Oniyanma",
     "Property": 64,
     "ResNameField": "InsectOniyanma",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -626,8 +626,8 @@
     "Label": "Itotonbo",
     "Property": 64,
     "ResNameField": "InsectItotonbo",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -644,8 +644,8 @@
     "Label": "Hotaru",
     "Property": 0,
     "ResNameField": "InsectHotaru",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -662,8 +662,8 @@
     "Label": "Okera",
     "Property": 64,
     "ResNameField": "InsectOkera",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -680,8 +680,8 @@
     "Label": "Amenbo",
     "Property": 0,
     "ResNameField": "InsectAmenbo",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -698,8 +698,8 @@
     "Label": "Gengorou",
     "Property": 0,
     "ResNameField": "InsectGengorou",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -716,8 +716,8 @@
     "Label": "Tagame",
     "Property": 64,
     "ResNameField": "InsectTagame",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -734,8 +734,8 @@
     "Label": "Kamemushi",
     "Property": 64,
     "ResNameField": "InsectKamemushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -752,8 +752,8 @@
     "Label": "Jinmenkamemushi",
     "Property": 64,
     "ResNameField": "InsectJinmenkamemushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -770,8 +770,8 @@
     "Label": "Tentoumushi",
     "Property": 64,
     "ResNameField": "InsectTentoumushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -788,8 +788,8 @@
     "Label": "Hanmyou",
     "Property": 64,
     "ResNameField": "InsectHanmyou",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -806,8 +806,8 @@
     "Label": "Tamamushi",
     "Property": 64,
     "ResNameField": "InsectTamamushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -824,8 +824,8 @@
     "Label": "Baiorinmushi",
     "Property": 64,
     "ResNameField": "InsectBaiorinmushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -842,8 +842,8 @@
     "Label": "Gomadarakamikiri",
     "Property": 64,
     "ResNameField": "InsectGomadarakamikiri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -860,8 +860,8 @@
     "Label": "Ruriboshikamikiri",
     "Property": 64,
     "ResNameField": "InsectRuriboshikamikiri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -878,8 +878,8 @@
     "Label": "Housekizoumushi",
     "Property": 0,
     "ResNameField": "InsectHousekizoumushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -896,8 +896,8 @@
     "Label": "Funkorogashi",
     "Property": 16,
     "ResNameField": "InsectFunkorogashi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": "InsectFunkorogashiMuseum"
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": "InsectFunkorogashiMuseum"
   },
   {
     "AppearArea": 0,
@@ -914,8 +914,8 @@
     "Label": "Ohsenchikogane",
     "Property": 80,
     "ResNameField": "InsectOhsenchikogane",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -932,8 +932,8 @@
     "Label": "Purachinakogane",
     "Property": 0,
     "ResNameField": "InsectPurachinakogane",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -950,8 +950,8 @@
     "Label": "Kanabun",
     "Property": 0,
     "ResNameField": "InsectKanabun",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -968,8 +968,8 @@
     "Label": "Goraiasuohtsunohanamuguri",
     "Property": 0,
     "ResNameField": "InsectGoraiasuohtsunohanamuguri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -986,8 +986,8 @@
     "Label": "Nokogirikuwagata",
     "Property": 8,
     "ResNameField": "InsectNokogirikuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1004,8 +1004,8 @@
     "Label": "Miyamakuwagata",
     "Property": 8,
     "ResNameField": "InsectMiyamakuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1022,8 +1022,8 @@
     "Label": "Ohkuwagata",
     "Property": 8,
     "ResNameField": "InsectOhkuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1040,8 +1040,8 @@
     "Label": "Nijiirokuwagata",
     "Property": 8,
     "ResNameField": "InsectNijiirokuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1058,8 +1058,8 @@
     "Label": "Hosoakakuwagata",
     "Property": 8,
     "ResNameField": "InsectHosoakakuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1076,8 +1076,8 @@
     "Label": "Ougononikuwagata",
     "Property": 8,
     "ResNameField": "InsectOugononikuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1094,8 +1094,8 @@
     "Label": "Girafanokogirikuwagata",
     "Property": 8,
     "ResNameField": "InsectGirafanokogirikuwagata",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1112,8 +1112,8 @@
     "Label": "Kabutomushi",
     "Property": 8,
     "ResNameField": "InsectKabutomushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1130,8 +1130,8 @@
     "Label": "Kohkasasuohkabuto",
     "Property": 8,
     "ResNameField": "InsectKohkasasuohkabuto",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1148,8 +1148,8 @@
     "Label": "Zoukabuto",
     "Property": 8,
     "ResNameField": "InsectZoukabuto",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1166,8 +1166,8 @@
     "Label": "Herakuresuohkabuto",
     "Property": 8,
     "ResNameField": "InsectHerakuresuohkabuto",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1184,8 +1184,8 @@
     "Label": "Nanafushi",
     "Property": 0,
     "ResNameField": "InsectNanafushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1202,8 +1202,8 @@
     "Label": "Konohamushi",
     "Property": 0,
     "ResNameField": "InsectKonohamushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1220,8 +1220,8 @@
     "Label": "Minomushi",
     "Property": 16,
     "ResNameField": "InsectMinomushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1238,8 +1238,8 @@
     "Label": "Ari",
     "Property": 192,
     "ResNameField": "InsectAri",
-    "4c777e9e string32": "InsectAriField",
-    "e4b73f7d string32": "InsectAriMuseum"
+    "ResNameReplaceField": "InsectAriField",
+    "ResNameReplaceMuseum": "InsectAriMuseum"
   },
   {
     "AppearArea": 0,
@@ -1256,8 +1256,8 @@
     "Label": "Yadokari",
     "Property": 0,
     "ResNameField": "InsectYadokari",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1274,8 +1274,8 @@
     "Label": "Funamushi",
     "Property": 0,
     "ResNameField": "InsectFunamushi",
-    "4c777e9e string32": "InsectFunamushiField",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "InsectFunamushiField",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1292,8 +1292,8 @@
     "Label": "Hae",
     "Property": 128,
     "ResNameField": "InsectHae",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1310,8 +1310,8 @@
     "Label": "Ka",
     "Property": 16,
     "ResNameField": "InsectKa",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1328,8 +1328,8 @@
     "Label": "Nomi",
     "Property": 0,
     "ResNameField": "InsectNomi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1346,8 +1346,8 @@
     "Label": "Katatsumuri",
     "Property": 0,
     "ResNameField": "InsectKatatsumuri",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1364,8 +1364,8 @@
     "Label": "Dangomushi",
     "Property": 0,
     "ResNameField": "InsectDangomushi",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1382,8 +1382,8 @@
     "Label": "Mukade",
     "Property": 0,
     "ResNameField": "InsectMukade",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1400,8 +1400,8 @@
     "Label": "Kumo",
     "Property": 16,
     "ResNameField": "InsectKumo",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1418,8 +1418,8 @@
     "Label": "Taranchura",
     "Property": 64,
     "ResNameField": "InsectTaranchura",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1436,8 +1436,8 @@
     "Label": "Sasori",
     "Property": 64,
     "ResNameField": "InsectSasori",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1454,8 +1454,8 @@
     "Label": "SnowCrystal",
     "Property": 0,
     "ResNameField": "InsectSnowCrystal",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1472,8 +1472,8 @@
     "Label": "SnowCrystalLarge",
     "Property": 0,
     "ResNameField": "InsectSnowCrystalLarge",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1490,8 +1490,8 @@
     "Label": "YutaroWisp",
     "Property": 0,
     "ResNameField": "InsectYutaroWisp",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1508,8 +1508,8 @@
     "Label": "Sakurapetal",
     "Property": 0,
     "ResNameField": "InsectSakurapetal",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   },
   {
     "AppearArea": 0,
@@ -1526,7 +1526,7 @@
     "Label": "AutumnLeaf",
     "Property": 0,
     "ResNameField": "InsectAutumnLeaf",
-    "4c777e9e string32": "",
-    "e4b73f7d string32": ""
+    "ResNameReplaceField": "",
+    "ResNameReplaceMuseum": ""
   }
 ]
