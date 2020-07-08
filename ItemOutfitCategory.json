@@ -1,7 +1,7 @@
 [
   {
     "UniqueID": 0,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "None",
@@ -16,7 +16,7 @@
   },
   {
     "UniqueID": 1,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Cap",
@@ -31,7 +31,7 @@
   },
   {
     "UniqueID": 2,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "AccessoryEye",
@@ -46,7 +46,7 @@
   },
   {
     "UniqueID": 3,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Tops",
@@ -61,7 +61,7 @@
   },
   {
     "UniqueID": 4,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Bottoms",
@@ -76,7 +76,7 @@
   },
   {
     "UniqueID": 5,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Socks",
@@ -91,7 +91,7 @@
   },
   {
     "UniqueID": 6,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Shoes",
@@ -106,7 +106,7 @@
   },
   {
     "UniqueID": 8,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Marinesuit",
@@ -121,7 +121,7 @@
   },
   {
     "UniqueID": 9,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Scoop",
@@ -136,7 +136,7 @@
   },
   {
     "UniqueID": 10,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Axe",
@@ -151,7 +151,7 @@
   },
   {
     "UniqueID": 11,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "FishingRod",
@@ -166,7 +166,7 @@
   },
   {
     "UniqueID": 12,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Net",
@@ -181,7 +181,7 @@
   },
   {
     "UniqueID": 14,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Umbrella",
@@ -196,7 +196,7 @@
   },
   {
     "UniqueID": 16,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "GroundMaker",
@@ -211,7 +211,7 @@
   },
   {
     "UniqueID": 17,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Watering",
@@ -226,7 +226,7 @@
   },
   {
     "UniqueID": 19,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Bag",
@@ -241,7 +241,7 @@
   },
   {
     "UniqueID": 20,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "CliffMaker",
@@ -256,7 +256,7 @@
   },
   {
     "UniqueID": 22,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Ladder",
@@ -271,7 +271,7 @@
   },
   {
     "UniqueID": 23,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "ChangeStick",
@@ -286,7 +286,7 @@
   },
   {
     "UniqueID": 25,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Cracker",
@@ -301,7 +301,7 @@
   },
   {
     "UniqueID": 26,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Slingshot",
@@ -316,7 +316,7 @@
   },
   {
     "UniqueID": 27,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "PinataStick",
@@ -331,7 +331,7 @@
   },
   {
     "UniqueID": 28,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "FenceMaker",
@@ -346,7 +346,7 @@
   },
   {
     "UniqueID": 29,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Book",
@@ -361,7 +361,7 @@
   },
   {
     "UniqueID": 32,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "AccessoryMouth",
@@ -376,7 +376,7 @@
   },
   {
     "UniqueID": 33,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "RiverMaker",
@@ -391,7 +391,7 @@
   },
   {
     "UniqueID": 34,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "TkkGuitar",
@@ -406,7 +406,7 @@
   },
   {
     "UniqueID": 35,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "PaperFan",
@@ -421,7 +421,7 @@
   },
   {
     "UniqueID": 36,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "SmartPhone",
@@ -436,7 +436,7 @@
   },
   {
     "UniqueID": 37,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "Firework",
@@ -451,7 +451,7 @@
   },
   {
     "UniqueID": 38,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "StickLight",
@@ -466,7 +466,7 @@
   },
   {
     "UniqueID": 39,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "SoapBubble",
@@ -481,7 +481,7 @@
   },
   {
     "UniqueID": 40,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "BlowStick",
@@ -496,7 +496,7 @@
   },
   {
     "UniqueID": 41,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Ocarina",
@@ -511,7 +511,7 @@
   },
   {
     "UniqueID": 42,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Panpipe",
@@ -526,7 +526,7 @@
   },
   {
     "UniqueID": 43,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Tambourine",
@@ -541,7 +541,7 @@
   },
   {
     "UniqueID": 45,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Broom",
@@ -556,7 +556,7 @@
   },
   {
     "UniqueID": 47,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Coffee",
@@ -571,7 +571,7 @@
   },
   {
     "UniqueID": 48,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Ice",
@@ -586,7 +586,7 @@
   },
   {
     "UniqueID": 49,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "BagHand",
@@ -601,7 +601,7 @@
   },
   {
     "UniqueID": 50,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 1,
     "HandToolAsName": "CommonToolHand",
     "Label": "JumpStick",
@@ -616,7 +616,7 @@
   },
   {
     "UniqueID": 52,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Dumbbell",
@@ -631,7 +631,7 @@
   },
   {
     "UniqueID": 57,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Windmill",
@@ -646,7 +646,7 @@
   },
   {
     "UniqueID": 58,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "RcmTourFlag",
@@ -661,7 +661,7 @@
   },
   {
     "UniqueID": 59,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Firewood",
@@ -676,7 +676,7 @@
   },
   {
     "UniqueID": 60,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "",
     "Label": "Spanner",
@@ -691,7 +691,7 @@
   },
   {
     "UniqueID": 61,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "HandLens",
@@ -706,7 +706,7 @@
   },
   {
     "UniqueID": 62,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "FruitBasket",
@@ -721,7 +721,7 @@
   },
   {
     "UniqueID": 63,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Duster",
@@ -736,7 +736,7 @@
   },
   {
     "UniqueID": 64,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "CuteBagHand",
@@ -751,7 +751,7 @@
   },
   {
     "UniqueID": 65,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "CoolBagHand",
@@ -766,7 +766,7 @@
   },
   {
     "UniqueID": 66,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "LowBagHand",
@@ -781,7 +781,7 @@
   },
   {
     "UniqueID": 67,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "HighBagHand",
@@ -796,7 +796,7 @@
   },
   {
     "UniqueID": 68,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "SmallBook",
@@ -811,7 +811,7 @@
   },
   {
     "UniqueID": 69,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "LightDumbbell",
@@ -826,7 +826,7 @@
   },
   {
     "UniqueID": 70,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Candy",
@@ -841,7 +841,7 @@
   },
   {
     "UniqueID": 71,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Canister",
@@ -856,7 +856,7 @@
   },
   {
     "UniqueID": 72,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Sandwich",
@@ -871,7 +871,7 @@
   },
   {
     "UniqueID": 73,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Doughnut",
@@ -886,7 +886,7 @@
   },
   {
     "UniqueID": 74,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Branch",
@@ -901,7 +901,7 @@
   },
   {
     "UniqueID": 77,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Sketchbook",
@@ -916,7 +916,7 @@
   },
   {
     "UniqueID": 78,
-    "7eb53ebb u8": 1,
+    "CanHasSit": 1,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand10400",
     "Label": "Balloon",
@@ -931,7 +931,7 @@
   },
   {
     "UniqueID": 79,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Sprayer",
@@ -946,7 +946,7 @@
   },
   {
     "UniqueID": 80,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Cop",
@@ -961,7 +961,7 @@
   },
   {
     "UniqueID": 81,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Smoothie",
@@ -976,7 +976,7 @@
   },
   {
     "UniqueID": 82,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Hammer",
@@ -991,7 +991,7 @@
   },
   {
     "UniqueID": 84,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Brush",
@@ -1006,7 +1006,7 @@
   },
   {
     "UniqueID": 86,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Bouquet",
@@ -1021,7 +1021,7 @@
   },
   {
     "UniqueID": 87,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand10300",
     "Label": "Scallop",
@@ -1036,7 +1036,7 @@
   },
   {
     "UniqueID": 88,
-    "7eb53ebb u8": 0,
+    "CanHasSit": 0,
     "555442aa u8": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Canvas",

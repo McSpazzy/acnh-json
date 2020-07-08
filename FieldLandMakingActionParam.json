@@ -8,7 +8,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 0,
+    "ActionLockRange": 0,
     "f9a37bdc u8": 0,
     "MainType": 5,
     "UpdateParts": 0
@@ -22,7 +22,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 1,
     "MainType": 0,
     "UpdateParts": 0
@@ -36,7 +36,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 1,
     "MainType": 1,
     "UpdateParts": 0
@@ -50,7 +50,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 6,
     "UpdateParts": 0
@@ -64,7 +64,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 6,
     "UpdateParts": 0
@@ -78,7 +78,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 0
@@ -92,7 +92,7 @@
     "PlaneChangeType": "CliffAll",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 3,
     "UpdateParts": 0
@@ -106,7 +106,7 @@
     "PlaneChangeType": "CliffAll",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 0
@@ -120,7 +120,7 @@
     "PlaneChangeType": "CliffAll",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 0
@@ -134,7 +134,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 1,
     "UpdateParts": 0
@@ -148,7 +148,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 1,
     "MainType": 3,
     "UpdateParts": 0
@@ -162,7 +162,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1
@@ -176,7 +176,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1
@@ -190,7 +190,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1
@@ -204,7 +204,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "1x1",
     "SuccessResult": "Make",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1
@@ -218,7 +218,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1
@@ -232,7 +232,7 @@
     "PlaneChangeType": "NoChange",
     "7674c4d6.HashRef": "None",
     "SuccessResult": "Break",
-    "7c8e7f81 u8": 1,
+    "ActionLockRange": 1,
     "f9a37bdc u8": 0,
     "MainType": 0,
     "UpdateParts": 1

@@ -18,8 +18,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -39,7 +39,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -61,8 +61,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -82,7 +82,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -104,8 +104,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -125,7 +125,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -147,8 +147,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -168,7 +168,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -190,8 +190,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -211,7 +211,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -233,8 +233,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -254,7 +254,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -276,8 +276,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -297,7 +297,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -319,8 +319,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -340,7 +340,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -362,8 +362,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -383,7 +383,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -405,8 +405,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -426,7 +426,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -448,8 +448,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -469,7 +469,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -491,8 +491,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -512,7 +512,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -534,8 +534,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -555,7 +555,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -577,8 +577,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -598,7 +598,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -620,8 +620,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -641,7 +641,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -663,8 +663,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -684,7 +684,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -706,8 +706,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -727,7 +727,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -749,8 +749,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -770,7 +770,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -792,8 +792,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -813,7 +813,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -835,8 +835,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -856,7 +856,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -878,8 +878,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -899,7 +899,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -921,8 +921,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -942,7 +942,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -964,8 +964,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -985,7 +985,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1007,8 +1007,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1028,7 +1028,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1050,8 +1050,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -1071,7 +1071,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1093,8 +1093,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1114,7 +1114,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1136,8 +1136,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1157,7 +1157,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1179,8 +1179,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1200,7 +1200,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1222,8 +1222,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1243,7 +1243,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1265,8 +1265,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1286,7 +1286,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1308,8 +1308,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1329,7 +1329,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1351,8 +1351,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1372,7 +1372,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1394,8 +1394,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1415,7 +1415,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1437,8 +1437,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1458,7 +1458,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1480,8 +1480,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1501,7 +1501,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1523,8 +1523,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1544,7 +1544,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1566,8 +1566,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -1587,7 +1587,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1609,8 +1609,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1630,7 +1630,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1652,8 +1652,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1673,7 +1673,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1695,8 +1695,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 1,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1716,7 +1716,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1738,8 +1738,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1759,7 +1759,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1781,8 +1781,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1802,7 +1802,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1824,8 +1824,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -1845,7 +1845,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1867,8 +1867,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -1888,7 +1888,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1910,8 +1910,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -1931,7 +1931,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -1953,8 +1953,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -1974,7 +1974,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -1996,8 +1996,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2017,7 +2017,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2039,8 +2039,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2060,7 +2060,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2082,8 +2082,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2103,7 +2103,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2125,8 +2125,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2146,7 +2146,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2168,8 +2168,8 @@
     "16e483f0 u8": 1,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2189,7 +2189,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2211,8 +2211,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2232,7 +2232,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2254,8 +2254,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -2275,7 +2275,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2297,8 +2297,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -2318,7 +2318,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2340,8 +2340,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -2361,7 +2361,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2383,8 +2383,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -2404,7 +2404,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2426,8 +2426,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2447,7 +2447,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2469,8 +2469,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2490,7 +2490,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2512,8 +2512,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2533,7 +2533,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2555,8 +2555,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2576,7 +2576,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2598,8 +2598,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2619,7 +2619,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2641,8 +2641,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2662,7 +2662,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2684,8 +2684,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 1,
     "e550abdf u8": 0,
@@ -2705,7 +2705,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2727,8 +2727,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2748,7 +2748,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2770,8 +2770,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2791,7 +2791,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -2813,8 +2813,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2834,7 +2834,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2856,8 +2856,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2877,7 +2877,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2899,8 +2899,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -2920,7 +2920,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2942,8 +2942,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -2963,7 +2963,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -2985,8 +2985,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3006,7 +3006,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -3028,8 +3028,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3049,7 +3049,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -3071,8 +3071,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3092,7 +3092,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3114,8 +3114,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3135,7 +3135,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3157,8 +3157,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3178,7 +3178,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3200,8 +3200,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3221,7 +3221,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3243,8 +3243,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3264,7 +3264,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3286,8 +3286,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3307,7 +3307,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3329,8 +3329,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3350,7 +3350,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3372,8 +3372,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3393,7 +3393,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3415,8 +3415,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3436,7 +3436,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3458,8 +3458,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 4,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3479,7 +3479,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3501,8 +3501,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3522,7 +3522,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3544,8 +3544,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3565,7 +3565,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3587,8 +3587,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3608,7 +3608,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3630,8 +3630,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3651,7 +3651,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3673,8 +3673,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3694,7 +3694,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3716,8 +3716,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3737,7 +3737,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3759,8 +3759,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3780,7 +3780,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3802,8 +3802,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3823,7 +3823,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3845,8 +3845,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3866,7 +3866,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -3888,8 +3888,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3909,7 +3909,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -3931,8 +3931,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3952,7 +3952,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -3974,8 +3974,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -3995,7 +3995,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4017,8 +4017,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4038,7 +4038,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4060,8 +4060,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4081,7 +4081,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -4103,8 +4103,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4124,7 +4124,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -4146,8 +4146,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4167,7 +4167,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -4189,8 +4189,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4210,7 +4210,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4232,8 +4232,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4253,7 +4253,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4275,8 +4275,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4296,7 +4296,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4318,8 +4318,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 100,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -4339,7 +4339,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4361,8 +4361,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4382,7 +4382,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4404,8 +4404,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4425,7 +4425,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4447,8 +4447,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4468,7 +4468,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4490,8 +4490,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4511,7 +4511,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4533,8 +4533,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4554,7 +4554,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 2
   },
   {
@@ -4576,8 +4576,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4597,7 +4597,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4619,8 +4619,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4640,7 +4640,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -4662,8 +4662,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4683,7 +4683,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4705,8 +4705,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 109,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -4726,7 +4726,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4748,8 +4748,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4769,7 +4769,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4791,8 +4791,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4812,7 +4812,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4834,8 +4834,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4855,7 +4855,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4877,8 +4877,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4898,7 +4898,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4920,8 +4920,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4941,7 +4941,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -4963,8 +4963,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -4984,7 +4984,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 4
   },
   {
@@ -5006,8 +5006,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5027,7 +5027,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5049,8 +5049,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5070,7 +5070,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5092,8 +5092,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5113,7 +5113,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5135,8 +5135,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5156,7 +5156,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5178,8 +5178,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5199,7 +5199,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5221,8 +5221,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5242,7 +5242,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5264,8 +5264,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5285,7 +5285,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5307,8 +5307,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5328,7 +5328,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5350,8 +5350,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5371,7 +5371,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5393,8 +5393,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5414,7 +5414,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -5436,8 +5436,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 1,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 1,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5457,7 +5457,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5479,8 +5479,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 1,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 1,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5500,7 +5500,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5522,8 +5522,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 1,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 1,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5543,7 +5543,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5565,8 +5565,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5586,7 +5586,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5608,8 +5608,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5629,7 +5629,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5651,8 +5651,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5672,7 +5672,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5694,8 +5694,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5715,7 +5715,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5737,8 +5737,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5758,7 +5758,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5780,8 +5780,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5801,7 +5801,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -5823,8 +5823,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -5844,7 +5844,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5866,8 +5866,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5887,7 +5887,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5909,8 +5909,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5930,7 +5930,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5952,8 +5952,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -5973,7 +5973,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -5995,8 +5995,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -6016,7 +6016,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -6038,8 +6038,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -6059,7 +6059,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -6081,8 +6081,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -6102,7 +6102,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -6124,8 +6124,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6145,7 +6145,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -6167,8 +6167,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6188,7 +6188,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -6210,8 +6210,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6231,7 +6231,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -6253,8 +6253,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6274,7 +6274,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -6296,8 +6296,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6317,7 +6317,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -6339,8 +6339,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6360,7 +6360,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6382,8 +6382,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6403,7 +6403,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6425,8 +6425,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 152,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6446,7 +6446,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6468,8 +6468,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 152,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6489,7 +6489,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6511,8 +6511,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6532,7 +6532,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6554,8 +6554,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6575,7 +6575,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6597,8 +6597,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6618,7 +6618,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6640,8 +6640,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6661,7 +6661,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6683,8 +6683,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6704,7 +6704,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6726,8 +6726,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6747,7 +6747,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 0
   },
   {
@@ -6769,8 +6769,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6790,7 +6790,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6812,8 +6812,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6833,7 +6833,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6855,8 +6855,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6876,7 +6876,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6898,8 +6898,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6919,7 +6919,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6941,8 +6941,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -6962,7 +6962,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 1
   },
   {
@@ -6984,8 +6984,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7005,7 +7005,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7027,8 +7027,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7048,7 +7048,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7070,8 +7070,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7091,7 +7091,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7113,8 +7113,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7134,7 +7134,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7156,8 +7156,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7177,7 +7177,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7199,8 +7199,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7220,7 +7220,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7242,8 +7242,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7263,7 +7263,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7285,8 +7285,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7306,7 +7306,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7328,8 +7328,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7349,7 +7349,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7371,8 +7371,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7392,7 +7392,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7414,8 +7414,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7435,7 +7435,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7457,8 +7457,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7478,7 +7478,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -7500,8 +7500,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7521,7 +7521,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -7543,8 +7543,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7564,7 +7564,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -7586,8 +7586,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7607,7 +7607,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7629,8 +7629,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7650,7 +7650,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7672,8 +7672,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7693,7 +7693,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7715,8 +7715,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7736,7 +7736,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7758,8 +7758,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7779,7 +7779,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7801,8 +7801,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7822,7 +7822,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7844,8 +7844,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7865,7 +7865,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7887,8 +7887,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7908,7 +7908,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7930,8 +7930,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7951,7 +7951,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -7973,8 +7973,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -7994,7 +7994,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8016,8 +8016,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8037,7 +8037,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -8059,8 +8059,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8080,7 +8080,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8102,8 +8102,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 1,
     "e550abdf u8": 1,
@@ -8123,7 +8123,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8145,8 +8145,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8166,7 +8166,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8188,8 +8188,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8209,7 +8209,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8231,8 +8231,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8252,7 +8252,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8274,8 +8274,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8295,7 +8295,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8317,8 +8317,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8338,7 +8338,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8360,8 +8360,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8381,7 +8381,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8403,8 +8403,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8424,7 +8424,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8446,8 +8446,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8467,7 +8467,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8489,8 +8489,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8510,7 +8510,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8532,8 +8532,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8553,7 +8553,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8575,8 +8575,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 199,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -8596,7 +8596,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8618,8 +8618,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8639,7 +8639,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8661,8 +8661,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8682,7 +8682,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8704,8 +8704,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8725,7 +8725,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8747,8 +8747,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8768,7 +8768,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8790,8 +8790,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8811,7 +8811,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 3
   },
   {
@@ -8833,8 +8833,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8854,7 +8854,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -8876,8 +8876,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8897,7 +8897,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8919,8 +8919,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8940,7 +8940,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -8962,8 +8962,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -8983,7 +8983,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9005,8 +9005,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9026,7 +9026,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9048,8 +9048,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9069,7 +9069,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9091,8 +9091,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9112,7 +9112,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9134,8 +9134,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9155,7 +9155,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9177,8 +9177,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9198,7 +9198,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9220,8 +9220,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9241,7 +9241,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9263,8 +9263,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9284,7 +9284,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9306,8 +9306,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9327,7 +9327,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9349,8 +9349,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9370,7 +9370,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9392,8 +9392,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9413,7 +9413,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9435,8 +9435,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9456,7 +9456,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9478,8 +9478,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9499,7 +9499,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9521,8 +9521,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9542,7 +9542,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 0
   },
   {
@@ -9564,8 +9564,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9585,7 +9585,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9607,8 +9607,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9628,7 +9628,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9650,8 +9650,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9671,7 +9671,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9693,8 +9693,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9714,7 +9714,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9736,8 +9736,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9757,7 +9757,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9779,8 +9779,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9800,7 +9800,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9822,8 +9822,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9843,7 +9843,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9865,8 +9865,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9886,7 +9886,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9908,8 +9908,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9929,7 +9929,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9951,8 +9951,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -9972,7 +9972,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -9994,8 +9994,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -10015,7 +10015,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10037,8 +10037,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -10058,7 +10058,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10080,8 +10080,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -10101,7 +10101,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10123,8 +10123,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -10144,7 +10144,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10166,8 +10166,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 0,
@@ -10187,7 +10187,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10209,8 +10209,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10230,7 +10230,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10252,8 +10252,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10273,7 +10273,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10295,8 +10295,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10316,7 +10316,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 5
   },
   {
@@ -10338,8 +10338,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10359,7 +10359,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   },
   {
@@ -10381,8 +10381,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10402,7 +10402,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 5
   },
   {
@@ -10424,8 +10424,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10445,7 +10445,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 5
   },
   {
@@ -10467,8 +10467,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 0,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10488,7 +10488,7 @@
     "StopAutoSave": 1,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 5
   },
   {
@@ -10510,8 +10510,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10531,7 +10531,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 5
   },
   {
@@ -10553,8 +10553,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10574,7 +10574,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 6
   },
   {
@@ -10596,8 +10596,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10617,7 +10617,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 6
   },
   {
@@ -10639,8 +10639,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10660,7 +10660,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 6
   },
   {
@@ -10682,8 +10682,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10703,7 +10703,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 6
   },
   {
@@ -10725,8 +10725,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10746,7 +10746,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 1,
+    "ValidDiveRate": 1,
     "WaitType": 5
   },
   {
@@ -10768,8 +10768,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10789,7 +10789,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 5
   },
   {
@@ -10811,8 +10811,8 @@
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
     "DemoNetLockState": 0,
-    "1aaaddc1 u8": 0,
-    "68daf155 u8": 0,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
     "EnableStageChange": 1,
     "ForbidOverwrite": 0,
     "e550abdf u8": 1,
@@ -10832,7 +10832,7 @@
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
-    "ed32aade u8": 0,
+    "ValidDiveRate": 0,
     "WaitType": 1
   }
 ]

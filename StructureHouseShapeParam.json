@@ -4,7 +4,7 @@
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 0,
     "DefaultWallUniqueID": 0,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 0,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
     "Name": "スタンダード1"
@@ -14,7 +14,7 @@
     "DefaultDoorUniqueID": 9,
     "DefaultRoofUniqueID": 19,
     "DefaultWallUniqueID": 14,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 1,
     "DoorBellName": "DoorBell_House_Standard1_Npc",
     "Name": "NPCスタンダード１"
@@ -24,7 +24,7 @@
     "DefaultDoorUniqueID": 7,
     "DefaultRoofUniqueID": 4,
     "DefaultWallUniqueID": 7,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 3,
     "DoorBellName": "",
     "Name": "プレイヤテント"
@@ -34,7 +34,7 @@
     "DefaultDoorUniqueID": 8,
     "DefaultRoofUniqueID": 5,
     "DefaultWallUniqueID": 8,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 4,
     "DoorBellName": "",
     "Name": "NPCテント"
@@ -44,7 +44,7 @@
     "DefaultDoorUniqueID": 24,
     "DefaultRoofUniqueID": 9,
     "DefaultWallUniqueID": 11,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 5,
     "DoorBellName": "",
     "Name": "NPC売地"
@@ -54,7 +54,7 @@
     "DefaultDoorUniqueID": 25,
     "DefaultRoofUniqueID": 18,
     "DefaultWallUniqueID": 12,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 6,
     "DoorBellName": "",
     "Name": "NPC売約済み"
@@ -64,7 +64,7 @@
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 10,
     "DefaultWallUniqueID": 13,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 7,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
     "Name": "成長段階00"
@@ -74,7 +74,7 @@
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 27,
     "DefaultWallUniqueID": 24,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 9,
     "DoorBellName": "DoorBell_House_Standard2_Npc",
     "Name": "NPCスタンダード２"
@@ -84,7 +84,7 @@
     "DefaultDoorUniqueID": 32,
     "DefaultRoofUniqueID": 30,
     "DefaultWallUniqueID": 27,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 10,
     "DoorBellName": "DoorBell_House_Oriental1_Npc",
     "Name": "NPCオリエンタル１"
@@ -94,7 +94,7 @@
     "DefaultDoorUniqueID": 37,
     "DefaultRoofUniqueID": 33,
     "DefaultWallUniqueID": 30,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 11,
     "DoorBellName": "",
     "Name": "プレイヤ家移設予定地"
@@ -104,7 +104,7 @@
     "DefaultDoorUniqueID": 38,
     "DefaultRoofUniqueID": 34,
     "DefaultWallUniqueID": 31,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 12,
     "DoorBellName": "",
     "Name": "NPC家移設予定地"
@@ -114,7 +114,7 @@
     "DefaultDoorUniqueID": 35,
     "DefaultRoofUniqueID": 35,
     "DefaultWallUniqueID": 32,
-    "e6fc6624 u16": 1,
+    "HousePartsType": 1,
     "UniqueID": 13,
     "DoorBellName": "DoorBell_House_Fantasy1_Npc",
     "Name": "NPCファンタジー１"
@@ -124,7 +124,7 @@
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 38,
     "DefaultWallUniqueID": 35,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 14,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
     "Name": "成長段階01"
@@ -134,7 +134,7 @@
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 47,
     "DefaultWallUniqueID": 64,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 15,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
     "Name": "成長段階02"
@@ -144,7 +144,7 @@
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 39,
     "DefaultWallUniqueID": 37,
-    "e6fc6624 u16": 0,
+    "HousePartsType": 0,
     "UniqueID": 16,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
     "Name": "成長段階03"

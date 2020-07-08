@@ -2,10 +2,10 @@
   {
     "RegionEventCountry1": "EachCountry",
     "SortID": 501,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 1,
     "EventLabel": "MothersDay",
     "ItemFrom": "MotherDay"
@@ -13,10 +13,10 @@
   {
     "RegionEventCountry1": "EachCountry",
     "SortID": 600,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 2,
     "EventLabel": "WorldChild",
     "ItemFrom": "WoldChildDay"
@@ -24,10 +24,10 @@
   {
     "RegionEventCountry1": "EachCountry",
     "SortID": 601,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 3,
     "EventLabel": "FathersDay",
     "ItemFrom": "FatherDay"
@@ -35,10 +35,10 @@
   {
     "RegionEventCountry1": "Northern",
     "SortID": 610,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 4,
     "EventLabel": "SummerSolstice",
     "ItemFrom": "SummerSolstice"
@@ -46,10 +46,10 @@
   {
     "RegionEventCountry1": "Southern",
     "SortID": 611,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 16,
     "EventLabel": "WinterSolstice",
     "ItemFrom": "WinterSolstice_Southern"
@@ -57,10 +57,10 @@
   {
     "RegionEventCountry1": "Japan",
     "SortID": 700,
-    "af2602cd u16": 0,
-    "92462b7d u16": 0,
-    "2066f76d u16": 0,
-    "1d06dedd u16": 0,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
     "UniqueID": 5,
     "EventLabel": "Tanabata",
     "ItemFrom": "StarFestival"

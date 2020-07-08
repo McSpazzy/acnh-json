@@ -1,6 +1,6 @@
 [
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "0",
     "StructureInfoHouseType": "Player",
@@ -9,7 +9,7 @@
     "UniqueID": 0
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -18,7 +18,7 @@
     "UniqueID": 1
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -27,7 +27,7 @@
     "UniqueID": 2
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -36,7 +36,7 @@
     "UniqueID": 3
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -45,7 +45,7 @@
     "UniqueID": 4
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -54,7 +54,7 @@
     "UniqueID": 5
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -63,7 +63,7 @@
     "UniqueID": 6
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -72,7 +72,7 @@
     "UniqueID": 7
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -81,7 +81,7 @@
     "UniqueID": 8
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -90,7 +90,7 @@
     "UniqueID": 9
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -99,7 +99,7 @@
     "UniqueID": 10
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -108,7 +108,7 @@
     "UniqueID": 11
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -117,7 +117,7 @@
     "UniqueID": 12
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -126,7 +126,7 @@
     "UniqueID": 13
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -135,7 +135,7 @@
     "UniqueID": 14
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -144,7 +144,7 @@
     "UniqueID": 15
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -153,7 +153,7 @@
     "UniqueID": 16
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -162,7 +162,7 @@
     "UniqueID": 17
   },
   {
-    "1ff4093d.HashRef": "Npc",
+    "HousePartsType": "Npc",
     "ModelType": "House",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Npc",
@@ -171,7 +171,7 @@
     "UniqueID": 18
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -180,7 +180,7 @@
     "UniqueID": 19
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -189,7 +189,7 @@
     "UniqueID": 20
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -198,7 +198,7 @@
     "UniqueID": 21
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -207,7 +207,7 @@
     "UniqueID": 22
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -216,7 +216,7 @@
     "UniqueID": 23
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -225,7 +225,7 @@
     "UniqueID": 24
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -234,7 +234,7 @@
     "UniqueID": 25
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Bridge",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -243,7 +243,7 @@
     "UniqueID": 26
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Slope",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -252,7 +252,7 @@
     "UniqueID": 27
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "MainField",
     "StructureInfoHouseType": "Player",
@@ -261,7 +261,7 @@
     "UniqueID": 28
   },
   {
-    "1ff4093d.HashRef": "Player",
+    "HousePartsType": "Player",
     "ModelType": "Facility",
     "fec3548b.HashRef": "PhotoStudioIsland",
     "StructureInfoHouseType": "Player",

@@ -1,6 +1,6 @@
 [
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -44,7 +44,7 @@
     "ModelName": "Base"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation1",
     "InnerType000": "Base",
@@ -88,7 +88,7 @@
     "ModelName": "River0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -132,7 +132,7 @@
     "ModelName": "River1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation2",
     "InnerType000": "Base",
@@ -176,7 +176,7 @@
     "ModelName": "River2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -220,7 +220,7 @@
     "ModelName": "River2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -264,7 +264,7 @@
     "ModelName": "River2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -308,7 +308,7 @@
     "ModelName": "River3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -352,7 +352,7 @@
     "ModelName": "River3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -396,7 +396,7 @@
     "ModelName": "River3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -440,7 +440,7 @@
     "ModelName": "River4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -484,7 +484,7 @@
     "ModelName": "River4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -528,7 +528,7 @@
     "ModelName": "River4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -572,7 +572,7 @@
     "ModelName": "River5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -616,7 +616,7 @@
     "ModelName": "River5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -660,7 +660,7 @@
     "ModelName": "River6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "River",
@@ -704,7 +704,7 @@
     "ModelName": "River6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "River",
@@ -748,7 +748,7 @@
     "ModelName": "River7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "River",
@@ -792,7 +792,7 @@
     "ModelName": "River8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation1",
     "InnerType000": "Base",
@@ -836,7 +836,7 @@
     "ModelName": "Cliff0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation1",
     "InnerType000": "Base",
@@ -880,7 +880,7 @@
     "ModelName": "Cliff0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation1",
     "InnerType000": "Base",
@@ -924,7 +924,7 @@
     "ModelName": "Cliff0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -968,7 +968,7 @@
     "ModelName": "Cliff1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1012,7 +1012,7 @@
     "ModelName": "Cliff1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1056,7 +1056,7 @@
     "ModelName": "Cliff1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation2",
     "InnerType000": "Base",
@@ -1100,7 +1100,7 @@
     "ModelName": "Cliff2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1144,7 +1144,7 @@
     "ModelName": "Cliff2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1188,7 +1188,7 @@
     "ModelName": "Cliff3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1232,7 +1232,7 @@
     "ModelName": "Cliff3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1276,7 +1276,7 @@
     "ModelName": "Cliff3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1320,7 +1320,7 @@
     "ModelName": "Cliff4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1364,7 +1364,7 @@
     "ModelName": "Cliff4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1408,7 +1408,7 @@
     "ModelName": "Cliff4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1452,7 +1452,7 @@
     "ModelName": "Cliff5A"
   },
   {
-    "d943e2bd.HashRef": "ToFall",
+    "ChangeFallType": "ToFall",
     "CornerType": "None",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -1496,7 +1496,7 @@
     "ModelName": "Cliff5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1540,7 +1540,7 @@
     "ModelName": "Cliff6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1584,7 +1584,7 @@
     "ModelName": "Cliff6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1628,7 +1628,7 @@
     "ModelName": "Cliff7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Cliff",
@@ -1672,7 +1672,7 @@
     "ModelName": "Cliff8"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1716,7 +1716,7 @@
     "ModelName": "Fall101"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1760,7 +1760,7 @@
     "ModelName": "Fall100"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1804,7 +1804,7 @@
     "ModelName": "Fall300"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1848,7 +1848,7 @@
     "ModelName": "Fall301"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1892,7 +1892,7 @@
     "ModelName": "Fall302"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1936,7 +1936,7 @@
     "ModelName": "Fall200"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -1980,7 +1980,7 @@
     "ModelName": "Fall201"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2024,7 +2024,7 @@
     "ModelName": "Fall202"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2068,7 +2068,7 @@
     "ModelName": "Fall400"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2112,7 +2112,7 @@
     "ModelName": "Fall401"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2156,7 +2156,7 @@
     "ModelName": "Fall402"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2200,7 +2200,7 @@
     "ModelName": "Fall403"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2244,7 +2244,7 @@
     "ModelName": "Fall404"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2288,7 +2288,7 @@
     "ModelName": "RoadSoil0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2332,7 +2332,7 @@
     "ModelName": "RoadSoil1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2376,7 +2376,7 @@
     "ModelName": "RoadSoil0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2420,7 +2420,7 @@
     "ModelName": "RoadSoil1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2464,7 +2464,7 @@
     "ModelName": "RoadSoil1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2508,7 +2508,7 @@
     "ModelName": "RoadSoil2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2552,7 +2552,7 @@
     "ModelName": "RoadSoil2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2596,7 +2596,7 @@
     "ModelName": "RoadSoil2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2640,7 +2640,7 @@
     "ModelName": "RoadSoil3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2684,7 +2684,7 @@
     "ModelName": "RoadSoil3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2728,7 +2728,7 @@
     "ModelName": "RoadSoil3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2772,7 +2772,7 @@
     "ModelName": "RoadSoil4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2816,7 +2816,7 @@
     "ModelName": "RoadSoil4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2860,7 +2860,7 @@
     "ModelName": "RoadSoil4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2904,7 +2904,7 @@
     "ModelName": "RoadSoil5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2948,7 +2948,7 @@
     "ModelName": "RoadSoil5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -2992,7 +2992,7 @@
     "ModelName": "RoadSoil6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Soil",
@@ -3036,7 +3036,7 @@
     "ModelName": "RoadSoil6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Soil",
@@ -3080,7 +3080,7 @@
     "ModelName": "RoadSoil7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Soil",
@@ -3124,7 +3124,7 @@
     "ModelName": "RoadSoil8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3168,7 +3168,7 @@
     "ModelName": "RoadStone0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3212,7 +3212,7 @@
     "ModelName": "RoadStone0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3256,7 +3256,7 @@
     "ModelName": "RoadStone1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3300,7 +3300,7 @@
     "ModelName": "RoadStone1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3344,7 +3344,7 @@
     "ModelName": "RoadStone1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3388,7 +3388,7 @@
     "ModelName": "RoadStone2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3432,7 +3432,7 @@
     "ModelName": "RoadStone2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3476,7 +3476,7 @@
     "ModelName": "RoadStone2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3520,7 +3520,7 @@
     "ModelName": "RoadStone3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3564,7 +3564,7 @@
     "ModelName": "RoadStone3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3608,7 +3608,7 @@
     "ModelName": "RoadStone3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3652,7 +3652,7 @@
     "ModelName": "RoadStone4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3696,7 +3696,7 @@
     "ModelName": "RoadStone4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3740,7 +3740,7 @@
     "ModelName": "RoadStone4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3784,7 +3784,7 @@
     "ModelName": "RoadStone5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3828,7 +3828,7 @@
     "ModelName": "RoadStone5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -3872,7 +3872,7 @@
     "ModelName": "RoadStone6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "RoadStone",
@@ -3916,7 +3916,7 @@
     "ModelName": "RoadStone6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "RoadStone",
@@ -3960,7 +3960,7 @@
     "ModelName": "RoadStone7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "RoadStone",
@@ -4004,7 +4004,7 @@
     "ModelName": "RoadStone8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4048,7 +4048,7 @@
     "ModelName": "Fall103"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4092,7 +4092,7 @@
     "ModelName": "Fall102"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4136,7 +4136,7 @@
     "ModelName": "Fall303"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4180,7 +4180,7 @@
     "ModelName": "Fall304"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4224,7 +4224,7 @@
     "ModelName": "Fall305"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4268,7 +4268,7 @@
     "ModelName": "Fall306"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4312,7 +4312,7 @@
     "ModelName": "Fall307"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4356,7 +4356,7 @@
     "ModelName": "Fall308"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4400,7 +4400,7 @@
     "ModelName": "Fall203"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4444,7 +4444,7 @@
     "ModelName": "Fall204"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4488,7 +4488,7 @@
     "ModelName": "Fall205"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4532,7 +4532,7 @@
     "ModelName": "Fall206"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4576,7 +4576,7 @@
     "ModelName": "Fall207"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4620,7 +4620,7 @@
     "ModelName": "Fall208"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4664,7 +4664,7 @@
     "ModelName": "Fall405"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4708,7 +4708,7 @@
     "ModelName": "Fall406"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4752,7 +4752,7 @@
     "ModelName": "Fall407"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4796,7 +4796,7 @@
     "ModelName": "Fall408"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4840,7 +4840,7 @@
     "ModelName": "Fall410"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4884,7 +4884,7 @@
     "ModelName": "Fall409"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4928,7 +4928,7 @@
     "ModelName": "Fall411"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -4972,7 +4972,7 @@
     "ModelName": "Fall412"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5016,7 +5016,7 @@
     "ModelName": "Fall414"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5060,7 +5060,7 @@
     "ModelName": "Fall413"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5104,7 +5104,7 @@
     "ModelName": "Fall415"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5148,7 +5148,7 @@
     "ModelName": "Fall416"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5192,7 +5192,7 @@
     "ModelName": "Fall418"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5236,7 +5236,7 @@
     "ModelName": "Fall417"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5280,7 +5280,7 @@
     "ModelName": "Fall419"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5324,7 +5324,7 @@
     "ModelName": "Fall420"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5368,7 +5368,7 @@
     "ModelName": "Fall422"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5412,7 +5412,7 @@
     "ModelName": "Fall421"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5456,7 +5456,7 @@
     "ModelName": "Fall423"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5500,7 +5500,7 @@
     "ModelName": "Fall424"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "Variation4",
     "InnerType000": "Base",
@@ -5544,7 +5544,7 @@
     "ModelName": "Cliff2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5588,7 +5588,7 @@
     "ModelName": "RoadBrick0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5632,7 +5632,7 @@
     "ModelName": "RoadBrick0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5676,7 +5676,7 @@
     "ModelName": "RoadBrick1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5720,7 +5720,7 @@
     "ModelName": "RoadBrick1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5764,7 +5764,7 @@
     "ModelName": "RoadBrick1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5808,7 +5808,7 @@
     "ModelName": "RoadBrick2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5852,7 +5852,7 @@
     "ModelName": "RoadBrick2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5896,7 +5896,7 @@
     "ModelName": "RoadBrick2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5940,7 +5940,7 @@
     "ModelName": "RoadBrick3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -5984,7 +5984,7 @@
     "ModelName": "RoadBrick3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6028,7 +6028,7 @@
     "ModelName": "RoadBrick3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6072,7 +6072,7 @@
     "ModelName": "RoadBrick4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6116,7 +6116,7 @@
     "ModelName": "RoadBrick4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6160,7 +6160,7 @@
     "ModelName": "RoadBrick4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6204,7 +6204,7 @@
     "ModelName": "RoadBrick5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6248,7 +6248,7 @@
     "ModelName": "RoadBrick5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6292,7 +6292,7 @@
     "ModelName": "RoadBrick6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Brick",
@@ -6336,7 +6336,7 @@
     "ModelName": "RoadBrick6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Brick",
@@ -6380,7 +6380,7 @@
     "ModelName": "RoadBrick7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Brick",
@@ -6424,7 +6424,7 @@
     "ModelName": "RoadBrick8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6468,7 +6468,7 @@
     "ModelName": "RoadDarkSoil0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6512,7 +6512,7 @@
     "ModelName": "RoadDarkSoil0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6556,7 +6556,7 @@
     "ModelName": "RoadDarkSoil1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6600,7 +6600,7 @@
     "ModelName": "RoadDarkSoil1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6644,7 +6644,7 @@
     "ModelName": "RoadDarkSoil1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6688,7 +6688,7 @@
     "ModelName": "RoadDarkSoil2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6732,7 +6732,7 @@
     "ModelName": "RoadDarkSoil2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6776,7 +6776,7 @@
     "ModelName": "RoadDarkSoil2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6820,7 +6820,7 @@
     "ModelName": "RoadDarkSoil3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6864,7 +6864,7 @@
     "ModelName": "RoadDarkSoil3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6908,7 +6908,7 @@
     "ModelName": "RoadDarkSoil3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6952,7 +6952,7 @@
     "ModelName": "RoadDarkSoil4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -6996,7 +6996,7 @@
     "ModelName": "RoadDarkSoil4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7040,7 +7040,7 @@
     "ModelName": "RoadDarkSoil4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7084,7 +7084,7 @@
     "ModelName": "RoadDarkSoil5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7128,7 +7128,7 @@
     "ModelName": "RoadDarkSoil5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7172,7 +7172,7 @@
     "ModelName": "RoadDarkSoil6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "DarkSoil",
@@ -7216,7 +7216,7 @@
     "ModelName": "RoadDarkSoil6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "DarkSoil",
@@ -7260,7 +7260,7 @@
     "ModelName": "RoadDarkSoil7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "DarkSoil",
@@ -7304,7 +7304,7 @@
     "ModelName": "RoadDarkSoil8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7348,7 +7348,7 @@
     "ModelName": "RoadFanPattern0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7392,7 +7392,7 @@
     "ModelName": "RoadFanPattern0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7436,7 +7436,7 @@
     "ModelName": "RoadFanPattern1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7480,7 +7480,7 @@
     "ModelName": "RoadFanPattern1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7524,7 +7524,7 @@
     "ModelName": "RoadFanPattern1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7568,7 +7568,7 @@
     "ModelName": "RoadFanPattern2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7612,7 +7612,7 @@
     "ModelName": "RoadFanPattern2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7656,7 +7656,7 @@
     "ModelName": "RoadFanPattern2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7700,7 +7700,7 @@
     "ModelName": "RoadFanPattern3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7744,7 +7744,7 @@
     "ModelName": "RoadFanPattern3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7788,7 +7788,7 @@
     "ModelName": "RoadFanPattern3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7832,7 +7832,7 @@
     "ModelName": "RoadFanPattern4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7876,7 +7876,7 @@
     "ModelName": "RoadFanPattern4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7920,7 +7920,7 @@
     "ModelName": "RoadFanPattern4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -7964,7 +7964,7 @@
     "ModelName": "RoadFanPattern5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8008,7 +8008,7 @@
     "ModelName": "RoadFanPattern5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8052,7 +8052,7 @@
     "ModelName": "RoadFanPattern6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "StonePattern",
@@ -8096,7 +8096,7 @@
     "ModelName": "RoadFanPattern6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "StonePattern",
@@ -8140,7 +8140,7 @@
     "ModelName": "RoadFanPattern7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "StonePattern",
@@ -8184,7 +8184,7 @@
     "ModelName": "RoadFanPattern8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8228,7 +8228,7 @@
     "ModelName": "RoadSand0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8272,7 +8272,7 @@
     "ModelName": "RoadSand0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8316,7 +8316,7 @@
     "ModelName": "RoadSand1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8360,7 +8360,7 @@
     "ModelName": "RoadSand1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8404,7 +8404,7 @@
     "ModelName": "RoadSand1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8448,7 +8448,7 @@
     "ModelName": "RoadSand2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8492,7 +8492,7 @@
     "ModelName": "RoadSand2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8536,7 +8536,7 @@
     "ModelName": "RoadSand2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8580,7 +8580,7 @@
     "ModelName": "RoadSand3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8624,7 +8624,7 @@
     "ModelName": "RoadSand3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8668,7 +8668,7 @@
     "ModelName": "RoadSand3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8712,7 +8712,7 @@
     "ModelName": "RoadSand4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8756,7 +8756,7 @@
     "ModelName": "RoadSand4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8800,7 +8800,7 @@
     "ModelName": "RoadSand4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8844,7 +8844,7 @@
     "ModelName": "RoadSand5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8888,7 +8888,7 @@
     "ModelName": "RoadSand5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -8932,7 +8932,7 @@
     "ModelName": "RoadSand6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Sand",
@@ -8976,7 +8976,7 @@
     "ModelName": "RoadSand6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Sand",
@@ -9020,7 +9020,7 @@
     "ModelName": "RoadSand7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Sand",
@@ -9064,7 +9064,7 @@
     "ModelName": "RoadSand8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9108,7 +9108,7 @@
     "ModelName": "RoadTile0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9152,7 +9152,7 @@
     "ModelName": "RoadTile0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9196,7 +9196,7 @@
     "ModelName": "RoadTile1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9240,7 +9240,7 @@
     "ModelName": "RoadTile1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9284,7 +9284,7 @@
     "ModelName": "RoadTile1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9328,7 +9328,7 @@
     "ModelName": "RoadTile2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9372,7 +9372,7 @@
     "ModelName": "RoadTile2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9416,7 +9416,7 @@
     "ModelName": "RoadTile2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9460,7 +9460,7 @@
     "ModelName": "RoadTile3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9504,7 +9504,7 @@
     "ModelName": "RoadTile3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9548,7 +9548,7 @@
     "ModelName": "RoadTile3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9592,7 +9592,7 @@
     "ModelName": "RoadTile4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9636,7 +9636,7 @@
     "ModelName": "RoadTile4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9680,7 +9680,7 @@
     "ModelName": "RoadTile4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9724,7 +9724,7 @@
     "ModelName": "RoadTile5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9768,7 +9768,7 @@
     "ModelName": "RoadTile5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9812,7 +9812,7 @@
     "ModelName": "RoadTile6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Tile",
@@ -9856,7 +9856,7 @@
     "ModelName": "RoadTile6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Tile",
@@ -9900,7 +9900,7 @@
     "ModelName": "RoadTile7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Tile",
@@ -9944,7 +9944,7 @@
     "ModelName": "RoadTile8A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -9988,7 +9988,7 @@
     "ModelName": "RoadWood0A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10032,7 +10032,7 @@
     "ModelName": "RoadWood0B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10076,7 +10076,7 @@
     "ModelName": "RoadWood1A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10120,7 +10120,7 @@
     "ModelName": "RoadWood1B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10164,7 +10164,7 @@
     "ModelName": "RoadWood1C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10208,7 +10208,7 @@
     "ModelName": "RoadWood2A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10252,7 +10252,7 @@
     "ModelName": "RoadWood2B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10296,7 +10296,7 @@
     "ModelName": "RoadWood2C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10340,7 +10340,7 @@
     "ModelName": "RoadWood3A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Slant",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10384,7 +10384,7 @@
     "ModelName": "RoadWood3B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "Right",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10428,7 +10428,7 @@
     "ModelName": "RoadWood3C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10472,7 +10472,7 @@
     "ModelName": "RoadWood4A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10516,7 +10516,7 @@
     "ModelName": "RoadWood4B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10560,7 +10560,7 @@
     "ModelName": "RoadWood4C"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10604,7 +10604,7 @@
     "ModelName": "RoadWood5A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10648,7 +10648,7 @@
     "ModelName": "RoadWood5B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Base",
@@ -10692,7 +10692,7 @@
     "ModelName": "RoadWood6A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Wood",
@@ -10736,7 +10736,7 @@
     "ModelName": "RoadWood6B"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Wood",
@@ -10780,7 +10780,7 @@
     "ModelName": "RoadWood7A"
   },
   {
-    "d943e2bd.HashRef": "None",
+    "ChangeFallType": "None",
     "CornerType": "None",
     "EdgePatternType": "None",
     "InnerType000": "Wood",

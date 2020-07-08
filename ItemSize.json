@@ -1,6 +1,6 @@
 [
   {
-    "801351e6 f32": 1.575,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 2,
@@ -10,7 +10,7 @@
     "Name": "1x1"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 4,
@@ -20,7 +20,7 @@
     "Name": "2x1"
   },
   {
-    "801351e6 f32": 6.3,
+    "ResSizeLimit": 6.3,
     "MemoryUnitNum": 4,
     "PolygonLimit": 4800,
     "UniqueID": 5,
@@ -30,7 +30,7 @@
     "Name": "2x2"
   },
   {
-    "801351e6 f32": 4.725,
+    "ResSizeLimit": 4.725,
     "MemoryUnitNum": 3,
     "PolygonLimit": 3600,
     "UniqueID": 13,
@@ -40,7 +40,7 @@
     "Name": "3x1"
   },
   {
-    "801351e6 f32": 9.45,
+    "ResSizeLimit": 9.45,
     "MemoryUnitNum": 6,
     "PolygonLimit": 7200,
     "UniqueID": 6,
@@ -50,7 +50,7 @@
     "Name": "3x2"
   },
   {
-    "801351e6 f32": 14.175,
+    "ResSizeLimit": 14.175,
     "MemoryUnitNum": 9,
     "PolygonLimit": 10800,
     "UniqueID": 7,
@@ -60,7 +60,7 @@
     "Name": "3x3"
   },
   {
-    "801351e6 f32": 1.575,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 1,
@@ -70,7 +70,7 @@
     "Name": "1x0.5"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 3,
@@ -80,7 +80,7 @@
     "Name": "2x0.5"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 3,
     "PolygonLimit": 2700,
     "UniqueID": 22,
@@ -90,7 +90,7 @@
     "Name": "1.5x1.5"
   },
   {
-    "801351e6 f32": 1.575,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 25,
@@ -100,7 +100,7 @@
     "Name": "1x0.5(壁)"
   },
   {
-    "801351e6 f32": 1.575,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 24,
@@ -110,7 +110,7 @@
     "Name": "0.5x1(壁)"
   },
   {
-    "801351e6 f32": 1.575,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 26,
@@ -120,7 +120,7 @@
     "Name": "1x1(壁)"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 9,
@@ -130,7 +130,7 @@
     "Name": "1x1.5 (壁)"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 8,
@@ -140,7 +140,7 @@
     "Name": "1x2　 (壁)"
   },
   {
-    "801351e6 f32": 3.15,
+    "ResSizeLimit": 3.15,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 27,
@@ -150,7 +150,7 @@
     "Name": "2x1(壁)"
   },
   {
-    "801351e6 f32": 6.3,
+    "ResSizeLimit": 6.3,
     "MemoryUnitNum": 4,
     "PolygonLimit": 4800,
     "UniqueID": 12,
@@ -160,7 +160,7 @@
     "Name": "2x1.5 (壁)"
   },
   {
-    "801351e6 f32": 6.3,
+    "ResSizeLimit": 6.3,
     "MemoryUnitNum": 4,
     "PolygonLimit": 4800,
     "UniqueID": 34,
@@ -170,7 +170,7 @@
     "Name": "2x2(壁)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1000,
     "UniqueID": 33,
@@ -180,7 +180,7 @@
     "Name": "1x1(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 2,
     "PolygonLimit": 1000,
     "UniqueID": 21,
@@ -190,7 +190,7 @@
     "Name": "2x1(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 4,
     "PolygonLimit": 1000,
     "UniqueID": 19,
@@ -200,7 +200,7 @@
     "Name": "2x2(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 6,
     "PolygonLimit": 1000,
     "UniqueID": 20,
@@ -210,7 +210,7 @@
     "Name": "3x2(ラグ）"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 9,
     "PolygonLimit": 1000,
     "UniqueID": 18,
@@ -220,7 +220,7 @@
     "Name": "3x3(ラグ）"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 12,
     "PolygonLimit": 1000,
     "UniqueID": 16,
@@ -230,7 +230,7 @@
     "Name": "4x3(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 16,
     "PolygonLimit": 1000,
     "UniqueID": 14,
@@ -240,7 +240,7 @@
     "Name": "4x4(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 20,
     "PolygonLimit": 1000,
     "UniqueID": 31,
@@ -250,7 +250,7 @@
     "Name": "5x4(ラグ)"
   },
   {
-    "801351e6 f32": 7.0,
+    "ResSizeLimit": 7.0,
     "MemoryUnitNum": 25,
     "PolygonLimit": 1000,
     "UniqueID": 32,
