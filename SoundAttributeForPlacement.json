@@ -1,50 +1,50 @@
 [
   {
-    "5e7a33b5 u16": 0,
+    "RefSoundAttributeID": 0,
     "UniqueID": 0
   },
   {
-    "5e7a33b5 u16": 1,
+    "RefSoundAttributeID": 1,
     "UniqueID": 1
   },
   {
-    "5e7a33b5 u16": 2,
+    "RefSoundAttributeID": 2,
     "UniqueID": 2
   },
   {
-    "5e7a33b5 u16": 5,
+    "RefSoundAttributeID": 5,
     "UniqueID": 3
   },
   {
-    "5e7a33b5 u16": 6,
+    "RefSoundAttributeID": 6,
     "UniqueID": 4
   },
   {
-    "5e7a33b5 u16": 9,
+    "RefSoundAttributeID": 9,
     "UniqueID": 5
   },
   {
-    "5e7a33b5 u16": 17,
+    "RefSoundAttributeID": 17,
     "UniqueID": 6
   },
   {
-    "5e7a33b5 u16": 44,
+    "RefSoundAttributeID": 44,
     "UniqueID": 7
   },
   {
-    "5e7a33b5 u16": 45,
+    "RefSoundAttributeID": 45,
     "UniqueID": 9
   },
   {
-    "5e7a33b5 u16": 47,
+    "RefSoundAttributeID": 47,
     "UniqueID": 10
   },
   {
-    "5e7a33b5 u16": 49,
+    "RefSoundAttributeID": 49,
     "UniqueID": 11
   },
   {
-    "5e7a33b5 u16": 14,
+    "RefSoundAttributeID": 14,
     "UniqueID": 12
   }
 ]
