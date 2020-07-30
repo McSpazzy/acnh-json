@@ -1,5 +1,6 @@
 [
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10,
     "UniqueID": 50,
@@ -9,11 +10,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】会釈",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 12,
     "UniqueID": 39,
@@ -23,11 +26,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】うなずく",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 13,
     "UniqueID": 58,
@@ -37,11 +42,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首横ふり",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 14,
     "UniqueID": 120,
@@ -51,11 +58,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首かしげ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 20,
     "UniqueID": 19,
@@ -65,11 +74,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニコニコ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 30,
     "UniqueID": 21,
@@ -79,11 +90,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ハッピー",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 40,
     "UniqueID": 23,
@@ -93,11 +106,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】うきうき",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 50,
     "UniqueID": 20,
@@ -107,11 +122,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】笑う",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 60,
     "UniqueID": 22,
@@ -121,11 +138,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ラブ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 70,
     "UniqueID": 127,
@@ -135,11 +154,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】おまかせ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 80,
     "UniqueID": 62,
@@ -149,11 +170,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】シャキーン",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 90,
     "UniqueID": 60,
@@ -163,11 +186,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】決めポーズ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 92,
     "UniqueID": 51,
@@ -177,11 +202,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ドヤ顔",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 95,
     "UniqueID": 49,
@@ -191,11 +218,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】大声",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 98,
     "UniqueID": 47,
@@ -205,11 +234,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】拍手",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 100,
     "UniqueID": 126,
@@ -219,11 +250,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】またこんど",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 200,
     "UniqueID": 253,
@@ -233,11 +266,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ん？",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 205,
     "UniqueID": 41,
@@ -247,11 +282,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】はて？",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 210,
     "UniqueID": 34,
@@ -261,11 +298,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あっ！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 220,
     "UniqueID": 33,
@@ -275,11 +314,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】驚／ハッ！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 230,
     "UniqueID": 40,
@@ -289,11 +330,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひらめき",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 240,
     "UniqueID": 36,
@@ -303,11 +346,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ガーン！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 250,
     "UniqueID": 59,
@@ -317,11 +362,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】しまった！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 310,
     "UniqueID": 44,
@@ -331,11 +378,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】テレる",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 330,
     "UniqueID": 57,
@@ -345,11 +394,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】もじもじ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 340,
     "UniqueID": 54,
@@ -359,11 +410,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】苦笑",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 350,
     "UniqueID": 53,
@@ -373,11 +426,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニヤリ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 360,
     "UniqueID": 46,
@@ -387,11 +442,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悪巧み",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 370,
     "UniqueID": 45,
@@ -401,11 +458,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヤレヤレ…",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 375,
     "UniqueID": 61,
@@ -415,11 +474,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】妄想中",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 380,
     "UniqueID": 29,
@@ -429,11 +490,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悩／ムー",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 390,
     "UniqueID": 43,
@@ -443,11 +506,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ねぼけ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 395,
     "UniqueID": 63,
@@ -457,11 +522,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】立ち寝",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 500,
     "UniqueID": 27,
@@ -471,11 +538,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】こまる",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 540,
     "UniqueID": 28,
@@ -485,11 +554,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ため息",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 550,
     "UniqueID": 30,
@@ -499,11 +570,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】落ち込む",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 560,
     "UniqueID": 42,
@@ -513,11 +586,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】失恋",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 580,
     "UniqueID": 32,
@@ -527,11 +602,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】号泣",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 600,
     "UniqueID": 119,
@@ -541,11 +618,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ジロッ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 610,
     "UniqueID": 25,
@@ -555,11 +634,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】怒／ムカッ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 700,
     "UniqueID": 37,
@@ -569,11 +650,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヒュー",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 705,
     "UniqueID": 31,
@@ -583,11 +666,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あせる",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 710,
     "UniqueID": 38,
@@ -597,11 +682,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ブルブル…",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 720,
     "UniqueID": 48,
@@ -611,11 +698,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】くしゃみ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 24,
@@ -625,11 +714,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】不機嫌／ムッ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 26,
@@ -639,11 +730,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】激怒／プンプン！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 35,
@@ -653,11 +746,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひく／エッ？！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 52,
@@ -667,11 +762,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】暑い",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 55,
@@ -681,11 +778,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】微笑",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 56,
@@ -695,11 +794,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニカッ！",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 121,
@@ -709,11 +810,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】しどろもどろ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 122,
@@ -723,11 +826,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ポリポリ",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 123,
@@ -737,11 +842,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】まごまご",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 124,
@@ -751,11 +858,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】真顔",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 125,
@@ -765,11 +874,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】えっ？",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": 10000,
     "UniqueID": 128,
@@ -779,11 +890,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】説明する",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -15536,
     "UniqueID": 18,
@@ -793,11 +906,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】解除",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -15536,
     "UniqueID": 249,
@@ -807,11 +922,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】受け渡し補助用両手アニメ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 1,
@@ -821,11 +938,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "なし",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 2,
@@ -835,11 +954,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:道具変更(つける)",
+    "ba199df0 u8": 0,
     "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 3,
@@ -849,11 +970,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(からだ)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 4,
@@ -863,11 +986,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾う待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 5,
@@ -877,11 +1002,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾う",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 6,
@@ -891,11 +1018,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具しまう",
+    "ba199df0 u8": 0,
     "Misc": "\u001c\u0001\f",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 7,
@@ -905,11 +1034,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具取り出す",
+    "ba199df0 u8": 0,
     "Misc": "\u0014\u0001\b",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 9,
@@ -919,11 +1050,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:メニューウェイト",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 10,
@@ -933,11 +1066,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:食べる",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 11,
@@ -947,11 +1082,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 12,
@@ -961,11 +1098,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 13,
@@ -975,11 +1114,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 14,
@@ -989,11 +1130,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "立ちウェイト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 15,
@@ -1003,11 +1146,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "座りウェイト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 16,
@@ -1017,11 +1162,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドウェイト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 17,
@@ -1031,11 +1178,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "泳ぎウェイト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 66,
@@ -1045,11 +1194,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ準備(振りかぶり)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 67,
@@ -1059,11 +1210,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ振りかぶり後、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 68,
@@ -1073,11 +1226,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ掘る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 69,
@@ -1087,11 +1242,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ埋める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 70,
@@ -1101,11 +1258,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具空振り",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 71,
@@ -1115,11 +1274,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具跳ね返り",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 72,
@@ -1129,11 +1290,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具壊れる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 73,
@@ -1143,11 +1306,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具キャンセル",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 74,
@@ -1157,11 +1322,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 75,
@@ -1171,11 +1338,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え準備、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 76,
@@ -1185,11 +1354,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:溝飛び越え",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 77,
@@ -1199,11 +1370,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え、キャンセル",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 81,
@@ -1213,11 +1386,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ待機(Wait)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 82,
@@ -1227,11 +1402,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具持ちアニメ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 83,
@@ -1241,11 +1418,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 84,
@@ -1255,11 +1434,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "木を揺らす待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 85,
@@ -1269,11 +1450,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "木を揺らす",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 86,
@@ -1283,11 +1466,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アイテムをしまう",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 87,
@@ -1297,11 +1482,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具つかむ",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 93,
@@ -1311,11 +1498,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 94,
@@ -1325,11 +1514,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す準備待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 95,
@@ -1339,11 +1530,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 96,
@@ -1353,11 +1546,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 97,
@@ -1367,11 +1562,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く準備待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 98,
@@ -1381,11 +1578,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 100,
@@ -1395,11 +1594,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具回す準備待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 101,
@@ -1409,11 +1610,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具回す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 102,
@@ -1423,11 +1626,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノ振りかぶり",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 103,
@@ -1437,11 +1642,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノ振りかぶり後、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 104,
@@ -1451,11 +1658,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノでたたく",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 107,
@@ -1465,11 +1674,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサをしまう",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 108,
@@ -1479,11 +1690,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサを取り出す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 109,
@@ -1493,11 +1706,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スリップ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 111,
@@ -1507,11 +1722,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキで変身",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 112,
@@ -1521,11 +1738,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成生成、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 113,
@@ -1535,11 +1754,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成生成、準備後、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 114,
@@ -1549,11 +1770,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成、生成アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 118,
@@ -1563,11 +1786,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキ、詠唱",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 130,
@@ -1577,11 +1802,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成、削除アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 132,
@@ -1591,11 +1818,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：叩かれた",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 133,
@@ -1605,11 +1834,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 134,
@@ -1619,11 +1850,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:水中に潜る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 135,
@@ -1633,11 +1866,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 136,
@@ -1647,11 +1882,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上してゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 137,
@@ -1661,11 +1898,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海に飛び込む",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 138,
@@ -1675,11 +1914,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾ってゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 139,
@@ -1689,11 +1930,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 140,
@@ -1703,11 +1946,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:溝ジャンプ着地",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 141,
@@ -1717,11 +1962,29 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョウロを使用",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
+    "LowerSetting": "2C377E77",
+    "UISortID": -1,
+    "UniqueID": 142,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 12,
+    "AsCommand": "PlayerTumble",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:転ぶ",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 143,
@@ -1731,11 +1994,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "階段経由でステージイン",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 144,
@@ -1745,11 +2010,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "階段経由でステージアウト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 145,
@@ -1759,11 +2026,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを開ける",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 146,
@@ -1773,11 +2042,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを閉める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 147,
@@ -1787,11 +2058,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、達成アニメ",
+    "ba199df0 u8": 0,
     "Misc": "\u0010",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 148,
@@ -1801,11 +2074,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】差し出す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 149,
@@ -1815,11 +2090,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】受け取る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 150,
@@ -1829,11 +2106,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】しまう",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 151,
@@ -1843,11 +2122,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】着替える",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 152,
@@ -1857,11 +2138,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】つき返す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 153,
@@ -1871,11 +2154,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】つき返される",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 154,
@@ -1885,11 +2170,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】食べる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 157,
@@ -1899,11 +2186,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアノック",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 158,
@@ -1913,11 +2202,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドア入り",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 159,
@@ -1927,11 +2218,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアから出る待ち",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 160,
@@ -1941,11 +2234,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアから出る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 161,
@@ -1955,11 +2250,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カーテンを開ける",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 162,
@@ -1969,11 +2266,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カーテンを閉める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 168,
@@ -1983,11 +2282,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を回す準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 170,
@@ -1997,11 +2298,77 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "クラッカーをする",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 171,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerBubblesBlow",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:シャボン玉を吹く",
+    "ba199df0 u8": 0,
+    "Misc": "\u0006",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 172,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerWindmillBlow",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:風車を吹く",
+    "ba199df0 u8": 0,
+    "Misc": "\u0006",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 174,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerRollItemBlow",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:吹き戻しを吹く",
+    "ba199df0 u8": 0,
+    "Misc": "\u0006",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 175,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonFireworkSetOff",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:手持ち花火をする",
+    "ba199df0 u8": 0,
+    "Misc": "\u0004",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 176,
@@ -2011,11 +2378,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 179,
@@ -2025,11 +2394,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 180,
@@ -2039,11 +2410,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動(リモート用)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 181,
@@ -2053,11 +2426,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミを振る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 182,
@@ -2067,11 +2442,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハシゴ、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 183,
@@ -2081,11 +2458,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハシゴ、準備後、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 184,
@@ -2095,11 +2474,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "Player:ハシゴアクション(接地、昇降、回収)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 199,
@@ -2109,11 +2490,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ道具変更(はずす)",
+    "ba199df0 u8": 0,
     "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 200,
@@ -2123,11 +2506,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具(壁掛け)のスイッチ切り替え",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 202,
@@ -2137,11 +2522,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキ、コーデセット選択",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 218,
@@ -2151,11 +2538,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、振る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 221,
@@ -2165,11 +2554,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、振る(失敗)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 222,
@@ -2179,11 +2570,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、くいつき待ち",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 223,
@@ -2193,11 +2586,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、ウキひきあげ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 225,
@@ -2207,11 +2602,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雑草を回収",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 227,
@@ -2221,11 +2618,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:花を摘む",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 229,
@@ -2235,11 +2634,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 230,
@@ -2249,11 +2650,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め準備、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 231,
@@ -2263,11 +2666,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 232,
@@ -2277,11 +2682,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、バシャバシャ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 233,
@@ -2291,11 +2698,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナ引き上げ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 234,
@@ -2305,11 +2714,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 242,
@@ -2319,11 +2730,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾った後のガサゴソ(入れ替え待ち)",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 243,
@@ -2333,11 +2746,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "アミを構えて立つ",
+    "ba199df0 u8": 0,
     "Misc": "��",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 244,
@@ -2347,11 +2762,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、アミを構えて歩く",
+    "ba199df0 u8": 0,
     "Misc": "��\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 245,
@@ -2361,11 +2778,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アミでムシをつかまえたゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 246,
@@ -2375,11 +2794,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:パチンコを構えて立つ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 247,
@@ -2389,11 +2810,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:パチンコを撃つ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 250,
@@ -2403,11 +2826,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】みせる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 252,
@@ -2417,11 +2842,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アニメドリブン移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 254,
@@ -2431,11 +2858,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ、振りを止める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 258,
@@ -2445,11 +2874,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:走りながら海に飛び込む",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 259,
@@ -2459,11 +2890,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサをまわす",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 260,
@@ -2473,11 +2906,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（１層目）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 261,
@@ -2487,11 +2922,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（２層目近い）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 262,
@@ -2501,11 +2938,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雪玉を転がす",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 266,
@@ -2515,11 +2954,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（壁掛け）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 269,
@@ -2529,11 +2970,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雪玉を蹴る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 270,
@@ -2543,11 +2986,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成削除、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 271,
@@ -2557,11 +3002,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成削除、準備後、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 272,
@@ -2571,11 +3018,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水ウェイト",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 278,
@@ -2585,11 +3034,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水、ひとかぎ泳ぎ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 279,
@@ -2599,11 +3050,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水、ひとかぎ泳ぎ(リモート専用)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 280,
@@ -2613,11 +3066,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:立ち泳ぎ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 282,
@@ -2627,11 +3082,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "花の匂いをかぐ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 286,
@@ -2641,11 +3098,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 287,
@@ -2655,11 +3114,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 288,
@@ -2669,11 +3130,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 289,
@@ -2683,11 +3146,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面に座る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 290,
@@ -2697,11 +3162,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 291,
@@ -2711,11 +3178,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 292,
@@ -2725,11 +3194,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 293,
@@ -2739,11 +3210,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、NGアクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 295,
@@ -2753,11 +3226,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成堀り、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 296,
@@ -2767,11 +3242,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、準備Keep",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 297,
@@ -2781,11 +3258,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、川作る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 298,
@@ -2795,11 +3274,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、川埋める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 301,
@@ -2809,11 +3290,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 302,
@@ -2823,11 +3306,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、準備Keep",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 303,
@@ -2837,11 +3322,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、滝作る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 304,
@@ -2851,11 +3338,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、滝埋める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 306,
@@ -2865,11 +3354,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター３拍子",
+    "ba199df0 u8": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 307,
@@ -2879,11 +3370,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター４拍子",
+    "ba199df0 u8": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 308,
@@ -2893,11 +3386,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:会話開始の位置調整移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 312,
@@ -2907,11 +3402,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "イスに座る、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 313,
@@ -2921,11 +3418,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "イスに座る、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 314,
@@ -2935,11 +3434,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスに座る、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 315,
@@ -2949,11 +3450,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 316,
@@ -2963,11 +3466,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 317,
@@ -2977,11 +3482,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 318,
@@ -2991,11 +3498,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスに座る、方向転換",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 319,
@@ -3005,11 +3514,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、失敗",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 320,
@@ -3019,11 +3530,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで切り株を掘る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 321,
@@ -3033,11 +3546,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってゲットデモキープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 322,
@@ -3047,11 +3562,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾ってゲットデモ姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 323,
@@ -3061,11 +3578,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:つりざおでサカナゲットデモ姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 324,
@@ -3075,11 +3594,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アミでムシゲットデモ姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 325,
@@ -3089,11 +3610,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 326,
@@ -3103,11 +3626,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを開ける姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 327,
@@ -3117,11 +3642,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具つかむ姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 328,
@@ -3131,11 +3658,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具壊れる姿勢キープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 329,
@@ -3145,11 +3674,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上してゲットデモキープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 331,
@@ -3159,11 +3690,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴に落ちる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 332,
@@ -3173,11 +3706,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴でもがく",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 333,
@@ -3187,11 +3722,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴から脱出",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 334,
@@ -3201,11 +3738,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、落ちる前にぐらつく",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 335,
@@ -3215,11 +3754,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴でもがく（Partial禁止）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 336,
@@ -3229,11 +3770,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴に落ちる（Partial禁止）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 337,
@@ -3243,11 +3786,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってしまう",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 338,
@@ -3257,11 +3802,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "NPC：アミを構えて歩く",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 340,
@@ -3271,11 +3818,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アニメドリブンターン",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 343,
@@ -3285,11 +3834,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってしまう後処理",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 345,
@@ -3299,11 +3850,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：体操",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 346,
@@ -3313,11 +3866,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 347,
@@ -3327,11 +3882,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 348,
@@ -3341,11 +3898,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 349,
@@ -3355,11 +3914,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 350,
@@ -3369,11 +3930,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 351,
@@ -3383,11 +3946,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 352,
@@ -3397,11 +3962,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：歌う",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 357,
@@ -3411,11 +3978,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョウロを使用(スキルアップ時)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 359,
@@ -3425,11 +3994,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心③",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 360,
@@ -3439,11 +4010,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：画面外ワープ出現",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 361,
@@ -3453,11 +4026,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ろうそくを吹く",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 362,
@@ -3467,11 +4042,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギターウエイト",
+    "ba199df0 u8": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 363,
@@ -3481,11 +4058,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が押せない",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 364,
@@ -3495,11 +4074,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が引けない",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 365,
@@ -3509,11 +4090,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が回せない",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 366,
@@ -3523,11 +4106,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし（横持ち）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 367,
@@ -3537,11 +4122,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし姿勢キープ（横持ち）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 368,
@@ -3551,11 +4138,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "サカナ、ゲットデモ(横持ち)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 369,
@@ -3565,11 +4154,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "サカナ、ゲットデモ姿勢キープ(横持ち)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 370,
@@ -3579,11 +4170,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 371,
@@ -3593,11 +4186,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え準備、待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 372,
@@ -3607,11 +4202,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:川越え",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 373,
@@ -3621,11 +4218,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:川越え着地",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 374,
@@ -3635,11 +4234,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え、キャンセル",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 375,
@@ -3649,11 +4250,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナ引き上げ(横持ち)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 376,
@@ -3663,11 +4266,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心②",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 377,
@@ -3677,11 +4282,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心①",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 378,
@@ -3691,11 +4298,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドで転がる、失敗",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 380,
@@ -3705,11 +4314,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチに刺される",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 385,
@@ -3719,11 +4330,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：観察（博物館・商店）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 388,
@@ -3733,11 +4346,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:気絶する",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 390,
@@ -3747,11 +4362,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "うちわをあおぐ",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 391,
@@ -3761,11 +4378,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "オカリナを鳴らす",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 392,
@@ -3775,11 +4394,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "オカリナ構えキープ",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 393,
@@ -3789,11 +4410,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "パンフルートを鳴らす",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 394,
@@ -3803,11 +4426,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "パンフルート構えキープ",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 395,
@@ -3817,11 +4442,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "タンバリンを鳴らす",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 396,
@@ -3831,11 +4458,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "タンバリン構えキープ",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 397,
@@ -3845,11 +4474,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:切れないオノでたたく",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 398,
@@ -3859,11 +4490,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ持ちアニメ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 399,
@@ -3873,11 +4506,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホしまう",
+    "ba199df0 u8": 0,
     "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 400,
@@ -3887,11 +4522,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ取り出す",
+    "ba199df0 u8": 0,
     "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 404,
@@ -3901,11 +4538,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：寝てる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 405,
@@ -3915,11 +4554,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：特殊漫符：うなされる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 406,
@@ -3929,11 +4570,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：起き上がる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 414,
@@ -3943,11 +4586,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：筋トレ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 415,
@@ -3957,11 +4602,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：飲む",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 416,
@@ -3971,11 +4618,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：食べる",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 418,
@@ -3985,11 +4634,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうじ（ほうき）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 420,
@@ -3999,11 +4650,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削りアクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 421,
@@ -4013,11 +4666,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴から脱出（Partial禁止）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 422,
@@ -4027,11 +4682,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削り準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 423,
@@ -4041,11 +4698,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削り準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 427,
@@ -4055,11 +4714,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "プレイヤ、AI移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 428,
@@ -4069,11 +4730,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 429,
@@ -4083,11 +4746,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り待ち",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 430,
@@ -4097,11 +4762,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】NPC:カードシャッフル",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 431,
@@ -4111,11 +4778,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】NPC:カードを出す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 432,
@@ -4125,11 +4794,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(カバン)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 433,
@@ -4139,11 +4810,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(足元)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 434,
@@ -4153,11 +4826,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(あたま)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 437,
@@ -4167,11 +4842,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、電話中",
+    "ba199df0 u8": 0,
     "Misc": "\u0016",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 438,
@@ -4181,11 +4858,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台もぞもぞ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 439,
@@ -4195,11 +4874,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台ゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 441,
@@ -4209,11 +4890,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株に座る、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 442,
@@ -4223,11 +4906,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株に座る、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 443,
@@ -4237,11 +4922,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株に座る、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 444,
@@ -4251,11 +4938,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株に座る、方向転換",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 445,
@@ -4265,11 +4954,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株から降りる、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 446,
@@ -4279,11 +4970,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株から降りる、準備後待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 447,
@@ -4293,11 +4986,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株から降りる、アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 448,
@@ -4307,11 +5002,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株から降りる、失敗",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 449,
@@ -4321,11 +5018,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチ刺されから回復",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 450,
@@ -4335,11 +5034,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面に座る開始",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 451,
@@ -4349,11 +5050,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面から立つ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 452,
@@ -4363,11 +5066,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、データ交換中",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 453,
@@ -4377,11 +5082,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、くいつき待ち",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 454,
@@ -4391,11 +5098,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、振る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 455,
@@ -4405,11 +5114,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、ウキひきあげ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 456,
@@ -4419,11 +5130,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ジョウロ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 457,
@@ -4433,11 +5146,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ話し掛ける",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 458,
@@ -4447,11 +5162,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：ステージ入場ワープ出現",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 460,
@@ -4461,11 +5178,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:造成系NGアクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 461,
@@ -4475,11 +5194,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:クローゼット着替えポーズ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 462,
@@ -4489,11 +5210,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうじ（はたき）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 464,
@@ -4503,11 +5226,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:ピニャータを叩く",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 465,
@@ -4517,11 +5242,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：歩く",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 466,
@@ -4531,11 +5258,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：ウエイト",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 467,
@@ -4545,11 +5274,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：復活",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 468,
@@ -4559,11 +5290,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：飛び散る（デモ開始）",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 469,
@@ -4573,11 +5306,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：退場",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 470,
@@ -4587,11 +5322,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "流れ星:祈る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 471,
@@ -4601,11 +5338,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成NG、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 472,
@@ -4615,11 +5354,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成NG、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 473,
@@ -4629,11 +5370,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成跳ね返り、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 474,
@@ -4643,11 +5386,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成空振り、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 475,
@@ -4657,11 +5402,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成空振り、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 476,
@@ -4671,11 +5418,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成跳ね返り、準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 477,
@@ -4685,11 +5434,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：飛び散った後",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 478,
@@ -4699,11 +5450,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：魂もらう",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 480,
@@ -4713,11 +5466,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：特殊漫符：驚く",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 482,
@@ -4727,11 +5482,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】ゆうたろうに魂返す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 491,
@@ -4741,11 +5498,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:気絶から起き上がる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 492,
@@ -4755,11 +5514,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：おでかけ手続き",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 493,
@@ -4769,11 +5530,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：無線通信",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 494,
@@ -4783,11 +5546,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：ラジャー",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 495,
@@ -4797,11 +5562,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ヨガ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 497,
@@ -4811,11 +5578,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチ刺され倒れる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 498,
@@ -4825,11 +5594,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホで撮る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 500,
@@ -4839,11 +5610,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを振る",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 502,
@@ -4853,11 +5626,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カに刺される",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 503,
@@ -4867,11 +5642,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを振り続ける",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 504,
@@ -4881,11 +5658,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：ミシン",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 506,
@@ -4895,11 +5674,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト閉める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 507,
@@ -4909,11 +5690,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト開け続ける",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 508,
@@ -4923,11 +5706,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト開ける",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 510,
@@ -4937,11 +5722,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを降ろす",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 514,
@@ -4951,11 +5738,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：リズムにノる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 521,
@@ -4965,11 +5754,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(あっ！)",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 522,
@@ -4979,11 +5770,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(えっ？)",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 523,
@@ -4993,11 +5786,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：話のフリ(驚／ハッ！)",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 524,
@@ -5007,11 +5802,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：サブしまう",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 525,
@@ -5021,11 +5818,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：観察（虫眼鏡）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 529,
@@ -5035,11 +5834,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター弾き終えウエイト",
+    "ba199df0 u8": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 530,
@@ -5049,11 +5850,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ叩かれ",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 531,
@@ -5063,11 +5866,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ひこうきばしり",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 532,
@@ -5077,11 +5882,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ01",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 533,
@@ -5091,11 +5898,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ02",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 534,
@@ -5105,11 +5914,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ03",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 535,
@@ -5119,11 +5930,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ04",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 536,
@@ -5133,11 +5946,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ05",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 537,
@@ -5147,11 +5962,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ06",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 539,
@@ -5161,11 +5978,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：スケッチウエイト",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 540,
@@ -5175,11 +5994,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：チェック",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 541,
@@ -5189,11 +6010,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：雨の日チェック",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 542,
@@ -5203,11 +6026,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室から出る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 543,
@@ -5217,11 +6042,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室に入っている",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 544,
@@ -5231,11 +6058,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室に入る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 545,
@@ -5245,11 +6074,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ひこうきばしりターン",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 546,
@@ -5259,11 +6090,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：演奏する（両手）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 547,
@@ -5273,11 +6106,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スイッチ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 548,
@@ -5287,11 +6122,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：リップシンク",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 550,
@@ -5301,11 +6138,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ゲットして見せびらかし",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 551,
@@ -5315,11 +6154,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：リップシンク",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 552,
@@ -5329,11 +6170,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:デモターン",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 553,
@@ -5343,11 +6186,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：はて？",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 554,
@@ -5357,11 +6202,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：うなずく",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 555,
@@ -5371,11 +6218,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：えっ？",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 556,
@@ -5385,11 +6234,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 557,
@@ -5399,11 +6250,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動待機",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 558,
@@ -5413,11 +6266,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動準備",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 559,
@@ -5427,11 +6282,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：カメラに気づく",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 560,
@@ -5441,11 +6298,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：放送準備",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 563,
@@ -5455,11 +6314,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：空を見上げる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 564,
@@ -5469,11 +6330,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 566,
@@ -5483,11 +6346,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：PCカタカタ",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 567,
@@ -5497,11 +6362,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（立ち）",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 568,
@@ -5511,11 +6378,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（高）",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 569,
@@ -5525,11 +6394,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 571,
@@ -5539,11 +6410,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（中）",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 572,
@@ -5553,11 +6426,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（座り）",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 573,
@@ -5567,11 +6442,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：花に水やる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 574,
@@ -5581,11 +6458,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：眺める",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 575,
@@ -5595,11 +6474,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む（座り）",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 576,
@@ -5609,11 +6490,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つぶまめ：リズムに乗る",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 577,
@@ -5623,11 +6506,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "壊れたスマホ取り出す",
+    "ba199df0 u8": 0,
     "Misc": "\f\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 578,
@@ -5637,11 +6522,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "しずえハミング",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 579,
@@ -5651,11 +6538,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:リズムに乗る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 580,
@@ -5665,11 +6554,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：とたけけライブにノる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 581,
@@ -5679,11 +6570,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】ゆうたろうに魂返し終える",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 582,
@@ -5693,11 +6586,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：タンバリンを鳴らす",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 584,
@@ -5707,11 +6602,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：タンバリンを鳴らす",
+    "ba199df0 u8": 0,
     "Misc": "F",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 585,
@@ -5721,11 +6618,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：写真撮る",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 586,
@@ -5735,11 +6634,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：DIYをする",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 587,
@@ -5749,25 +6650,29 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：演奏する（片手）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 588,
-    "9f5123d4 u8": 1,
+    "9f5123d4 u8": 3,
     "d5217761 u8": 255,
     "AsCommand": "NpcWind",
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：扇風機にあたる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 590,
@@ -5777,25 +6682,29 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：サービス：ウキいじり",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 591,
-    "9f5123d4 u8": 1,
+    "9f5123d4 u8": 3,
     "d5217761 u8": 255,
     "AsCommand": "NpcWarm",
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：温まる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 592,
@@ -5805,11 +6714,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミを構える",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 593,
@@ -5819,39 +6730,45 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ラジオ体操",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 594,
-    "9f5123d4 u8": 1,
+    "9f5123d4 u8": 3,
     "d5217761 u8": 255,
     "AsCommand": "NpcSomen",
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうめん",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 595,
-    "9f5123d4 u8": 1,
+    "9f5123d4 u8": 3,
     "d5217761 u8": 255,
     "AsCommand": "NpcTakenAback",
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ビックリする",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 596,
@@ -5861,11 +6778,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：空を見上げる",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 597,
@@ -5875,11 +6794,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腹を掻く",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 598,
@@ -5889,11 +6810,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：読書",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 599,
@@ -5903,11 +6826,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：顔を掻く",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 600,
@@ -5917,11 +6842,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：髪をいじる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 603,
@@ -5931,11 +6858,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:寝ぐせをなおす",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 604,
@@ -5945,11 +6874,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミ素振り",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 605,
@@ -5959,11 +6890,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "シャンク：サービス：コイン遊び",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 606,
@@ -5973,11 +6906,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腰に手を当てる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 607,
@@ -5987,11 +6922,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：自然興味",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 608,
@@ -6001,11 +6938,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：立ち着地",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Sit",
     "UISortID": -1,
     "UniqueID": 609,
@@ -6015,11 +6954,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：イス着地",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Bed",
     "UISortID": -1,
     "UniqueID": 610,
@@ -6029,11 +6970,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：ベッド着地",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 611,
@@ -6043,11 +6986,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "撮影島：つままれる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 612,
@@ -6057,11 +7002,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "撮影島：NPCを呼び出す",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 615,
@@ -6071,11 +7018,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：ミシンをいじる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 616,
@@ -6085,11 +7034,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：汗をぬぐう",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 617,
@@ -6099,11 +7050,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：エプロン整える",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 618,
@@ -6113,11 +7066,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：伸びをする",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 627,
@@ -6127,11 +7082,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:覚えた後の見せびらかし",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 628,
@@ -6141,11 +7098,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：ささやかな笑顔",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 629,
@@ -6155,11 +7114,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ウリ：サービス：くしゃみ",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 630,
@@ -6169,11 +7130,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:DIY拾得しまい",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 631,
@@ -6183,11 +7146,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：髪をいじる",
+    "ba199df0 u8": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 632,
@@ -6197,11 +7162,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ヨガ",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 633,
@@ -6211,11 +7178,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホを見る",
+    "ba199df0 u8": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 634,
@@ -6225,11 +7194,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スティックライト",
+    "ba199df0 u8": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 635,
@@ -6239,11 +7210,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：乾杯",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 636,
@@ -6253,11 +7226,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホ取り出す右手",
+    "ba199df0 u8": 0,
     "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 637,
@@ -6267,11 +7242,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホしまう右手",
+    "ba199df0 u8": 0,
     "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 640,
@@ -6281,11 +7258,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ（来訪）",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 641,
@@ -6295,11 +7274,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：挨拶",
+    "ba199df0 u8": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 643,
@@ -6309,11 +7290,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：回転する",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 644,
@@ -6323,11 +7306,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が回せない（エラー音なし）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 645,
@@ -6337,11 +7322,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が引けない（エラー音なし）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 646,
@@ -6351,11 +7338,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が押せない（エラー音なし）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 647,
@@ -6365,11 +7354,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:落ちる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 648,
@@ -6379,11 +7370,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（自宅）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 650,
@@ -6393,11 +7386,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:発券されたチケットを受け取る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 651,
@@ -6407,11 +7402,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：虫を追いかける",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 652,
@@ -6421,11 +7418,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（汎用）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 653,
@@ -6435,11 +7434,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ポーズをとる",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 654,
@@ -6449,11 +7450,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：霧吹き",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 655,
@@ -6463,11 +7466,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（壁掛け）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 657,
@@ -6477,11 +7482,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：においをかぐ（家具）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 660,
@@ -6491,11 +7498,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：椅子に座って時々アクション",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 661,
@@ -6505,11 +7514,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player：おでかけお見送り",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 662,
@@ -6519,11 +7530,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player：おでかけ出迎え",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 663,
@@ -6533,11 +7546,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アミを振る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 664,
@@ -6547,11 +7562,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アミ構えターン",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 667,
@@ -6561,11 +7578,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、崖下から滝埋める",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 670,
@@ -6575,11 +7594,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タマゴを食べる",
+    "ba199df0 u8": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 671,
@@ -6589,11 +7610,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "ぴょんたろう：ダンス",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 672,
@@ -6603,11 +7626,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:2層目拾ってゲットデモ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 673,
@@ -6617,11 +7642,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ぴょんたろう：ため息",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 675,
@@ -6631,11 +7658,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台リメイク",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 692,
@@ -6645,11 +7674,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台ゲットデモキープ",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 699,
@@ -6659,11 +7690,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：浮上",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 700,
@@ -6673,11 +7706,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：潜る",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 701,
@@ -6687,11 +7722,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：仰向けになる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 702,
@@ -6701,11 +7738,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：泳ぐ（移動）",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 703,
@@ -6715,11 +7754,13 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：食べる",
+    "ba199df0 u8": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 704,
@@ -6729,11 +7770,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:陸に上がる（泳ぎ）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 709,
@@ -6743,11 +7786,29 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：泳ぎウエイト",
+    "ba199df0 u8": 0,
     "Misc": "P",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 712,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonFireworkSwing",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:手持ち花火を振りまわす",
+    "ba199df0 u8": 0,
+    "Misc": "\f",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 717,
@@ -6757,11 +7818,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[浮上終了]（泳ぎ）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 718,
@@ -6771,11 +7834,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[浮上]（泳ぎ）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 719,
@@ -6785,11 +7850,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[潜り]（泳ぎ）",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 720,
@@ -6799,11 +7866,29 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具持ちアニメ夏",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 721,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonBalloonAction",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:風船を引っ張る",
+    "ba199df0 u8": 0,
+    "Misc": "\f",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 739,
@@ -6813,11 +7898,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海の幸捕獲アクション",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 740,
@@ -6827,11 +7914,125 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー（海賊）：スマホをなくす",
+    "ba199df0 u8": 0,
     "Misc": "N",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 744,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "NpcFireworkSetOff",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "NPC：花火をする",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 745,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "NpcFireworkEnd",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "NPC：花火をする（終了）",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 746,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamPreparation",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:夢入眠姿勢",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 747,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamMoveInto",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:夢の中でプレイアブル",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 748,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamWakeUp",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:夢から覚める",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 749,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamOpenEyes",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:夢見先で目を開ける",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 754,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "NpcSpCuteWait",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "ゆめみ：サービス：腰に手を当てる",
+    "ba199df0 u8": 0,
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
     "LowerSetting": "DisableOnlyLowerBody",
     "UISortID": -1,
     "UniqueID": 758,
@@ -6841,11 +8042,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海に歩いて入る",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 759,
@@ -6855,11 +8058,13 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:潜水ひとかぎ移動(A長押し)",
+    "ba199df0 u8": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
   },
   {
+    "58102055 string": "None",
     "LowerSetting": "EnableOnlyLowerBody_Swim",
     "UISortID": -1,
     "UniqueID": 760,
@@ -6869,7 +8074,216 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動(A長押し)",
+    "ba199df0 u8": 0,
     "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 765,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamPreparationKeep",
+    "84761fb6 u8": 1,
+    "CancelFootprint": 1,
+    "Comment": "Player:夢入眠姿勢キープ",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 766,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonToolHand10400",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "道具持ちアニメ夏２",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 767,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerPennantWaveUp",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:ペナントを振り上げる",
+    "ba199df0 u8": 0,
+    "Misc": "\u0004",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 768,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerPennantWaveKeep",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:ペナントを振り続ける",
+    "ba199df0 u8": 0,
+    "Misc": "\u0004",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 769,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerPennantWaveDown",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:ペナントを下ろす",
+    "ba199df0 u8": 0,
+    "Misc": "\u0004",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 770,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerFireworkPutSetOff",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:置き花火に点火",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 771,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerFireworkPutReady",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:置き花火に点火Ready",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 772,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerFireworkPutReadyKeep",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:置き花火に点火ReadyKeep",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 776,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDrawLots",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:花火大会くじひく",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 778,
+    "9f5123d4 u8": 2,
+    "d5217761 u8": 255,
+    "AsCommand": "SzaFireworks",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "しずえ：サービス：花火を見る",
+    "ba199df0 u8": 0,
+    "Misc": "@",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "EnableOnlyLowerBody_Bed",
+    "UISortID": -1,
+    "UniqueID": 782,
+    "9f5123d4 u8": 4,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerDreamPreparationOpenEye",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:夢入眠姿勢目を開ける",
+    "ba199df0 u8": 0,
+    "Misc": "",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 783,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 12,
+    "AsCommand": "PlayerTumbleUpper",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "Player:転ぶ道具分岐用上半身コマンド",
+    "ba199df0 u8": 0,
+    "Misc": "\u0002",
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "58102055 string": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": -1,
+    "UniqueID": 784,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "NpcSpArrangeHigh",
+    "84761fb6 u8": 0,
+    "CancelFootprint": 0,
+    "Comment": "特殊サービス：汎用がさごそ（高いとこ）",
+    "ba199df0 u8": 0,
+    "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
   }

@@ -3,132 +3,182 @@
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": -2,
-    "UniqueID": 0
+    "UniqueID": 0,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5709,
-    "UniqueID": 3
+    "UniqueID": 3,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "W",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5884,
-    "UniqueID": 4
+    "UniqueID": 4,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5725,
-    "UniqueID": 5
+    "UniqueID": 5,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5726,
-    "UniqueID": 6
+    "UniqueID": 6,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "E",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
-    "UniqueID": 11
+    "UniqueID": 11,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 3411,
-    "UniqueID": 12
+    "UniqueID": 12,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5970,
-    "UniqueID": 13
+    "UniqueID": 13,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
-    "UniqueID": 14
+    "UniqueID": 14,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "E",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 7142,
-    "UniqueID": 15
+    "UniqueID": 15,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 787,
-    "UniqueID": 17
+    "UniqueID": 17,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "E",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
-    "UniqueID": 18
+    "UniqueID": 18,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "W",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 5972,
-    "UniqueID": 19
+    "UniqueID": 19,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "ON",
     "ItemNameUniqueID": 1430,
-    "UniqueID": 20
+    "UniqueID": 20,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "N",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
-    "UniqueID": 21
+    "UniqueID": 21,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "W",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
-    "UniqueID": 22
+    "UniqueID": 22,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 6813,
-    "UniqueID": 23
+    "UniqueID": 23,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "ON",
     "ItemNameUniqueID": 1429,
-    "UniqueID": 24
+    "UniqueID": 24,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 12201,
-    "UniqueID": 25
+    "UniqueID": 25,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 330,
-    "UniqueID": 26
+    "UniqueID": 26,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 1023,
-    "UniqueID": 27
+    "UniqueID": 27,
+    "cb7385a8 u32": 0
   },
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
     "ItemNameUniqueID": 12532,
-    "UniqueID": 30
+    "UniqueID": 30,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 7132,
+    "UniqueID": 31,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13218,
+    "UniqueID": 32,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "E",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 9767,
+    "UniqueID": 33,
+    "cb7385a8 u32": 1
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 2592,
+    "UniqueID": 34,
+    "cb7385a8 u32": 0
   }
 ]

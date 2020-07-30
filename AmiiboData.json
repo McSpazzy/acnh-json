@@ -325,9 +325,9 @@
     "NfpType": 1,
     "NpcLabel": "tap",
     "NpcType": 1,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 110592,

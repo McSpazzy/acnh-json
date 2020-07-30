@@ -92,8 +92,8 @@
   {
     "MaxValue": 256,
     "MessageLabel": 110,
-    "TalkValueVillager": 100,
-    "TalkValueVisitor": 30,
+    "TalkValueVillager": 20,
+    "TalkValueVisitor": 20,
     "UniqueID": 9,
     "FlagsFlowAccess": 0,
     "Key": "CutTreeCount",

@@ -170,6 +170,12 @@
   {
     "AIFlowEntryName": "",
     "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
+    "AppearStage": 4,
+    "CastType": ""
+  },
+  {
+    "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
     "AppearStage": 0,
     "CastType": ""
   }

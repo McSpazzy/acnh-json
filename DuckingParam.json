@@ -74,5 +74,13 @@
   {
     "UniqueID": 41,
     "Name": "EF_透過全画面_ALL"
+  },
+  {
+    "UniqueID": 42,
+    "Name": "専用EF_ゆめみから覚める_SE"
+  },
+  {
+    "UniqueID": 43,
+    "Name": "専用EF_ゆめみに落ちる_SE"
   }
 ]

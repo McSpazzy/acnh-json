@@ -502,5 +502,21 @@
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotRewardExplain",
     "Name": "フータ|スタンプラリー報酬は二重に貰えない説明を受けた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 81,
+    "FlagsFlowAccess": 2,
+    "Key": "V_Sza_TalkFireworksToday",
+    "Name": "しずえ|花火大会開催中、よその島のしずえと会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 83,
+    "FlagsFlowAccess": 2,
+    "Key": "V_Sza_FireworksRewardToday",
+    "Name": "花火しずえ|おでかけ先の島で光るアクセサリーもらった？"
   }
 ]
