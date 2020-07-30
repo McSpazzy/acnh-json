@@ -64,5 +64,49 @@
     "UniqueID": 5,
     "EventLabel": "Tanabata",
     "ItemFrom": "StarFestival"
+  },
+  {
+    "RegionEventCountry1": "5A873916",
+    "SortID": 801,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 7,
+    "EventLabel": "CowBoyFestival",
+    "ItemFrom": "CowboyFestival"
+  },
+  {
+    "RegionEventCountry1": "Asia",
+    "SortID": 802,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 19,
+    "EventLabel": "GyurouSyokujyo",
+    "ItemFrom": "AsiaStarFestival"
+  },
+  {
+    "RegionEventCountry1": "858EDF3C",
+    "SortID": 900,
+    "RegionEventCountry2": 6,
+    "RegionEventCountry3": 9,
+    "RegionEventCountry4": 8,
+    "RegionEventCountry5": 0,
+    "UniqueID": 8,
+    "EventLabel": "GrapeHarvestFestival",
+    "ItemFrom": "GrapeHarvestFestival"
+  },
+  {
+    "RegionEventCountry1": "EachCountry",
+    "SortID": 910,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 10,
+    "EventLabel": "MidAutumnFestival",
+    "ItemFrom": "MoonViewing"
   }
 ]

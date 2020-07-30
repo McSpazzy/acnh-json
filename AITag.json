@@ -190,5 +190,11 @@
     "UniqueID": 139,
     "Label": "Easter",
     "Name": "イースター"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 140,
+    "Label": "Fireworks",
+    "Name": "花火大会"
   }
 ]

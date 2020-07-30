@@ -5,9 +5,24 @@
     "Label": "None"
   },
   {
+    "FlagAnim": 3,
+    "UniqueID": 3,
+    "Label": "Mexico"
+  },
+  {
     "FlagAnim": 6,
     "UniqueID": 6,
     "Label": "Brazil"
+  },
+  {
+    "FlagAnim": 8,
+    "UniqueID": 8,
+    "Label": "China"
+  },
+  {
+    "FlagAnim": 9,
+    "UniqueID": 9,
+    "Label": "Korea"
   },
   {
     "FlagAnim": 10,
@@ -33,6 +48,11 @@
     "FlagAnim": 29,
     "UniqueID": 29,
     "Label": "Germany"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 32,
+    "Label": "Asia"
   },
   {
     "FlagAnim": 0,

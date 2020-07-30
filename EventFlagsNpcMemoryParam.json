@@ -52,7 +52,7 @@
     "FlagsFlowAccess": 2,
     "Key": "EasterGetRecipeFlag",
     "MaxValue": 1,
-    "Name": "イースター|このNPCからリアクション会話でレシピを受け取った"
+    "Name": "イースター|今日このNPCからレシピを受け取った"
   },
   {
     "UniqueID": 5,
@@ -163,6 +163,28 @@
     "Key": "SitBenchFlag",
     "MaxValue": 1,
     "Name": "NPCをベンチに座らせる"
+  },
+  {
+    "UniqueID": 15,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TalkInDream",
+    "MaxValue": 1,
+    "Name": "今回の夢の中への訪問で話をしたか"
+  },
+  {
+    "UniqueID": 17,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "PastCountFromLastVisitPlayerHouse",
+    "MaxValue": 255,
+    "Name": "最後にP宅を訪問してからの経過日数"
   },
   {
     "UniqueID": 18,
@@ -913,6 +935,17 @@
     "Name": "今、FreeGを聞いたか？"
   },
   {
+    "UniqueID": 89,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FireworksCannotGetNnpcItemFlag",
+    "MaxValue": 1,
+    "Name": "花火大会|このNPCから受け取り損ねたアイテムがある？"
+  },
+  {
     "UniqueID": 90,
     "5f77b61a u8": 0,
     "5140e4b4 u8": 1,
@@ -1329,5 +1362,16 @@
     "Key": "EasterCannotGetNnpcRecipeFlag",
     "MaxValue": 1,
     "Name": "イースター|このNPCから受け取り損ねたレシピがある？"
+  },
+  {
+    "UniqueID": 131,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FireworksGetItemFlag",
+    "MaxValue": 1,
+    "Name": "花火大会|このNPCからリアクション会話で花火を受け取った"
   }
 ]

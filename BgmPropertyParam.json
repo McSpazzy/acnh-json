@@ -98,5 +98,17 @@
   {
     "UniqueID": 30,
     "Label": "JuneBrideStudioState"
+  },
+  {
+    "UniqueID": 31,
+    "Label": "YumemiDemoWakeUpState"
+  },
+  {
+    "UniqueID": 32,
+    "Label": "YumemiFieldBgmDelay"
+  },
+  {
+    "UniqueID": 33,
+    "Label": "EventAnnounceState"
   }
 ]
