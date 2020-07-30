@@ -10,7 +10,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】会釈",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -26,7 +26,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】うなずく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -42,7 +42,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首横ふり",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -58,7 +58,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】首かしげ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -74,7 +74,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニコニコ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -90,7 +90,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ハッピー",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -106,7 +106,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】うきうき",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -122,7 +122,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】笑う",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -138,7 +138,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ラブ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -154,7 +154,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】おまかせ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -170,7 +170,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】シャキーン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -186,7 +186,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】決めポーズ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -202,7 +202,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ドヤ顔",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -218,7 +218,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】大声",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -234,7 +234,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】拍手",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -250,7 +250,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】またこんど",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -266,7 +266,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ん？",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -282,7 +282,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】はて？",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -298,7 +298,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あっ！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -314,7 +314,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】驚／ハッ！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -330,7 +330,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひらめき",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -346,7 +346,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ガーン！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -362,7 +362,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】しまった！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -378,7 +378,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】テレる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -394,7 +394,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】もじもじ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -410,7 +410,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】苦笑",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -426,7 +426,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニヤリ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -442,7 +442,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悪巧み",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -458,7 +458,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヤレヤレ…",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -474,7 +474,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】妄想中",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -490,7 +490,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】悩／ムー",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -506,7 +506,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ねぼけ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -522,7 +522,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】立ち寝",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -538,7 +538,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】こまる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -554,7 +554,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ため息",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -570,7 +570,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】落ち込む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -586,7 +586,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】失恋",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -602,7 +602,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】号泣",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -618,7 +618,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ジロッ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -634,7 +634,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】怒／ムカッ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -650,7 +650,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ヒュー",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -666,7 +666,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】あせる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -682,7 +682,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ブルブル…",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -698,7 +698,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】くしゃみ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -714,7 +714,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】不機嫌／ムッ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -730,7 +730,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】激怒／プンプン！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -746,7 +746,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ひく／エッ？！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -762,7 +762,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】暑い",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -778,7 +778,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】微笑",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -794,7 +794,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ニカッ！",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -810,7 +810,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】しどろもどろ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -826,7 +826,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】ポリポリ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -842,7 +842,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "【漫符】まごまご",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -858,7 +858,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】真顔",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -874,7 +874,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】えっ？",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -890,7 +890,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】説明する",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -906,7 +906,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】解除",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -922,7 +922,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】受け渡し補助用両手アニメ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -938,7 +938,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "なし",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -954,7 +954,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:道具変更(つける)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -970,7 +970,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(からだ)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -986,7 +986,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾う待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1002,7 +1002,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾う",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1018,7 +1018,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具しまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001c\u0001\f",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1034,7 +1034,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具取り出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014\u0001\b",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1050,7 +1050,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:メニューウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1066,7 +1066,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:食べる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1082,7 +1082,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1098,7 +1098,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1114,7 +1114,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1130,7 +1130,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "立ちウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1146,7 +1146,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "座りウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1162,7 +1162,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1178,7 +1178,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "泳ぎウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1194,7 +1194,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ準備(振りかぶり)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1210,7 +1210,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ振りかぶり後、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1226,7 +1226,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ掘る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1242,7 +1242,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップ埋める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1258,7 +1258,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具空振り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1274,7 +1274,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具跳ね返り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1290,7 +1290,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具壊れる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1306,7 +1306,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具キャンセル",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1322,7 +1322,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1338,7 +1338,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え準備、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1354,7 +1354,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:溝飛び越え",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1370,7 +1370,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:溝飛び越え、キャンセル",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1386,7 +1386,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ待機(Wait)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1402,7 +1402,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具持ちアニメ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1418,7 +1418,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1434,7 +1434,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "木を揺らす待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1450,7 +1450,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "木を揺らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1466,7 +1466,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アイテムをしまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1482,7 +1482,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具つかむ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1498,7 +1498,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1514,7 +1514,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す準備待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1530,7 +1530,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具押す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1546,7 +1546,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1562,7 +1562,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く準備待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1578,7 +1578,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具引く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
@@ -1594,7 +1594,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具回す準備待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1610,7 +1610,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具回す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1626,7 +1626,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノ振りかぶり",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1642,7 +1642,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノ振りかぶり後、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1658,7 +1658,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:オノでたたく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1674,7 +1674,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサをしまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1690,7 +1690,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサを取り出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1706,7 +1706,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スリップ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1722,7 +1722,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキで変身",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1738,7 +1738,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成生成、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1754,7 +1754,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成生成、準備後、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1770,7 +1770,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成、生成アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1786,7 +1786,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキ、詠唱",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1802,7 +1802,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成、削除アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1818,7 +1818,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：叩かれた",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1834,7 +1834,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1850,7 +1850,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:水中に潜る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1866,7 +1866,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1882,7 +1882,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上してゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1898,7 +1898,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海に飛び込む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1914,7 +1914,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾ってゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1930,7 +1930,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1946,7 +1946,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:溝ジャンプ着地",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1962,7 +1962,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョウロを使用",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1978,7 +1978,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:転ぶ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -1994,7 +1994,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "階段経由でステージイン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2010,7 +2010,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "階段経由でステージアウト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2026,7 +2026,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを開ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2042,7 +2042,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを閉める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2058,7 +2058,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、達成アニメ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0010",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2074,7 +2074,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】差し出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2090,7 +2090,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】受け取る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2106,7 +2106,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】しまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2122,7 +2122,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】着替える",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2138,7 +2138,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】つき返す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2154,7 +2154,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】つき返される",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2170,7 +2170,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】食べる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2186,7 +2186,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアノック",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2202,7 +2202,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドア入り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2218,7 +2218,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアから出る待ち",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2234,7 +2234,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ドアから出る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2250,7 +2250,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カーテンを開ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2266,7 +2266,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カーテンを閉める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2282,7 +2282,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を回す準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2298,7 +2298,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "クラッカーをする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2314,7 +2314,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:シャボン玉を吹く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2330,7 +2330,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:風車を吹く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2346,7 +2346,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:吹き戻しを吹く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2362,7 +2362,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:手持ち花火をする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2378,7 +2378,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2394,7 +2394,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2410,7 +2410,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動(リモート用)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2426,7 +2426,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミを振る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2442,7 +2442,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハシゴ、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2458,7 +2458,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハシゴ、準備後、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2474,7 +2474,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "Player:ハシゴアクション(接地、昇降、回収)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2490,7 +2490,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ道具変更(はずす)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2506,7 +2506,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具(壁掛け)のスイッチ切り替え",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2522,7 +2522,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:変身ステッキ、コーデセット選択",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2538,7 +2538,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、振る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2554,7 +2554,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、振る(失敗)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2570,7 +2570,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、くいつき待ち",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2586,7 +2586,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、ウキひきあげ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2602,7 +2602,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雑草を回収",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2618,7 +2618,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:花を摘む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2634,7 +2634,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2650,7 +2650,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め準備、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2666,7 +2666,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:足で穴埋め",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2682,7 +2682,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、バシャバシャ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2698,7 +2698,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナ引き上げ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2714,7 +2714,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2730,7 +2730,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾った後のガサゴソ(入れ替え待ち)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2746,7 +2746,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "アミを構えて立つ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "��",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2762,7 +2762,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:プレイヤ、アミを構えて歩く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "��\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2778,7 +2778,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アミでムシをつかまえたゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2794,7 +2794,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:パチンコを構えて立つ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2810,7 +2810,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:パチンコを撃つ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2826,7 +2826,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】みせる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2842,7 +2842,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アニメドリブン移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
@@ -2858,7 +2858,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ、振りを止める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2874,7 +2874,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:走りながら海に飛び込む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2890,7 +2890,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "カサをまわす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2906,7 +2906,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（１層目）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2922,7 +2922,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（２層目近い）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2938,7 +2938,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雪玉を転がす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2954,7 +2954,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具を拾う（壁掛け）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2970,7 +2970,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:雪玉を蹴る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -2986,7 +2986,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成削除、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3002,7 +3002,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成削除、準備後、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3018,7 +3018,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水ウェイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3034,7 +3034,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水、ひとかぎ泳ぎ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3050,7 +3050,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水、ひとかぎ泳ぎ(リモート専用)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3066,7 +3066,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:立ち泳ぎ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3082,7 +3082,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "花の匂いをかぐ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3098,7 +3098,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3114,7 +3114,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3130,7 +3130,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3146,7 +3146,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面に座る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3162,7 +3162,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3178,7 +3178,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3194,7 +3194,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3210,7 +3210,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:柵造成、NGアクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3226,7 +3226,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成堀り、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3242,7 +3242,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、準備Keep",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3258,7 +3258,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、川作る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3274,7 +3274,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、川埋める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3290,7 +3290,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3306,7 +3306,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、準備Keep",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3322,7 +3322,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成掘り、滝作る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3338,7 +3338,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、滝埋める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3354,7 +3354,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター３拍子",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3370,7 +3370,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター４拍子",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3386,7 +3386,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:会話開始の位置調整移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3402,7 +3402,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "イスに座る、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3418,7 +3418,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "イスに座る、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3434,7 +3434,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスに座る、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3450,7 +3450,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3466,7 +3466,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3482,7 +3482,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3498,7 +3498,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスに座る、方向転換",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3514,7 +3514,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "イスから降りる、失敗",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3530,7 +3530,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで切り株を掘る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3546,7 +3546,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってゲットデモキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3562,7 +3562,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:拾ってゲットデモ姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3578,7 +3578,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:つりざおでサカナゲットデモ姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3594,7 +3594,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:アミでムシゲットデモ姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3610,7 +3610,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3626,7 +3626,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タンスを開ける姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3642,7 +3642,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具つかむ姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3658,7 +3658,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道具壊れる姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3674,7 +3674,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:潜水状態から浮上してゲットデモキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3690,7 +3690,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴に落ちる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3706,7 +3706,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴でもがく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3722,7 +3722,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴から脱出",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3738,7 +3738,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、落ちる前にぐらつく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3754,7 +3754,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴でもがく（Partial禁止）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3770,7 +3770,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴に落ちる（Partial禁止）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3786,7 +3786,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってしまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3802,7 +3802,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "NPC：アミを構えて歩く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3818,7 +3818,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アニメドリブンターン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3834,7 +3834,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:スコップで掘ってしまう後処理",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3850,7 +3850,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：体操",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3866,7 +3866,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3882,7 +3882,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドに乗る、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3898,7 +3898,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3914,7 +3914,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドから降りる、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3930,7 +3930,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3946,7 +3946,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ベッドで転がる、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3962,7 +3962,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：歌う",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3978,7 +3978,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョウロを使用(スキルアップ時)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -3994,7 +3994,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心③",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4010,7 +4010,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：画面外ワープ出現",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4026,7 +4026,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ろうそくを吹く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4042,7 +4042,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギターウエイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4058,7 +4058,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が押せない",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4074,7 +4074,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が引けない",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4090,7 +4090,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が回せない",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4106,7 +4106,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし（横持ち）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4122,7 +4122,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:見せびらかし姿勢キープ（横持ち）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4138,7 +4138,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "サカナ、ゲットデモ(横持ち)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4154,7 +4154,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "サカナ、ゲットデモ姿勢キープ(横持ち)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4170,7 +4170,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4186,7 +4186,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え準備、待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4202,7 +4202,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:川越え",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4218,7 +4218,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:川越え着地",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4234,7 +4234,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川越え、キャンセル",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4250,7 +4250,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つりざお、サカナ引き上げ(横持ち)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4266,7 +4266,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心②",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4282,7 +4282,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：フェイシャル：関心①",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4298,7 +4298,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "ベッドで転がる、失敗",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4314,7 +4314,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチに刺される",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4330,7 +4330,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：観察（博物館・商店）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4346,7 +4346,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:気絶する",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4362,7 +4362,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "うちわをあおぐ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4378,7 +4378,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "オカリナを鳴らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4394,7 +4394,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "オカリナ構えキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4410,7 +4410,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "パンフルートを鳴らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4426,7 +4426,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "パンフルート構えキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4442,7 +4442,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "タンバリンを鳴らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4458,7 +4458,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "タンバリン構えキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4474,7 +4474,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:切れないオノでたたく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4490,7 +4490,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ持ちアニメ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4506,7 +4506,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホしまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4522,7 +4522,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ取り出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001c\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4538,7 +4538,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：寝てる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4554,7 +4554,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：特殊漫符：うなされる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4570,7 +4570,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー：起き上がる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4586,7 +4586,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：筋トレ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4602,7 +4602,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：飲む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4618,7 +4618,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：食べる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4634,7 +4634,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうじ（ほうき）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4650,7 +4650,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削りアクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4666,7 +4666,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "落とし穴、穴から脱出（Partial禁止）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4682,7 +4682,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削り準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4698,7 +4698,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:道造成、削り準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4714,7 +4714,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "プレイヤ、AI移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
@@ -4730,7 +4730,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4746,7 +4746,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：メイン権限、受け取り待ち",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4762,7 +4762,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】NPC:カードシャッフル",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4778,7 +4778,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【漫符】NPC:カードを出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4794,7 +4794,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(カバン)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4810,7 +4810,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(足元)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4826,7 +4826,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:装備変更(あたま)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4842,7 +4842,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、電話中",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0016",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4858,7 +4858,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台もぞもぞ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4874,7 +4874,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台ゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4890,7 +4890,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株に座る、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4906,7 +4906,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株に座る、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4922,7 +4922,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株に座る、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4938,7 +4938,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株に座る、方向転換",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4954,7 +4954,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株から降りる、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4970,7 +4970,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "切り株から降りる、準備後待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -4986,7 +4986,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株から降りる、アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5002,7 +5002,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "切り株から降りる、失敗",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5018,7 +5018,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチ刺されから回復",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5034,7 +5034,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面に座る開始",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5050,7 +5050,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：地面から立つ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5066,7 +5066,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スマホ、データ交換中",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5082,7 +5082,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、くいつき待ち",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5098,7 +5098,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、振る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5114,7 +5114,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：つりざお、ウキひきあげ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5130,7 +5130,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ジョウロ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5146,7 +5146,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ話し掛ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5162,7 +5162,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：ステージ入場ワープ出現",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5178,7 +5178,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:造成系NGアクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5194,7 +5194,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:クローゼット着替えポーズ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5210,7 +5210,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうじ（はたき）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5226,7 +5226,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:ピニャータを叩く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5242,7 +5242,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：歩く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5258,7 +5258,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：ウエイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5274,7 +5274,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：復活",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5290,7 +5290,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：飛び散る（デモ開始）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5306,7 +5306,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：退場",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5322,7 +5322,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "流れ星:祈る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5338,7 +5338,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成NG、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5354,7 +5354,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成NG、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5370,7 +5370,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成跳ね返り、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5386,7 +5386,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成空振り、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5402,7 +5402,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成空振り、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5418,7 +5418,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:崖造成跳ね返り、準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5434,7 +5434,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：飛び散った後",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5450,7 +5450,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう魂：魂もらう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5466,7 +5466,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆうたろう：特殊漫符：驚く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5482,7 +5482,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】ゆうたろうに魂返す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5498,7 +5498,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:気絶から起き上がる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5514,7 +5514,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：おでかけ手続き",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5530,7 +5530,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：無線通信",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5546,7 +5546,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "モーリー：特殊漫符：ラジャー",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5562,7 +5562,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ヨガ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5578,7 +5578,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ハチ刺され倒れる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5594,7 +5594,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホで撮る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5610,7 +5610,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを振る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5626,7 +5626,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:カに刺される",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5642,7 +5642,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを振り続ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5658,7 +5658,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：ミシン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5674,7 +5674,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト閉める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5690,7 +5690,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト開け続ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5706,7 +5706,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ポスト開ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5722,7 +5722,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "スティックライトを降ろす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5738,7 +5738,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：リズムにノる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5754,7 +5754,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(あっ！)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5770,7 +5770,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：会話のフリ(えっ？)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5786,7 +5786,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：話のフリ(驚／ハッ！)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5802,7 +5802,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:おすそわけ：サブしまう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5818,7 +5818,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：観察（虫眼鏡）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5834,7 +5834,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：ギター弾き終えウエイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@\u0002\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5850,7 +5850,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "アミ叩かれ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5866,7 +5866,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ひこうきばしり",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 1,
     "ToolAsCommand": ""
@@ -5882,7 +5882,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ01",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5898,7 +5898,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ02",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5914,7 +5914,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ03",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5930,7 +5930,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ04",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5946,7 +5946,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ05",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5962,7 +5962,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "マネキンポーズ06",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5978,7 +5978,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：スケッチウエイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -5994,7 +5994,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：チェック",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6010,7 +6010,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ことの：特殊漫符：雨の日チェック",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6026,7 +6026,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室から出る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6042,7 +6042,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室に入っている",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6058,7 +6058,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "試着室に入る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6074,7 +6074,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ひこうきばしりターン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6090,7 +6090,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：演奏する（両手）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6106,7 +6106,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スイッチ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6122,7 +6122,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：リップシンク",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6138,7 +6138,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ゲットして見せびらかし",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6154,7 +6154,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：リップシンク",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6170,7 +6170,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:デモターン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6186,7 +6186,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：はて？",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6202,7 +6202,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：うなずく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6218,7 +6218,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "とたけけ：特殊漫符：えっ？",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6234,7 +6234,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6250,7 +6250,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動待機",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6266,7 +6266,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:隙間移動準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6282,7 +6282,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：カメラに気づく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6298,7 +6298,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：放送準備",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6314,7 +6314,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：空を見上げる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6330,7 +6330,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6346,7 +6346,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：PCカタカタ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6362,7 +6362,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（立ち）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6378,7 +6378,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（高）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6394,7 +6394,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6410,7 +6410,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：はたき（中）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6426,7 +6426,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：本を読む（座り）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6442,7 +6442,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：花に水やる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6458,7 +6458,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：眺める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6474,7 +6474,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：飲む（座り）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6490,7 +6490,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "つぶまめ：リズムに乗る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6506,7 +6506,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "壊れたスマホ取り出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\f\u0001",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6522,7 +6522,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "しずえハミング",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6538,7 +6538,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:リズムに乗る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6554,7 +6554,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：とたけけライブにノる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6570,7 +6570,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "【受渡し】ゆうたろうに魂返し終える",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6586,7 +6586,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：タンバリンを鳴らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6602,7 +6602,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：タンバリンを鳴らす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "F",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6618,7 +6618,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：写真撮る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6634,7 +6634,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：DIYをする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6650,7 +6650,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：演奏する（片手）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6666,7 +6666,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：扇風機にあたる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6682,7 +6682,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジャスティン：サービス：ウキいじり",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6698,7 +6698,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：温まる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6714,7 +6714,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミを構える",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6730,7 +6730,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ラジオ体操",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6746,7 +6746,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：そうめん",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6762,7 +6762,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ビックリする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6778,7 +6778,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：空を見上げる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6794,7 +6794,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腹を掻く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6810,7 +6810,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：読書",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6826,7 +6826,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：顔を掻く",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6842,7 +6842,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：髪をいじる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6858,7 +6858,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:寝ぐせをなおす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6874,7 +6874,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "レックス：サービス：アミ素振り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6890,7 +6890,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "シャンク：サービス：コイン遊び",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6906,7 +6906,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：腰に手を当てる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6922,7 +6922,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：自然興味",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6938,7 +6938,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：立ち着地",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6954,7 +6954,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：イス着地",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6970,7 +6970,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：ベッド着地",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -6986,7 +6986,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "撮影島：つままれる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7002,7 +7002,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "撮影島：NPCを呼び出す",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7018,7 +7018,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：ミシンをいじる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7034,7 +7034,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "あさみ：サービス：汗をぬぐう",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7050,7 +7050,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "きぬよ：サービス：エプロン整える",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7066,7 +7066,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：伸びをする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7082,7 +7082,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:覚えた後の見せびらかし",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7098,7 +7098,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：ささやかな笑顔",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7114,7 +7114,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ウリ：サービス：くしゃみ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7130,7 +7130,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:DIY拾得しまい",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7146,7 +7146,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：髪をいじる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "D",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7162,7 +7162,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：ヨガ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7178,7 +7178,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホを見る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0014",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7194,7 +7194,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スティックライト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7210,7 +7210,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：乾杯",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7226,7 +7226,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホ取り出す右手",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7242,7 +7242,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：スマホしまう右手",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\f\u0001\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7258,7 +7258,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ（来訪）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7274,7 +7274,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：挨拶",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0006",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7290,7 +7290,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "撮影島：回転する",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7306,7 +7306,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が回せない（エラー音なし）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7322,7 +7322,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が引けない（エラー音なし）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7338,7 +7338,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:家具が押せない（エラー音なし）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7354,7 +7354,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:落ちる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7370,7 +7370,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（自宅）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7386,7 +7386,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:発券されたチケットを受け取る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7402,7 +7402,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：虫を追いかける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7418,7 +7418,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（汎用）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7434,7 +7434,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：ポーズをとる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7450,7 +7450,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：霧吹き",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7466,7 +7466,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：家具を見る（壁掛け）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7482,7 +7482,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：においをかぐ（家具）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7498,7 +7498,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：椅子に座って時々アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7514,7 +7514,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player：おでかけお見送り",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7530,7 +7530,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player：おでかけ出迎え",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7546,7 +7546,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アミを振る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7562,7 +7562,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：アミ構えターン",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7578,7 +7578,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:川造成埋め、崖下から滝埋める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7594,7 +7594,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:タマゴを食べる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u001e",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7610,7 +7610,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 1,
     "Comment": "ぴょんたろう：ダンス",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7626,7 +7626,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:2層目拾ってゲットデモ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7642,7 +7642,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ぴょんたろう：ため息",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7658,7 +7658,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台リメイク",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7674,7 +7674,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:作業台ゲットデモキープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7690,7 +7690,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：浮上",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7706,7 +7706,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：潜る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7722,7 +7722,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：仰向けになる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7738,7 +7738,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：泳ぐ（移動）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7754,7 +7754,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：食べる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7770,7 +7770,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:陸に上がる（泳ぎ）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7786,7 +7786,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "ラコスケ：泳ぎウエイト",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "P",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7802,7 +7802,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:手持ち花火を振りまわす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\f",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7818,7 +7818,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[浮上終了]（泳ぎ）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7834,7 +7834,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[浮上]（泳ぎ）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7850,7 +7850,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:ジャンプして入水[潜り]（泳ぎ）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7866,7 +7866,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具持ちアニメ夏",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7882,7 +7882,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:風船を引っ張る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\f",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7898,7 +7898,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海の幸捕獲アクション",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7914,7 +7914,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ジョニー（海賊）：スマホをなくす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "N",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7930,7 +7930,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：花火をする",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7946,7 +7946,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "NPC：花火をする（終了）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7962,7 +7962,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:夢入眠姿勢",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7978,7 +7978,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:夢の中でプレイアブル",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -7994,7 +7994,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:夢から覚める",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8010,7 +8010,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:夢見先で目を開ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8026,7 +8026,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "ゆめみ：サービス：腰に手を当てる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8042,7 +8042,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:海に歩いて入る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8058,7 +8058,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:潜水ひとかぎ移動(A長押し)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8074,7 +8074,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 0,
     "Comment": "Player:泳ぎひとかき移動(A長押し)",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8090,7 +8090,7 @@
     "84761fb6 u8": 1,
     "CancelFootprint": 1,
     "Comment": "Player:夢入眠姿勢キープ",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8106,7 +8106,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "道具持ちアニメ夏２",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8122,7 +8122,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ペナントを振り上げる",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8138,7 +8138,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ペナントを振り続ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8154,7 +8154,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:ペナントを下ろす",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0004",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8170,7 +8170,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:置き花火に点火",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8186,7 +8186,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:置き花火に点火Ready",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8202,7 +8202,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:置き花火に点火ReadyKeep",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8218,7 +8218,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:花火大会くじひく",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8234,7 +8234,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "しずえ：サービス：花火を見る",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8250,7 +8250,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:夢入眠姿勢目を開ける",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8266,7 +8266,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "Player:転ぶ道具分岐用上半身コマンド",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "\u0002",
     "MoveAs": 0,
     "ToolAsCommand": ""
@@ -8282,7 +8282,7 @@
     "84761fb6 u8": 0,
     "CancelFootprint": 0,
     "Comment": "特殊サービス：汎用がさごそ（高いとこ）",
-    "ba199df0 u8": 0,
+    "DisableEmoticon": 0,
     "Misc": "@",
     "MoveAs": 0,
     "ToolAsCommand": ""
