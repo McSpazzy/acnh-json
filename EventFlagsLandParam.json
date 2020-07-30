@@ -2599,7 +2599,7 @@
     "MaxValue": 1,
     "UniqueID": 252,
     "Key": "TownNewsHeardEventStarted",
-    "Name": "島内放送|イベント開始済み村内放送を聞いた？",
+    "Name": "村内放送|イベント開始済み村内放送を聞いた？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -2671,7 +2671,7 @@
     "MaxValue": 1,
     "UniqueID": 258,
     "Key": "SzaIslandEvaluationImprovementLifeToday",
-    "Name": "しずえ|島の環境：前回島内放送より「生活」ポイント向上",
+    "Name": "しずえ|島の環境：前回村内放送より「生活」ポイント向上",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -2683,7 +2683,7 @@
     "MaxValue": 1,
     "UniqueID": 259,
     "Key": "SzaIslandEvaluationImprovementNaturalToday",
-    "Name": "しずえ|島の環境：前回島内放送より「自然」ポイント向上",
+    "Name": "しずえ|島の環境：前回村内放送より「自然」ポイント向上",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -2695,7 +2695,7 @@
     "MaxValue": 1,
     "UniqueID": 260,
     "Key": "SzaIslandEvaluationImprovementDevelopToday",
-    "Name": "しずえ|島の環境：前回島内放送より発展要素が増えた",
+    "Name": "しずえ|島の環境：前回村内放送より発展要素が増えた",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3194,18 +3194,6 @@
   {
     "fdb1f290.HashRef": "None",
     "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadWrite",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 313,
-    "Key": "GrowUpAfterPatch1_4",
-    "Name": "1.4適用して成長処理をした",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
     "FlagsFlowAccess": "DisableAccess",
     "FlagsNetAccess": "ReadOnly",
     "MaxValue": 1,
@@ -3521,18 +3509,6 @@
     "FlagsFlowAccess": "DisableAccess",
     "FlagsNetAccess": "ReadOnly",
     "MaxValue": 1,
-    "UniqueID": 346,
-    "Key": "IsDreamingBed",
-    "Name": "ゆめみ用ベッドある？",
-    "SendPlayReport": 0,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "DisableAccess",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
     "UniqueID": 347,
     "Key": "UnlockJuneBrideSeq",
     "Name": "ゲーム進行的にジューンブライド解禁",
@@ -3614,60 +3590,12 @@
   {
     "fdb1f290.HashRef": "None",
     "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadWrite",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 354,
-    "Key": "TapDreamEnable",
-    "Name": "ゆめみ|ゆめみ機能解禁か？",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadWrite",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 356,
-    "Key": "MyDesignPro2",
-    "Name": "追加型マイデザインPro解禁",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
     "FlagsFlowAccess": "DisableAccess",
     "FlagsNetAccess": "ReadOnly",
     "MaxValue": 1,
     "UniqueID": 357,
     "Key": "GulBVisitEnable",
     "Name": "海賊ジョニーが来訪する条件を満たしたか",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "DisableAccess",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 9999,
-    "UniqueID": 359,
-    "Key": "FireworksAddBbsYear",
-    "Name": "花火大会予告の掲示板書き込みをした年",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadWrite",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 362,
-    "Key": "EnableMyDream",
-    "Name": "ゆめみ|現在、自分の島の夢を提供中か？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3686,48 +3614,12 @@
   {
     "fdb1f290.HashRef": "None",
     "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadOnly",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 364,
-    "Key": "DreamUploadPlayerHaveCreaterID",
-    "Name": "ゆめみ|夢の最終更新者がMyDesignショーケースの作者IDを持ってるか？",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
     "FlagsFlowAccess": "DisableAccess",
     "FlagsNetAccess": "ManualSend",
     "MaxValue": 5000,
     "UniqueID": 365,
     "Key": "DiveFishNetHostCatchNumResult",
     "Name": "通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "EnableReadWrite",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 370,
-    "Key": "NeedUpdatePassword",
-    "Name": "セーブデータ復元後のパスワード更新必要",
-    "SendPlayReport": 1,
-    "SyncNoCheck": 0
-  },
-  {
-    "fdb1f290.HashRef": "None",
-    "DefaultValue": 0,
-    "FlagsFlowAccess": "DisableAccess",
-    "FlagsNetAccess": "ReadOnly",
-    "MaxValue": 1,
-    "UniqueID": 374,
-    "Key": "EventObjFlag0",
-    "Name": "イベントオブジェフラグ0",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   }

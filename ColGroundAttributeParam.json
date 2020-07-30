@@ -1038,21 +1038,5 @@
     "PlayerNoEntry": 1,
     "Sand": 0,
     "WaterCheck": 1
-  },
-  {
-    "EffectAttribute": 0,
-    "SoundAttribute": 1,
-    "UniqueID": 69,
-    "ViewSortID": 95,
-    "CanBury": 0,
-    "DebugName": "ゆめみ室内専用",
-    "FtrPlace": 0,
-    "2e1e45c3 string16": "#FFFFFF",
-    "bd859433 string16": "#FFFFFF",
-    "254bd05 u8": 0,
-    "NpcNoEntry": 0,
-    "PlayerNoEntry": 0,
-    "Sand": 0,
-    "WaterCheck": 0
   }
 ]

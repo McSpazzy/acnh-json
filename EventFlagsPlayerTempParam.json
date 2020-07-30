@@ -802,26 +802,6 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
-    "UniqueID": 90,
-    "3dad9135 u8": 0,
-    "3c7fb88f u8": 1,
-    "FlagsFlowAccess": 2,
-    "Key": "MyDesignExchangeNotFoundOpus",
-    "Name": "マイデザイン交換| 作品が見つからなかった"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 5,
-    "UniqueID": 91,
-    "3dad9135 u8": 0,
-    "3c7fb88f u8": 1,
-    "FlagsFlowAccess": 2,
-    "Key": "TradeTalkCount",
-    "Name": "訪問N｜家具取引中に会話した回数"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
     "UniqueID": 92,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -868,16 +848,6 @@
     "FlagsFlowAccess": 2,
     "Key": "DocMayDayTourFirstTalkDone",
     "Name": "ロドリー|メーデーツアー到着強制会話済"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 102,
-    "3dad9135 u8": 0,
-    "3c7fb88f u8": 0,
-    "FlagsFlowAccess": 2,
-    "Key": "DodDreamTalk",
-    "Name": "モーリー|夢の中で会話したか？（夢離脱時にロールバック）"
   },
   {
     "DefaultValue": 0,
@@ -958,16 +928,6 @@
     "FlagsFlowAccess": 2,
     "Key": "AlwJuneBrideDayScoreCount",
     "Name": "リサ/ジューンブライド|もらえるあいのけっしょう数用カウント"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 116,
-    "3dad9135 u8": 0,
-    "3c7fb88f u8": 1,
-    "FlagsFlowAccess": 2,
-    "Key": "PublicAnnounceDiveFish",
-    "Name": "島内放送|今日泳ぎ系のニュースをした？"
   },
   {
     "DefaultValue": 0,

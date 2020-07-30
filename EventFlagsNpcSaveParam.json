@@ -340,14 +340,5 @@
     "FlagsFlowAccess": 1,
     "Key": "ProgressDaysJuneBrideParty",
     "Name": "ジューンブライド | 結婚パーティに参加してからの経過日数"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 5,
-    "UniqueID": 49,
-    "5140e4b4 u8": 0,
-    "FlagsFlowAccess": 0,
-    "Key": "EnableConvTalkDaysCount",
-    "Name": "会話のフリを解禁するまでの日数"
   }
 ]

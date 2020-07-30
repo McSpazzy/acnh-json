@@ -4,7 +4,6 @@
     "a9c1118b.HashRef": "None",
     "RoofMaterial": 0,
     "UniqueID": 0,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": ""
@@ -14,7 +13,6 @@
     "a9c1118b.HashRef": "BulletinBoard",
     "RoofMaterial": 0,
     "UniqueID": 1,
-    "30d3f8f7 string32": "",
     "FlowFileName": "Obj_BulletinBoard",
     "NearCulling": 1,
     "ResourceName": "EvtobjBbs"
@@ -24,7 +22,6 @@
     "a9c1118b.HashRef": "StreetLamp",
     "RoofMaterial": 0,
     "UniqueID": 2,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 1,
     "ResourceName": "EvtobjLamp"
@@ -34,7 +31,6 @@
     "a9c1118b.HashRef": "InsectTent",
     "RoofMaterial": 5,
     "UniqueID": 3,
-    "30d3f8f7 string32": "",
     "FlowFileName": "Obj_InsectFesBOX",
     "NearCulling": 0,
     "ResourceName": "EvtobjInsectTent"
@@ -44,7 +40,6 @@
     "a9c1118b.HashRef": "FishTent",
     "RoofMaterial": 5,
     "UniqueID": 4,
-    "30d3f8f7 string32": "",
     "FlowFileName": "Obj_FishFesBOX",
     "NearCulling": 0,
     "ResourceName": "EvtobjFishTent"
@@ -54,7 +49,6 @@
     "a9c1118b.HashRef": "CountdownStall",
     "RoofMaterial": 5,
     "UniqueID": 5,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjCountdownStall"
@@ -64,7 +58,6 @@
     "a9c1118b.HashRef": "BulletinBoard",
     "RoofMaterial": 0,
     "UniqueID": 8,
-    "30d3f8f7 string32": "",
     "FlowFileName": "Obj_BulletinBoard",
     "NearCulling": 1,
     "ResourceName": "EvtobjBbsWood"
@@ -74,7 +67,6 @@
     "a9c1118b.HashRef": "CountdownBoard",
     "RoofMaterial": 0,
     "UniqueID": 10,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjCountdownBoard"
@@ -84,7 +76,6 @@
     "a9c1118b.HashRef": "None",
     "RoofMaterial": 0,
     "UniqueID": 11,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjKotono"
@@ -94,7 +85,6 @@
     "a9c1118b.HashRef": "None",
     "RoofMaterial": 5,
     "UniqueID": 12,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjStallSkk"
@@ -104,7 +94,6 @@
     "a9c1118b.HashRef": "None",
     "RoofMaterial": 5,
     "UniqueID": 13,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjStallHgh"
@@ -114,7 +103,6 @@
     "a9c1118b.HashRef": "Campfire",
     "RoofMaterial": 0,
     "UniqueID": 14,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjCampfire"
@@ -124,29 +112,8 @@
     "a9c1118b.HashRef": "Wind",
     "RoofMaterial": 5,
     "UniqueID": 17,
-    "30d3f8f7 string32": "",
     "FlowFileName": "",
     "NearCulling": 0,
     "ResourceName": "EvtobjRazyStall"
-  },
-  {
-    "DemoDistance": 15.0,
-    "a9c1118b.HashRef": "4DB547FC",
-    "RoofMaterial": 5,
-    "UniqueID": 18,
-    "30d3f8f7 string32": "",
-    "FlowFileName": "",
-    "NearCulling": 0,
-    "ResourceName": "EvtobjTsunekichiStall"
-  },
-  {
-    "DemoDistance": 15.0,
-    "a9c1118b.HashRef": "E90C1FD5",
-    "RoofMaterial": 0,
-    "UniqueID": 19,
-    "30d3f8f7 string32": "InDream",
-    "FlowFileName": "Obj_WorldMyDesignGallery",
-    "NearCulling": 0,
-    "ResourceName": "EvtobjTailorDevice"
   }
 ]

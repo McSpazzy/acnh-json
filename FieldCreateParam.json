@@ -726,13 +726,5 @@
     "ItemLayer": 3,
     "StageName": "IdrMuseumArt_0",
     "StaticField": ""
-  },
-  {
-    "FactoryType": "Default",
-    "PhotoStudioRoomNo": "Room0",
-    "RoomType": "Invalid",
-    "ItemLayer": 3,
-    "StageName": "IdrDream",
-    "StaticField": ""
   }
 ]

@@ -482,71 +482,11 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
-    "UniqueID": 53,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 0,
-    "FlagsFlowAccess": 1,
-    "Key": "FireworksFieldNpc",
-    "Name": "花火大会時フィールドNPCに選ばれた"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 54,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 0,
-    "FlagsFlowAccess": 1,
-    "Key": "FireworksFieldLater",
-    "Name": "花火大会時18時以降に外に出る"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 55,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 0,
-    "FlagsFlowAccess": 2,
-    "Key": "FireworksAroundWater",
-    "Name": "花火大会時水辺でうろつく"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 56,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 0,
-    "FlagsFlowAccess": 2,
-    "Key": "ArrivedInEventPlaza",
-    "Name": "イベント広場に到着済み"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 57,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 1,
-    "FlagsFlowAccess": 2,
-    "Key": "FireworksApproachTalk",
-    "Name": "花火大会用アプローチ会話が出せる状態か"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
     "UniqueID": 58,
     "5f77b61a u8": 0,
     "8d401df7 u8": 1,
     "FlagsFlowAccess": 2,
     "Key": "NotAddTalkCount",
     "Name": "会話回数を加算しない"
-  },
-  {
-    "DefaultValue": 0,
-    "MaxValue": 1,
-    "UniqueID": 59,
-    "5f77b61a u8": 0,
-    "8d401df7 u8": 0,
-    "FlagsFlowAccess": 2,
-    "Key": "FireworksItemTalk",
-    "Name": "花火大会用の会話が出せる状態か"
   }
 ]
