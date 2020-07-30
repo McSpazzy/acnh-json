@@ -1,146 +1,146 @@
 [
   {
     "UniqueID": 0,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 1,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 2,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 3,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 4,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 5,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 6,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 7,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 8,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 9,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 10,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 11,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 12,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 13,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 14,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 15,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 16,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 17,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 18,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 19,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 20,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 21,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 22,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 0,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 0,
+    "IsSelectQuestSS": 1
   },
   {
     "UniqueID": 23,
-    "748db6d8 u8": 1,
-    "c44b9674 u8": 1,
-    "fb867bc1 u32": 1
+    "IsSelectQuestM": 1,
+    "IsSelectQuestS": 1,
+    "IsSelectQuestSS": 1
   }
 ]

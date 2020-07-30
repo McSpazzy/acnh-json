@@ -1312,7 +1312,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "59190A79",
+    "NpcMsgBullfestCondition": "CatSet",
     "AN1Index": 201,
     "AN2Index": 401,
     "AccessoryID": -2,
@@ -6176,7 +6176,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "607C3B73",
+    "NpcMsgBullfestCondition": "RacerSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -6208,7 +6208,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "30F50683",
+    "NpcMsgBullfestCondition": "AfootballSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -6336,7 +6336,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "21DFDA82",
+    "NpcMsgBullfestCondition": "SoccerSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -6368,7 +6368,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "C2D03B1B",
+    "NpcMsgBullfestCondition": "BasketballSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -6752,7 +6752,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "B20C9F01",
+    "NpcMsgBullfestCondition": "SkiSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -9088,7 +9088,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "5908C6A9",
+    "NpcMsgBullfestCondition": "BaseballSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -12512,7 +12512,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "4111D9B2",
+    "NpcMsgBullfestCondition": "SwimmingSet",
     "AN1Index": 208,
     "AN2Index": 401,
     "AccessoryID": -2,
@@ -12800,7 +12800,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "C21208A5",
+    "NpcMsgBullfestCondition": "PirateSet",
     "AN1Index": 206,
     "AN2Index": 401,
     "AccessoryID": -2,

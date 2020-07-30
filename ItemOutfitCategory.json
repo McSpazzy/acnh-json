@@ -8,11 +8,11 @@
     "Label": "None",
     "Misc": 0,
     "Name": "なし",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -24,11 +24,11 @@
     "Label": "Cap",
     "Misc": 0,
     "Name": "帽子",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -40,11 +40,11 @@
     "Label": "AccessoryEye",
     "Misc": 0,
     "Name": "アクセサリ：目",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -56,11 +56,11 @@
     "Label": "Tops",
     "Misc": 0,
     "Name": "トップス",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -72,11 +72,11 @@
     "Label": "Bottoms",
     "Misc": 0,
     "Name": "ボトムス",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -88,11 +88,11 @@
     "Label": "Socks",
     "Misc": 0,
     "Name": "靴下",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -104,11 +104,11 @@
     "Label": "Shoes",
     "Misc": 0,
     "Name": "靴",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -120,11 +120,11 @@
     "Label": "Marinesuit",
     "Misc": 0,
     "Name": "マリンスーツ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -136,11 +136,11 @@
     "Label": "Scoop",
     "Misc": 2051,
     "Name": "スコップ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -152,11 +152,11 @@
     "Label": "Axe",
     "Misc": 2051,
     "Name": "オノ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -168,11 +168,11 @@
     "Label": "FishingRod",
     "Misc": 2049,
     "Name": "つりざお",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "Main",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -184,11 +184,11 @@
     "Label": "Net",
     "Misc": 2049,
     "Name": "アミ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -200,11 +200,11 @@
     "Label": "Umbrella",
     "Misc": 129,
     "Name": "カサ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "CommonToolUmbrella_Open_Stop",
-    "1b93daa9 string32": "CommonToolUmbrella_Close_Stop",
+    "ToolSetupAsName": "CommonToolUmbrella_Open_Stop",
+    "ToolSetupPutawayAsName": "CommonToolUmbrella_Close_Stop",
     "UseToolLeft": 0
   },
   {
@@ -216,11 +216,11 @@
     "Label": "GroundMaker",
     "Misc": 1283,
     "Name": "道造成キット",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "Sub",
     "ToolRightModelName": "Main",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 1
   },
   {
@@ -232,11 +232,11 @@
     "Label": "Watering",
     "Misc": 2053,
     "Name": "ジョウロ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -248,11 +248,11 @@
     "Label": "Bag",
     "Misc": 0,
     "Name": "カバン",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -264,11 +264,11 @@
     "Label": "CliffMaker",
     "Misc": 3,
     "Name": "崖造成キット",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -280,11 +280,11 @@
     "Label": "Ladder",
     "Misc": 2053,
     "Name": "はしご",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -296,11 +296,11 @@
     "Label": "ChangeStick",
     "Misc": 2049,
     "Name": "変身ステッキ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -312,11 +312,11 @@
     "Label": "Cracker",
     "Misc": 2049,
     "Name": "クラッカー",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -328,11 +328,11 @@
     "Label": "Slingshot",
     "Misc": 1,
     "Name": "パチンコ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "Main",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -344,11 +344,11 @@
     "Label": "PinataStick",
     "Misc": 3,
     "Name": "ピニャータ割り棒",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -360,11 +360,11 @@
     "Label": "FenceMaker",
     "Misc": 19,
     "Name": "柵造成キット",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -376,11 +376,11 @@
     "Label": "Book",
     "Misc": 1,
     "Name": "本",
-    "a9f8ee25 string32": "ToolBook_CloseKeep",
+    "ToolEnterAsName": "ToolBook_CloseKeep",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -392,11 +392,11 @@
     "Label": "AccessoryMouth",
     "Misc": 0,
     "Name": "アクセサリ：口",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -408,11 +408,11 @@
     "Label": "RiverMaker",
     "Misc": 3,
     "Name": "川造成キット",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -424,11 +424,11 @@
     "Label": "TkkGuitar",
     "Misc": 64,
     "Name": "とたけけギター",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -440,11 +440,11 @@
     "Label": "PaperFan",
     "Misc": 1,
     "Name": "うちわ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -456,11 +456,11 @@
     "Label": "SmartPhone",
     "Misc": 1,
     "Name": "スマホ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -472,11 +472,11 @@
     "Label": "Firework",
     "Misc": 2049,
     "Name": "花火",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -488,11 +488,11 @@
     "Label": "StickLight",
     "Misc": 1,
     "Name": "スティックライト",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -504,11 +504,11 @@
     "Label": "SoapBubble",
     "Misc": 1,
     "Name": "シャボン玉",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -520,11 +520,11 @@
     "Label": "BlowStick",
     "Misc": 1,
     "Name": "ふきもどし",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -536,11 +536,11 @@
     "Label": "Ocarina",
     "Misc": 11,
     "Name": "オカリナ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -552,11 +552,11 @@
     "Label": "Panpipe",
     "Misc": 11,
     "Name": "パンフルート",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -568,11 +568,11 @@
     "Label": "Tambourine",
     "Misc": 41,
     "Name": "タンバリン",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -584,11 +584,11 @@
     "Label": "Broom",
     "Misc": 1,
     "Name": "ほうき",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -600,11 +600,11 @@
     "Label": "Coffee",
     "Misc": 1,
     "Name": "コーヒー",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -616,11 +616,11 @@
     "Label": "Ice",
     "Misc": 1,
     "Name": "アイス",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -632,11 +632,11 @@
     "Label": "BagHand",
     "Misc": 1,
     "Name": "手提げカバン",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -648,11 +648,11 @@
     "Label": "JumpStick",
     "Misc": 2049,
     "Name": "ジャンプ棒",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -664,11 +664,11 @@
     "Label": "Dumbbell",
     "Misc": 1,
     "Name": "ダンベル",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -680,11 +680,11 @@
     "Label": "Windmill",
     "Misc": 1,
     "Name": "かざぐるま",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -696,11 +696,11 @@
     "Label": "RcmTourFlag",
     "Misc": 1,
     "Name": "つぶまめツアー旗",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -712,11 +712,11 @@
     "Label": "Firewood",
     "Misc": 1,
     "Name": "薪",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -728,11 +728,11 @@
     "Label": "Spanner",
     "Misc": 3,
     "Name": "スパナとかなづち",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "Sub",
     "ToolRightModelName": "Main",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 1
   },
   {
@@ -744,11 +744,11 @@
     "Label": "HandLens",
     "Misc": 1,
     "Name": "虫眼鏡",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -760,11 +760,11 @@
     "Label": "FruitBasket",
     "Misc": 1,
     "Name": "果物カゴ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -776,11 +776,11 @@
     "Label": "Duster",
     "Misc": 1,
     "Name": "はたき",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "ToolDuster_Stop",
-    "1b93daa9 string32": "ToolDuster_Stop",
+    "ToolSetupAsName": "ToolDuster_Stop",
+    "ToolSetupPutawayAsName": "ToolDuster_Stop",
     "UseToolLeft": 0
   },
   {
@@ -792,11 +792,11 @@
     "Label": "CuteBagHand",
     "Misc": 1,
     "Name": "手提げかばん(キュート",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -808,11 +808,11 @@
     "Label": "CoolBagHand",
     "Misc": 1,
     "Name": "手提げかばん(クール)",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -824,11 +824,11 @@
     "Label": "LowBagHand",
     "Misc": 1,
     "Name": "手提げかばん(生活度低",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -840,11 +840,11 @@
     "Label": "HighBagHand",
     "Misc": 1,
     "Name": "手提げかばん(生活度高",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -856,11 +856,11 @@
     "Label": "SmallBook",
     "Misc": 1,
     "Name": "本(小)",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -872,11 +872,11 @@
     "Label": "LightDumbbell",
     "Misc": 1,
     "Name": "ダンベル(軽い)",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -888,11 +888,11 @@
     "Label": "Candy",
     "Misc": 1,
     "Name": "キャンディ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -904,11 +904,11 @@
     "Label": "Canister",
     "Misc": 1,
     "Name": "缶",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -920,11 +920,11 @@
     "Label": "Sandwich",
     "Misc": 1,
     "Name": "サンドウィッチ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -936,11 +936,11 @@
     "Label": "Doughnut",
     "Misc": 1,
     "Name": "ドーナッツ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -952,11 +952,11 @@
     "Label": "Branch",
     "Misc": 1,
     "Name": "えだ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -968,11 +968,11 @@
     "Label": "Sketchbook",
     "Misc": 515,
     "Name": "スケッチブック",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "Sub",
     "ToolRightModelName": "Main",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 1
   },
   {
@@ -984,11 +984,11 @@
     "Label": "Balloon",
     "Misc": 1,
     "Name": "ふうせん",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1000,11 +1000,11 @@
     "Label": "Sprayer",
     "Misc": 1,
     "Name": "きりふき",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1016,11 +1016,11 @@
     "Label": "Cop",
     "Misc": 1,
     "Name": "コップ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1032,11 +1032,11 @@
     "Label": "Smoothie",
     "Misc": 1,
     "Name": "スムージー",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1048,11 +1048,11 @@
     "Label": "Hammer",
     "Misc": 1,
     "Name": "かなづち",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1064,11 +1064,11 @@
     "Label": "Brush",
     "Misc": 1,
     "Name": "はけ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1080,11 +1080,11 @@
     "Label": "Bouquet",
     "Misc": 3,
     "Name": "ブーケ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1096,11 +1096,11 @@
     "Label": "Scallop",
     "Misc": 3,
     "Name": "ホタテ",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1112,11 +1112,11 @@
     "Label": "Canvas",
     "Misc": 1,
     "Name": "キャンバス",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   },
   {
@@ -1128,11 +1128,11 @@
     "Label": "Pennant",
     "Misc": 1,
     "Name": "ペナント",
-    "a9f8ee25 string32": "",
+    "ToolEnterAsName": "",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
-    "f71bffe7 string32": "",
-    "1b93daa9 string32": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
   }
 ]
