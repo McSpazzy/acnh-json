@@ -417,32 +417,6 @@
   },
   {
     "NormalScaleMaskA": 0,
-    "NormalScaleMaskB": 0,
-    "NormalScaleMaskG": 0,
-    "NormalScaleMaskR": 0,
-    "UniqueID": 109,
-    "Label": "NpcSpBottomsFoxPantsWide",
-    "Name": "NpcSpBottomsFoxPantsWide",
-    "NpcResName": "",
-    "NpcSpResName": "",
-    "ResName": "NpcSpBottomsFoxPantsWide",
-    "TorsoResName": ""
-  },
-  {
-    "NormalScaleMaskA": 0,
-    "NormalScaleMaskB": 0,
-    "NormalScaleMaskG": 0,
-    "NormalScaleMaskR": 0,
-    "UniqueID": 110,
-    "Label": "NpcSpTopsFoxOuterL",
-    "Name": "NpcSpTopsFoxOuterL",
-    "NpcResName": "",
-    "NpcSpResName": "",
-    "ResName": "NpcSpTopsFoxOuterL",
-    "TorsoResName": ""
-  },
-  {
-    "NormalScaleMaskA": 0,
     "NormalScaleMaskB": 0.215,
     "NormalScaleMaskG": 0,
     "NormalScaleMaskR": 1.0,

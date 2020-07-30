@@ -366,36 +366,6 @@
     "Name": "いなりマーケット_贋作"
   },
   {
-    "HHABaseScore": 0,
-    "UniqueID": 172,
-    "Label": "FoxStand",
-    "Name": "つねきち屋台_消耗品"
-  },
-  {
-    "HHABaseScore": 0,
-    "UniqueID": 175,
-    "Label": "FoxStandNonExpendable",
-    "Name": "つねきち屋台_非消耗品"
-  },
-  {
-    "HHABaseScore": 0,
-    "UniqueID": 189,
-    "Label": "FoxStandBalloon",
-    "Name": "つねきち屋台_風船"
-  },
-  {
-    "HHABaseScore": 0,
-    "UniqueID": 179,
-    "Label": "TapUploadReward",
-    "Name": "ゆめみ_提供報酬"
-  },
-  {
-    "HHABaseScore": 473,
-    "UniqueID": 190,
-    "Label": "TapLetter",
-    "Name": "ゆめみ_手紙"
-  },
-  {
     "HHABaseScore": 103,
     "UniqueID": 38,
     "Label": "TkkGood",
@@ -550,12 +520,6 @@
     "UniqueID": 52,
     "Label": "CountDown",
     "Name": "カウントダウン"
-  },
-  {
-    "HHABaseScore": 251,
-    "UniqueID": 173,
-    "Label": "FireworksDisplay",
-    "Name": "花火大会"
   },
   {
     "HHABaseScore": 251,
@@ -835,33 +799,9 @@
   },
   {
     "HHABaseScore": 201,
-    "UniqueID": 149,
-    "Label": "CowboyFestival",
-    "Name": "<リージョン>バレトスのカウボーイ祭り"
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 150,
-    "Label": "GrapeHarvestFestival",
-    "Name": "<リージョン>ブドウの収穫祭"
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 152,
-    "Label": "MoonViewing",
-    "Name": "<リージョン>中秋節"
-  },
-  {
-    "HHABaseScore": 201,
     "UniqueID": 168,
     "Label": "WinterSolstice_Southern",
     "Name": "<リージョン>冬至祭（６月南半球）"
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 186,
-    "Label": "AsiaStarFestival",
-    "Name": "<リージョン>牛郎織女の日"
   },
   {
     "HHABaseScore": 178,

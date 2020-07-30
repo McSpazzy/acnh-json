@@ -276,12 +276,6 @@
     "ResName": "Tambourine"
   },
   {
-    "UniqueID": 216,
-    "Label": "Hanabi",
-    "Name": "手持ち花火",
-    "ResName": "Hanabi"
-  },
-  {
     "UniqueID": 370,
     "Label": "GlowStick",
     "Name": "スティックライト",
@@ -292,36 +286,6 @@
     "Label": "Uchiwa",
     "Name": "うちわ",
     "ResName": "Uchiwa"
-  },
-  {
-    "UniqueID": 233,
-    "Label": "Windmill",
-    "Name": "風車",
-    "ResName": "Windmill"
-  },
-  {
-    "UniqueID": 232,
-    "Label": "Syabon",
-    "Name": "シャボン玉",
-    "ResName": "Syabon"
-  },
-  {
-    "UniqueID": 371,
-    "Label": "BlowRollItem",
-    "Name": "ふきもどし",
-    "ResName": "BlowRollItem"
-  },
-  {
-    "UniqueID": 231,
-    "Label": "Balloon",
-    "Name": "風船",
-    "ResName": "Balloon"
-  },
-  {
-    "UniqueID": 720,
-    "Label": "ToolPennantRcm",
-    "Name": "つぶまめの手持ちペナント",
-    "ResName": "ToolPennantRcm"
   },
   {
     "UniqueID": 188,
@@ -372,12 +336,6 @@
     "ResName": "Timer"
   },
   {
-    "UniqueID": 275,
-    "Label": "PutHanabi",
-    "Name": "置き花火",
-    "ResName": "PutHanabi"
-  },
-  {
     "UniqueID": 298,
     "Label": "Honeycomb",
     "Name": "ハチの巣",
@@ -388,12 +346,6 @@
     "Label": "FishBait",
     "Name": "サカナの撒き餌",
     "ResName": "FishBait"
-  },
-  {
-    "UniqueID": 722,
-    "Label": "Cinder",
-    "Name": "置き花火の燃えカス",
-    "ResName": "Cinder"
   },
   {
     "UniqueID": 657,
@@ -898,12 +850,6 @@
     "Label": "RollanTicket",
     "Name": "ローランひきかえけん",
     "ResName": "RollanTicket"
-  },
-  {
-    "UniqueID": 721,
-    "Label": "DreamBellExchangeTicket",
-    "Name": "ゆめのベルひきかえけん",
-    "ResName": "DreamBellExchangeTicket"
   },
   {
     "UniqueID": 569,

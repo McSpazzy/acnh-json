@@ -115,14 +115,5 @@
     "BeforeDays": 0,
     "EventLabelShort": "InternationalMuseum",
     "Timezone": 0
-  },
-  {
-    "SelectRate": 10.0,
-    "Frames": 504,
-    "MusicNo": 214,
-    "UniqueID": 13,
-    "BeforeDays": 4,
-    "EventLabelShort": "Fireworks",
-    "Timezone": 0
   }
 ]

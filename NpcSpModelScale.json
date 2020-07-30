@@ -145,26 +145,5 @@
     "UniqueID": 7,
     "Label": "xct",
     "Name": "みしらぬネコ"
-  },
-  {
-    "NormalScaleBottomsA": 0.6,
-    "NormalScaleBottomsB": 0,
-    "NormalScaleBottomsG": 0,
-    "NormalScaleBottomsR": 0,
-    "NormalScaleHA": 0,
-    "NormalScaleHB": 0,
-    "NormalScaleHG": 0.6,
-    "NormalScaleHR": 0,
-    "NormalScaleLA": 0,
-    "NormalScaleLB": 0.6,
-    "NormalScaleLG": 0.6,
-    "NormalScaleLR": 0,
-    "NormalScaleNA": 0,
-    "NormalScaleNB": 0,
-    "NormalScaleNG": 0,
-    "NormalScaleNR": 0,
-    "UniqueID": 8,
-    "Label": "fox",
-    "Name": "つねきち"
   }
 ]

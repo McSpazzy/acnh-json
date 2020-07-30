@@ -1,7 +1,6 @@
 [
   {
     "AppearanceLevel": "Level04",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 0,
     "DefaultWallUniqueID": 0,
@@ -12,7 +11,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 9,
     "DefaultRoofUniqueID": 19,
     "DefaultWallUniqueID": 14,
@@ -23,7 +21,6 @@
   },
   {
     "AppearanceLevel": "Tent",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 7,
     "DefaultRoofUniqueID": 4,
     "DefaultWallUniqueID": 7,
@@ -34,7 +31,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 8,
     "DefaultRoofUniqueID": 5,
     "DefaultWallUniqueID": 8,
@@ -45,7 +41,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 24,
     "DefaultRoofUniqueID": 9,
     "DefaultWallUniqueID": 11,
@@ -56,7 +51,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 25,
     "DefaultRoofUniqueID": 18,
     "DefaultWallUniqueID": 12,
@@ -67,7 +61,6 @@
   },
   {
     "AppearanceLevel": "Level00",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 10,
     "DefaultWallUniqueID": 13,
@@ -78,7 +71,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 27,
     "DefaultWallUniqueID": 24,
@@ -89,7 +81,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 32,
     "DefaultRoofUniqueID": 30,
     "DefaultWallUniqueID": 27,
@@ -100,7 +91,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 37,
     "DefaultRoofUniqueID": 33,
     "DefaultWallUniqueID": 30,
@@ -111,7 +101,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 38,
     "DefaultRoofUniqueID": 34,
     "DefaultWallUniqueID": 31,
@@ -122,7 +111,6 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 35,
     "DefaultRoofUniqueID": 35,
     "DefaultWallUniqueID": 32,
@@ -133,7 +121,6 @@
   },
   {
     "AppearanceLevel": "Level01",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 38,
     "DefaultWallUniqueID": 35,
@@ -144,7 +131,6 @@
   },
   {
     "AppearanceLevel": "Level02",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 47,
     "DefaultWallUniqueID": 64,
@@ -155,7 +141,6 @@
   },
   {
     "AppearanceLevel": "Level03",
-    "CustomizeSortID": 0,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 39,
     "DefaultWallUniqueID": 37,

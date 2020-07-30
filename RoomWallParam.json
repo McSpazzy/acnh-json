@@ -3998,21 +3998,5 @@
     "ItemName": "かいぞくのかべがみ",
     "ResourceName": "RoomSpWallPirates00",
     "TextureWindow": 1
-  },
-  {
-    "AO": "None",
-    "Act": "None",
-    "Light": "Orange",
-    "Price": 888,
-    "ArchUniqueID": 0,
-    "CeilingUniqueID": 8,
-    "CurtainTexUniqueID": 23,
-    "CurtainUniqueID": 6,
-    "ItemTableId": 13230,
-    "UniqueID": 363,
-    "WindowUniqueID": 6,
-    "ItemName": "はなびたいかいのかべ",
-    "ResourceName": "RoomSpWallFireworks00",
-    "TextureWindow": 0
   }
 ]
