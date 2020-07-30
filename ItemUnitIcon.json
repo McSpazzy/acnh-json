@@ -32,6 +32,16 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 304,
+    "ColorIndex": 1,
+    "Label": "Cinder",
+    "ModelName": "UnitIconFireworks",
+    "Name": "もえかす",
+    "ResName": "UnitIconFireworks"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 305,
     "ColorIndex": 255,
     "Label": "Pearl",
@@ -292,6 +302,16 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 237,
+    "ColorIndex": 0,
+    "Label": "Fireworks",
+    "ModelName": "UnitIconFireworks",
+    "Name": "置き花火",
+    "ResName": "UnitIconFireworks"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 209,
     "ColorIndex": 0,
     "Label": "RemakeKit",
@@ -427,6 +447,16 @@
     "Label": "BellExchangeTicket",
     "ModelName": "UnitIconAirTicket",
     "Name": "ベルひきかえかん",
+    "ResName": "UnitIconAirTicket"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 307,
+    "ColorIndex": 4,
+    "Label": "DreamBellExchangeTicket",
+    "ModelName": "UnitIconAirTicket",
+    "Name": "ゆめのベルひきかえけん",
     "ResName": "UnitIconAirTicket"
   },
   {

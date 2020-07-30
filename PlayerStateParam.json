@@ -7,6 +7,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -17,7 +18,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -40,7 +40,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -50,6 +50,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -60,7 +61,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -83,7 +83,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -93,6 +93,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -103,7 +104,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -126,7 +126,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -136,6 +136,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -146,7 +147,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -169,7 +169,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -179,6 +179,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Continue",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -189,7 +190,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -212,7 +212,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -222,6 +222,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 4,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -232,7 +233,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -255,7 +255,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -265,6 +265,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 1,
     "833e2942 u8": 0,
@@ -275,7 +276,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -298,7 +298,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -308,6 +308,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -318,7 +319,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -341,7 +341,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -351,6 +351,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -361,7 +362,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -384,7 +384,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -394,6 +394,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -404,7 +405,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -427,7 +427,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -437,6 +437,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -447,7 +448,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -470,7 +470,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -480,6 +480,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Continue",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -490,7 +491,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -513,7 +513,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -523,6 +523,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -533,7 +534,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -556,7 +556,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -566,6 +566,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -576,7 +577,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -599,7 +599,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -609,6 +609,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -619,7 +620,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -642,7 +642,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -652,6 +652,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -662,7 +663,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -685,7 +685,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -695,6 +695,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -705,7 +706,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -728,7 +728,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -738,6 +738,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -748,7 +749,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -771,7 +771,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -781,6 +781,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -791,7 +792,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -814,7 +814,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -824,6 +824,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -834,7 +835,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -857,7 +857,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -867,6 +867,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -877,7 +878,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -900,7 +900,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -910,6 +910,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -920,7 +921,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -943,7 +943,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -953,6 +953,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -963,7 +964,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -986,7 +986,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -996,6 +996,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1006,7 +1007,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -1029,7 +1029,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -1039,6 +1039,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1049,7 +1050,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1072,7 +1072,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -1082,6 +1082,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1092,7 +1093,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1115,7 +1115,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1125,6 +1125,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1135,7 +1136,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1158,7 +1158,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1168,6 +1168,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1178,7 +1179,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1201,7 +1201,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1211,6 +1211,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1221,7 +1222,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1244,7 +1244,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1254,6 +1254,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1264,7 +1265,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1287,7 +1287,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckUseGravity",
@@ -1297,6 +1297,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1307,7 +1308,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1330,7 +1330,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1340,6 +1340,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1350,7 +1351,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1373,7 +1373,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1383,6 +1383,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1393,7 +1394,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1416,7 +1416,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1426,6 +1426,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1436,7 +1437,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1459,7 +1459,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1469,6 +1469,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1479,7 +1480,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1502,7 +1502,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1512,6 +1512,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1522,7 +1523,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1545,7 +1545,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -1555,6 +1555,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1565,7 +1566,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1588,7 +1588,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -1598,6 +1598,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1608,7 +1609,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1631,7 +1631,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1641,6 +1641,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1651,7 +1652,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1674,7 +1674,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1684,6 +1684,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1694,7 +1695,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 1,
     "EnableStageChange": 1,
@@ -1717,7 +1717,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -1727,6 +1727,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1737,7 +1738,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1753,14 +1753,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "ToolPutaway",
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -1770,6 +1770,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1780,7 +1781,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1796,14 +1796,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "ToolPullout",
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -1813,6 +1813,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1823,7 +1824,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1846,7 +1846,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1856,6 +1856,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1866,7 +1867,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1889,7 +1889,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -1899,6 +1899,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1909,7 +1910,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -1932,7 +1932,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -1942,6 +1942,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1952,7 +1953,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -1975,7 +1975,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -1985,6 +1985,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -1995,7 +1996,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2018,7 +2018,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2028,6 +2028,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2038,7 +2039,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2061,7 +2061,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2071,6 +2071,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2081,7 +2082,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2104,7 +2104,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2114,6 +2114,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2124,7 +2125,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2147,7 +2147,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2157,6 +2157,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2167,7 +2168,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 1,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2190,7 +2190,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2200,6 +2200,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2210,7 +2211,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2233,7 +2233,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2243,6 +2243,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2253,7 +2254,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2276,7 +2276,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2286,6 +2286,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2296,7 +2297,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2319,7 +2319,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2329,6 +2329,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2339,7 +2340,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2362,7 +2362,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2372,6 +2372,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2382,7 +2383,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2405,7 +2405,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2415,6 +2415,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2425,7 +2426,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2448,7 +2448,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2458,6 +2458,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2468,7 +2469,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2491,7 +2491,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2501,6 +2501,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 1,
@@ -2511,7 +2512,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2534,7 +2534,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2544,6 +2544,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2554,7 +2555,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2577,7 +2577,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2587,6 +2587,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2597,7 +2598,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2620,7 +2620,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2630,6 +2630,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2640,7 +2641,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2663,7 +2663,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2673,6 +2673,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2683,7 +2684,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2706,7 +2706,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -2716,6 +2716,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 1,
@@ -2726,7 +2727,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 0,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2749,7 +2749,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2759,6 +2759,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2769,7 +2770,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2792,7 +2792,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -2802,6 +2802,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2812,7 +2813,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -2835,7 +2835,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2845,6 +2845,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2855,7 +2856,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2878,7 +2878,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2888,6 +2888,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2898,7 +2899,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2921,7 +2921,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -2931,6 +2931,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2941,7 +2942,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -2964,7 +2964,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -2974,6 +2974,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -2984,7 +2985,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3007,7 +3007,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -3017,6 +3017,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3027,7 +3028,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3050,7 +3050,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -3060,6 +3060,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3070,7 +3071,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3093,7 +3093,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3103,6 +3103,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3113,7 +3114,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3136,7 +3136,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3146,6 +3146,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3156,7 +3157,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3179,7 +3179,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -3189,6 +3189,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3199,7 +3200,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3222,7 +3222,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3232,6 +3232,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3242,7 +3243,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3265,7 +3265,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3275,6 +3275,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3285,7 +3286,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3308,7 +3308,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3318,6 +3318,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3328,7 +3329,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3351,7 +3351,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3361,6 +3361,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3371,7 +3372,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3394,7 +3394,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3404,6 +3404,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3414,7 +3415,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3437,7 +3437,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3447,6 +3447,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 4,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3457,7 +3458,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 4,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3480,7 +3480,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3490,6 +3490,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3500,7 +3501,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3523,7 +3523,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3533,6 +3533,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3543,7 +3544,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3566,7 +3566,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3576,6 +3576,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3586,7 +3587,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3609,7 +3609,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3619,6 +3619,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3629,7 +3630,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3652,7 +3652,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3662,6 +3662,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3672,7 +3673,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3695,7 +3695,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3705,6 +3705,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3715,7 +3716,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3738,7 +3738,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3748,6 +3748,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3758,7 +3759,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3781,7 +3781,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3791,6 +3791,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3801,7 +3802,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3824,7 +3824,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3834,6 +3834,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3844,7 +3845,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -3867,7 +3867,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -3877,6 +3877,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3887,7 +3888,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3910,7 +3910,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -3920,6 +3920,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3930,7 +3931,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3953,7 +3953,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -3963,6 +3963,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -3973,7 +3974,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -3996,7 +3996,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -4006,6 +4006,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4016,7 +4017,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4039,7 +4039,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -4049,6 +4049,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4059,7 +4060,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4082,7 +4082,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -4092,6 +4092,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 0,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4102,7 +4103,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4125,7 +4125,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -4135,6 +4135,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4145,7 +4146,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4168,7 +4168,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -4178,6 +4178,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4188,7 +4189,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4211,7 +4211,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -4221,6 +4221,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4231,7 +4232,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4254,7 +4254,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4264,6 +4264,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4274,7 +4275,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4297,7 +4297,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4307,6 +4307,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 100,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4317,7 +4318,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 100,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4340,7 +4340,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4350,6 +4350,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4360,7 +4361,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4383,7 +4383,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4393,6 +4393,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4403,7 +4404,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4426,7 +4426,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4436,6 +4436,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4446,7 +4447,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4469,7 +4469,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4479,6 +4479,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4489,7 +4490,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4512,7 +4512,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4522,6 +4522,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4532,7 +4533,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -4555,7 +4555,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 2
+    "WaitType": "\u0002"
   },
   {
     "BgCheckType": "Normal",
@@ -4565,6 +4565,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4575,7 +4576,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4598,7 +4598,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -4608,6 +4608,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4618,7 +4619,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4641,7 +4641,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4651,6 +4651,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4661,7 +4662,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4684,7 +4684,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4694,6 +4694,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 109,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4704,7 +4705,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 109,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4727,7 +4727,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4737,6 +4737,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4747,7 +4748,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4770,7 +4770,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4780,6 +4780,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4790,7 +4791,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4813,7 +4813,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4823,6 +4823,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4833,7 +4834,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4856,7 +4856,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4866,6 +4866,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4876,7 +4877,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4899,7 +4899,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4909,6 +4909,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4919,7 +4920,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4942,7 +4942,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4952,6 +4952,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -4962,7 +4963,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -4985,7 +4985,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 4
+    "WaitType": "\u0004"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -4995,6 +4995,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5005,7 +5006,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5028,7 +5028,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5038,6 +5038,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5048,7 +5049,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5071,7 +5071,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5081,6 +5081,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5091,7 +5092,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5114,7 +5114,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5124,6 +5124,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5134,7 +5135,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5157,7 +5157,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -5167,6 +5167,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 1,
@@ -5177,7 +5178,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5200,7 +5200,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5210,6 +5210,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5220,7 +5221,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5243,7 +5243,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -5253,6 +5253,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5263,7 +5264,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5286,7 +5286,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -5296,6 +5296,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5306,7 +5307,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5329,7 +5329,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -5339,6 +5339,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "GiveOverKeepPutawayFlag",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5349,7 +5350,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5372,7 +5372,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -5382,6 +5382,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5392,7 +5393,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5408,14 +5408,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "UmbrellaRolling",
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -5425,6 +5425,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5435,7 +5436,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 1,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5458,7 +5458,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5468,6 +5468,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5478,7 +5479,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 1,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5501,7 +5501,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5511,6 +5511,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5521,7 +5522,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 1,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5544,7 +5544,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5554,6 +5554,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5564,7 +5565,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5587,7 +5587,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5597,6 +5597,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5607,7 +5608,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5630,7 +5630,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5640,6 +5640,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5650,7 +5651,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5673,7 +5673,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5683,6 +5683,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5693,7 +5694,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5716,7 +5716,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5726,6 +5726,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5736,7 +5737,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5759,7 +5759,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -5769,6 +5769,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5779,7 +5780,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5795,14 +5795,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 1,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "Watering",
     "StopAutoSave": 1,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -5812,6 +5812,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5822,7 +5823,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -5845,7 +5845,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -5855,6 +5855,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5865,7 +5866,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5888,7 +5888,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -5898,6 +5898,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5908,7 +5909,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5931,7 +5931,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -5941,6 +5941,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -5951,7 +5952,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -5974,7 +5974,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -5984,17 +5984,17 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
     "BeesRunAway": 0,
     "BgmEnd": 0,
-    "497ac4d6 u8": 0,
+    "497ac4d6 u8": 1,
     "63f77486 u8": 1,
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6010,14 +6010,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "OnetimeAnimToWait",
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -6027,6 +6027,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6037,7 +6038,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6060,7 +6060,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -6070,6 +6070,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6080,7 +6081,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6103,7 +6103,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -6113,6 +6113,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6123,7 +6124,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6146,7 +6146,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6156,6 +6156,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6166,7 +6167,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6189,7 +6189,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6199,6 +6199,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6209,7 +6210,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6232,7 +6232,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6242,6 +6242,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6252,7 +6253,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6275,7 +6275,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -6285,6 +6285,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6295,7 +6296,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6311,14 +6311,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PartyPopperPull",
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -6328,6 +6328,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6338,7 +6339,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6361,7 +6361,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6371,6 +6371,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6381,7 +6382,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6404,7 +6404,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6414,6 +6414,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 152,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6424,7 +6425,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 152,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6447,7 +6447,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6457,6 +6457,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 152,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6467,7 +6468,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 152,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6490,7 +6490,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6500,6 +6500,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6510,7 +6511,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6533,7 +6533,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6543,6 +6543,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6553,7 +6554,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6576,7 +6576,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6586,6 +6586,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6596,7 +6597,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6619,7 +6619,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6629,6 +6629,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6639,7 +6640,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6662,7 +6662,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6672,6 +6672,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6682,7 +6683,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6705,7 +6705,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6715,6 +6715,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6725,7 +6726,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6748,7 +6748,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -6758,6 +6758,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6768,7 +6769,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6791,7 +6791,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6801,6 +6801,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6811,7 +6812,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6834,7 +6834,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6844,6 +6844,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6854,7 +6855,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -6877,7 +6877,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6887,6 +6887,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6897,7 +6898,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6920,7 +6920,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6930,6 +6930,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6940,7 +6941,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -6963,7 +6963,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -6973,6 +6973,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -6983,7 +6984,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7006,7 +7006,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7016,6 +7016,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7026,7 +7027,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7049,7 +7049,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7059,6 +7059,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7069,7 +7070,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7092,7 +7092,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7102,6 +7102,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7112,7 +7113,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7135,7 +7135,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7145,6 +7145,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7155,7 +7156,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7178,7 +7178,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7188,6 +7188,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7198,7 +7199,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7221,7 +7221,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7231,6 +7231,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7241,7 +7242,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7264,7 +7264,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -7274,6 +7274,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7284,7 +7285,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7307,7 +7307,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -7317,6 +7317,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7327,7 +7328,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7350,7 +7350,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -7360,6 +7360,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7370,7 +7371,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7393,7 +7393,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -7403,6 +7403,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7413,7 +7414,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7436,16 +7436,17 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "EnableToDemoNetLock",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7456,7 +7457,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7472,23 +7472,24 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PlayMusic",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "EnableToDemoNetLock",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7499,7 +7500,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7515,23 +7515,24 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PlayMusicKeep",
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "EnableToDemoNetLock",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7542,7 +7543,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7558,14 +7558,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PlayMusicKeepOffTimer",
     "StopAutoSave": 0,
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -7575,6 +7575,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7585,7 +7586,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7608,7 +7608,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7618,6 +7618,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7628,7 +7629,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -7651,7 +7651,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7661,6 +7661,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7671,7 +7672,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7694,7 +7694,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7704,6 +7704,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7714,7 +7715,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7737,7 +7737,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckUseGravity",
@@ -7747,6 +7747,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7757,7 +7758,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7780,7 +7780,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7790,6 +7790,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7800,7 +7801,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7823,7 +7823,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7833,6 +7833,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7843,7 +7844,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7866,7 +7866,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7876,6 +7876,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7886,7 +7887,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7909,7 +7909,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -7919,6 +7919,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7929,7 +7930,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7952,7 +7952,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -7962,6 +7962,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -7972,7 +7973,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -7995,7 +7995,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -8005,6 +8005,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8015,7 +8016,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8038,7 +8038,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -8048,6 +8048,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8058,7 +8059,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8081,7 +8081,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8091,6 +8091,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8101,7 +8102,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8124,7 +8124,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8134,6 +8134,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8144,7 +8145,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8167,7 +8167,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -8177,6 +8177,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8187,7 +8188,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8210,7 +8210,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyFloor",
@@ -8220,6 +8220,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8230,7 +8231,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8253,7 +8253,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8263,6 +8263,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8273,7 +8274,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8296,7 +8296,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8306,6 +8306,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8316,7 +8317,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8339,7 +8339,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8349,6 +8349,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8359,7 +8360,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8382,7 +8382,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8392,6 +8392,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8402,7 +8403,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8425,7 +8425,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8435,6 +8435,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8445,7 +8446,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8468,7 +8468,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8478,6 +8478,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8488,7 +8489,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8511,7 +8511,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8521,6 +8521,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8531,7 +8532,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8554,7 +8554,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8564,6 +8564,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 199,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8574,7 +8575,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 199,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -8597,7 +8597,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8607,6 +8607,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8617,7 +8618,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8640,7 +8640,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8650,6 +8650,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8660,7 +8661,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8683,7 +8683,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8693,6 +8693,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8703,7 +8704,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8726,7 +8726,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8736,6 +8736,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8746,7 +8747,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8769,7 +8769,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -8779,6 +8779,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8789,7 +8790,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8812,7 +8812,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 3
+    "WaitType": "\u0003"
   },
   {
     "BgCheckType": "Normal",
@@ -8822,6 +8822,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8832,7 +8833,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8855,7 +8855,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -8865,6 +8865,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8875,7 +8876,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8898,7 +8898,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8908,6 +8908,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8918,7 +8919,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8941,7 +8941,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8951,6 +8951,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -8961,7 +8962,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -8984,7 +8984,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -8994,6 +8994,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9004,7 +9005,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9027,7 +9027,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9037,6 +9037,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9047,7 +9048,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9070,7 +9070,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9080,6 +9080,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9090,7 +9091,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9113,7 +9113,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9123,6 +9123,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9133,7 +9134,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9156,7 +9156,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9166,6 +9166,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9176,7 +9177,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9199,7 +9199,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -9209,6 +9209,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9219,7 +9220,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9235,14 +9235,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PaperFanAction",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -9252,6 +9252,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9262,7 +9263,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9278,23 +9278,24 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "PaperFanDown",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "Disable",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9305,7 +9306,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9321,23 +9321,24 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightStart",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "Disable",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9348,7 +9349,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9364,23 +9364,24 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightKeep",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
-    "ChangeDemo": "EnableToDemoStandSpeak",
+    "ChangeDemo": "Disable",
     "ObjCheckRate": 1.0,
     "ObjCheckType": "Heavy",
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9391,7 +9392,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9407,14 +9407,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightEnd",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -9424,6 +9424,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9434,7 +9435,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9450,14 +9450,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightNewYearStart",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -9467,6 +9467,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9477,7 +9478,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9493,14 +9493,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightNewYearKeep",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "OnlyWallNoGravity_SitSpecial",
@@ -9510,6 +9510,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9520,7 +9521,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -9536,14 +9536,14 @@
     "PoseTrans": 0,
     "PoseTransDive": 0,
     "65fd6b0d u8": 0,
-    "2b6186a0 u8": 0,
+    "2b6186a0 u8": 1,
     "95798f28 u8": 0,
     "StateName": "StickLightNewYearEnd",
     "StopAutoSave": 0,
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 0
+    "WaitType": ""
   },
   {
     "BgCheckType": "Normal",
@@ -9553,6 +9553,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9563,7 +9564,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9586,7 +9586,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9596,6 +9596,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9606,7 +9607,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9629,7 +9629,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9639,6 +9639,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9649,7 +9650,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9672,7 +9672,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9682,6 +9682,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9692,7 +9693,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9715,7 +9715,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9725,6 +9725,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9735,7 +9736,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9758,7 +9758,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9768,6 +9768,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9778,7 +9779,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9801,7 +9801,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9811,6 +9811,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9821,7 +9822,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9844,7 +9844,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9854,6 +9854,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9864,7 +9865,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9887,7 +9887,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9897,6 +9897,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9907,7 +9908,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9930,7 +9930,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9940,6 +9940,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9950,7 +9951,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -9973,7 +9973,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -9983,6 +9983,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -9993,7 +9994,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10016,7 +10016,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -10026,6 +10026,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10036,7 +10037,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -10059,7 +10059,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -10069,6 +10069,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10079,7 +10080,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -10102,7 +10102,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -10112,6 +10112,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10122,7 +10123,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -10145,7 +10145,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -10155,6 +10155,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10165,7 +10166,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10188,7 +10188,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -10198,6 +10198,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10208,7 +10209,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10231,7 +10231,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "Normal",
@@ -10241,6 +10241,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Continue",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10251,7 +10252,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10274,7 +10274,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10284,6 +10284,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10294,7 +10295,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10317,7 +10317,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -10327,6 +10327,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10337,7 +10338,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10360,7 +10360,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10370,6 +10370,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10380,7 +10381,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10403,7 +10403,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10413,6 +10413,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10423,7 +10424,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10446,7 +10446,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "Normal",
@@ -10456,6 +10456,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10466,7 +10467,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 0,
@@ -10489,7 +10489,7 @@
     "a84507aa u8": 1,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10499,6 +10499,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10509,7 +10510,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10532,7 +10532,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10542,6 +10542,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10552,7 +10553,6 @@
     "5dcf7b24 u8": 1,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10575,7 +10575,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 6
+    "WaitType": "\u0006"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10585,6 +10585,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "Auto",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10595,7 +10596,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10618,7 +10618,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 6
+    "WaitType": "\u0006"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10628,6 +10628,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10638,7 +10639,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10661,7 +10661,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 6
+    "WaitType": "\u0006"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10671,6 +10671,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10681,7 +10682,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10704,7 +10704,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 6
+    "WaitType": "\u0006"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10714,6 +10714,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10724,7 +10725,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10747,7 +10747,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 1,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "OnlyWallNoGravity",
@@ -10757,6 +10757,7 @@
     "PacketType": "Overwrite",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10767,7 +10768,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10790,7 +10790,7 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 5
+    "WaitType": "\u0005"
   },
   {
     "BgCheckType": "NoBgCheckNoGravity",
@@ -10800,6 +10800,7 @@
     "PacketType": "Sequential",
     "RemoteChase": "None",
     "ToolState": "Putaway",
+    "e50d3218 u16": 0,
     "AcceptAccess": 1,
     "f413acd2 u8": 0,
     "833e2942 u8": 0,
@@ -10810,7 +10811,6 @@
     "5dcf7b24 u8": 0,
     "16e483f0 u8": 0,
     "aa0070b7 u8": 1,
-    "DemoNetLockState": 0,
     "DummyMenuDemo": 0,
     "EnableRodCloth": 0,
     "EnableStageChange": 1,
@@ -10833,6 +10833,608 @@
     "a84507aa u8": 0,
     "c033d95a u8": 0,
     "ValidDiveRate": 0,
-    "WaitType": 1
+    "WaitType": "\u0001"
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "FireworksKeep",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "FireworksSwing",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "Normal",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Normal",
+    "PacketType": "Sequential",
+    "RemoteChase": "None",
+    "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 0,
+    "5dcf7b24 u8": 0,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 1,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 1,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 0,
+    "95798f28 u8": 0,
+    "StateName": "Tumble",
+    "StopAutoSave": 0,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": "\u0001"
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "BubbleBlowing",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PinwheelBlowing",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "NoBgCheckNoGravity",
+    "ChangeDemo": "EnableToDemoBedSpeak",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Putaway",
+    "e50d3218 u16": 109,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 0,
+    "95798f28 u8": 0,
+    "StateName": "FtrBedWaitMessy",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": "\u0004"
+  },
+  {
+    "BgCheckType": "Normal",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 0,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PlacedFireworksReady",
+    "StopAutoSave": 1,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": "\u0001"
+  },
+  {
+    "BgCheckType": "Normal",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 0,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PlacedFireworksReadyWait",
+    "StopAutoSave": 1,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": "\u0001"
+  },
+  {
+    "BgCheckType": "Normal",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Sequential",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 0,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 0,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PlacedFireworksAction",
+    "StopAutoSave": 1,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": "\u0001"
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 1,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PennantStart",
+    "StopAutoSave": 0,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 1,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PennantKeep",
+    "StopAutoSave": 0,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "IfNotDemoDraw",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 1,
+    "HideHUD": 1,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "PennantEnd",
+    "StopAutoSave": 0,
+    "a84507aa u8": 0,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "BalloonShake",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
+  },
+  {
+    "BgCheckType": "OnlyWallNoGravity_SitSpecial",
+    "ChangeDemo": "Disable",
+    "ObjCheckRate": 1.0,
+    "ObjCheckType": "Heavy",
+    "PacketType": "Overwrite",
+    "RemoteChase": "None",
+    "ToolState": "Continue",
+    "e50d3218 u16": 0,
+    "AcceptAccess": 1,
+    "f413acd2 u8": 0,
+    "833e2942 u8": 0,
+    "BeesRunAway": 0,
+    "BgmEnd": 0,
+    "497ac4d6 u8": 1,
+    "63f77486 u8": 1,
+    "5dcf7b24 u8": 1,
+    "16e483f0 u8": 0,
+    "aa0070b7 u8": 1,
+    "DummyMenuDemo": 0,
+    "EnableRodCloth": 0,
+    "EnableStageChange": 1,
+    "ForbidOverwrite": 0,
+    "e550abdf u8": 0,
+    "HideHUD": 0,
+    "InWaterBody": 0,
+    "JudgeVisibleOn": 0,
+    "ede0a8ca u8": 0,
+    "87438100 u8": 0,
+    "NpcLookAction": 0,
+    "5b6d5751 u8": 0,
+    "PoseTrans": 0,
+    "PoseTransDive": 0,
+    "65fd6b0d u8": 0,
+    "2b6186a0 u8": 1,
+    "95798f28 u8": 0,
+    "StateName": "TweeterBlowing",
+    "StopAutoSave": 0,
+    "a84507aa u8": 1,
+    "c033d95a u8": 0,
+    "ValidDiveRate": 0,
+    "WaitType": ""
   }
 ]

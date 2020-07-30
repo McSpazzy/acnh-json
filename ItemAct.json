@@ -396,6 +396,17 @@
     "SwitchableOnWall": 1
   },
   {
+    "AsName": "FtrLoopTrigger",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 76,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "LoopTriggerRestart",
+    "Name": "ループ：トリガー：上書き",
+    "SwitchableOnWall": 1
+  },
+  {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",

@@ -298,5 +298,53 @@
     "UniqueID": 39,
     "Label": "DocWedding",
     "Name": "ロドリー・ウェディング"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": 12972,
+    "Cap": 10876,
+    "Shoes": -2,
+    "SpNpcID": 9,
+    "Tool": -2,
+    "Tops": 12971,
+    "UniqueID": 41,
+    "Label": "FoxFireSummer",
+    "Name": "つねきち・夏花火大会セット"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": 12972,
+    "Cap": 11534,
+    "Shoes": -2,
+    "SpNpcID": 9,
+    "Tool": -2,
+    "Tops": 12971,
+    "UniqueID": 42,
+    "Label": "FoxFireWinter",
+    "Name": "つねきち・冬花火大会セット"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": 4218,
+    "Cap": 2611,
+    "Shoes": 7907,
+    "SpNpcID": 38,
+    "Tool": -2,
+    "Tops": 7925,
+    "UniqueID": 43,
+    "Label": "SzaFireSummer",
+    "Name": "しずえ・夏服花火大会セット"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": 4476,
+    "Cap": 2611,
+    "Shoes": 7907,
+    "SpNpcID": 38,
+    "Tool": -2,
+    "Tops": 8029,
+    "UniqueID": 44,
+    "Label": "SzaFireWinter",
+    "Name": "しずえ・冬服花火大会セット"
   }
 ]

@@ -2033,6 +2033,25 @@
     "Storage": ""
   },
   {
+    "Category": "FE78B327",
+    "FloorScale": 1.0,
+    "RotateOffsetX": 0,
+    "RotateOffsetY": 0,
+    "RotateOffsetZ": 0,
+    "TransOffsetX": 0,
+    "TransOffsetY": 0,
+    "TransOffsetZ": 0,
+    "WallScale": 1.0,
+    "BreakDamage": 0,
+    "UniqueID": 163,
+    "HangerInfo": 0,
+    "Label": "Pennant",
+    "Name": "ペナント",
+    "SpecialELink": 0,
+    "SpecialSLink": 0,
+    "Storage": ""
+  },
+  {
     "Category": "Broom",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,

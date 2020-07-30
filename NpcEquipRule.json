@@ -438,5 +438,27 @@
     "MaskPurposeLimit": 0,
     "MaskTemporarilyCreate": 0,
     "Name": "イースター"
+  },
+  {
+    "ClothesFrequencyWear": "Always",
+    "ClothesPurposeLimit": "Limit",
+    "ClothesTemporarilyCreate": "None",
+    "PurposeScore": 2,
+    "PurposeTag": 32,
+    "ScoreMultiplier": 4.0,
+    "SeasonScore": 0,
+    "TasteScore": 8,
+    "UniqueID": 30,
+    "CapFrequencyWear": 3,
+    "CapPurposeLimit": 1,
+    "CapTemporarilyCreate": 0,
+    "GlassesFrequencyWear": 0,
+    "GlassesPurposeLimit": 0,
+    "GlassesTemporarilyCreate": 0,
+    "Label": "Fireworks",
+    "MaskFrequencyWear": 0,
+    "MaskPurposeLimit": 0,
+    "MaskTemporarilyCreate": 0,
+    "Name": "花火大会"
   }
 ]
