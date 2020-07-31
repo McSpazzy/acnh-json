@@ -1522,7 +1522,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "24e5b19d.HashRef": "AA4CDF1B",
+    "24e5b19d.HashRef": "GroupPlayFirework",
     "PlacementKind": "Ftr",
     "EventFtrUniqueID": 34,
     "EventObjUniqueID": 0,
