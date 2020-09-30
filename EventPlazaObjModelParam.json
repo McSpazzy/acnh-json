@@ -9,7 +9,7 @@
     "NearCulling": 0,
     "ResourceName": "",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 0
+    "UseCollision": 0
   },
   {
     "DemoDistance": 11.0,
@@ -21,7 +21,7 @@
     "NearCulling": 1,
     "ResourceName": "EvtobjBbs",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 0,
@@ -33,7 +33,7 @@
     "NearCulling": 1,
     "ResourceName": "EvtobjLamp",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 18.0,
@@ -45,7 +45,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjInsectTent",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 18.0,
@@ -57,7 +57,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjFishTent",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 0,
@@ -69,7 +69,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjCountdownStall",
     "e2760d00 u8": 1,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 11.0,
@@ -81,7 +81,7 @@
     "NearCulling": 1,
     "ResourceName": "EvtobjBbsWood",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -93,7 +93,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjCountdownBoard",
     "e2760d00 u8": 1,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -105,7 +105,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjKotono",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -117,7 +117,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjStallSkk",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -129,7 +129,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjStallHgh",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -141,7 +141,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjCampfire",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -153,7 +153,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjRazyStall",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -165,7 +165,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjTsunekichiStall",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -177,7 +177,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjTailorDevice",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   },
   {
     "DemoDistance": 15.0,
@@ -189,7 +189,7 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjHwnGarland",
     "e2760d00 u8": 1,
-    "a5010be8 u16": 0
+    "UseCollision": 0
   },
   {
     "DemoDistance": 15.0,
@@ -201,6 +201,6 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjRazyStallPumpkin",
     "e2760d00 u8": 0,
-    "a5010be8 u16": 1
+    "UseCollision": 1
   }
 ]

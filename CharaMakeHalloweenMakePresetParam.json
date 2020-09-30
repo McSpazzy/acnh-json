@@ -1,67 +1,67 @@
 [
   {
-    "ea6d4070 u16": 0,
-    "25de7b8f u16": 8,
+    "FacePaint": 0,
+    "SkinColor": 8,
     "UniqueID": 0
   },
   {
-    "ea6d4070 u16": 0,
-    "25de7b8f u16": 9,
+    "FacePaint": 0,
+    "SkinColor": 9,
     "UniqueID": 1
   },
   {
-    "ea6d4070 u16": 0,
-    "25de7b8f u16": 10,
+    "FacePaint": 0,
+    "SkinColor": 10,
     "UniqueID": 2
   },
   {
-    "ea6d4070 u16": 0,
-    "25de7b8f u16": 11,
+    "FacePaint": 0,
+    "SkinColor": 11,
     "UniqueID": 3
   },
   {
-    "ea6d4070 u16": 1,
-    "25de7b8f u16": 9,
+    "FacePaint": 1,
+    "SkinColor": 9,
     "UniqueID": 4
   },
   {
-    "ea6d4070 u16": 1,
-    "25de7b8f u16": 10,
+    "FacePaint": 1,
+    "SkinColor": 10,
     "UniqueID": 5
   },
   {
-    "ea6d4070 u16": 1,
-    "25de7b8f u16": 11,
+    "FacePaint": 1,
+    "SkinColor": 11,
     "UniqueID": 6
   },
   {
-    "ea6d4070 u16": 2,
-    "25de7b8f u16": 8,
+    "FacePaint": 2,
+    "SkinColor": 8,
     "UniqueID": 7
   },
   {
-    "ea6d4070 u16": 2,
-    "25de7b8f u16": 9,
+    "FacePaint": 2,
+    "SkinColor": 9,
     "UniqueID": 8
   },
   {
-    "ea6d4070 u16": 2,
-    "25de7b8f u16": 11,
+    "FacePaint": 2,
+    "SkinColor": 11,
     "UniqueID": 9
   },
   {
-    "ea6d4070 u16": 3,
-    "25de7b8f u16": 9,
+    "FacePaint": 3,
+    "SkinColor": 9,
     "UniqueID": 10
   },
   {
-    "ea6d4070 u16": 3,
-    "25de7b8f u16": 10,
+    "FacePaint": 3,
+    "SkinColor": 10,
     "UniqueID": 11
   },
   {
-    "ea6d4070 u16": 3,
-    "25de7b8f u16": 11,
+    "FacePaint": 3,
+    "SkinColor": 11,
     "UniqueID": 12
   }
 ]
