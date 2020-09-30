@@ -271,6 +271,12 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 187,
+    "Label": "MileExchangeNewColor",
+    "Name": "マイル交換_新規カラー(買い切り)"
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 67,
     "Label": "Bridge",
     "Name": "案内所_橋"
@@ -312,6 +318,18 @@
     "Name": "仕立て屋_店舗_クリスマス"
   },
   {
+    "HHABaseScore": 51,
+    "UniqueID": 183,
+    "Label": "TailorHalloween",
+    "Name": "仕立て屋_ハロウィン"
+  },
+  {
+    "HHABaseScore": 51,
+    "UniqueID": 184,
+    "Label": "TailorMarketOnlyHalloween",
+    "Name": "仕立て屋_店舗_ハロウィン"
+  },
+  {
     "HHABaseScore": 253,
     "UniqueID": 22,
     "Label": "RugS",
@@ -340,6 +358,12 @@
     "UniqueID": 10,
     "Label": "ShoesBagShop",
     "Name": "シャンク"
+  },
+  {
+    "HHABaseScore": 23,
+    "UniqueID": 188,
+    "Label": "ShoesBagShop_Halloween",
+    "Name": "シャンク_ハロウィン"
   },
   {
     "HHABaseScore": 351,
@@ -805,6 +829,12 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 182,
+    "Label": "DIYPumpkin",
+    "Name": "<DIY>かぼちゃ"
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 143,
     "Label": "MotherDay",
     "Name": "<リージョン>母の日"
@@ -880,6 +910,24 @@
     "UniqueID": 160,
     "Label": "JuneBride",
     "Name": "ジューンブライド"
+  },
+  {
+    "HHABaseScore": 231,
+    "UniqueID": 174,
+    "Label": "Halloween",
+    "Name": "ハロウィン"
+  },
+  {
+    "HHABaseScore": 231,
+    "UniqueID": 180,
+    "Label": "Halloween_NPC",
+    "Name": "ハロウィン_NPC"
+  },
+  {
+    "HHABaseScore": 573,
+    "UniqueID": 181,
+    "Label": "Halloween_Pumpking",
+    "Name": "ハロウィン_パンプキング"
   },
   {
     "HHABaseScore": 0,

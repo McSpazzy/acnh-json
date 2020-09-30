@@ -878,5 +878,15 @@
     "SelectRate": 90,
     "StartHour": 0,
     "Type": "\t"
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 103,
+    "ASCommand": "PknTouchHead",
+    "EndHour": 24,
+    "Label": "pkn",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
   }
 ]

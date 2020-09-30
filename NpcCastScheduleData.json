@@ -372,6 +372,19 @@
     "EndMinute": 0,
     "EventName": "Fireworks",
     "NeglectSleep": 1,
+    "StartHour": 18,
+    "StartMinute": 30,
+    "e76db92f string": ""
+  },
+  {
+    "ApplyNeedActivity": 0,
+    "CanDoze": 0,
+    "CastLabel": 29,
+    "d507df3e u8": 0,
+    "EndHour": 24,
+    "EndMinute": 0,
+    "EventName": "Halloween",
+    "NeglectSleep": 1,
     "StartHour": 17,
     "StartMinute": 0,
     "e76db92f string": ""
@@ -379,7 +392,7 @@
   {
     "ApplyNeedActivity": 0,
     "CanDoze": 0,
-    "CastLabel": 29,
+    "CastLabel": 30,
     "d507df3e u8": 0,
     "EndHour": 29,
     "EndMinute": 0,

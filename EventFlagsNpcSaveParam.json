@@ -343,7 +343,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": 5,
+    "MaxValue": 6,
     "UniqueID": 49,
     "5140e4b4 u8": 0,
     "FlagsFlowAccess": 0,

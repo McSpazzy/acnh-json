@@ -754,5 +754,65 @@
     "FlagsNetAccess": 1,
     "Key": "TapIndoorPos",
     "Name": "ゆめみ|ゆめみ室内での立ち位置制御"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 5,
+    "UniqueID": 80,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 2,
+    "Key": "SeasonEventActivityType",
+    "Name": "季節イベント行動タイプ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 81,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 1,
+    "Key": "HalloweenApproachNpcIndex",
+    "Name": "ハロウィン用アプローチをしているNPC住人番号"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 82,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 1,
+    "Key": "HalloweenApproachNow",
+    "Name": "現在ハロウィン用アプローチが発生中か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 24,
+    "UniqueID": 84,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 2,
+    "Key": "SeasonEventIndoorUpdateHour",
+    "Name": "季節イベント室内NPC更新時刻(時間)"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 60,
+    "UniqueID": 85,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 2,
+    "Key": "SeasonEventIndoorUpdateMinute",
+    "Name": "季節イベント室内NPC更新時刻(分)"
   }
 ]

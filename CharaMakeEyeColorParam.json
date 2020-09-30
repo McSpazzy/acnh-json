@@ -46,5 +46,53 @@
     "UniqueID": 5,
     "Label": "EyeColor5",
     "Name": "EyeColor5"
+  },
+  {
+    "BaseColorB": 0.11,
+    "BaseColorG": 0.04,
+    "BaseColorR": 0.52,
+    "UniqueID": 6,
+    "Label": "EyeColor6",
+    "Name": "EyeColor6"
+  },
+  {
+    "BaseColorB": 0.03,
+    "BaseColorG": 0.09,
+    "BaseColorR": 0.31,
+    "UniqueID": 7,
+    "Label": "EyeColor7",
+    "Name": "EyeColor7"
+  },
+  {
+    "BaseColorB": 0.03,
+    "BaseColorG": 0.25,
+    "BaseColorR": 0.68,
+    "UniqueID": 8,
+    "Label": "EyeColor8",
+    "Name": "EyeColor8"
+  },
+  {
+    "BaseColorB": 0.55,
+    "BaseColorG": 0.12,
+    "BaseColorR": 0.38,
+    "UniqueID": 9,
+    "Label": "EyeColor9",
+    "Name": "EyeColor9"
+  },
+  {
+    "BaseColorB": 0.24,
+    "BaseColorG": 0.18,
+    "BaseColorR": 0.18,
+    "UniqueID": 10,
+    "Label": "EyeColor10",
+    "Name": "EyeColor10"
+  },
+  {
+    "BaseColorB": 0.15,
+    "BaseColorG": 0.2,
+    "BaseColorR": 0.05,
+    "UniqueID": 11,
+    "Label": "EyeColor11",
+    "Name": "EyeColor11"
   }
 ]

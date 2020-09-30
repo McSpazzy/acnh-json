@@ -548,5 +548,45 @@
     "FlagsFlowAccess": 2,
     "Key": "FireworksItemTalk",
     "Name": "花火大会用の会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 60,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 1,
+    "Key": "HalloweenReactionPrank",
+    "Name": "ハロウィン：NPCの視界外から脅かした？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 61,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "HalloweenReactionEventPlaza",
+    "Name": "ハロウィン：広場行動指定"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 62,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "SeasonEventPlace",
+    "Name": "季節イベント用位置情報"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 63,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HalloweenApproachNowStage",
+    "Name": "現在シーンでハロウィン用アプローチをしたか"
   }
 ]

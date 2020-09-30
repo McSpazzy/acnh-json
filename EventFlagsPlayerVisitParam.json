@@ -514,9 +514,81 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 82,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_RcmBoughtCandyTodayFlag",
+    "Name": "まめきち/ハロウィン|おでかけ先の島で今日アメ買った？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 83,
     "FlagsFlowAccess": 2,
     "Key": "V_Sza_FireworksRewardToday",
     "Name": "花火しずえ|おでかけ先の島で光るアクセサリーもらった？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 84,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknTalkTodayFlag",
+    "Name": "パンプキング/ハロウィン|今日会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 85,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknTalkLastNoCandyFlag",
+    "Name": "パンプキング/ハロウィン|最後の会話時アメ持ってなかった？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 86,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknGiveLollipopCount",
+    "Name": "パンプキング/ハロウィン|ロリポップをあげた回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 87,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknTalkLastNotGetFlag",
+    "Name": "パンプキング/ハロウィン|最後の会話でアイテムもらえなかった？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 88,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknLastGiveCandyFlag",
+    "Name": "パンプキング/ハロウィン|前回渡したのはアメ？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 89,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PknPumpkingLookChatFlag",
+    "Name": "パンプキング/ハロウィン|パンプキング装備の雑談した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 90,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_NpcGiveCandyCount",
+    "Name": "一般NPC/ハロウィン|アメのお礼もらった回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 91,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_NpcTalkHalloweenFlag",
+    "Name": "一般NPC/ハロウィン|イベント中、誰かと話した？"
   }
 ]

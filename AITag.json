@@ -196,5 +196,11 @@
     "UniqueID": 140,
     "Label": "Fireworks",
     "Name": "花火大会"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 144,
+    "Label": "Halloween",
+    "Name": "ハロウィン"
   }
 ]

@@ -124,5 +124,14 @@
     "BeforeDays": 4,
     "EventLabelShort": "Fireworks",
     "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 474,
+    "MusicNo": 215,
+    "UniqueID": 14,
+    "BeforeDays": 30,
+    "EventLabelShort": "Halloween",
+    "Timezone": 0
   }
 ]

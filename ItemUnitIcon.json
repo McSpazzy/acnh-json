@@ -12,56 +12,6 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
-    "UniqueID": 279,
-    "ColorIndex": 255,
-    "Label": "MileCard",
-    "ModelName": "UnitIconMileCard",
-    "Name": "たぬきマイルカード",
-    "ResName": "UnitIconMileCard"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
-    "UniqueID": 303,
-    "ColorIndex": 255,
-    "Label": "MarineSuit",
-    "ModelName": "UnitIconMarineSuit",
-    "Name": "マリンスーツ",
-    "ResName": "UnitIconMarineSuit"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
-    "UniqueID": 304,
-    "ColorIndex": 1,
-    "Label": "Cinder",
-    "ModelName": "UnitIconFireworks",
-    "Name": "もえかす",
-    "ResName": "UnitIconFireworks"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
-    "UniqueID": 305,
-    "ColorIndex": 255,
-    "Label": "Pearl",
-    "ModelName": "UnitIconPearl",
-    "Name": "しんじゅ",
-    "ResName": "UnitIconPearl"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
-    "UniqueID": 306,
-    "ColorIndex": 255,
-    "Label": "PirateQuest",
-    "ModelName": "UnitIconPirateQuest",
-    "Name": "むせんき",
-    "ResName": "UnitIconPirateQuest"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
     "UniqueID": 0,
     "ColorIndex": 0,
     "Label": "Leaf",
@@ -222,6 +172,16 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 303,
+    "ColorIndex": 255,
+    "Label": "MarineSuit",
+    "ModelName": "UnitIconMarineSuit",
+    "Name": "マリンスーツ",
+    "ResName": "UnitIconMarineSuit"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 162,
     "ColorIndex": 255,
     "Label": "Fence",
@@ -298,16 +258,6 @@
     "ModelName": "UnitIconMedicine",
     "Name": "おくすり",
     "ResName": "UnitIconMedicine"
-  },
-  {
-    "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
-    "UniqueID": 237,
-    "ColorIndex": 0,
-    "Label": "Fireworks",
-    "ModelName": "UnitIconFireworks",
-    "Name": "置き花火",
-    "ResName": "UnitIconFireworks"
   },
   {
     "ScaleOffset": 0.8,
@@ -568,6 +518,26 @@
     "ModelName": "UnitIconParts",
     "Name": "さびたパーツ",
     "ResName": "UnitIconParts"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 306,
+    "ColorIndex": 255,
+    "Label": "PirateQuest",
+    "ModelName": "UnitIconPirateQuest",
+    "Name": "むせんき",
+    "ResName": "UnitIconPirateQuest"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 305,
+    "ColorIndex": 255,
+    "Label": "Pearl",
+    "ModelName": "UnitIconPearl",
+    "Name": "しんじゅ",
+    "ResName": "UnitIconPearl"
   },
   {
     "ScaleOffset": 0.8,
@@ -1098,6 +1068,16 @@
     "ModelName": "UnitIconMap",
     "Name": "地図",
     "ResName": "UnitIconMap"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 279,
+    "ColorIndex": 255,
+    "Label": "MileCard",
+    "ModelName": "UnitIconMileCard",
+    "Name": "たぬきマイルカード",
+    "ResName": "UnitIconMileCard"
   },
   {
     "ScaleOffset": 0.8,
@@ -1672,6 +1652,26 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 23,
+    "ColorIndex": 255,
+    "Label": "Squash",
+    "ModelName": "UnitIconPltVgtPumpkin",
+    "Name": "カボチャ",
+    "ResName": "UnitIconPltVgtPumpkin"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 152,
+    "ColorIndex": 255,
+    "Label": "SeedlingSquash",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "カボチャのなえ",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 281,
     "ColorIndex": 255,
     "Label": "EggGround",
@@ -1748,5 +1748,45 @@
     "ModelName": "UnitIconLove",
     "Name": "あいのけっしょう",
     "ResName": "UnitIconLove"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 237,
+    "ColorIndex": 0,
+    "Label": "Fireworks",
+    "ModelName": "UnitIconFireworks",
+    "Name": "置き花火",
+    "ResName": "UnitIconFireworks"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 304,
+    "ColorIndex": 1,
+    "Label": "Cinder",
+    "ModelName": "UnitIconFireworks",
+    "Name": "もえかす",
+    "ResName": "UnitIconFireworks"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 313,
+    "ColorIndex": 255,
+    "Label": "Candy",
+    "ModelName": "UnitIconCandy",
+    "Name": "アメ",
+    "ResName": "UnitIconCandy"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 314,
+    "ColorIndex": 255,
+    "Label": "Lollipop",
+    "ModelName": "UnitIconLollipop",
+    "Name": "ロリポップ",
+    "ResName": "UnitIconLollipop"
   }
 ]

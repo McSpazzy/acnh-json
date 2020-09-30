@@ -872,6 +872,26 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 99,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "RcmCantPlayTalkActingThisScene",
+    "Name": "まめきち｜シーン入場時に会話のフリをしなかったらON"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 100,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "TalkSpecialMakeNow",
+    "Name": "今ClothesP（特殊メイク）を見た"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 102,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,

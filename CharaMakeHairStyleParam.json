@@ -41,7 +41,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle0",
-    "Name": "HairStyle0",
+    "Name": "Hair00_ポニーテール",
     "ResName": "PlayerHair00"
   },
   {
@@ -86,7 +86,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle1",
-    "Name": "HairStyle1",
+    "Name": "Hair01_ギザギザツイン",
     "ResName": "PlayerHair01"
   },
   {
@@ -131,7 +131,7 @@
     "InvisibleEarL": 1,
     "InvisibleEarR": 1,
     "Label": "HairStyle2",
-    "Name": "HairStyle2",
+    "Name": "Hair02_ポンパドール",
     "ResName": "PlayerHair02"
   },
   {
@@ -176,7 +176,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle3",
-    "Name": "HairStyle3",
+    "Name": "Hair03_ショート外はね",
     "ResName": "PlayerHair03"
   },
   {
@@ -221,7 +221,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle4",
-    "Name": "HairStyle4",
+    "Name": "Hair04_２つみつあみ",
     "ResName": "PlayerHair04"
   },
   {
@@ -266,7 +266,7 @@
     "InvisibleEarL": 1,
     "InvisibleEarR": 1,
     "Label": "HairStyle5",
-    "Name": "HairStyle5",
+    "Name": "Hair05_おかっぱボブ",
     "ResName": "PlayerHair05"
   },
   {
@@ -311,7 +311,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 1,
     "Label": "HairStyle6",
-    "Name": "HairStyle6",
+    "Name": "Hair06_かきあげミドル",
     "ResName": "PlayerHair06"
   },
   {
@@ -356,7 +356,7 @@
     "InvisibleEarL": 1,
     "InvisibleEarR": 1,
     "Label": "HairStyle7",
-    "Name": "HairStyle7",
+    "Name": "Hair07_ウェーブミドル",
     "ResName": "PlayerHair07"
   },
   {
@@ -401,7 +401,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle8",
-    "Name": "HairStyle8",
+    "Name": "Hair08_七三ショート",
     "ResName": "PlayerHair08"
   },
   {
@@ -446,7 +446,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle9",
-    "Name": "HairStyle9",
+    "Name": "Hair09_長めショート",
     "ResName": "PlayerHair09"
   },
   {
@@ -491,7 +491,7 @@
     "InvisibleEarL": 1,
     "InvisibleEarR": 1,
     "Label": "HairStyle10",
-    "Name": "HairStyle10",
+    "Name": "Hair10_ウェーブロング",
     "ResName": "PlayerHair10"
   },
   {
@@ -536,7 +536,7 @@
     "InvisibleEarL": 1,
     "InvisibleEarR": 1,
     "Label": "HairStyle11",
-    "Name": "HairStyle11",
+    "Name": "Hair11_ストレートロング",
     "ResName": "PlayerHair11"
   },
   {
@@ -581,7 +581,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle12",
-    "Name": "HairStyle12",
+    "Name": "Hair12_１つむすび",
     "ResName": "PlayerHair12"
   },
   {
@@ -626,7 +626,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle13",
-    "Name": "HairStyle13",
+    "Name": "Hair13_１つおだんご",
     "ResName": "PlayerHair13"
   },
   {
@@ -671,7 +671,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle14",
-    "Name": "HairStyle14",
+    "Name": "Hair14_カーリーヘア",
     "ResName": "PlayerHair14"
   },
   {
@@ -716,7 +716,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle15",
-    "Name": "HairStyle15",
+    "Name": "Hair15_ウェーブおだんご",
     "ResName": "PlayerHair15"
   },
   {
@@ -761,7 +761,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle16",
-    "Name": "HairStyle16",
+    "Name": "Hair16_普通ツインテール",
     "ResName": "PlayerHair16"
   },
   {
@@ -806,7 +806,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle17",
-    "Name": "HairStyle17",
+    "Name": "Hair17_ギザギザショート",
     "ResName": "PlayerHair17"
   },
   {
@@ -851,7 +851,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle18",
-    "Name": "HairStyle18",
+    "Name": "Hair18_前髪流しショート",
     "ResName": "PlayerHair18"
   },
   {
@@ -896,7 +896,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle19",
-    "Name": "HairStyle19",
+    "Name": "Hair19_とげとげヘアー",
     "ResName": "PlayerHair19"
   },
   {
@@ -941,7 +941,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle20",
-    "Name": "HairStyle20",
+    "Name": "Hair20_無造作ショート",
     "ResName": "PlayerHair20"
   },
   {
@@ -986,7 +986,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle21",
-    "Name": "HairStyle21",
+    "Name": "Hair21_ぼうず",
     "ResName": "PlayerHair21"
   },
   {
@@ -1031,7 +1031,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle22",
-    "Name": "HairStyle22",
+    "Name": "Hair22_ベリーショート",
     "ResName": "PlayerHair22"
   },
   {
@@ -1076,7 +1076,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle23",
-    "Name": "HairStyle23",
+    "Name": "Hair23_刈上しちさん",
     "ResName": "PlayerHair23"
   },
   {
@@ -1121,7 +1121,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle24",
-    "Name": "HairStyle24",
+    "Name": "Hair24_刈上マッシュ",
     "ResName": "PlayerHair24"
   },
   {
@@ -1166,7 +1166,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle25",
-    "Name": "HairStyle25",
+    "Name": "Hair25_刈上センター分け",
     "ResName": "PlayerHair25"
   },
   {
@@ -1211,7 +1211,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle26",
-    "Name": "HairStyle26",
+    "Name": "Hair26_刈上とげとげ",
     "ResName": "PlayerHair26"
   },
   {
@@ -1256,7 +1256,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle27",
-    "Name": "HairStyle27",
+    "Name": "Hair27_刈上ドレッド",
     "ResName": "PlayerHair27"
   },
   {
@@ -1301,7 +1301,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle28",
-    "Name": "HairStyle28",
+    "Name": "Hair28_刈上まとまり",
     "ResName": "PlayerHair28"
   },
   {
@@ -1346,7 +1346,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle29",
-    "Name": "HairStyle29",
+    "Name": "Hair29_イケメンロング",
     "ResName": "PlayerHair29"
   },
   {
@@ -1391,7 +1391,7 @@
     "InvisibleEarL": 0,
     "InvisibleEarR": 0,
     "Label": "HairStyle30",
-    "Name": "HairStyle30",
+    "Name": "Hair30_ねぐせ",
     "ResName": "PlayerHair30"
   }
 ]

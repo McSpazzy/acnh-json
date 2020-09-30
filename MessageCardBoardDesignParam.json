@@ -88,5 +88,20 @@
     "84818e10 u16": -1,
     "UniqueID": 5,
     "ResourceName": "BoardCardOffice00"
+  },
+  {
+    "BackColor": -1,
+    "BodyColor": 363,
+    "FootColor": 365,
+    "HeadColor": 364,
+    "PenColor1": 363,
+    "PenColor2": 363,
+    "PenColor3": 363,
+    "PenColor4": 363,
+    "RuleColor": 1,
+    "TextLotId": -1,
+    "84818e10 u16": -1,
+    "UniqueID": 6,
+    "ResourceName": "BoardCardHalloween00"
   }
 ]

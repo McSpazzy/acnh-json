@@ -2274,6 +2274,30 @@
     "ResName": "BadKabu"
   },
   {
+    "UniqueID": 447,
+    "Label": "SquashOrange",
+    "Name": "オレンジのカボチャ",
+    "ResName": "SquashOrange"
+  },
+  {
+    "UniqueID": 448,
+    "Label": "SquashYellow",
+    "Name": "きいろいカボチャ",
+    "ResName": "SquashYellow"
+  },
+  {
+    "UniqueID": 446,
+    "Label": "SquashGreen",
+    "Name": "みどりのカボチャ",
+    "ResName": "SquashGreen"
+  },
+  {
+    "UniqueID": 445,
+    "Label": "SquashWhite",
+    "Name": "しろいカボチャ",
+    "ResName": "SquashWhite"
+  },
+  {
     "UniqueID": 219,
     "Label": "Mush0",
     "Name": "りっぱなキノコ",
@@ -3018,6 +3042,12 @@
     "ResName": "PltSuzuran"
   },
   {
+    "UniqueID": 729,
+    "Label": "SeedlingVegetable",
+    "Name": "野菜の苗",
+    "ResName": "SeedlingVegetable"
+  },
+  {
     "UniqueID": 259,
     "Label": "SeedlingBush",
     "Name": "低木の苗",
@@ -3094,6 +3124,126 @@
     "Label": "PltMoney",
     "Name": "金のなる木",
     "ResName": "PltMoney"
+  },
+  {
+    "UniqueID": 544,
+    "Label": "SeedlingSquash",
+    "Name": "カボチャのなえ",
+    "ResName": "SeedlingSquash"
+  },
+  {
+    "UniqueID": 545,
+    "Label": "PltSquashOrange",
+    "Name": "オレンジのカボチャの木",
+    "ResName": "PltSquashOrange"
+  },
+  {
+    "UniqueID": 546,
+    "Label": "PltSquashYellow",
+    "Name": "きいろいカボチャの木",
+    "ResName": "PltSquashYellow"
+  },
+  {
+    "UniqueID": 547,
+    "Label": "PltSquashGreen",
+    "Name": "みどりのカボチャの木",
+    "ResName": "PltSquashGreen"
+  },
+  {
+    "UniqueID": 548,
+    "Label": "PltSquashWhite",
+    "Name": "しろいカボチャの木",
+    "ResName": "PltSquashWhite"
+  },
+  {
+    "UniqueID": 702,
+    "Label": "SeedlingWheat",
+    "Name": "こむぎのなえ",
+    "ResName": "SeedlingWheat"
+  },
+  {
+    "UniqueID": 703,
+    "Label": "PltWheat",
+    "Name": "こむぎの木",
+    "ResName": "PltWheat"
+  },
+  {
+    "UniqueID": 704,
+    "Label": "SeedlingSugarCane",
+    "Name": "さとうきびのなえ",
+    "ResName": "SeedlingSugarCane"
+  },
+  {
+    "UniqueID": 705,
+    "Label": "PltSugarCane",
+    "Name": "さとうきびの木",
+    "ResName": "PltSugarCane"
+  },
+  {
+    "UniqueID": 706,
+    "Label": "SeedlingPotato",
+    "Name": "じゃがいものなえ",
+    "ResName": "SeedlingPotato"
+  },
+  {
+    "UniqueID": 707,
+    "Label": "PltPotato",
+    "Name": "じゃがいもの木",
+    "ResName": "PltPotato"
+  },
+  {
+    "UniqueID": 708,
+    "Label": "SeedlingTomato",
+    "Name": "トマトのなえ",
+    "ResName": "SeedlingTomato"
+  },
+  {
+    "UniqueID": 709,
+    "Label": "PltTomato",
+    "Name": "トマトの木",
+    "ResName": "PltTomato"
+  },
+  {
+    "UniqueID": 710,
+    "Label": "SeedlingCarrot",
+    "Name": "にんじんのなえ",
+    "ResName": "SeedlingCarrot"
+  },
+  {
+    "UniqueID": 711,
+    "Label": "PltCarrot",
+    "Name": "にんじんの木",
+    "ResName": "PltCarrot"
+  },
+  {
+    "UniqueID": 712,
+    "Label": "Wheat",
+    "Name": "こむぎ",
+    "ResName": "Wheat"
+  },
+  {
+    "UniqueID": 713,
+    "Label": "SugarCane",
+    "Name": "さとうきび",
+    "ResName": "SugarCane"
+  },
+  {
+    "UniqueID": 714,
+    "Label": "Potato",
+    "Name": "じゃがいも",
+    "ResName": "Potato"
+  },
+  {
+    "UniqueID": 716,
+    "Label": "Tomato",
+    "Name": "トマト",
+    "ResName": "Tomato"
+  },
+  {
+    "UniqueID": 715,
+    "Label": "Carrot",
+    "Name": "にんじん",
+    "ResName": "Carrot"
   },
   {
     "UniqueID": 549,
@@ -3226,5 +3376,17 @@
     "Label": "PirateQuest",
     "Name": "むせんき",
     "ResName": "PirateQuest"
+  },
+  {
+    "UniqueID": 727,
+    "Label": "Candy",
+    "Name": "アメ",
+    "ResName": "Candy"
+  },
+  {
+    "UniqueID": 728,
+    "Label": "Lollipop",
+    "Name": "ロリポップ",
+    "ResName": "Lollipop"
   }
 ]

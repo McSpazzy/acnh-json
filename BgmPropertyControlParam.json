@@ -586,5 +586,17 @@
     "UniqueID": 107,
     "Value": 1,
     "Name": "1_アナウンス中"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 108,
+    "Value": 15,
+    "Name": "カレンダーイベント：ハロウィン当日"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 109,
+    "Value": 14,
+    "Name": "カレンダーイベント：ハロウィン当日かつ開催前"
   }
 ]

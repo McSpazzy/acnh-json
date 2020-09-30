@@ -7,7 +7,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": ""
+    "ResourceName": "",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 0
   },
   {
     "DemoDistance": 11.0,
@@ -17,7 +19,9 @@
     "FlowEntryName": "",
     "FlowFileName": "Obj_BulletinBoard",
     "NearCulling": 1,
-    "ResourceName": "EvtobjBbs"
+    "ResourceName": "EvtobjBbs",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 0,
@@ -27,7 +31,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 1,
-    "ResourceName": "EvtobjLamp"
+    "ResourceName": "EvtobjLamp",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 18.0,
@@ -37,7 +43,9 @@
     "FlowEntryName": "",
     "FlowFileName": "Obj_InsectFesBOX",
     "NearCulling": 0,
-    "ResourceName": "EvtobjInsectTent"
+    "ResourceName": "EvtobjInsectTent",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 18.0,
@@ -47,7 +55,9 @@
     "FlowEntryName": "",
     "FlowFileName": "Obj_FishFesBOX",
     "NearCulling": 0,
-    "ResourceName": "EvtobjFishTent"
+    "ResourceName": "EvtobjFishTent",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 0,
@@ -57,7 +67,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjCountdownStall"
+    "ResourceName": "EvtobjCountdownStall",
+    "e2760d00 u8": 1,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 11.0,
@@ -67,7 +79,9 @@
     "FlowEntryName": "",
     "FlowFileName": "Obj_BulletinBoard",
     "NearCulling": 1,
-    "ResourceName": "EvtobjBbsWood"
+    "ResourceName": "EvtobjBbsWood",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -77,7 +91,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjCountdownBoard"
+    "ResourceName": "EvtobjCountdownBoard",
+    "e2760d00 u8": 1,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -87,7 +103,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjKotono"
+    "ResourceName": "EvtobjKotono",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -97,7 +115,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjStallSkk"
+    "ResourceName": "EvtobjStallSkk",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -107,7 +127,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjStallHgh"
+    "ResourceName": "EvtobjStallHgh",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -117,7 +139,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjCampfire"
+    "ResourceName": "EvtobjCampfire",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -127,7 +151,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjRazyStall"
+    "ResourceName": "EvtobjRazyStall",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -137,7 +163,9 @@
     "FlowEntryName": "",
     "FlowFileName": "",
     "NearCulling": 0,
-    "ResourceName": "EvtobjTsunekichiStall"
+    "ResourceName": "EvtobjTsunekichiStall",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   },
   {
     "DemoDistance": 15.0,
@@ -147,6 +175,32 @@
     "FlowEntryName": "InDream",
     "FlowFileName": "Obj_WorldMyDesignGallery",
     "NearCulling": 0,
-    "ResourceName": "EvtobjTailorDevice"
+    "ResourceName": "EvtobjTailorDevice",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 0,
+    "UniqueID": 20,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjHwnGarland",
+    "e2760d00 u8": 1,
+    "a5010be8 u16": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 5,
+    "UniqueID": 24,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjRazyStallPumpkin",
+    "e2760d00 u8": 0,
+    "a5010be8 u16": 1
   }
 ]

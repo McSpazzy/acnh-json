@@ -1114,5 +1114,17 @@
   {
     "Color": 12086,
     "UniqueID": 361
+  },
+  {
+    "Color": "F897FF",
+    "UniqueID": 363
+  },
+  {
+    "Color": "4F9C02",
+    "UniqueID": 364
+  },
+  {
+    "Color": "FFAE00",
+    "UniqueID": 365
   }
 ]

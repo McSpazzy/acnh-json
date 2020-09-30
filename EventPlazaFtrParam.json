@@ -180,5 +180,12 @@
     "ItemNameUniqueID": 2592,
     "UniqueID": 34,
     "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13352,
+    "UniqueID": 36,
+    "cb7385a8 u32": 0
   }
 ]

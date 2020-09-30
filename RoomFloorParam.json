@@ -2683,5 +2683,20 @@
     "ItemName": "かいぞくのゆか",
     "ResourceName": "RoomTexFloorPirates00",
     "Rotatable": 0
+  },
+  {
+    "Act": "None",
+    "Price": 888,
+    "Scale": "None",
+    "Scale10x6": "None",
+    "Floorboards": 6,
+    "ItemTableId": 13225,
+    "LandingUniqueID": 0,
+    "UniqueID": 273,
+    "HasJmp": 0,
+    "Horizon": 0,
+    "ItemName": "ハロウィンなゆか",
+    "ResourceName": "RoomTexFloorHalloween00",
+    "Rotatable": 0
   }
 ]

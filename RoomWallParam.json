@@ -4000,6 +4000,22 @@
     "TextureWindow": 1
   },
   {
+    "AO": "UseAO",
+    "Act": "None",
+    "Light": "White",
+    "Price": 888,
+    "ArchUniqueID": 6,
+    "CeilingUniqueID": 7,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 13224,
+    "UniqueID": 362,
+    "WindowUniqueID": 9,
+    "ItemName": "ハロウィンなかべ",
+    "ResourceName": "RoomTexWallHalloween00",
+    "TextureWindow": 0
+  },
+  {
     "AO": "None",
     "Act": "None",
     "Light": "Orange",

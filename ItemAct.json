@@ -19,7 +19,7 @@
     "DemoType": 0,
     "Label": "Chair",
     "Name": "イス：通常",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -30,7 +30,7 @@
     "DemoType": 0,
     "Label": "ChairSp",
     "Name": "イス：SP",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -41,7 +41,7 @@
     "DemoType": 0,
     "Label": "ChairAll",
     "Name": "イス：丸イス",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -52,7 +52,7 @@
     "DemoType": 0,
     "Label": "ChairFL2Way",
     "Name": "イス：前左2方向",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -63,7 +63,7 @@
     "DemoType": 0,
     "Label": "ChairFB",
     "Name": "イス：前後",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -74,7 +74,7 @@
     "DemoType": 0,
     "Label": "ChairLeftFB",
     "Name": "イス：前後：左半分",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -85,7 +85,7 @@
     "DemoType": 0,
     "Label": "ChairCenterF",
     "Name": "イス：前：中央のみ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -96,7 +96,7 @@
     "DemoType": 0,
     "Label": "ChairSwitch",
     "Name": "イス：スイッチ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerOnOff",
@@ -107,7 +107,7 @@
     "DemoType": 0,
     "Label": "ChairFLRTouchSwitch",
     "Name": "イス：SP：接触スイッチ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -118,7 +118,7 @@
     "DemoType": 0,
     "Label": "Bed",
     "Name": "ベッド：通常",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -129,7 +129,7 @@
     "DemoType": 0,
     "Label": "BedSwitch",
     "Name": "ベッド：スイッチ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrChest",
@@ -170,7 +170,7 @@
     "8b1904b9.HashRef": "Unknown",
     "UniqueID": 60,
     "Collision": 1,
-    "DemoType": 0,
+    "DemoType": 1,
     "Label": "ChestDoubleCenter",
     "Name": "クローゼット：両開き：中央のみ",
     "SwitchableOnWall": 1
@@ -470,7 +470,7 @@
     "DemoType": 0,
     "Label": "Pass",
     "Name": "通過",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerOnce",
@@ -481,7 +481,7 @@
     "DemoType": 0,
     "Label": "Touch",
     "Name": "接触",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrLoopTriggerWaitEndOnKeep",
@@ -492,7 +492,7 @@
     "DemoType": 0,
     "Label": "TouchTriggerWaitEndOnKeep",
     "Name": "接触：ループ終了待ち：トリガー",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
@@ -503,7 +503,7 @@
     "DemoType": 0,
     "Label": "GrabHoldLoopWaitEnd",
     "Name": "掴みホールド：ループ終了待ちオンオフ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopOnOff",
@@ -514,7 +514,7 @@
     "DemoType": 0,
     "Label": "GrabHold",
     "Name": "掴みホールド",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
@@ -621,10 +621,10 @@
     "8b1904b9.HashRef": "Unknown",
     "UniqueID": 49,
     "Collision": 1,
-    "DemoType": 0,
+    "DemoType": 1,
     "Label": "MoveBox",
     "Name": "初期支給プレゼントBOX",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrLoopAuto",
@@ -635,7 +635,7 @@
     "DemoType": 0,
     "Label": "MyDesignRug",
     "Name": "マイデザインラグ",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrActionMusicJacket",
@@ -665,9 +665,9 @@
     "8b1904b9.HashRef": "Unknown",
     "UniqueID": 70,
     "Collision": 1,
-    "DemoType": 0,
+    "DemoType": 1,
     "Label": "StampRack",
     "Name": "スタンプ台(国際ミュージアム)",
-    "SwitchableOnWall": 1
+    "SwitchableOnWall": 0
   }
 ]

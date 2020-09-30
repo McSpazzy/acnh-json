@@ -40,5 +40,11 @@
     "UniqueID": 9,
     "Label": "Ver1Summer2",
     "Name": "1.4.0 夏パッチ2"
+  },
+  {
+    "ReleaseKey": 10500,
+    "UniqueID": 12,
+    "Label": "Ver1Autumn",
+    "Name": "1.5.0 秋パッチ"
   }
 ]

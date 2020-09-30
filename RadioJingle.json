@@ -169,5 +169,14 @@
     "UniqueID": 19,
     "BeforeDays": 11,
     "EventLabelShort": "Easter"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone": "AllDay",
+    "Frames": 287,
+    "MusicNo": 320,
+    "UniqueID": 20,
+    "BeforeDays": 30,
+    "EventLabelShort": "Halloween"
   }
 ]

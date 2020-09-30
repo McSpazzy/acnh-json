@@ -3710,12 +3710,60 @@
   {
     "fdb1f290.HashRef": "None",
     "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 9999,
+    "UniqueID": 366,
+    "Key": "HalloweenSloVisitYear",
+    "Name": "ハロウィンの初回レイジを予約した年",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "Pre",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadOnly",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 367,
+    "Key": "HalloweenSloVisitToday",
+    "Name": "今日がハロウィンのレイジ来訪日",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 369,
+    "Key": "GrowUpAfterPatch1_5",
+    "Name": "1.5適用して成長処理をした",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
     "FlagsFlowAccess": "EnableReadWrite",
     "FlagsNetAccess": "ReadOnly",
     "MaxValue": 1,
     "UniqueID": 370,
     "Key": "NeedUpdatePassword",
     "Name": "セーブデータ復元後のパスワード更新必要",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "Pre",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadOnly",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 371,
+    "Key": "IsHalloweenLessThanThreeDays",
+    "Name": "ハロウィン３日前以内か？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3728,6 +3776,18 @@
     "UniqueID": 374,
     "Key": "EventObjFlag0",
     "Name": "イベントオブジェフラグ0",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "Pre",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 379,
+    "Key": "SecondPublicAnnouncement",
+    "Name": "2回目島内放送の発生が必要か？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   }
