@@ -1575,7 +1575,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "D34B3EE",
+    "036dd90c.HashRef": "Halloween",
     "EventType": "CalendarEvent",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
@@ -1596,7 +1596,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "D34B3EE",
+    "036dd90c.HashRef": "Halloween",
     "EventType": "CalendarEvent",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",

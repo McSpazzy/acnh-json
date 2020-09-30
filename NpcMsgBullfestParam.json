@@ -10400,7 +10400,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "48636C2B",
+    "NpcMsgBullfestCondition": "CowboySet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -21152,7 +21152,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "7E62D8AF",
+    "NpcMsgBullfestCondition": "HalloweenSet",
     "AN1Index": 217,
     "AN2Index": 401,
     "AccessoryID": -2,
@@ -21184,7 +21184,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "6CF86D62",
+    "NpcMsgBullfestCondition": "OkinawaSet",
     "AN1Index": 210,
     "AN2Index": 401,
     "AccessoryID": -2,
@@ -21216,7 +21216,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "A833D272",
+    "NpcMsgBullfestCondition": "JapanBSet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
@@ -21248,7 +21248,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "BA867D9C",
+    "NpcMsgBullfestCondition": "JapanASet",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": -2,
