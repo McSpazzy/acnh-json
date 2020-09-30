@@ -21,7 +21,7 @@
     "Label": "PltTreeOak0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -46,7 +46,7 @@
     "Label": "PltTreeOak1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -71,7 +71,7 @@
     "Label": "PltTreeOak2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -96,7 +96,7 @@
     "Label": "PltTreeOak3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -121,7 +121,7 @@
     "Label": "PltTreeOak4",
     "ModelName": "PltTreeOak4",
     "Nature": 530,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -146,7 +146,7 @@
     "Label": "PltTreeOak1Stump",
     "ModelName": "PltTreeOak1Stump",
     "Nature": 2,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -171,7 +171,7 @@
     "Label": "PltTreeOak2Stump",
     "ModelName": "PltTreeOak2Stump",
     "Nature": 2,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -196,7 +196,7 @@
     "Label": "PltTreeOak3Stump",
     "ModelName": "PltTreeOak3Stump",
     "Nature": 34,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -221,7 +221,7 @@
     "Label": "PltTreeOak4Stump",
     "ModelName": "PltTreeOak4Stump",
     "Nature": 546,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -246,7 +246,7 @@
     "Label": "PltTreeFruitStump1",
     "ModelName": "PltTreeOak1Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -271,7 +271,7 @@
     "Label": "PltTreeFruitStump2",
     "ModelName": "PltTreeOak2Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -296,7 +296,7 @@
     "Label": "PltTreeFruitStump3",
     "ModelName": "PltTreeOak3Stump",
     "Nature": 34,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -321,7 +321,7 @@
     "Label": "PltTreeFruitStump4",
     "ModelName": "PltTreeOak4Stump",
     "Nature": 546,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -346,7 +346,7 @@
     "Label": "PltTreeCedar0",
     "ModelName": "PltTreeCedar0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeCedar"
   },
   {
@@ -371,7 +371,7 @@
     "Label": "PltTreeCedar1",
     "ModelName": "PltTreeCedar1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedar"
   },
   {
@@ -396,7 +396,7 @@
     "Label": "PltTreeCedar2",
     "ModelName": "PltTreeCedar2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedar"
   },
   {
@@ -421,7 +421,7 @@
     "Label": "PltTreeCedar3",
     "ModelName": "PltTreeCedar3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedar"
   },
   {
@@ -446,7 +446,7 @@
     "Label": "PltTreeCedar4",
     "ModelName": "PltTreeCedar4",
     "Nature": 530,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedar"
   },
   {
@@ -471,7 +471,7 @@
     "Label": "PltTreeCedar1Stump",
     "ModelName": "PltTreeCedar1Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeCedar"
   },
   {
@@ -496,7 +496,7 @@
     "Label": "PltTreeCedar2Stump",
     "ModelName": "PltTreeCedar2Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeCedar"
   },
   {
@@ -521,7 +521,7 @@
     "Label": "PltTreeCedar3Stump",
     "ModelName": "PltTreeCedar3Stump",
     "Nature": 34,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeCedar"
   },
   {
@@ -546,7 +546,7 @@
     "Label": "PltTreeCedar4Stump",
     "ModelName": "PltTreeCedar4Stump",
     "Nature": 546,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeCedar"
   },
   {
@@ -571,7 +571,7 @@
     "Label": "PltTreePalm0",
     "ModelName": "PltTreePalm0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreePalm"
   },
   {
@@ -596,7 +596,7 @@
     "Label": "PltTreePalm1",
     "ModelName": "PltTreePalm1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreePalm"
   },
   {
@@ -621,7 +621,7 @@
     "Label": "PltTreePalm2",
     "ModelName": "PltTreePalm2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreePalm"
   },
   {
@@ -646,7 +646,7 @@
     "Label": "PltTreePalm3",
     "ModelName": "PltTreePalm3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreePalm"
   },
   {
@@ -671,7 +671,7 @@
     "Label": "PltTreePalm4",
     "ModelName": "PltTreePalm4",
     "Nature": 22,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreePalm"
   },
   {
@@ -696,7 +696,7 @@
     "Label": "PltTreePalm1Stump",
     "ModelName": "PltTreePalm1Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreePalm"
   },
   {
@@ -721,7 +721,7 @@
     "Label": "PltTreePalm2Stump",
     "ModelName": "PltTreePalm2Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreePalm"
   },
   {
@@ -746,7 +746,7 @@
     "Label": "PltTreePalm3Stump",
     "ModelName": "PltTreePalm3Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreePalm"
   },
   {
@@ -771,7 +771,7 @@
     "Label": "PltTreePalm4Stump",
     "ModelName": "PltTreePalm4Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreePalm"
   },
   {
@@ -796,7 +796,7 @@
     "Label": "PltTreeBamboo0",
     "ModelName": "PltTreeBamboo0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -821,7 +821,7 @@
     "Label": "PltTreeBamboo1",
     "ModelName": "PltTreeBamboo1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -846,7 +846,7 @@
     "Label": "PltTreeBamboo2",
     "ModelName": "PltTreeBamboo2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -871,7 +871,7 @@
     "Label": "PltTreeBamboo3",
     "ModelName": "PltTreeBamboo3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -896,7 +896,7 @@
     "Label": "PltTreeBamboo4",
     "ModelName": "PltTreeBamboo4",
     "Nature": 18,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -921,7 +921,7 @@
     "Label": "PltTreeBamboo4Stump",
     "ModelName": "PltTreeBamboo4Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -946,7 +946,7 @@
     "Label": "PltTreeBamboo1Stump",
     "ModelName": "PltTreeBamboo1Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -971,7 +971,7 @@
     "Label": "PltTreeBamboo2Stump",
     "ModelName": "PltTreeBamboo2Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -996,7 +996,7 @@
     "Label": "PltTreeBamboo3Stump",
     "ModelName": "PltTreeBamboo3Stump",
     "Nature": 2,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeBamboo"
   },
   {
@@ -1021,7 +1021,7 @@
     "Label": "PltTreeApple0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -1046,7 +1046,7 @@
     "Label": "PltTreeApple1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1071,7 +1071,7 @@
     "Label": "PltTreeApple2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1096,7 +1096,7 @@
     "Label": "PltTreeApple3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1121,7 +1121,7 @@
     "Label": "PltTreeApple",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1146,7 +1146,7 @@
     "Label": "PltTreeOrange0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -1171,7 +1171,7 @@
     "Label": "PltTreeOrange1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1196,7 +1196,7 @@
     "Label": "PltTreeOrange2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1221,7 +1221,7 @@
     "Label": "PltTreeOrange3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1246,7 +1246,7 @@
     "Label": "PltTreeOrange",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1271,7 +1271,7 @@
     "Label": "PltTreePear0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -1296,7 +1296,7 @@
     "Label": "PltTreePear1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1321,7 +1321,7 @@
     "Label": "PltTreePear2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1346,7 +1346,7 @@
     "Label": "PltTreePear3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1371,7 +1371,7 @@
     "Label": "PltTreePear",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1396,7 +1396,7 @@
     "Label": "PltTreePeach0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -1421,7 +1421,7 @@
     "Label": "PltTreePeach1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1446,7 +1446,7 @@
     "Label": "PltTreePeach2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1471,7 +1471,7 @@
     "Label": "PltTreePeach3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1496,7 +1496,7 @@
     "Label": "PltTreePeach",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1521,7 +1521,7 @@
     "Label": "PltTreeCherry0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltTreeOak"
   },
   {
@@ -1546,7 +1546,7 @@
     "Label": "PltTreeCherry1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1571,7 +1571,7 @@
     "Label": "PltTreeCherry2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1596,7 +1596,7 @@
     "Label": "PltTreeCherry3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1621,7 +1621,7 @@
     "Label": "PltTreeCherry",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeOak"
   },
   {
@@ -1646,7 +1646,7 @@
     "Label": "PltBushAzalea0White",
     "ModelName": "PltBushAzalea0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1671,7 +1671,7 @@
     "Label": "PltBushAzalea1White",
     "ModelName": "PltBushAzalea1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1696,7 +1696,7 @@
     "Label": "PltBushAzalea2White",
     "ModelName": "PltBushAzalea2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1721,7 +1721,7 @@
     "Label": "PltBushAzalea3White",
     "ModelName": "PltBushAzalea3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1746,7 +1746,7 @@
     "Label": "PltBushAzalea4White",
     "ModelName": "PltBushAzalea4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1771,7 +1771,7 @@
     "Label": "PltBushAzalea0Pink",
     "ModelName": "PltBushAzalea0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1796,7 +1796,7 @@
     "Label": "PltBushAzalea1Pink",
     "ModelName": "PltBushAzalea1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1821,7 +1821,7 @@
     "Label": "PltBushAzalea2Pink",
     "ModelName": "PltBushAzalea2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1846,7 +1846,7 @@
     "Label": "PltBushAzalea3Pink",
     "ModelName": "PltBushAzalea3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1871,7 +1871,7 @@
     "Label": "PltBushAzalea4Pink",
     "ModelName": "PltBushAzalea4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushAzalea"
   },
   {
@@ -1896,7 +1896,7 @@
     "Label": "PltBushHydrangea",
     "ModelName": "PltBushHydrangea0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -1921,7 +1921,7 @@
     "Label": "PltBushHydrangea1Blue",
     "ModelName": "PltBushHydrangea1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -1946,7 +1946,7 @@
     "Label": "PltBushHydrangea2Blue",
     "ModelName": "PltBushHydrangea2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -1971,7 +1971,7 @@
     "Label": "PltBushHydrangea3Blue",
     "ModelName": "PltBushHydrangea3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -1996,7 +1996,7 @@
     "Label": "PltBushHydrangea4Blue",
     "ModelName": "PltBushHydrangea4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2021,7 +2021,7 @@
     "Label": "PltBushHydrangea0Pink",
     "ModelName": "PltBushHydrangea0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2046,7 +2046,7 @@
     "Label": "PltBushHydrangea1Pink",
     "ModelName": "PltBushHydrangea1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2071,7 +2071,7 @@
     "Label": "PltBushHydrangea2Pink",
     "ModelName": "PltBushHydrangea2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2096,7 +2096,7 @@
     "Label": "PltBushHydrangea3Pink",
     "ModelName": "PltBushHydrangea3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2121,7 +2121,7 @@
     "Label": "PltBushHydrangea4Pink",
     "ModelName": "PltBushHydrangea4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHydrangea"
   },
   {
@@ -2146,7 +2146,7 @@
     "Label": "PltBushHibiscus0Red",
     "ModelName": "PltBushHibiscus0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2171,7 +2171,7 @@
     "Label": "PltBushHibiscus1Red",
     "ModelName": "PltBushHibiscus1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2196,7 +2196,7 @@
     "Label": "PltBushHibiscus2Red",
     "ModelName": "PltBushHibiscus2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2221,7 +2221,7 @@
     "Label": "PltBushHibiscus3Red",
     "ModelName": "PltBushHibiscus3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2246,7 +2246,7 @@
     "Label": "PltBushHibiscus4Red",
     "ModelName": "PltBushHibiscus4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2271,7 +2271,7 @@
     "Label": "PltBushHibiscus0Yellow",
     "ModelName": "PltBushHibiscus0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2296,7 +2296,7 @@
     "Label": "PltBushHibiscus1Yellow",
     "ModelName": "PltBushHibiscus1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2321,7 +2321,7 @@
     "Label": "PltBushHibiscus2Yellow",
     "ModelName": "PltBushHibiscus2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2346,7 +2346,7 @@
     "Label": "PltBushHibiscus3Yellow",
     "ModelName": "PltBushHibiscus3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2371,7 +2371,7 @@
     "Label": "PltBushHibiscus4Yellow",
     "ModelName": "PltBushHibiscus4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHibiscus"
   },
   {
@@ -2396,7 +2396,7 @@
     "Label": "PltBushHolly0",
     "ModelName": "PltBushHolly0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushHolly"
   },
   {
@@ -2421,7 +2421,7 @@
     "Label": "PltBushHolly1",
     "ModelName": "PltBushHolly1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHolly"
   },
   {
@@ -2446,7 +2446,7 @@
     "Label": "PltBushHolly2",
     "ModelName": "PltBushHolly2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHolly"
   },
   {
@@ -2471,7 +2471,7 @@
     "Label": "PltBushHolly3",
     "ModelName": "PltBushHolly3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHolly"
   },
   {
@@ -2496,7 +2496,7 @@
     "Label": "PltBushHolly4",
     "ModelName": "PltBushHolly4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushHolly"
   },
   {
@@ -2521,7 +2521,7 @@
     "Label": "PltBushOsmathus1Yello",
     "ModelName": "PltBushOsmanthus0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2546,7 +2546,7 @@
     "Label": "PltBushOsmathus2Yello",
     "ModelName": "PltBushOsmanthus1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2571,7 +2571,7 @@
     "Label": "PltBushOsmathus3Yello",
     "ModelName": "PltBushOsmanthus2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2596,7 +2596,7 @@
     "Label": "PltBushOsmathus4Yello",
     "ModelName": "PltBushOsmanthus3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2621,7 +2621,7 @@
     "Label": "PltBushOsmathus5Yello",
     "ModelName": "PltBushOsmanthus4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2646,7 +2646,7 @@
     "Label": "PltBushOsmathus1Orange",
     "ModelName": "PltBushOsmanthus0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2671,7 +2671,7 @@
     "Label": "PltBushOsmathus2Orange",
     "ModelName": "PltBushOsmanthus1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2696,7 +2696,7 @@
     "Label": "PltBushOsmathus3Orange",
     "ModelName": "PltBushOsmanthus2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2721,7 +2721,7 @@
     "Label": "PltBushOsmathus4Orange",
     "ModelName": "PltBushOsmanthus3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2746,7 +2746,7 @@
     "Label": "PltBushOsmathus5Orange",
     "ModelName": "PltBushOsmanthus4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushOsmanthus"
   },
   {
@@ -2771,7 +2771,7 @@
     "Label": "PltBushCamellia1Red",
     "ModelName": "PltBushCamellia0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2796,7 +2796,7 @@
     "Label": "PltBushCamellia2Red",
     "ModelName": "PltBushCamellia1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2821,7 +2821,7 @@
     "Label": "PltBushCamellia3Red",
     "ModelName": "PltBushCamellia2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2846,7 +2846,7 @@
     "Label": "PltBushCamellia4Red",
     "ModelName": "PltBushCamellia3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2871,7 +2871,7 @@
     "Label": "PltBushCamellia5Red",
     "ModelName": "PltBushCamellia4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2896,7 +2896,7 @@
     "Label": "PltBushCamellia1Pink",
     "ModelName": "PltBushCamellia0",
     "Nature": 129,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2921,7 +2921,7 @@
     "Label": "PltBushCamellia2Pink",
     "ModelName": "PltBushCamellia1",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2946,7 +2946,7 @@
     "Label": "PltBushCamellia3Pink",
     "ModelName": "PltBushCamellia2",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2971,7 +2971,7 @@
     "Label": "PltBushCamellia4Pink",
     "ModelName": "PltBushCamellia3",
     "Nature": 2,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -2996,7 +2996,7 @@
     "Label": "PltBushCamellia5Pink",
     "ModelName": "PltBushCamellia4",
     "Nature": 3,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltBushCamellia"
   },
   {
@@ -3021,7 +3021,7 @@
     "Label": "PltVgtSquash0Orange",
     "ModelName": "PltVgtPumpkin0",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3046,7 +3046,7 @@
     "Label": "PltVgtSquash1Orange",
     "ModelName": "PltVgtPumpkin1",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3071,7 +3071,7 @@
     "Label": "PltVgtSquash2Orange",
     "ModelName": "PltVgtPumpkin2",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3096,7 +3096,7 @@
     "Label": "PltVgtSquash3Orange",
     "ModelName": "PltVgtPumpkin3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3121,7 +3121,7 @@
     "Label": "PltVgtSquash0Yellow",
     "ModelName": "PltVgtPumpkin0",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3146,7 +3146,7 @@
     "Label": "PltVgtSquash1Yellow",
     "ModelName": "PltVgtPumpkin1",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3171,7 +3171,7 @@
     "Label": "PltVgtSquash2Yellow",
     "ModelName": "PltVgtPumpkin2",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3196,7 +3196,7 @@
     "Label": "PltVgtSquash3Yellow",
     "ModelName": "PltVgtPumpkin3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3221,7 +3221,7 @@
     "Label": "PltVgtSquash0Green",
     "ModelName": "PltVgtPumpkin0",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3246,7 +3246,7 @@
     "Label": "PltVgtSquash1Green",
     "ModelName": "PltVgtPumpkin1",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3271,7 +3271,7 @@
     "Label": "PltVgtSquash2Green",
     "ModelName": "PltVgtPumpkin2",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3296,7 +3296,7 @@
     "Label": "PltVgtSquash3Green",
     "ModelName": "PltVgtPumpkin3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3321,7 +3321,7 @@
     "Label": "PltVgtSquash0White",
     "ModelName": "PltVgtPumpkin0",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3346,7 +3346,7 @@
     "Label": "PltVgtSquash1White",
     "ModelName": "PltVgtPumpkin1",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3371,7 +3371,7 @@
     "Label": "PltVgtSquash2White",
     "ModelName": "PltVgtPumpkin2",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3396,7 +3396,7 @@
     "Label": "PltVgtSquash3White",
     "ModelName": "PltVgtPumpkin3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3421,7 +3421,7 @@
     "Label": "PltVgtSquash0",
     "ModelName": "PltVgtPumpkin0",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3446,7 +3446,7 @@
     "Label": "PltVgtSquash1",
     "ModelName": "PltVgtPumpkin1",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3471,7 +3471,7 @@
     "Label": "PltVgtSquash2",
     "ModelName": "PltVgtPumpkin2",
     "Nature": 129,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltVgtPumpkin"
   },
   {
@@ -3496,7 +3496,7 @@
     "Label": "PltWeedSpr1A",
     "ModelName": "PltWeedSpr1A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3521,7 +3521,7 @@
     "Label": "PltWeedSpr1B",
     "ModelName": "PltWeedSpr1B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3546,7 +3546,7 @@
     "Label": "PltWeedSpr1C",
     "ModelName": "PltWeedSpr1C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3571,7 +3571,7 @@
     "Label": "PltWeedSpr2A",
     "ModelName": "PltWeedSpr2A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3596,7 +3596,7 @@
     "Label": "PltWeedSpr2B",
     "ModelName": "PltWeedSpr2B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3621,7 +3621,7 @@
     "Label": "PltWeedSpr2C",
     "ModelName": "PltWeedSpr2C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3646,7 +3646,7 @@
     "Label": "PltWeedSpr3",
     "ModelName": "PltWeedSpr3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSpr"
   },
   {
@@ -3671,7 +3671,7 @@
     "Label": "PltWeedSmr1A",
     "ModelName": "PltWeedSmr1A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3696,7 +3696,7 @@
     "Label": "PltWeedSmr1B",
     "ModelName": "PltWeedSmr1B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3721,7 +3721,7 @@
     "Label": "PltWeedSmr1C",
     "ModelName": "PltWeedSmr1C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3746,7 +3746,7 @@
     "Label": "PltWeedSmr2A",
     "ModelName": "PltWeedSmr2A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3771,7 +3771,7 @@
     "Label": "PltWeedSmr2B",
     "ModelName": "PltWeedSmr2B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3796,7 +3796,7 @@
     "Label": "PltWeedSmr2C",
     "ModelName": "PltWeedSmr2C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3821,7 +3821,7 @@
     "Label": "PltWeedSmr3",
     "ModelName": "PltWeedSmr3",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedSmr"
   },
   {
@@ -3846,7 +3846,7 @@
     "Label": "PltWeedAut1A",
     "ModelName": "PltWeedAut01A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3871,7 +3871,7 @@
     "Label": "PltWeedAut1B",
     "ModelName": "PltWeedAut01B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3896,7 +3896,7 @@
     "Label": "PltWeedAut1C",
     "ModelName": "PltWeedAut01C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3921,7 +3921,7 @@
     "Label": "PltWeedAut2A",
     "ModelName": "PltWeedAut02A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3946,7 +3946,7 @@
     "Label": "PltWeedAut2B",
     "ModelName": "PltWeedAut02B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3971,7 +3971,7 @@
     "Label": "PltWeedAut2C",
     "ModelName": "PltWeedAut02C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -3996,7 +3996,7 @@
     "Label": "PltWeedAut3",
     "ModelName": "PltWeedAut03",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut0"
   },
   {
@@ -4021,7 +4021,7 @@
     "Label": "PltWeedAut11A",
     "ModelName": "PltWeedAut11A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4046,7 +4046,7 @@
     "Label": "PltWeedAut11B",
     "ModelName": "PltWeedAut11B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4071,7 +4071,7 @@
     "Label": "PltWeedAut11C",
     "ModelName": "PltWeedAut11C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4096,7 +4096,7 @@
     "Label": "PltWeedAut12A",
     "ModelName": "PltWeedAut12A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4121,7 +4121,7 @@
     "Label": "PltWeedAut12B",
     "ModelName": "PltWeedAut12B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4146,7 +4146,7 @@
     "Label": "PltWeedAut12C",
     "ModelName": "PltWeedAut12C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4171,7 +4171,7 @@
     "Label": "PltWeedAut13",
     "ModelName": "PltWeedAut13",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut1"
   },
   {
@@ -4196,7 +4196,7 @@
     "Label": "PltWeedAut21A",
     "ModelName": "PltWeedAut21A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4221,7 +4221,7 @@
     "Label": "PltWeedAut21B",
     "ModelName": "PltWeedAut21B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4246,7 +4246,7 @@
     "Label": "PltWeedAut21C",
     "ModelName": "PltWeedAut21C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4271,7 +4271,7 @@
     "Label": "PltWeedAut22A",
     "ModelName": "PltWeedAut22A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4296,7 +4296,7 @@
     "Label": "PltWeedAut22B",
     "ModelName": "PltWeedAut22B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4321,7 +4321,7 @@
     "Label": "PltWeedAut22C",
     "ModelName": "PltWeedAut22C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4346,7 +4346,7 @@
     "Label": "PltWeedAut23",
     "ModelName": "PltWeedAut23",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedAut2"
   },
   {
@@ -4371,7 +4371,7 @@
     "Label": "PltWeedWin1A",
     "ModelName": "PltWeedWin01A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4396,7 +4396,7 @@
     "Label": "PltWeedWin1B",
     "ModelName": "PltWeedWin01B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4421,7 +4421,7 @@
     "Label": "PltWeedWin1C",
     "ModelName": "PltWeedWin01C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4446,7 +4446,7 @@
     "Label": "PltWeedWin2A",
     "ModelName": "PltWeedWin02A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4471,7 +4471,7 @@
     "Label": "PltWeedWin2B",
     "ModelName": "PltWeedWin02B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4496,7 +4496,7 @@
     "Label": "PltWeedWin2C",
     "ModelName": "PltWeedWin02C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4521,7 +4521,7 @@
     "Label": "PltWeedWin3",
     "ModelName": "PltWeedWin03",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin0"
   },
   {
@@ -4546,7 +4546,7 @@
     "Label": "PltWeedWin11A",
     "ModelName": "PltWeedWin11A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4571,7 +4571,7 @@
     "Label": "PltWeedWin11B",
     "ModelName": "PltWeedWin11B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4596,7 +4596,7 @@
     "Label": "PltWeedWin11C",
     "ModelName": "PltWeedWin11C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4621,7 +4621,7 @@
     "Label": "PltWeedWin12A",
     "ModelName": "PltWeedWin12A",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4646,7 +4646,7 @@
     "Label": "PltWeedWin12B",
     "ModelName": "PltWeedWin12B",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4671,7 +4671,7 @@
     "Label": "PltWeedWin12C",
     "ModelName": "PltWeedWin12C",
     "Nature": 137,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4696,7 +4696,7 @@
     "Label": "PltWeedWin13",
     "ModelName": "PltWeedWin13",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltWeedWin1"
   },
   {
@@ -4721,7 +4721,7 @@
     "Label": "PltTreeCedarDecoA",
     "ModelName": "PltTreeCedarDecoA",
     "Nature": 1554,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedarDeco"
   },
   {
@@ -4746,7 +4746,7 @@
     "Label": "PltTreeCedarDecoB",
     "ModelName": "PltTreeCedarDecoB",
     "Nature": 1554,
-    "a4b2d66d u8": 3,
+    "OffsetAccWeed": 3,
     "ResName": "PltTreeCedarDeco"
   },
   {
@@ -4771,7 +4771,7 @@
     "Label": "PltTreeMoney0",
     "ModelName": "PltTreeOak0",
     "Nature": 129,
-    "a4b2d66d u8": 6,
+    "OffsetAccWeed": 6,
     "ResName": "PltTreeOak"
   },
   {
@@ -4796,7 +4796,7 @@
     "Label": "PltTreeMoney1",
     "ModelName": "PltTreeOak1",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -4821,7 +4821,7 @@
     "Label": "PltTreeMoney2",
     "ModelName": "PltTreeOak2",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -4846,7 +4846,7 @@
     "Label": "PltTreeMoney3",
     "ModelName": "PltTreeOak3",
     "Nature": 19,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -4871,7 +4871,7 @@
     "Label": "PltTreeMoney4",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -4896,7 +4896,7 @@
     "Label": "PltTreeEasterEgg",
     "ModelName": "PltTreeOak4",
     "Nature": 534,
-    "a4b2d66d u8": 7,
+    "OffsetAccWeed": 7,
     "ResName": "PltTreeOak"
   },
   {
@@ -4921,7 +4921,7 @@
     "Label": "PltFlwCosmos0Red",
     "ModelName": "PltFlwCosmosSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -4946,7 +4946,7 @@
     "Label": "PltFlwCosmos1Red",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -4971,7 +4971,7 @@
     "Label": "PltFlwCosmos2Red",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -4996,7 +4996,7 @@
     "Label": "PltFlwCosmos3Red",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5021,7 +5021,7 @@
     "Label": "PltFlwCosmos0Yellow",
     "ModelName": "PltFlwCosmosSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5046,7 +5046,7 @@
     "Label": "PltFlwCosmos1Yellow",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5071,7 +5071,7 @@
     "Label": "PltFlwCosmos2Yellow",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5096,7 +5096,7 @@
     "Label": "PltFlwCosmos3Yellow",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5121,7 +5121,7 @@
     "Label": "PltFlwCosmos0White",
     "ModelName": "PltFlwCosmosSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5146,7 +5146,7 @@
     "Label": "PltFlwCosmos1White",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5171,7 +5171,7 @@
     "Label": "PltFlwCosmos2White",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5196,7 +5196,7 @@
     "Label": "PltFlwCosmos3White",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5221,7 +5221,7 @@
     "Label": "PltFlwCosmos1Orange",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5246,7 +5246,7 @@
     "Label": "PltFlwCosmos2Orange",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5271,7 +5271,7 @@
     "Label": "PltFlwCosmos3Orange",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5296,7 +5296,7 @@
     "Label": "PltFlwCosmos1Pink",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5321,7 +5321,7 @@
     "Label": "PltFlwCosmos2Pink",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5346,7 +5346,7 @@
     "Label": "PltFlwCosmos3Pink",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5371,7 +5371,7 @@
     "Label": "PltFlwCosmos1Black",
     "ModelName": "PltFlwCosmos0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5396,7 +5396,7 @@
     "Label": "PltFlwCosmos2Black",
     "ModelName": "PltFlwCosmos1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5421,7 +5421,7 @@
     "Label": "PltFlwCosmos3Black",
     "ModelName": "PltFlwCosmos2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwCosmos"
   },
   {
@@ -5446,7 +5446,7 @@
     "Label": "PltFlwTulip0White",
     "ModelName": "PltFlwTulipSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5471,7 +5471,7 @@
     "Label": "PltFlwTulip1White",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5496,7 +5496,7 @@
     "Label": "PltFlwTulip2White",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5521,7 +5521,7 @@
     "Label": "PltFlwTulip3White",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5546,7 +5546,7 @@
     "Label": "PltFlwTulip0Red",
     "ModelName": "PltFlwTulipSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5571,7 +5571,7 @@
     "Label": "PltFlwTulip1Red",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5596,7 +5596,7 @@
     "Label": "PltFlwTulip2Red",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5621,7 +5621,7 @@
     "Label": "PltFlwTulip3Red",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5646,7 +5646,7 @@
     "Label": "PltFlwTulip0Yellow",
     "ModelName": "PltFlwTulipSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5671,7 +5671,7 @@
     "Label": "PltFlwTulip1Yellow",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5696,7 +5696,7 @@
     "Label": "PltFlwTulip2Yellow",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5721,7 +5721,7 @@
     "Label": "PltFlwTulip3Yellow",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5746,7 +5746,7 @@
     "Label": "PltFlwTulip1Pink",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5771,7 +5771,7 @@
     "Label": "PltFlwTulip2Pink",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5796,7 +5796,7 @@
     "Label": "PltFlwTulip3Pink",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5821,7 +5821,7 @@
     "Label": "PltFlwTulip1Orange",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5846,7 +5846,7 @@
     "Label": "PltFlwTulip2Orange",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5871,7 +5871,7 @@
     "Label": "PltFlwTulip3Orange",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5896,7 +5896,7 @@
     "Label": "PltFlwTulip1Purple",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5921,7 +5921,7 @@
     "Label": "PltFlwTulip2Purple",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5946,7 +5946,7 @@
     "Label": "PltFlwTulip3Purple",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5971,7 +5971,7 @@
     "Label": "PltFlwTulip1Black",
     "ModelName": "PltFlwTulip0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -5996,7 +5996,7 @@
     "Label": "PltFlwTulip2Black",
     "ModelName": "PltFlwTulip1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -6021,7 +6021,7 @@
     "Label": "PltFlwTulip3Black",
     "ModelName": "PltFlwTulip2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwTulip"
   },
   {
@@ -6046,7 +6046,7 @@
     "Label": "PltFlwPansy0White",
     "ModelName": "PltFlwPansySeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6071,7 +6071,7 @@
     "Label": "PltFlwPansy1White",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6096,7 +6096,7 @@
     "Label": "PltFlwPansy2White",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6121,7 +6121,7 @@
     "Label": "PltFlwPansy3White",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6146,7 +6146,7 @@
     "Label": "PltFlwPansy0Red",
     "ModelName": "PltFlwPansySeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6171,7 +6171,7 @@
     "Label": "PltFlwPansy1Red",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6196,7 +6196,7 @@
     "Label": "PltFlwPansy2Red",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6221,7 +6221,7 @@
     "Label": "PltFlwPansy3Red",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6246,7 +6246,7 @@
     "Label": "PltFlwPansy0Yellow",
     "ModelName": "PltFlwPansySeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6271,7 +6271,7 @@
     "Label": "PltFlwPansy1Yellow",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6296,7 +6296,7 @@
     "Label": "PltFlwPansy2Yellow",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6321,7 +6321,7 @@
     "Label": "PltFlwPansy3Yellow",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6346,7 +6346,7 @@
     "Label": "PltFlwPansy1RedYellow",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6371,7 +6371,7 @@
     "Label": "PltFlwPansy2RedYellow",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6396,7 +6396,7 @@
     "Label": "PltFlwPansy3RedYellow",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6421,7 +6421,7 @@
     "Label": "PltFlwPansy1Purple",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6446,7 +6446,7 @@
     "Label": "PltFlwPansy2Purple",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6471,7 +6471,7 @@
     "Label": "PltFlwPansy3Purple",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6496,7 +6496,7 @@
     "Label": "PltFlwPansy1Blue",
     "ModelName": "PltFlwPansy0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6521,7 +6521,7 @@
     "Label": "PltFlwPansy2Blue",
     "ModelName": "PltFlwPansy1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6546,7 +6546,7 @@
     "Label": "PltFlwPansy3Blue",
     "ModelName": "PltFlwPansy2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwPansy"
   },
   {
@@ -6571,7 +6571,7 @@
     "Label": "PltFlwRose0White",
     "ModelName": "PltFlwRoseSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6596,7 +6596,7 @@
     "Label": "PltFlwRose1White",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6621,7 +6621,7 @@
     "Label": "PltFlwRose2White",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6646,7 +6646,7 @@
     "Label": "PltFlwRose3White",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6671,7 +6671,7 @@
     "Label": "PltFlwRose0Red",
     "ModelName": "PltFlwRoseSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6696,7 +6696,7 @@
     "Label": "PltFlwRose1Red",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6721,7 +6721,7 @@
     "Label": "PltFlwRose2Red",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6746,7 +6746,7 @@
     "Label": "PltFlwRose3Red",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6771,7 +6771,7 @@
     "Label": "PltFlwRose0Yellow",
     "ModelName": "PltFlwRoseSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6796,7 +6796,7 @@
     "Label": "PltFlwRose1Yellow",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6821,7 +6821,7 @@
     "Label": "PltFlwRose2Yellow",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6846,7 +6846,7 @@
     "Label": "PltFlwRose3Yellow",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6871,7 +6871,7 @@
     "Label": "PltFlwRose1Pink",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6896,7 +6896,7 @@
     "Label": "PltFlwRose2Pink",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6921,7 +6921,7 @@
     "Label": "PltFlwRose3Pink",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6946,7 +6946,7 @@
     "Label": "PltFlwRose1Orange",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6971,7 +6971,7 @@
     "Label": "PltFlwRose2Orange",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -6996,7 +6996,7 @@
     "Label": "PltFlwRose3Orange",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7021,7 +7021,7 @@
     "Label": "PltFlwRose1Purple",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7046,7 +7046,7 @@
     "Label": "PltFlwRose2Purple",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7071,7 +7071,7 @@
     "Label": "PltFlwRose3Purple",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7096,7 +7096,7 @@
     "Label": "PltFlwRose1Black",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7121,7 +7121,7 @@
     "Label": "PltFlwRose2Black",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7146,7 +7146,7 @@
     "Label": "PltFlwRose3Black",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7171,7 +7171,7 @@
     "Label": "PltFlwRose1Blue",
     "ModelName": "PltFlwRose0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7196,7 +7196,7 @@
     "Label": "PltFlwRose2Blue",
     "ModelName": "PltFlwRose1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7221,7 +7221,7 @@
     "Label": "PltFlwRose3Blue",
     "ModelName": "PltFlwRose2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRose"
   },
   {
@@ -7246,7 +7246,7 @@
     "Label": "PltFlwRose1Gold",
     "ModelName": "PltFlwRoseGold0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRoseGold"
   },
   {
@@ -7271,7 +7271,7 @@
     "Label": "PltFlwRose2Gold",
     "ModelName": "PltFlwRoseGold1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRoseGold"
   },
   {
@@ -7296,7 +7296,7 @@
     "Label": "PltFlwRose3Gold",
     "ModelName": "PltFlwRoseGold2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwRoseGold"
   },
   {
@@ -7321,7 +7321,7 @@
     "Label": "PltFlwYuri0White",
     "ModelName": "PltFlwYuriSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7346,7 +7346,7 @@
     "Label": "PltFlwYuri1White",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7371,7 +7371,7 @@
     "Label": "PltFlwYuri2White",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7396,7 +7396,7 @@
     "Label": "PltFlwYuri3White",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7421,7 +7421,7 @@
     "Label": "PltFlwYuri0Red",
     "ModelName": "PltFlwYuriSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7446,7 +7446,7 @@
     "Label": "PltFlwYuri1Red",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7471,7 +7471,7 @@
     "Label": "PltFlwYuri2Red",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7496,7 +7496,7 @@
     "Label": "PltFlwYuri3Red",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7521,7 +7521,7 @@
     "Label": "PltFlwYuri0Yellow",
     "ModelName": "PltFlwYuriSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7546,7 +7546,7 @@
     "Label": "PltFlwYuri1Yellow",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7571,7 +7571,7 @@
     "Label": "PltFlwYuri2Yellow",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7596,7 +7596,7 @@
     "Label": "PltFlwYuri3Yellow",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7621,7 +7621,7 @@
     "Label": "PltFlwYuri1Pink",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7646,7 +7646,7 @@
     "Label": "PltFlwYuri2Pink",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7671,7 +7671,7 @@
     "Label": "PltFlwYuri3Pink",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7696,7 +7696,7 @@
     "Label": "PltFlwYuri1Orange",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7721,7 +7721,7 @@
     "Label": "PltFlwYuri2Orange",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7746,7 +7746,7 @@
     "Label": "PltFlwYuri3Orange",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7771,7 +7771,7 @@
     "Label": "PltFlwYuri1Black",
     "ModelName": "PltFlwYuri0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7796,7 +7796,7 @@
     "Label": "PltFlwYuri2Black",
     "ModelName": "PltFlwYuri1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7821,7 +7821,7 @@
     "Label": "PltFlwYuri3Black",
     "ModelName": "PltFlwYuri2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwYuri"
   },
   {
@@ -7846,7 +7846,7 @@
     "Label": "PltFlwAnemones0Red",
     "ModelName": "PltFlwAnemoneSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7871,7 +7871,7 @@
     "Label": "PltFlwAnemones1Red",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7896,7 +7896,7 @@
     "Label": "PltFlwAnemones2Red",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7921,7 +7921,7 @@
     "Label": "PltFlwAnemones3Red",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7946,7 +7946,7 @@
     "Label": "PltFlwAnemones0White",
     "ModelName": "PltFlwAnemoneSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7971,7 +7971,7 @@
     "Label": "PltFlwAnemones1White",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -7996,7 +7996,7 @@
     "Label": "PltFlwAnemones2White",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8021,7 +8021,7 @@
     "Label": "PltFlwAnemones3White",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8046,7 +8046,7 @@
     "Label": "PltFlwAnemones1Blue",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8071,7 +8071,7 @@
     "Label": "PltFlwAnemones2Blue",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8096,7 +8096,7 @@
     "Label": "PltFlwAnemones3Blue",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8121,7 +8121,7 @@
     "Label": "PltFlwAnemones1Purple",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8146,7 +8146,7 @@
     "Label": "PltFlwAnemones2Purple",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8171,7 +8171,7 @@
     "Label": "PltFlwAnemones3Purple",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8196,7 +8196,7 @@
     "Label": "PltFlwAnemones1Pink",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8221,7 +8221,7 @@
     "Label": "PltFlwAnemones2Pink",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8246,7 +8246,7 @@
     "Label": "PltFlwAnemones3Pink",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8271,7 +8271,7 @@
     "Label": "PltFlwAnemones0Orange",
     "ModelName": "PltFlwAnemoneSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8296,7 +8296,7 @@
     "Label": "PltFlwAnemones1Orange",
     "ModelName": "PltFlwAnemone0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8321,7 +8321,7 @@
     "Label": "PltFlwAnemones2Orange",
     "ModelName": "PltFlwAnemone1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8346,7 +8346,7 @@
     "Label": "PltFlwAnemones3Orange",
     "ModelName": "PltFlwAnemone2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwAnemone"
   },
   {
@@ -8371,7 +8371,7 @@
     "Label": "PltFlwM0Red",
     "ModelName": "PltFlwMumSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8396,7 +8396,7 @@
     "Label": "PltFlwMum1Red",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8421,7 +8421,7 @@
     "Label": "PltFlwMum2Red",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8446,7 +8446,7 @@
     "Label": "PltFlwMum3Red",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8471,7 +8471,7 @@
     "Label": "PltFlwMum0White",
     "ModelName": "PltFlwMumSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8496,7 +8496,7 @@
     "Label": "PltFlwMum1White",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8521,7 +8521,7 @@
     "Label": "PltFlwMum2White",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8546,7 +8546,7 @@
     "Label": "PltFlwMum3White",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8571,7 +8571,7 @@
     "Label": "PltFlwMum0Yellow",
     "ModelName": "PltFlwMumSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8596,7 +8596,7 @@
     "Label": "PltFlwMum1Yellow",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8621,7 +8621,7 @@
     "Label": "PltFlwMum2Yellow",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8646,7 +8646,7 @@
     "Label": "PltFlwMum3Yellow",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8671,7 +8671,7 @@
     "Label": "PltFlwMum1Purple",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8696,7 +8696,7 @@
     "Label": "PltFlwMum2Purple",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8721,7 +8721,7 @@
     "Label": "PltFlwMum3Purple",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8746,7 +8746,7 @@
     "Label": "PltFlwMum1Pink",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8771,7 +8771,7 @@
     "Label": "PltFlwMum2Pink",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8796,7 +8796,7 @@
     "Label": "PltFlwMum3Pink",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8821,7 +8821,7 @@
     "Label": "PltFlwMum1Green",
     "ModelName": "PltFlwMum0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8846,7 +8846,7 @@
     "Label": "PltFlwMum2Green",
     "ModelName": "PltFlwMum1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8871,7 +8871,7 @@
     "Label": "PltFlwMum3Green",
     "ModelName": "PltFlwMum2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwMum"
   },
   {
@@ -8896,7 +8896,7 @@
     "Label": "PltFlwHyacinth0Red",
     "ModelName": "PltFlwHyacinthSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -8921,7 +8921,7 @@
     "Label": "PltFlwHyacinth1Red",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -8946,7 +8946,7 @@
     "Label": "PltFlwHyacinth2Red",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -8971,7 +8971,7 @@
     "Label": "PltFlwHyacinth3Red",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -8996,7 +8996,7 @@
     "Label": "PltFlwHyacinth0Yellow",
     "ModelName": "PltFlwHyacinthSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9021,7 +9021,7 @@
     "Label": "PltFlwHyacinth1Yellow",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9046,7 +9046,7 @@
     "Label": "PltFlwHyacinth2Yellow",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9071,7 +9071,7 @@
     "Label": "PltFlwHyacinth3Yellow",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9096,7 +9096,7 @@
     "Label": "PltFlwHyacinth0White",
     "ModelName": "PltFlwHyacinthSeedling",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9121,7 +9121,7 @@
     "Label": "PltFlwHyacinth1White",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9146,7 +9146,7 @@
     "Label": "PltFlwHyacinth2White",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9171,7 +9171,7 @@
     "Label": "PltFlwHyacinth3White",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9196,7 +9196,7 @@
     "Label": "PltFlwHyacinth1Purple",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9221,7 +9221,7 @@
     "Label": "PltFlwHyacinth2Purple",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9246,7 +9246,7 @@
     "Label": "PltFlwHyacinth3Purple",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9271,7 +9271,7 @@
     "Label": "PltFlwHyacinth1Blue",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9296,7 +9296,7 @@
     "Label": "PltFlwHyacinth2Blue",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9321,7 +9321,7 @@
     "Label": "PltFlwHyacinth3Blue",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9346,7 +9346,7 @@
     "Label": "PltFlwHyacinth1Pink",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9371,7 +9371,7 @@
     "Label": "PltFlwHyacinth2Pink",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9396,7 +9396,7 @@
     "Label": "PltFlwHyacinth3Pink",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9421,7 +9421,7 @@
     "Label": "PltFlwHyacinth1Orange",
     "ModelName": "PltFlwHyacinth0",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9446,7 +9446,7 @@
     "Label": "PltFlwHyacinth2Orange",
     "ModelName": "PltFlwHyacinth1",
     "Nature": 385,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9471,7 +9471,7 @@
     "Label": "PltFlwHyacinth3Orange",
     "ModelName": "PltFlwHyacinth2",
     "Nature": 136,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwHyacinth"
   },
   {
@@ -9496,7 +9496,7 @@
     "Label": "PltFlwLily3",
     "ModelName": "PltFlwLily",
     "Nature": 128,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "PltFlwLily"
   },
   {
@@ -9521,7 +9521,7 @@
     "Label": "Hole",
     "ModelName": "UnitIconHoleOn",
     "Nature": 66,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "UnitIconHole"
   },
   {
@@ -9546,7 +9546,7 @@
     "Label": "FenceWoodNatural",
     "ModelName": "FenceWoodWhite",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceWoodWhite"
   },
   {
@@ -9571,7 +9571,7 @@
     "Label": "FenceWallRenga",
     "ModelName": "FenceWallRenga",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceWallRenga"
   },
   {
@@ -9596,7 +9596,7 @@
     "Label": "FenceVerticalWood",
     "ModelName": "FenceVerticalWood",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceVerticalWood"
   },
   {
@@ -9621,7 +9621,7 @@
     "Label": "FenceBamboo",
     "ModelName": "FenceBamboo",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceBamboo"
   },
   {
@@ -9646,7 +9646,7 @@
     "Label": "FenceLattice3",
     "ModelName": "FenceLattice",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceLattice"
   },
   {
@@ -9671,7 +9671,7 @@
     "Label": "FenceHorizontalWood",
     "ModelName": "FenceHorizontalWood",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceHorizontalWood"
   },
   {
@@ -9696,7 +9696,7 @@
     "Label": "FenceLog",
     "ModelName": "FenceLog",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceLog"
   },
   {
@@ -9721,7 +9721,7 @@
     "Label": "FencePegRope",
     "ModelName": "FencePegRope",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FencePegRope"
   },
   {
@@ -9746,7 +9746,7 @@
     "Label": "FenceChinese",
     "ModelName": "FenceChinese",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceChinese"
   },
   {
@@ -9771,7 +9771,7 @@
     "Label": "FenceDriedStraw",
     "ModelName": "FenceDriedStraw",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceDriedStraw"
   },
   {
@@ -9796,7 +9796,7 @@
     "Label": "FenceSteel",
     "ModelName": "FenceSteel",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceSteel"
   },
   {
@@ -9821,7 +9821,7 @@
     "Label": "FenceSharply",
     "ModelName": "FenceSharply",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceSharply"
   },
   {
@@ -9846,7 +9846,7 @@
     "Label": "FenceStone",
     "ModelName": "FenceStone",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceStone"
   },
   {
@@ -9871,7 +9871,7 @@
     "Label": "FenceBarbedWire",
     "ModelName": "FenceBarbedWire",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceBarbedWire"
   },
   {
@@ -9896,7 +9896,7 @@
     "Label": "FenceJapanese",
     "ModelName": "FenceJapanese",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceJapanese"
   },
   {
@@ -9921,7 +9921,7 @@
     "Label": "FenceIronAndStone",
     "ModelName": "FenceIronAndStone",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceIronAndStone"
   },
   {
@@ -9946,7 +9946,7 @@
     "Label": "FenceEasterEgg",
     "ModelName": "FenceEasterEgg",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceEasterEgg"
   },
   {
@@ -9971,7 +9971,7 @@
     "Label": "FenceJuneBride3",
     "ModelName": "FenceJuneBride",
     "Nature": 0,
-    "a4b2d66d u8": 8,
+    "OffsetAccWeed": 8,
     "ResName": "FenceJuneBride"
   },
   {
@@ -9996,7 +9996,7 @@
     "Label": "FenceJuneBride",
     "ModelName": "FenceJuneBride",
     "Nature": 0,
-    "a4b2d66d u8": 8,
+    "OffsetAccWeed": 8,
     "ResName": "FenceJuneBride"
   },
   {
@@ -10021,7 +10021,7 @@
     "Label": "FenceJuneBride1",
     "ModelName": "FenceJuneBride",
     "Nature": 0,
-    "a4b2d66d u8": 8,
+    "OffsetAccWeed": 8,
     "ResName": "FenceJuneBride"
   },
   {
@@ -10046,7 +10046,7 @@
     "Label": "FenceIkegaki",
     "ModelName": "FenceIkegaki",
     "Nature": 0,
-    "a4b2d66d u8": 2,
+    "OffsetAccWeed": 2,
     "ResName": "FenceIkegaki"
   },
   {
@@ -10071,7 +10071,7 @@
     "Label": "FenceMermaid",
     "ModelName": "FenceMermaid",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceMermaid"
   },
   {
@@ -10096,7 +10096,7 @@
     "Label": "FenceHalloween",
     "ModelName": "FenceHalloween",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceHalloween"
   },
   {
@@ -10121,7 +10121,7 @@
     "Label": "FenceCommune",
     "ModelName": "FenceHorizontalLog",
     "Nature": 0,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "FenceHorizontalLog"
   },
   {
@@ -10146,7 +10146,7 @@
     "Label": "StoneA",
     "ModelName": "stoneA",
     "Nature": 2,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "StoneA"
   },
   {
@@ -10171,7 +10171,7 @@
     "Label": "StoneB",
     "ModelName": "stoneB",
     "Nature": 2,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "StoneB"
   },
   {
@@ -10196,7 +10196,7 @@
     "Label": "StoneC",
     "ModelName": "stoneC",
     "Nature": 2,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "StoneC"
   },
   {
@@ -10221,7 +10221,7 @@
     "Label": "StoneD",
     "ModelName": "stoneD",
     "Nature": 2,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "StoneD"
   },
   {
@@ -10246,7 +10246,7 @@
     "Label": "StoneE",
     "ModelName": "stoneE",
     "Nature": 2,
-    "a4b2d66d u8": 0,
+    "OffsetAccWeed": 0,
     "ResName": "StoneE"
   }
 ]

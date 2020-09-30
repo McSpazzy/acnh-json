@@ -10,7 +10,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -23,7 +23,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 1,
@@ -36,7 +36,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 1,
@@ -49,7 +49,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 1,
@@ -62,7 +62,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -75,7 +75,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -88,7 +88,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -101,7 +101,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -114,7 +114,7 @@
     "NeglectSleep": 0,
     "StartHour": 9,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -127,7 +127,7 @@
     "NeglectSleep": 0,
     "StartHour": 9,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -140,7 +140,7 @@
     "NeglectSleep": 1,
     "StartHour": 23,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -153,7 +153,7 @@
     "NeglectSleep": 1,
     "StartHour": 23,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -166,7 +166,7 @@
     "NeglectSleep": 1,
     "StartHour": 24,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -179,7 +179,7 @@
     "NeglectSleep": 1,
     "StartHour": 24,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -192,7 +192,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -205,7 +205,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -218,7 +218,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -231,7 +231,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -244,7 +244,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -257,7 +257,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -270,7 +270,7 @@
     "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -283,7 +283,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 1,
@@ -296,7 +296,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -309,7 +309,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -322,7 +322,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -335,7 +335,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -348,7 +348,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 1,
@@ -361,7 +361,7 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": "\u0001"
+    "UseRainGoods": "\u0001"
   },
   {
     "ApplyNeedActivity": 0,
@@ -374,7 +374,7 @@
     "NeglectSleep": 1,
     "StartHour": 18,
     "StartMinute": 30,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -387,7 +387,7 @@
     "NeglectSleep": 1,
     "StartHour": 17,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   },
   {
     "ApplyNeedActivity": 0,
@@ -400,6 +400,6 @@
     "NeglectSleep": 0,
     "StartHour": 5,
     "StartMinute": 0,
-    "e76db92f string": ""
+    "UseRainGoods": ""
   }
 ]
