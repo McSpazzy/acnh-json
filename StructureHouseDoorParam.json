@@ -1,6 +1,6 @@
 [
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1000,
@@ -13,7 +13,7 @@
     "ModelName": "HouseDoorStandardAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1000,
@@ -26,7 +26,7 @@
     "ModelName": "HouseDoorStandardAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12000,
@@ -39,7 +39,7 @@
     "ModelName": "HouseDoorIronAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12000,
@@ -52,7 +52,7 @@
     "ModelName": "HouseDoorIronAR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11000,
@@ -65,7 +65,7 @@
     "ModelName": "HouseDoorIronpartsAS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11000,
@@ -78,7 +78,7 @@
     "ModelName": "HouseDoorIronpartsAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "PlayerTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -91,7 +91,7 @@
     "ModelName": "HouseTentPADoor"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "NpcTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -104,7 +104,7 @@
     "ModelName": "HouseTentNADoor"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3000,
@@ -117,7 +117,7 @@
     "ModelName": "HouseDoorReliefAS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3000,
@@ -130,7 +130,7 @@
     "ModelName": "HouseDoorReliefAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9000,
@@ -143,7 +143,7 @@
     "ModelName": "HouseDoorJapaneseAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9000,
@@ -156,7 +156,7 @@
     "ModelName": "HouseDoorJapaneseAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2000,
@@ -169,7 +169,7 @@
     "ModelName": "HouseDoorWindowAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2000,
@@ -182,7 +182,7 @@
     "ModelName": "HouseDoorWindowAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5000,
@@ -195,7 +195,7 @@
     "ModelName": "HouseDoorIronGrillAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5000,
@@ -208,7 +208,7 @@
     "ModelName": "HouseDoorIronGrillAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10000,
@@ -221,7 +221,7 @@
     "ModelName": "HouseDoorChineseAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10000,
@@ -234,7 +234,7 @@
     "ModelName": "HouseDoorChineseAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6000,
@@ -247,7 +247,7 @@
     "ModelName": "HouseDoorSimpleAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6000,
@@ -260,7 +260,7 @@
     "ModelName": "HouseDoorSimpleAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "NpcTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -273,7 +273,7 @@
     "ModelName": ""
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "NpcTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -286,7 +286,7 @@
     "ModelName": ""
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13000,
@@ -299,7 +299,7 @@
     "ModelName": "HouseDoorCarvingAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13000,
@@ -312,7 +312,7 @@
     "ModelName": "HouseDoorCarvingAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7000,
@@ -325,7 +325,7 @@
     "ModelName": "HouseDoorCercleWindowAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7000,
@@ -338,7 +338,7 @@
     "ModelName": "HouseDoorCercleWindowAR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4000,
@@ -351,7 +351,7 @@
     "ModelName": "HouseDoorVerticalWindowAS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4000,
@@ -364,7 +364,7 @@
     "ModelName": "HouseDoorVerticalWindowAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8010,
@@ -377,7 +377,7 @@
     "ModelName": "HouseDoorLatticeAS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8010,
@@ -390,7 +390,7 @@
     "ModelName": "HouseDoorLatticeAR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14000,
@@ -403,7 +403,7 @@
     "ModelName": "HouseDoorSimplicityAS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14000,
@@ -416,7 +416,7 @@
     "ModelName": "HouseDoorSimplicityAR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "PlayerTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -429,7 +429,7 @@
     "ModelName": ""
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "NpcTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -442,7 +442,7 @@
     "ModelName": ""
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "NpcTent",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 0,
@@ -455,7 +455,7 @@
     "ModelName": "HouseTentNBDoor"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5010,
@@ -468,7 +468,7 @@
     "ModelName": "HouseDoorIronGrillBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5050,
@@ -481,7 +481,7 @@
     "ModelName": "HouseDoorIronGrillCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5060,
@@ -494,7 +494,7 @@
     "ModelName": "HouseDoorIronGrillDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5040,
@@ -507,7 +507,7 @@
     "ModelName": "HouseDoorIronGrillES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5020,
@@ -520,7 +520,7 @@
     "ModelName": "HouseDoorIronGrillFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5010,
@@ -533,7 +533,7 @@
     "ModelName": "HouseDoorIronGrillBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5050,
@@ -546,7 +546,7 @@
     "ModelName": "HouseDoorIronGrillCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5060,
@@ -559,7 +559,7 @@
     "ModelName": "HouseDoorIronGrillDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5040,
@@ -572,7 +572,7 @@
     "ModelName": "HouseDoorIronGrillER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5020,
@@ -585,7 +585,7 @@
     "ModelName": "HouseDoorIronGrillFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13050,
@@ -598,7 +598,7 @@
     "ModelName": "HouseDoorCarvingBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13040,
@@ -611,7 +611,7 @@
     "ModelName": "HouseDoorCarvingCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13010,
@@ -624,7 +624,7 @@
     "ModelName": "HouseDoorCarvingDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13030,
@@ -637,7 +637,7 @@
     "ModelName": "HouseDoorCarvingES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13050,
@@ -650,7 +650,7 @@
     "ModelName": "HouseDoorCarvingBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13040,
@@ -663,7 +663,7 @@
     "ModelName": "HouseDoorCarvingCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13010,
@@ -676,7 +676,7 @@
     "ModelName": "HouseDoorCarvingDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13030,
@@ -689,7 +689,7 @@
     "ModelName": "HouseDoorCarvingER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5090,
@@ -702,7 +702,7 @@
     "ModelName": "HouseDoorIronGrillGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5090,
@@ -715,7 +715,7 @@
     "ModelName": "HouseDoorIronGrillGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5080,
@@ -728,7 +728,7 @@
     "ModelName": "HouseDoorIronGrillHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5080,
@@ -741,7 +741,7 @@
     "ModelName": "HouseDoorIronGrillHR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4010,
@@ -754,7 +754,7 @@
     "ModelName": "HouseDoorVerticalWindowBS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4060,
@@ -767,7 +767,7 @@
     "ModelName": "HouseDoorVerticalWindowCS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4070,
@@ -780,7 +780,7 @@
     "ModelName": "HouseDoorVerticalWindowDS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4040,
@@ -793,7 +793,7 @@
     "ModelName": "HouseDoorVerticalWindowES"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4030,
@@ -806,7 +806,7 @@
     "ModelName": "HouseDoorVerticalWindowFS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4020,
@@ -819,7 +819,7 @@
     "ModelName": "HouseDoorVerticalWindowGS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4090,
@@ -832,7 +832,7 @@
     "ModelName": "HouseDoorVerticalWindowHS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4010,
@@ -845,7 +845,7 @@
     "ModelName": "HouseDoorVerticalWindowBR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4060,
@@ -858,7 +858,7 @@
     "ModelName": "HouseDoorVerticalWindowCR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4070,
@@ -871,7 +871,7 @@
     "ModelName": "HouseDoorVerticalWindowDR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4040,
@@ -884,7 +884,7 @@
     "ModelName": "HouseDoorVerticalWindowER"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4030,
@@ -897,7 +897,7 @@
     "ModelName": "HouseDoorVerticalWindowFR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4020,
@@ -910,7 +910,7 @@
     "ModelName": "HouseDoorVerticalWindowGR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4090,
@@ -923,7 +923,7 @@
     "ModelName": "HouseDoorVerticalWindowHR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3030,
@@ -936,7 +936,7 @@
     "ModelName": "HouseDoorReliefBS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3070,
@@ -949,7 +949,7 @@
     "ModelName": "HouseDoorReliefCS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3060,
@@ -962,7 +962,7 @@
     "ModelName": "HouseDoorReliefDS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3040,
@@ -975,7 +975,7 @@
     "ModelName": "HouseDoorReliefES"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3020,
@@ -988,7 +988,7 @@
     "ModelName": "HouseDoorReliefFS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3010,
@@ -1001,7 +1001,7 @@
     "ModelName": "HouseDoorReliefGS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3090,
@@ -1014,7 +1014,7 @@
     "ModelName": "HouseDoorReliefHS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3030,
@@ -1027,7 +1027,7 @@
     "ModelName": "HouseDoorReliefBR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3070,
@@ -1040,7 +1040,7 @@
     "ModelName": "HouseDoorReliefCR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3060,
@@ -1053,7 +1053,7 @@
     "ModelName": "HouseDoorReliefDR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3040,
@@ -1066,7 +1066,7 @@
     "ModelName": "HouseDoorReliefER"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3020,
@@ -1079,7 +1079,7 @@
     "ModelName": "HouseDoorReliefFR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3010,
@@ -1092,7 +1092,7 @@
     "ModelName": "HouseDoorReliefGR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3090,
@@ -1105,7 +1105,7 @@
     "ModelName": "HouseDoorReliefHR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11020,
@@ -1118,7 +1118,7 @@
     "ModelName": "HouseDoorIronpartsBS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11050,
@@ -1131,7 +1131,7 @@
     "ModelName": "HouseDoorIronpartsCS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11040,
@@ -1144,7 +1144,7 @@
     "ModelName": "HouseDoorIronpartsDS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11030,
@@ -1157,7 +1157,7 @@
     "ModelName": "HouseDoorIronpartsES"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11070,
@@ -1170,7 +1170,7 @@
     "ModelName": "HouseDoorIronpartsFS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11060,
@@ -1183,7 +1183,7 @@
     "ModelName": "HouseDoorIronpartsGS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 11010,
@@ -1196,7 +1196,7 @@
     "ModelName": "HouseDoorIronpartsHS"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11020,
@@ -1209,7 +1209,7 @@
     "ModelName": "HouseDoorIronpartsBR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11050,
@@ -1222,7 +1222,7 @@
     "ModelName": "HouseDoorIronpartsCR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11040,
@@ -1235,7 +1235,7 @@
     "ModelName": "HouseDoorIronpartsDR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11030,
@@ -1248,7 +1248,7 @@
     "ModelName": "HouseDoorIronpartsER"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11070,
@@ -1261,7 +1261,7 @@
     "ModelName": "HouseDoorIronpartsFR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11060,
@@ -1274,7 +1274,7 @@
     "ModelName": "HouseDoorIronpartsGR"
   },
   {
-    "b619ba5c f32": 0.19,
+    "DoorDecoZOffset": 0.19,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 11010,
@@ -1287,7 +1287,7 @@
     "ModelName": "HouseDoorIronpartsHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6040,
@@ -1300,7 +1300,7 @@
     "ModelName": "HouseDoorSimpleBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6050,
@@ -1313,7 +1313,7 @@
     "ModelName": "HouseDoorSimpleCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6030,
@@ -1326,7 +1326,7 @@
     "ModelName": "HouseDoorSimpleDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6010,
@@ -1339,7 +1339,7 @@
     "ModelName": "HouseDoorSimpleES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6020,
@@ -1352,7 +1352,7 @@
     "ModelName": "HouseDoorSimpleFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6050,
@@ -1365,7 +1365,7 @@
     "ModelName": "HouseDoorSimpleGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 6060,
@@ -1378,7 +1378,7 @@
     "ModelName": "HouseDoorSimpleHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6040,
@@ -1391,7 +1391,7 @@
     "ModelName": "HouseDoorSimpleBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6050,
@@ -1404,7 +1404,7 @@
     "ModelName": "HouseDoorSimpleCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6030,
@@ -1417,7 +1417,7 @@
     "ModelName": "HouseDoorSimpleDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6010,
@@ -1430,7 +1430,7 @@
     "ModelName": "HouseDoorSimpleER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6020,
@@ -1443,7 +1443,7 @@
     "ModelName": "HouseDoorSimpleFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6050,
@@ -1456,7 +1456,7 @@
     "ModelName": "HouseDoorSimpleGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 6060,
@@ -1469,7 +1469,7 @@
     "ModelName": "HouseDoorSimpleHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9010,
@@ -1482,7 +1482,7 @@
     "ModelName": "HouseDoorJapaneseBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9030,
@@ -1495,7 +1495,7 @@
     "ModelName": "HouseDoorJapaneseCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9040,
@@ -1508,7 +1508,7 @@
     "ModelName": "HouseDoorJapaneseDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9050,
@@ -1521,7 +1521,7 @@
     "ModelName": "HouseDoorJapaneseES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9060,
@@ -1534,7 +1534,7 @@
     "ModelName": "HouseDoorJapaneseFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9010,
@@ -1547,7 +1547,7 @@
     "ModelName": "HouseDoorJapaneseBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9030,
@@ -1560,7 +1560,7 @@
     "ModelName": "HouseDoorJapaneseCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9040,
@@ -1573,7 +1573,7 @@
     "ModelName": "HouseDoorJapaneseDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9050,
@@ -1586,7 +1586,7 @@
     "ModelName": "HouseDoorJapaneseER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9060,
@@ -1599,7 +1599,7 @@
     "ModelName": "HouseDoorJapaneseFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8020,
@@ -1612,7 +1612,7 @@
     "ModelName": "HouseDoorLatticeBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8040,
@@ -1625,7 +1625,7 @@
     "ModelName": "HouseDoorLatticeCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8000,
@@ -1638,7 +1638,7 @@
     "ModelName": "HouseDoorLatticeDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8060,
@@ -1651,7 +1651,7 @@
     "ModelName": "HouseDoorLatticeES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8050,
@@ -1664,7 +1664,7 @@
     "ModelName": "HouseDoorLatticeFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8030,
@@ -1677,7 +1677,7 @@
     "ModelName": "HouseDoorLatticeGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 8070,
@@ -1690,7 +1690,7 @@
     "ModelName": "HouseDoorLatticeHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8020,
@@ -1703,7 +1703,7 @@
     "ModelName": "HouseDoorLatticeBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8040,
@@ -1716,7 +1716,7 @@
     "ModelName": "HouseDoorLatticeCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8000,
@@ -1729,7 +1729,7 @@
     "ModelName": "HouseDoorLatticeDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8060,
@@ -1742,7 +1742,7 @@
     "ModelName": "HouseDoorLatticeER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8050,
@@ -1755,7 +1755,7 @@
     "ModelName": "HouseDoorLatticeFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8030,
@@ -1768,7 +1768,7 @@
     "ModelName": "HouseDoorLatticeGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 8070,
@@ -1781,7 +1781,7 @@
     "ModelName": "HouseDoorLatticeHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7070,
@@ -1794,7 +1794,7 @@
     "ModelName": "HouseDoorCercleWindowBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7050,
@@ -1807,7 +1807,7 @@
     "ModelName": "HouseDoorCercleWindowCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7090,
@@ -1820,7 +1820,7 @@
     "ModelName": "HouseDoorCercleWindowDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7080,
@@ -1833,7 +1833,7 @@
     "ModelName": "HouseDoorCercleWindowES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7030,
@@ -1846,7 +1846,7 @@
     "ModelName": "HouseDoorCercleWindowFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7020,
@@ -1859,7 +1859,7 @@
     "ModelName": "HouseDoorCercleWindowGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7010,
@@ -1872,7 +1872,7 @@
     "ModelName": "HouseDoorCercleWindowHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7070,
@@ -1885,7 +1885,7 @@
     "ModelName": "HouseDoorCercleWindowBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7050,
@@ -1898,7 +1898,7 @@
     "ModelName": "HouseDoorCercleWindowCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7090,
@@ -1911,7 +1911,7 @@
     "ModelName": "HouseDoorCercleWindowDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7080,
@@ -1924,7 +1924,7 @@
     "ModelName": "HouseDoorCercleWindowER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7030,
@@ -1937,7 +1937,7 @@
     "ModelName": "HouseDoorCercleWindowFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7020,
@@ -1950,7 +1950,7 @@
     "ModelName": "HouseDoorCercleWindowGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7010,
@@ -1963,7 +1963,7 @@
     "ModelName": "HouseDoorCercleWindowHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 9020,
@@ -1976,7 +1976,7 @@
     "ModelName": "HouseDoorJapaneseGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 9020,
@@ -1989,7 +1989,7 @@
     "ModelName": "HouseDoorJapaneseGR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14010,
@@ -2002,7 +2002,7 @@
     "ModelName": "HouseDoorSimplicityBS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14070,
@@ -2015,7 +2015,7 @@
     "ModelName": "HouseDoorSimplicityCS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14090,
@@ -2028,7 +2028,7 @@
     "ModelName": "HouseDoorSimplicityDS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14060,
@@ -2041,7 +2041,7 @@
     "ModelName": "HouseDoorSimplicityES"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14040,
@@ -2054,7 +2054,7 @@
     "ModelName": "HouseDoorSimplicityFS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14030,
@@ -2067,7 +2067,7 @@
     "ModelName": "HouseDoorSimplicityGS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14020,
@@ -2080,7 +2080,7 @@
     "ModelName": "HouseDoorSimplicityHS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14010,
@@ -2093,7 +2093,7 @@
     "ModelName": "HouseDoorSimplicityBR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14070,
@@ -2106,7 +2106,7 @@
     "ModelName": "HouseDoorSimplicityCR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14090,
@@ -2119,7 +2119,7 @@
     "ModelName": "HouseDoorSimplicityDR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14060,
@@ -2132,7 +2132,7 @@
     "ModelName": "HouseDoorSimplicityER"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14040,
@@ -2145,7 +2145,7 @@
     "ModelName": "HouseDoorSimplicityFR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14030,
@@ -2158,7 +2158,7 @@
     "ModelName": "HouseDoorSimplicityGR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14020,
@@ -2171,7 +2171,7 @@
     "ModelName": "HouseDoorSimplicityHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10010,
@@ -2184,7 +2184,7 @@
     "ModelName": "HouseDoorChineseBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10030,
@@ -2197,7 +2197,7 @@
     "ModelName": "HouseDoorChineseCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10050,
@@ -2210,7 +2210,7 @@
     "ModelName": "HouseDoorChineseDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10060,
@@ -2223,7 +2223,7 @@
     "ModelName": "HouseDoorChineseES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10040,
@@ -2236,7 +2236,7 @@
     "ModelName": "HouseDoorChineseFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10020,
@@ -2249,7 +2249,7 @@
     "ModelName": "HouseDoorChineseGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 10070,
@@ -2262,7 +2262,7 @@
     "ModelName": "HouseDoorChineseHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10010,
@@ -2275,7 +2275,7 @@
     "ModelName": "HouseDoorChineseBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10030,
@@ -2288,7 +2288,7 @@
     "ModelName": "HouseDoorChineseCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10050,
@@ -2301,7 +2301,7 @@
     "ModelName": "HouseDoorChineseDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10060,
@@ -2314,7 +2314,7 @@
     "ModelName": "HouseDoorChineseER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10040,
@@ -2327,7 +2327,7 @@
     "ModelName": "HouseDoorChineseFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10020,
@@ -2340,7 +2340,7 @@
     "ModelName": "HouseDoorChineseGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 10070,
@@ -2353,7 +2353,7 @@
     "ModelName": "HouseDoorChineseHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2010,
@@ -2366,7 +2366,7 @@
     "ModelName": "HouseDoorWindowBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2060,
@@ -2379,7 +2379,7 @@
     "ModelName": "HouseDoorWindowCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2070,
@@ -2392,7 +2392,7 @@
     "ModelName": "HouseDoorWindowDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2080,
@@ -2405,7 +2405,7 @@
     "ModelName": "HouseDoorWindowES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2050,
@@ -2418,7 +2418,7 @@
     "ModelName": "HouseDoorWindowFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2040,
@@ -2431,7 +2431,7 @@
     "ModelName": "HouseDoorWindowGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2020,
@@ -2444,7 +2444,7 @@
     "ModelName": "HouseDoorWindowHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2010,
@@ -2457,7 +2457,7 @@
     "ModelName": "HouseDoorWindowBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2060,
@@ -2470,7 +2470,7 @@
     "ModelName": "HouseDoorWindowCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2070,
@@ -2483,7 +2483,7 @@
     "ModelName": "HouseDoorWindowDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2080,
@@ -2496,7 +2496,7 @@
     "ModelName": "HouseDoorWindowER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2050,
@@ -2509,7 +2509,7 @@
     "ModelName": "HouseDoorWindowFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2040,
@@ -2522,7 +2522,7 @@
     "ModelName": "HouseDoorWindowGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2020,
@@ -2535,7 +2535,7 @@
     "ModelName": "HouseDoorWindowHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12020,
@@ -2548,7 +2548,7 @@
     "ModelName": "HouseDoorIronBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12060,
@@ -2561,7 +2561,7 @@
     "ModelName": "HouseDoorIronCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12040,
@@ -2574,7 +2574,7 @@
     "ModelName": "HouseDoorIronDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12050,
@@ -2587,7 +2587,7 @@
     "ModelName": "HouseDoorIronES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12030,
@@ -2600,7 +2600,7 @@
     "ModelName": "HouseDoorIronFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12070,
@@ -2613,7 +2613,7 @@
     "ModelName": "HouseDoorIronGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 12010,
@@ -2626,7 +2626,7 @@
     "ModelName": "HouseDoorIronHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12020,
@@ -2639,7 +2639,7 @@
     "ModelName": "HouseDoorIronBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12060,
@@ -2652,7 +2652,7 @@
     "ModelName": "HouseDoorIronCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12040,
@@ -2665,7 +2665,7 @@
     "ModelName": "HouseDoorIronDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12050,
@@ -2678,7 +2678,7 @@
     "ModelName": "HouseDoorIronER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12030,
@@ -2691,7 +2691,7 @@
     "ModelName": "HouseDoorIronFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12070,
@@ -2704,7 +2704,7 @@
     "ModelName": "HouseDoorIronGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 12010,
@@ -2717,7 +2717,7 @@
     "ModelName": "HouseDoorIronHR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1010,
@@ -2730,7 +2730,7 @@
     "ModelName": "HouseDoorStandardBS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1060,
@@ -2743,7 +2743,7 @@
     "ModelName": "HouseDoorStandardCS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1070,
@@ -2756,7 +2756,7 @@
     "ModelName": "HouseDoorStandardDS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1080,
@@ -2769,7 +2769,7 @@
     "ModelName": "HouseDoorStandardES"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1050,
@@ -2782,7 +2782,7 @@
     "ModelName": "HouseDoorStandardFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1040,
@@ -2795,7 +2795,7 @@
     "ModelName": "HouseDoorStandardGS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1020,
@@ -2808,7 +2808,7 @@
     "ModelName": "HouseDoorStandardHS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1010,
@@ -2821,7 +2821,7 @@
     "ModelName": "HouseDoorStandardBR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1060,
@@ -2834,7 +2834,7 @@
     "ModelName": "HouseDoorStandardCR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1070,
@@ -2847,7 +2847,7 @@
     "ModelName": "HouseDoorStandardDR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1080,
@@ -2860,7 +2860,7 @@
     "ModelName": "HouseDoorStandardER"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1050,
@@ -2873,7 +2873,7 @@
     "ModelName": "HouseDoorStandardFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1040,
@@ -2886,7 +2886,7 @@
     "ModelName": "HouseDoorStandardGR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1020,
@@ -2899,7 +2899,7 @@
     "ModelName": "HouseDoorStandardHR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3050,
@@ -2912,7 +2912,7 @@
     "ModelName": "HouseDoorReliefIS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3050,
@@ -2925,7 +2925,7 @@
     "ModelName": "HouseDoorReliefIR"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 3080,
@@ -2938,7 +2938,7 @@
     "ModelName": "HouseDoorReliefJS"
   },
   {
-    "b619ba5c f32": 0.13,
+    "DoorDecoZOffset": 0.13,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 3080,
@@ -2951,7 +2951,7 @@
     "ModelName": "HouseDoorReliefJR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 13020,
@@ -2964,7 +2964,7 @@
     "ModelName": "HouseDoorCarvingFS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 13020,
@@ -2977,7 +2977,7 @@
     "ModelName": "HouseDoorCarvingFR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7040,
@@ -2990,7 +2990,7 @@
     "ModelName": "HouseDoorCercleWindowIS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7040,
@@ -3003,7 +3003,7 @@
     "ModelName": "HouseDoorCercleWindowIR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 7060,
@@ -3016,7 +3016,7 @@
     "ModelName": "HouseDoorCercleWindowJS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 7060,
@@ -3029,7 +3029,7 @@
     "ModelName": "HouseDoorCercleWindowJR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4080,
@@ -3042,7 +3042,7 @@
     "ModelName": "HouseDoorVerticalWindowIS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4080,
@@ -3055,7 +3055,7 @@
     "ModelName": "HouseDoorVerticalWindowIR"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 4050,
@@ -3068,7 +3068,7 @@
     "ModelName": "HouseDoorVerticalWindowJS"
   },
   {
-    "b619ba5c f32": 0.11,
+    "DoorDecoZOffset": 0.11,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 4050,
@@ -3081,7 +3081,7 @@
     "ModelName": "HouseDoorVerticalWindowJR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2030,
@@ -3094,7 +3094,7 @@
     "ModelName": "HouseDoorWindowIS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2030,
@@ -3107,7 +3107,7 @@
     "ModelName": "HouseDoorWindowIR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 2090,
@@ -3120,7 +3120,7 @@
     "ModelName": "HouseDoorWindowJS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 2090,
@@ -3133,7 +3133,7 @@
     "ModelName": "HouseDoorWindowJR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1030,
@@ -3146,7 +3146,7 @@
     "ModelName": "HouseDoorStandardIS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1030,
@@ -3159,7 +3159,7 @@
     "ModelName": "HouseDoorStandardIR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 1090,
@@ -3172,7 +3172,7 @@
     "ModelName": "HouseDoorStandardJS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "KnobRotate",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 1090,
@@ -3185,7 +3185,7 @@
     "ModelName": "HouseDoorStandardJR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14050,
@@ -3198,7 +3198,7 @@
     "ModelName": "HouseDoorSimplicityIS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14050,
@@ -3211,7 +3211,7 @@
     "ModelName": "HouseDoorSimplicityIR"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 14080,
@@ -3224,7 +3224,7 @@
     "ModelName": "HouseDoorSimplicityJS"
   },
   {
-    "b619ba5c f32": 0.32,
+    "DoorDecoZOffset": 0.32,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 14080,
@@ -3237,7 +3237,7 @@
     "ModelName": "HouseDoorSimplicityJR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5030,
@@ -3250,7 +3250,7 @@
     "ModelName": "HouseDoorIronGrillIS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5030,
@@ -3263,7 +3263,7 @@
     "ModelName": "HouseDoorIronGrillIR"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Square",
     "CustomizeSortID": 5070,
@@ -3276,7 +3276,7 @@
     "ModelName": "HouseDoorIronGrillJS"
   },
   {
-    "b619ba5c u32": 0,
+    "DoorDecoZOffset": 0,
     "HouseDoorAnim": "Knob",
     "HouseDoorShape": "Round",
     "CustomizeSortID": 5070,
