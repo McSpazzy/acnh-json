@@ -8,7 +8,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -19,7 +19,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -30,7 +30,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Tent",
@@ -41,7 +41,7 @@
     "LightParamName": "HouseTentPA",
     "ModelName": "HouseTentPA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Tent",
@@ -52,7 +52,7 @@
     "LightParamName": "HouseTentNA",
     "ModelName": "HouseTentNA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Normal",
@@ -63,7 +63,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -74,7 +74,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "None",
@@ -85,7 +85,7 @@
     "LightParamName": "HouseWallNForSale",
     "ModelName": "HouseWallNForSale",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "None",
@@ -96,7 +96,7 @@
     "LightParamName": "HouseWallNSoldOut",
     "ModelName": "HouseWallNSoldOut",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Normal",
@@ -107,7 +107,7 @@
     "LightParamName": "HouseWallPA00StandardA",
     "ModelName": "HouseWallPA00StandardA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Normal",
@@ -118,7 +118,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -129,7 +129,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -140,7 +140,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -151,7 +151,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -162,7 +162,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -173,7 +173,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -184,7 +184,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -195,7 +195,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -206,7 +206,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -217,7 +217,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -228,7 +228,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -239,7 +239,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -250,7 +250,7 @@
     "LightParamName": "HouseWallNCOrientalA",
     "ModelName": "HouseWallNCOrientalA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -261,7 +261,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "None",
@@ -272,7 +272,7 @@
     "LightParamName": "HouseWallHouseMovingPA",
     "ModelName": "HouseWallHouseMovingPA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "None",
@@ -283,7 +283,7 @@
     "LightParamName": "HouseWallHouseMovingNA",
     "ModelName": "HouseWallHouseMovingNA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Normal",
@@ -294,7 +294,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -305,7 +305,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -316,7 +316,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -327,7 +327,7 @@
     "LightParamName": "HouseWallPA01StandardA",
     "ModelName": "HouseWallPA01StandardA",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Tent",
@@ -338,7 +338,7 @@
     "LightParamName": "HouseTentNB",
     "ModelName": "HouseTentNB",
     "UseCurtain": 0,
-    "UseExteriorLight": ""
+    "UseExteriorLight": 0
   },
   {
     "HouseDoorStep": "Normal",
@@ -349,7 +349,7 @@
     "LightParamName": "HouseWallPA03StandardA",
     "ModelName": "HouseWallPA03StandardA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -360,7 +360,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -371,7 +371,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -382,7 +382,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -393,7 +393,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -404,7 +404,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -415,7 +415,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -426,7 +426,7 @@
     "LightParamName": "HouseWallNAStuccoA",
     "ModelName": "HouseWallNAStuccoH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -437,7 +437,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -448,7 +448,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -459,7 +459,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -470,7 +470,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -481,7 +481,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -492,7 +492,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -503,7 +503,7 @@
     "LightParamName": "HouseWallNABrickA",
     "ModelName": "HouseWallNABrickH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -514,7 +514,7 @@
     "LightParamName": "HouseWallPA02StandardA",
     "ModelName": "HouseWallPA02StandardA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -525,7 +525,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -536,7 +536,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -547,7 +547,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -558,7 +558,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -569,7 +569,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -580,7 +580,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -591,7 +591,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -602,7 +602,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -613,7 +613,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -624,7 +624,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -635,7 +635,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -646,7 +646,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -657,7 +657,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -668,7 +668,7 @@
     "LightParamName": "HouseWallNBStuccoA",
     "ModelName": "HouseWallNBStuccoH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -679,7 +679,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -690,7 +690,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -701,7 +701,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -712,7 +712,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -723,7 +723,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -734,7 +734,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -745,7 +745,7 @@
     "LightParamName": "HouseWallNBStoneA",
     "ModelName": "HouseWallNBStoneH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -756,7 +756,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -767,7 +767,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -778,7 +778,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -789,7 +789,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -800,7 +800,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -811,7 +811,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -822,7 +822,7 @@
     "LightParamName": "HouseWallNBLogA",
     "ModelName": "HouseWallNBLogH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -833,7 +833,7 @@
     "LightParamName": "HouseWallNCOrientalB",
     "ModelName": "HouseWallNCOrientalB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -844,7 +844,7 @@
     "LightParamName": "HouseWallNCOrientalC",
     "ModelName": "HouseWallNCOrientalC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -855,7 +855,7 @@
     "LightParamName": "HouseWallNCOrientalD",
     "ModelName": "HouseWallNCOrientalD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -866,7 +866,7 @@
     "LightParamName": "HouseWallNCOrientalE",
     "ModelName": "HouseWallNCOrientalE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -877,7 +877,7 @@
     "LightParamName": "HouseWallNCOrientalF",
     "ModelName": "HouseWallNCOrientalF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -888,7 +888,7 @@
     "LightParamName": "HouseWallNCOrientalG",
     "ModelName": "HouseWallNCOrientalG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -899,7 +899,7 @@
     "LightParamName": "HouseWallNCOrientalH",
     "ModelName": "HouseWallNCOrientalH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -910,7 +910,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -921,7 +921,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -932,7 +932,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -943,7 +943,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -954,7 +954,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -965,7 +965,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -976,7 +976,7 @@
     "LightParamName": "HouseWallNCJapaneseA",
     "ModelName": "HouseWallNCJapaneseH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -987,7 +987,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -998,7 +998,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1009,7 +1009,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1020,7 +1020,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1031,7 +1031,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1042,7 +1042,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1053,7 +1053,7 @@
     "LightParamName": "HouseWallNCWoodA",
     "ModelName": "HouseWallNCWoodH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1064,7 +1064,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1075,7 +1075,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1086,7 +1086,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1097,7 +1097,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1108,7 +1108,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1119,7 +1119,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1130,7 +1130,7 @@
     "LightParamName": "HouseWallNDSoilA",
     "ModelName": "HouseWallNDSoilH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1141,7 +1141,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1152,7 +1152,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1163,7 +1163,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1174,7 +1174,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1185,7 +1185,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1196,7 +1196,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1207,7 +1207,7 @@
     "LightParamName": "HouseWallNDStuccoA",
     "ModelName": "HouseWallNDStuccoH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1218,7 +1218,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1229,7 +1229,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1240,7 +1240,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1251,7 +1251,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1262,7 +1262,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1273,7 +1273,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1284,7 +1284,7 @@
     "LightParamName": "HouseWallNDWoodA",
     "ModelName": "HouseWallNDWoodH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1295,7 +1295,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1306,7 +1306,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1317,7 +1317,7 @@
     "LightParamName": "HouseWallPA04WoodframeA",
     "ModelName": "HouseWallPA04WoodframeH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1328,7 +1328,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1339,7 +1339,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1350,7 +1350,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1361,7 +1361,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1372,7 +1372,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1383,7 +1383,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1394,7 +1394,7 @@
     "LightParamName": "HouseWallPA04StoneA",
     "ModelName": "HouseWallPA04StoneH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1405,7 +1405,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1416,7 +1416,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1427,7 +1427,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1438,7 +1438,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1449,7 +1449,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1460,7 +1460,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1471,7 +1471,7 @@
     "LightParamName": "HouseWallPA04StuccoA",
     "ModelName": "HouseWallPA04StuccoH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1482,7 +1482,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1493,7 +1493,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1504,7 +1504,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1515,7 +1515,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1526,7 +1526,7 @@
     "LightParamName": "HouseWallPA04StandardA",
     "ModelName": "HouseWallPA04StandardH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1537,7 +1537,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalA",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1548,7 +1548,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalB",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1559,7 +1559,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalC",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1570,7 +1570,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalD",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1581,7 +1581,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalE",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1592,7 +1592,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalF",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1603,7 +1603,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalG",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1614,7 +1614,7 @@
     "LightParamName": "HouseWallNAMetalA",
     "ModelName": "HouseWallNAMetalH",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1625,7 +1625,7 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingI",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   },
   {
     "HouseDoorStep": "Normal",
@@ -1636,6 +1636,6 @@
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingJ",
     "UseCurtain": 1,
-    "UseExteriorLight": "\u0001"
+    "UseExteriorLight": 1
   }
 ]

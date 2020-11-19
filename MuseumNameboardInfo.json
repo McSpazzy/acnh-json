@@ -12,7 +12,7 @@
     "DonateItemThird": 2215,
     "UniqueID": 0,
     "ModelResName": "IdrObjNameBoardFish2PopA01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -27,7 +27,7 @@
     "DonateItemThird": 2219,
     "UniqueID": 2,
     "ModelResName": "IdrObjNameBoardFish2PopB03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -42,7 +42,7 @@
     "DonateItemThird": 2252,
     "UniqueID": 3,
     "ModelResName": "IdrObjNameBoardFish2PopB02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -57,7 +57,7 @@
     "DonateItemThird": 2239,
     "UniqueID": 4,
     "ModelResName": "IdrObjNameBoardFish2PopA01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -72,7 +72,7 @@
     "DonateItemThird": 2237,
     "UniqueID": 5,
     "ModelResName": "IdrObjNameBoardFish2PopB01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -87,7 +87,7 @@
     "DonateItemThird": 2241,
     "UniqueID": 6,
     "ModelResName": "IdrObjNameBoardFish2PopB03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -102,7 +102,7 @@
     "DonateItemThird": 2243,
     "UniqueID": 7,
     "ModelResName": "IdrObjNameBoardFish2PopC01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 25.0,
@@ -117,7 +117,7 @@
     "DonateItemThird": 2246,
     "UniqueID": 10,
     "ModelResName": "IdrObjNameBoardFish2MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -45.0,
@@ -132,7 +132,7 @@
     "DonateItemThird": 2251,
     "UniqueID": 11,
     "ModelResName": "IdrObjNameBoardFish2MetalFrame01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -10.0,
@@ -147,7 +147,7 @@
     "DonateItemThird": 2221,
     "UniqueID": 12,
     "ModelResName": "IdrObjNameBoardFish2MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -162,7 +162,7 @@
     "DonateItemThird": 621,
     "UniqueID": 25,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -177,7 +177,7 @@
     "DonateItemThird": 649,
     "UniqueID": 26,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 315.0,
@@ -192,7 +192,7 @@
     "DonateItemThird": 614,
     "UniqueID": 27,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -207,7 +207,7 @@
     "DonateItemThird": 3479,
     "UniqueID": 28,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -222,7 +222,7 @@
     "DonateItemThird": -2,
     "UniqueID": 29,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -237,7 +237,7 @@
     "DonateItemThird": 609,
     "UniqueID": 30,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 315.0,
@@ -252,7 +252,7 @@
     "DonateItemThird": 631,
     "UniqueID": 31,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -267,7 +267,7 @@
     "DonateItemThird": -2,
     "UniqueID": 32,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 315.0,
@@ -282,7 +282,7 @@
     "DonateItemThird": -2,
     "UniqueID": 33,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -297,7 +297,7 @@
     "DonateItemThird": 585,
     "UniqueID": 34,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -312,7 +312,7 @@
     "DonateItemThird": 587,
     "UniqueID": 35,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -327,7 +327,7 @@
     "DonateItemThird": -2,
     "UniqueID": 36,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -342,7 +342,7 @@
     "DonateItemThird": 3482,
     "UniqueID": 38,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -357,7 +357,7 @@
     "DonateItemThird": 596,
     "UniqueID": 39,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -372,7 +372,7 @@
     "DonateItemThird": 599,
     "UniqueID": 40,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 315.0,
@@ -387,7 +387,7 @@
     "DonateItemThird": 627,
     "UniqueID": 41,
     "ModelResName": "IdrObjNameBoardMuseumInsect1WoodPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -402,7 +402,7 @@
     "DonateItemThird": 586,
     "UniqueID": 42,
     "ModelResName": "IdrObjNameBoardMuseumInsect1WoodPlate02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 23.77,
@@ -417,7 +417,7 @@
     "DonateItemThird": 647,
     "UniqueID": 43,
     "ModelResName": "IdrObjNameBoardMuseumInsect1WoodPlate03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -432,7 +432,7 @@
     "DonateItemThird": 2277,
     "UniqueID": 44,
     "ModelResName": "IdrObjNameBoardFish0PopA02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -447,7 +447,7 @@
     "DonateItemThird": 2263,
     "UniqueID": 45,
     "ModelResName": "IdrObjNameBoardFish0PopA01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -462,7 +462,7 @@
     "DonateItemThird": 2281,
     "UniqueID": 46,
     "ModelResName": "IdrObjNameBoardFish0PopA03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -477,7 +477,7 @@
     "DonateItemThird": 2259,
     "UniqueID": 47,
     "ModelResName": "IdrObjNameBoardFish0PopB01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -492,7 +492,7 @@
     "DonateItemThird": -2,
     "UniqueID": 48,
     "ModelResName": "IdrObjNameBoardFish0PopC02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -507,7 +507,7 @@
     "DonateItemThird": 2266,
     "UniqueID": 49,
     "ModelResName": "IdrObjNameBoardFish0PopA04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -522,7 +522,7 @@
     "DonateItemThird": 2838,
     "UniqueID": 53,
     "ModelResName": "IdrObjNameBoardFish0PopB03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -537,7 +537,7 @@
     "DonateItemThird": 2831,
     "UniqueID": 54,
     "ModelResName": "IdrObjNameBoardFish0PopC01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -45.0,
@@ -552,7 +552,7 @@
     "DonateItemThird": -2,
     "UniqueID": 55,
     "ModelResName": "IdrObjNameBoardFish2MetalFrame01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 90.0,
@@ -567,7 +567,7 @@
     "DonateItemThird": 2275,
     "UniqueID": 58,
     "ModelResName": "IdrObjNameBoardFish1PopA01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 270.0,
@@ -582,7 +582,7 @@
     "DonateItemThird": 2264,
     "UniqueID": 59,
     "ModelResName": "IdrObjNameBoardFish1PopA02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 270.0,
@@ -597,7 +597,7 @@
     "DonateItemThird": 2273,
     "UniqueID": 60,
     "ModelResName": "IdrObjNameBoardFish1PopB01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 270.0,
@@ -612,7 +612,7 @@
     "DonateItemThird": 6920,
     "UniqueID": 61,
     "ModelResName": "IdrObjNameBoardFish1PopB02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -90.0,
@@ -627,7 +627,7 @@
     "DonateItemThird": 4663,
     "UniqueID": 63,
     "ModelResName": "IdrObjNameBoardFossil0Pop01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -90.0,
@@ -642,7 +642,7 @@
     "DonateItemThird": -2,
     "UniqueID": 64,
     "ModelResName": "IdrObjNameBoardFossil0Pop02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 90.0,
@@ -657,7 +657,7 @@
     "DonateItemThird": -2,
     "UniqueID": 65,
     "ModelResName": "IdrObjNameBoardFossil0Pop03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 90.0,
@@ -672,7 +672,7 @@
     "DonateItemThird": -2,
     "UniqueID": 66,
     "ModelResName": "IdrObjNameBoardFossil0Pop04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -687,7 +687,7 @@
     "DonateItemThird": 592,
     "UniqueID": 67,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -702,7 +702,7 @@
     "DonateItemThird": -2,
     "UniqueID": 68,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate05",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -717,7 +717,7 @@
     "DonateItemThird": -2,
     "UniqueID": 69,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -732,7 +732,7 @@
     "DonateItemThird": -2,
     "UniqueID": 70,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -747,7 +747,7 @@
     "DonateItemThird": -2,
     "UniqueID": 71,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -762,7 +762,7 @@
     "DonateItemThird": -2,
     "UniqueID": 72,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -777,7 +777,7 @@
     "DonateItemThird": 642,
     "UniqueID": 73,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlateLong01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -792,7 +792,7 @@
     "DonateItemThird": 644,
     "UniqueID": 74,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlateLong02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -20.0,
@@ -807,7 +807,7 @@
     "DonateItemThird": 3478,
     "UniqueID": 75,
     "ModelResName": "IdrObjNameBoardMuseumInsect2NamePlateLabo01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 90.0,
@@ -822,7 +822,7 @@
     "DonateItemThird": 177,
     "UniqueID": 76,
     "ModelResName": "IdrObjNameBoardFossil1Pop01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 90.0,
@@ -837,7 +837,7 @@
     "DonateItemThird": -2,
     "UniqueID": 77,
     "ModelResName": "IdrObjNameBoardFossil1Pop02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -852,7 +852,7 @@
     "DonateItemThird": -2,
     "UniqueID": 78,
     "ModelResName": "IdrObjNameBoardFossil1Pop03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -867,7 +867,7 @@
     "DonateItemThird": -2,
     "UniqueID": 79,
     "ModelResName": "IdrObjNameBoardFossil1Pop04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 315.0,
@@ -882,7 +882,7 @@
     "DonateItemThird": -2,
     "UniqueID": 80,
     "ModelResName": "IdrObjNameBoardFossil1Pop05",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 270.0,
@@ -897,7 +897,7 @@
     "DonateItemThird": 300,
     "UniqueID": 81,
     "ModelResName": "IdrObjNameBoardFossil1Pop06",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -912,7 +912,7 @@
     "DonateItemThird": -2,
     "UniqueID": 82,
     "ModelResName": "IdrObjNameBoardFossil1Pop07",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -927,7 +927,7 @@
     "DonateItemThird": -2,
     "UniqueID": 83,
     "ModelResName": "IdrObjNameBoardFossil1Pop08",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -942,7 +942,7 @@
     "DonateItemThird": -2,
     "UniqueID": 84,
     "ModelResName": "IdrObjNameBoardFossil1Pop09",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -957,7 +957,7 @@
     "DonateItemThird": -2,
     "UniqueID": 85,
     "ModelResName": "IdrObjNameBoardFossil2Pop01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -972,7 +972,7 @@
     "DonateItemThird": -2,
     "UniqueID": 86,
     "ModelResName": "IdrObjNameBoardFossil2Pop02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -987,7 +987,7 @@
     "DonateItemThird": -2,
     "UniqueID": 87,
     "ModelResName": "IdrObjNameBoardFossil2Pop03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1002,7 +1002,7 @@
     "DonateItemThird": -2,
     "UniqueID": 88,
     "ModelResName": "IdrObjNameBoardFossil2Pop04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -1017,7 +1017,7 @@
     "DonateItemThird": -2,
     "UniqueID": 89,
     "ModelResName": "IdrObjNameBoardFossil1Pop10",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -23.76,
@@ -1032,7 +1032,7 @@
     "DonateItemThird": 584,
     "UniqueID": 91,
     "ModelResName": "IdrObjNameBoardMuseumInsect1WoodPlate04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1047,7 +1047,7 @@
     "DonateItemThird": 2848,
     "UniqueID": 92,
     "ModelResName": "IdrObjNameBoardFish0PopB04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1062,7 +1062,7 @@
     "DonateItemThird": 2840,
     "UniqueID": 93,
     "ModelResName": "IdrObjNameBoardFish0PopB05",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1077,7 +1077,7 @@
     "DonateItemThird": 2841,
     "UniqueID": 94,
     "ModelResName": "IdrObjNameBoardFish0PopA05",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1092,7 +1092,7 @@
     "DonateItemThird": 7191,
     "UniqueID": 95,
     "ModelResName": "IdrObjNameBoardFish0PopA06",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -90.0,
@@ -1107,7 +1107,7 @@
     "DonateItemThird": -2,
     "UniqueID": 96,
     "ModelResName": "IdrObjNameBoardFish0PopC03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1122,7 +1122,7 @@
     "DonateItemThird": 7303,
     "UniqueID": 98,
     "ModelResName": "IdrObjNameBoardFish1PopC01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1137,7 +1137,7 @@
     "DonateItemThird": -2,
     "UniqueID": 99,
     "ModelResName": "IdrObjNameBoardFish2PopD01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 45.0,
@@ -1152,7 +1152,7 @@
     "DonateItemThird": -2,
     "UniqueID": 100,
     "ModelResName": "IdrObjNameBoardMuseumInsect0MetalPlate01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1167,7 +1167,7 @@
     "DonateItemThird": -2,
     "UniqueID": 102,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1182,7 +1182,7 @@
     "DonateItemThird": -2,
     "UniqueID": 103,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1197,7 +1197,7 @@
     "DonateItemThird": -2,
     "UniqueID": 104,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1212,7 +1212,7 @@
     "DonateItemThird": -2,
     "UniqueID": 105,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1227,7 +1227,7 @@
     "DonateItemThird": -2,
     "UniqueID": 106,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1242,7 +1242,7 @@
     "DonateItemThird": -2,
     "UniqueID": 107,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1257,7 +1257,7 @@
     "DonateItemThird": -2,
     "UniqueID": 108,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1272,7 +1272,7 @@
     "DonateItemThird": -2,
     "UniqueID": 109,
     "ModelResName": "IdrObjNameBoardArt0Tag01",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1287,7 +1287,7 @@
     "DonateItemThird": -2,
     "UniqueID": 110,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1302,7 +1302,7 @@
     "DonateItemThird": -2,
     "UniqueID": 111,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1317,7 +1317,7 @@
     "DonateItemThird": -2,
     "UniqueID": 112,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -90.0,
@@ -1332,7 +1332,7 @@
     "DonateItemThird": -2,
     "UniqueID": 113,
     "ModelResName": "IdrObjNameBoardArt0Tag03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": -90.0,
@@ -1347,7 +1347,7 @@
     "DonateItemThird": -2,
     "UniqueID": 114,
     "ModelResName": "IdrObjNameBoardArt0Tag03",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1362,7 +1362,7 @@
     "DonateItemThird": -2,
     "UniqueID": 115,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1377,7 +1377,7 @@
     "DonateItemThird": -2,
     "UniqueID": 116,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1392,7 +1392,7 @@
     "DonateItemThird": -2,
     "UniqueID": 117,
     "ModelResName": "IdrObjNameBoardArt0Tag02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1407,7 +1407,7 @@
     "DonateItemThird": -2,
     "UniqueID": 118,
     "ModelResName": "IdrObjNameBoardArt0Tag02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1422,7 +1422,7 @@
     "DonateItemThird": -2,
     "UniqueID": 119,
     "ModelResName": "IdrObjNameBoardArt0Tag02",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1437,7 +1437,7 @@
     "DonateItemThird": -2,
     "UniqueID": 120,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1452,7 +1452,7 @@
     "DonateItemThird": -2,
     "UniqueID": 121,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1467,7 +1467,7 @@
     "DonateItemThird": -2,
     "UniqueID": 122,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1482,7 +1482,7 @@
     "DonateItemThird": -2,
     "UniqueID": 123,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1497,7 +1497,7 @@
     "DonateItemThird": -2,
     "UniqueID": 124,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1512,7 +1512,7 @@
     "DonateItemThird": -2,
     "UniqueID": 125,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1527,7 +1527,7 @@
     "DonateItemThird": -2,
     "UniqueID": 126,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1542,7 +1542,7 @@
     "DonateItemThird": -2,
     "UniqueID": 127,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1557,7 +1557,7 @@
     "DonateItemThird": -2,
     "UniqueID": 128,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1572,7 +1572,7 @@
     "DonateItemThird": -2,
     "UniqueID": 129,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1587,7 +1587,7 @@
     "DonateItemThird": -2,
     "UniqueID": 130,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1602,7 +1602,7 @@
     "DonateItemThird": -2,
     "UniqueID": 131,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1617,7 +1617,7 @@
     "DonateItemThird": -2,
     "UniqueID": 132,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1632,7 +1632,7 @@
     "DonateItemThird": -2,
     "UniqueID": 133,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1647,7 +1647,7 @@
     "DonateItemThird": -2,
     "UniqueID": 134,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1662,7 +1662,7 @@
     "DonateItemThird": -2,
     "UniqueID": 135,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1677,7 +1677,7 @@
     "DonateItemThird": -2,
     "UniqueID": 136,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1692,7 +1692,7 @@
     "DonateItemThird": -2,
     "UniqueID": 137,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1707,7 +1707,7 @@
     "DonateItemThird": -2,
     "UniqueID": 138,
     "ModelResName": "IdrObjNameBoardArt0Tag00",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1722,7 +1722,7 @@
     "DonateItemThird": -2,
     "UniqueID": 139,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1737,7 +1737,7 @@
     "DonateItemThird": -2,
     "UniqueID": 140,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1752,7 +1752,7 @@
     "DonateItemThird": -2,
     "UniqueID": 141,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1767,7 +1767,7 @@
     "DonateItemThird": -2,
     "UniqueID": 142,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1782,7 +1782,7 @@
     "DonateItemThird": -2,
     "UniqueID": 143,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   },
   {
     "NameboardAngleY": 0,
@@ -1797,6 +1797,6 @@
     "DonateItemThird": -2,
     "UniqueID": 144,
     "ModelResName": "IdrObjNameBoardArt0Tag04",
-    "VisibleOff": ""
+    "VisibleOff": 0
   }
 ]

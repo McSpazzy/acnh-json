@@ -5,7 +5,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 0,
     "StageName": "InvalidStage",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "MainField",
@@ -13,7 +13,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "MainField",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -21,7 +21,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -29,7 +29,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -37,7 +37,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -45,7 +45,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -53,7 +53,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -61,7 +61,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse0_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -69,7 +69,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -77,7 +77,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -85,7 +85,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -93,7 +93,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -101,7 +101,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -109,7 +109,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse1_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -117,7 +117,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -125,7 +125,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -133,7 +133,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -141,7 +141,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -149,7 +149,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -157,7 +157,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse2_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -165,7 +165,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -173,7 +173,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -181,7 +181,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -189,7 +189,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -197,7 +197,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -205,7 +205,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse3_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -213,7 +213,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -221,7 +221,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -229,7 +229,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -237,7 +237,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -245,7 +245,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -253,7 +253,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse4_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -261,7 +261,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -269,7 +269,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -277,7 +277,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -285,7 +285,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -293,7 +293,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -301,7 +301,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse5_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -309,7 +309,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -317,7 +317,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -325,7 +325,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -333,7 +333,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -341,7 +341,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -349,7 +349,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse6_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -357,7 +357,7 @@
     "RoomType": "Room0",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -365,7 +365,7 @@
     "RoomType": "Room1",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7_1",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -373,7 +373,7 @@
     "RoomType": "Room2",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7_2",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -381,7 +381,7 @@
     "RoomType": "Room3",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7_3",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -389,7 +389,7 @@
     "RoomType": "Room4",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7_4",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "PlayerHouse",
@@ -397,7 +397,7 @@
     "RoomType": "Room5",
     "ItemLayer": 255,
     "StageName": "PlayerHouse7_5",
-    "StaticField": "\u0001"
+    "StaticField": 1
   },
   {
     "FactoryType": "NpcHouse",
@@ -405,7 +405,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse0",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -413,7 +413,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse1",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -421,7 +421,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse2",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -429,7 +429,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse3",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -437,7 +437,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse4",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -445,7 +445,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse5",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -453,7 +453,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse6",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -461,7 +461,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse7",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -469,7 +469,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse8",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "NpcHouse",
@@ -477,7 +477,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "NpcHouse9",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -485,7 +485,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 63,
     "StageName": "IdrTsunekichi",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -493,7 +493,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMarket01",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -501,7 +501,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMarket02",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -509,7 +509,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrTanukichi",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "MysteryTourIsland",
@@ -517,7 +517,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "MysteryTourIsland",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -525,7 +525,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "Dream_Tkk",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -533,7 +533,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 63,
     "StageName": "IdrTailor",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -541,7 +541,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFish_2",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -549,7 +549,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumEnt00",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -557,7 +557,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrAirPort",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -565,7 +565,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFish_0",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -573,7 +573,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFish_1",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -581,7 +581,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumInsect_0",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -589,7 +589,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumInsect_1",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -597,7 +597,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -605,7 +605,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio_1",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -613,7 +613,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio_2",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -621,7 +621,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio_3",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -629,7 +629,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio_4",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioHouse",
@@ -637,7 +637,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 255,
     "StageName": "PhotoStudio_5",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "PhotoStudioIsland",
@@ -645,7 +645,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "PhotoStudioIsland",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -653,7 +653,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumEnt01",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -661,7 +661,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFossil_0",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -669,7 +669,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFossil_2",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -677,7 +677,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrCampSiteTent",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -685,7 +685,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrOffice01",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -693,7 +693,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "GrowUpTalk",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -701,7 +701,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumEnt02",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -709,7 +709,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumInsect_2",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -717,7 +717,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumFossil_1",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -725,7 +725,7 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrMuseumArt_0",
-    "StaticField": ""
+    "StaticField": 0
   },
   {
     "FactoryType": "Default",
@@ -733,6 +733,6 @@
     "RoomType": "Invalid",
     "ItemLayer": 3,
     "StageName": "IdrDream",
-    "StaticField": ""
+    "StaticField": 0
   }
 ]

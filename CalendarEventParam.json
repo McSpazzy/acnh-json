@@ -148,8 +148,8 @@
     "NameShort": "イベントなし",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -159,7 +159,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Global",
@@ -310,8 +310,8 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 5,
@@ -321,7 +321,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 2,
-    "WeekSouth": "\u0002"
+    "WeekSouth": 2
   },
   {
     "EventType": "Global",
@@ -472,8 +472,8 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 5,
@@ -483,7 +483,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 2,
-    "WeekSouth": "\u0002"
+    "WeekSouth": 2
   },
   {
     "EventType": "Global",
@@ -634,8 +634,8 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 5,
@@ -645,7 +645,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 2,
-    "WeekSouth": "\u0002"
+    "WeekSouth": 2
   },
   {
     "EventType": "Global",
@@ -796,8 +796,8 @@
     "NameShort": "つり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 5,
@@ -807,7 +807,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 2,
-    "WeekSouth": "\u0002"
+    "WeekSouth": 2
   },
   {
     "EventType": "Global",
@@ -958,8 +958,8 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 7,
@@ -969,7 +969,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0003"
+    "WeekSouth": 3
   },
   {
     "EventType": "Global",
@@ -1120,8 +1120,8 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 7,
@@ -1131,7 +1131,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0003"
+    "WeekSouth": 3
   },
   {
     "EventType": "Global",
@@ -1282,8 +1282,8 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 7,
@@ -1293,7 +1293,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0003"
+    "WeekSouth": 3
   },
   {
     "EventType": "Global",
@@ -1444,8 +1444,8 @@
     "NameShort": "ムシとり大会",
     "NpcBegin": 5,
     "NpcEnd": 20,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 7,
@@ -1455,7 +1455,7 @@
     "WdaySouth": 6,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0003"
+    "WeekSouth": 3
   },
   {
     "EventType": "Global",
@@ -1606,8 +1606,8 @@
     "NameShort": "ハロウィン",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 103,
@@ -1617,7 +1617,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Global",
@@ -1768,8 +1768,8 @@
     "NameShort": "クリスマスイブ",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 107,
@@ -1779,7 +1779,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -1930,8 +1930,8 @@
     "NameShort": "クリスマスアフター",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -1941,7 +1941,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Global",
@@ -2092,8 +2092,8 @@
     "NameShort": "ハーベストフェスティバル",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 105,
@@ -2103,7 +2103,7 @@
     "WdaySouth": 4,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0004"
+    "WeekSouth": 4
   },
   {
     "EventType": "Global",
@@ -2254,8 +2254,8 @@
     "NameShort": "カウントダウン",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 19,
@@ -2265,7 +2265,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Global",
@@ -2416,8 +2416,8 @@
     "NameShort": "花火大会",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 16,
@@ -2427,7 +2427,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 1,
-    "WeekSouth": "\u0001"
+    "WeekSouth": 1
   },
   {
     "EventType": "Global",
@@ -2578,8 +2578,8 @@
     "NameShort": "イースター(ウサギの日)",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -2589,7 +2589,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Other",
@@ -2740,8 +2740,8 @@
     "NameShort": "元旦",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -2751,7 +2751,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Other",
@@ -2902,8 +2902,8 @@
     "NameShort": "プレイヤーの誕生日",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -2913,7 +2913,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Other",
@@ -3064,8 +3064,8 @@
     "NameShort": "NPCの誕生日",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3075,7 +3075,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Other",
@@ -3226,8 +3226,8 @@
     "NameShort": "旧暦正月",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3237,7 +3237,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Totakeke",
@@ -3388,8 +3388,8 @@
     "NameShort": "とたけけライブ",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3399,7 +3399,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Totakeke",
@@ -3550,8 +3550,8 @@
     "NameShort": "とたけけライブ",
     "NpcBegin": 5,
     "NpcEnd": 0,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3561,7 +3561,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Totakeke",
@@ -3712,8 +3712,8 @@
     "NameShort": "とたけけ初回ライブ",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 0,
+    "Open2020": 0,
+    "Open2021": 0,
     "OpenAllYear": 1,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3723,7 +3723,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -3874,8 +3874,8 @@
     "NameShort": "アースデー",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -3885,7 +3885,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -4036,8 +4036,8 @@
     "NameShort": "ジューンブライド",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -4047,7 +4047,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -4198,8 +4198,8 @@
     "NameShort": "メーデー",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 101,
@@ -4209,7 +4209,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -4360,8 +4360,8 @@
     "NameShort": "国際ミュージアム",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -4371,7 +4371,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -4522,8 +4522,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -4533,7 +4533,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -4684,8 +4684,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -4695,7 +4695,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -4846,8 +4846,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -4857,7 +4857,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5008,8 +5008,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5019,7 +5019,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5170,8 +5170,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5181,7 +5181,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5332,8 +5332,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5343,7 +5343,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5494,8 +5494,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5505,7 +5505,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5656,8 +5656,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5667,7 +5667,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5818,8 +5818,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5829,7 +5829,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -5980,8 +5980,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -5991,7 +5991,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -6142,8 +6142,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -6153,7 +6153,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -6304,8 +6304,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -6315,7 +6315,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Global",
@@ -6466,8 +6466,8 @@
     "NameShort": "花火大会",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 16,
@@ -6477,7 +6477,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 2,
-    "WeekSouth": "\u0002"
+    "WeekSouth": 2
   },
   {
     "EventType": "Global",
@@ -6628,8 +6628,8 @@
     "NameShort": "花火大会",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 16,
@@ -6639,7 +6639,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 3,
-    "WeekSouth": "\u0003"
+    "WeekSouth": 3
   },
   {
     "EventType": "Global",
@@ -6790,8 +6790,8 @@
     "NameShort": "花火大会",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 16,
@@ -6801,7 +6801,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 4,
-    "WeekSouth": "\u0004"
+    "WeekSouth": 4
   },
   {
     "EventType": "Global",
@@ -6952,8 +6952,8 @@
     "NameShort": "花火大会",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 16,
@@ -6963,7 +6963,7 @@
     "WdaySouth": 0,
     "WeatherChange": 1,
     "WeekNorth": 5,
-    "WeekSouth": "\u0005"
+    "WeekSouth": 5
   },
   {
     "EventType": "Region",
@@ -7114,8 +7114,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7125,7 +7125,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -7276,8 +7276,8 @@
     "NameShort": "クリスマス準備前半",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7287,7 +7287,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Term",
@@ -7438,8 +7438,8 @@
     "NameShort": "クリスマス準備後半",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7449,7 +7449,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -7600,8 +7600,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7611,7 +7611,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -7762,8 +7762,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7773,7 +7773,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -7924,8 +7924,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -7935,7 +7935,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8086,8 +8086,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 1,
-    "e11c1b06 u8": 0,
+    "Open2020": 1,
+    "Open2021": 0,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8097,7 +8097,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8248,8 +8248,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8259,7 +8259,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8410,8 +8410,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8421,7 +8421,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8572,8 +8572,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8583,7 +8583,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8734,8 +8734,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8745,7 +8745,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -8896,8 +8896,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -8907,7 +8907,7 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   },
   {
     "EventType": "Region",
@@ -9058,8 +9058,8 @@
     "NameShort": "リージョンイベント",
     "NpcBegin": 5,
     "NpcEnd": 5,
-    "59a07c63 u8": 0,
-    "e11c1b06 u8": 1,
+    "Open2020": 0,
+    "Open2021": 1,
     "OpenAllYear": 0,
     "Output": 1,
     "PreMsgLabelValue": 0,
@@ -9069,6 +9069,6 @@
     "WdaySouth": 0,
     "WeatherChange": 0,
     "WeekNorth": 0,
-    "WeekSouth": ""
+    "WeekSouth": 0
   }
 ]

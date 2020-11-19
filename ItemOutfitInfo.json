@@ -16,7 +16,7 @@
     "Name": "アクセサリ：片目",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0004"
+    "Storage": 4
   },
   {
     "Category": "AccessoryMouth",
@@ -35,7 +35,7 @@
     "Name": "アクセサリ：口",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\b"
+    "Storage": 8
   },
   {
     "Category": "AccessoryMouth",
@@ -54,7 +54,7 @@
     "Name": "アクセサリ：口(鼻なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\b"
+    "Storage": 8
   },
   {
     "Category": "AccessoryMouth",
@@ -73,7 +73,7 @@
     "Name": "アクセサリ：口耳アゴ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\b\u0010"
+    "Storage": 8
   },
   {
     "Category": "AccessoryEye",
@@ -92,7 +92,7 @@
     "Name": "アクセサリ：目",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0004"
+    "Storage": 4
   },
   {
     "Category": "AccessoryEye",
@@ -111,7 +111,7 @@
     "Name": "アクセサリ：目/口",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\f "
+    "Storage": 12
   },
   {
     "Category": "AccessoryEye",
@@ -130,7 +130,7 @@
     "Name": "アクセサリ：目/口(鼻なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\f "
+    "Storage": 12
   },
   {
     "Category": "Cap",
@@ -149,7 +149,7 @@
     "Name": "頭：お面",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u000e"
+    "Storage": 14
   },
   {
     "Category": "Cap",
@@ -168,7 +168,7 @@
     "Name": "頭：被り物(前髪あり)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u00020"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -187,7 +187,7 @@
     "Name": "頭：被り物(耳あり)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -206,7 +206,7 @@
     "Name": "頭：被り物(耳なし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002\u0010"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -225,7 +225,7 @@
     "Name": "頭：被り物(耳なし/アゴなし)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\n\u0010"
+    "Storage": 10
   },
   {
     "Category": "Cap",
@@ -244,7 +244,7 @@
     "Name": "頭：髪飾り(おでこ)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -263,7 +263,7 @@
     "Name": "頭：髪飾り(後頭部)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -282,7 +282,7 @@
     "Name": "頭：髪飾り(頭上)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -301,7 +301,7 @@
     "Name": "頭：髪飾り(頂上)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -320,7 +320,7 @@
     "Name": "頭：髪飾り(左頭)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -339,7 +339,7 @@
     "Name": "頭：髪飾り(右頭)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Cap",
@@ -358,7 +358,7 @@
     "Name": "頭：フルフェイス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u000e"
+    "Storage": 14
   },
   {
     "Category": "Cap",
@@ -377,7 +377,7 @@
     "Name": "頭：帽子",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "\u0002"
+    "Storage": 2
   },
   {
     "Category": "Bag",
@@ -396,7 +396,7 @@
     "Name": "カバン：ショルダー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Bag",
@@ -415,7 +415,7 @@
     "Name": "カバン：バックパック",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Shoes",
@@ -434,7 +434,7 @@
     "Name": "靴：かたい",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Shoes",
@@ -453,7 +453,7 @@
     "Name": "靴：スリッパ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Shoes",
@@ -472,7 +472,7 @@
     "Name": "靴：げた",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Shoes",
@@ -491,7 +491,7 @@
     "Name": "靴：パンプス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Shoes",
@@ -510,7 +510,7 @@
     "Name": "靴：やわらかい",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Socks",
@@ -529,7 +529,7 @@
     "Name": "靴下",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "�"
+    "Storage": 128
   },
   {
     "Category": "Tops",
@@ -548,7 +548,7 @@
     "Name": "トップス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": " "
+    "Storage": 32
   },
   {
     "Category": "Marinesuit",
@@ -567,7 +567,7 @@
     "Name": "マリンスーツ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "p"
+    "Storage": 112
   },
   {
     "Category": "Tops",
@@ -586,7 +586,7 @@
     "Name": "ワンピース",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "`"
+    "Storage": 96
   },
   {
     "Category": "None",
@@ -605,7 +605,7 @@
     "Name": "なし",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Bottoms",
@@ -624,7 +624,7 @@
     "Name": "ボトムス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": "@"
+    "Storage": 64
   },
   {
     "Category": "Ocarina",
@@ -643,7 +643,7 @@
     "Name": "オカリナ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Tambourine",
@@ -662,7 +662,7 @@
     "Name": "タンバリン",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Panpipe",
@@ -681,7 +681,7 @@
     "Name": "パンフルート",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "CliffMaker",
@@ -700,7 +700,7 @@
     "Name": "崖造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "RiverMaker",
@@ -719,7 +719,7 @@
     "Name": "川造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FenceMaker",
@@ -738,7 +738,7 @@
     "Name": "柵造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "GroundMaker",
@@ -757,7 +757,7 @@
     "Name": "道造成キット",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Net",
@@ -776,7 +776,7 @@
     "Name": "アミ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Net",
@@ -795,7 +795,7 @@
     "Name": "アミ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Net",
@@ -814,7 +814,7 @@
     "Name": "アミ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -833,7 +833,7 @@
     "Name": "オノ：壊れかけ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -852,7 +852,7 @@
     "Name": "オノ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -871,7 +871,7 @@
     "Name": "オノ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -890,7 +890,7 @@
     "Name": "オノ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -909,7 +909,7 @@
     "Name": "切れないオノ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Axe",
@@ -928,7 +928,7 @@
     "Name": "切れないオノ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Watering",
@@ -947,7 +947,7 @@
     "Name": "ジョウロ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Watering",
@@ -966,7 +966,7 @@
     "Name": "ジョウロ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Watering",
@@ -985,7 +985,7 @@
     "Name": "ジョウロ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Scoop",
@@ -1004,7 +1004,7 @@
     "Name": "スコップ：てづくり",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Scoop",
@@ -1023,7 +1023,7 @@
     "Name": "スコップ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Scoop",
@@ -1042,7 +1042,7 @@
     "Name": "スコップ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Scoop",
@@ -1061,7 +1061,7 @@
     "Name": "スコップ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FishingRod",
@@ -1080,7 +1080,7 @@
     "Name": "つりざお：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FishingRod",
@@ -1099,7 +1099,7 @@
     "Name": "つりざお：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FishingRod",
@@ -1118,7 +1118,7 @@
     "Name": "つりざお：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FishingRod",
@@ -1137,7 +1137,7 @@
     "Name": "つりざお：一体型",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Slingshot",
@@ -1156,7 +1156,7 @@
     "Name": "パチンコ：下位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Slingshot",
@@ -1175,7 +1175,7 @@
     "Name": "パチンコ：中位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Slingshot",
@@ -1194,7 +1194,7 @@
     "Name": "パチンコ：上位",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "JumpStick",
@@ -1213,7 +1213,7 @@
     "Name": "ジャンプ棒",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Ladder",
@@ -1232,7 +1232,7 @@
     "Name": "はしご",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "ChangeStick",
@@ -1251,7 +1251,7 @@
     "Name": "変身ステッキ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "PaperFan",
@@ -1270,7 +1270,7 @@
     "Name": "うちわ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Umbrella",
@@ -1289,7 +1289,7 @@
     "Name": "カサ",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Umbrella",
@@ -1308,7 +1308,7 @@
     "Name": "カサ（自前アニメ）",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Umbrella",
@@ -1327,7 +1327,7 @@
     "Name": "カサ_開閉音無し",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Umbrella",
@@ -1346,7 +1346,7 @@
     "Name": "カサ_葉っぱ",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Umbrella",
@@ -1365,7 +1365,7 @@
     "Name": "カサ_花",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Windmill",
@@ -1384,7 +1384,7 @@
     "Name": "かざぐるま",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Cracker",
@@ -1403,7 +1403,7 @@
     "Name": "クラッカー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "SoapBubble",
@@ -1422,7 +1422,7 @@
     "Name": "シャボン玉",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "StickLight",
@@ -1441,7 +1441,7 @@
     "Name": "スティックライト",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "SpCdr",
@@ -1460,7 +1460,7 @@
     "Name": "スパークリングサイダー",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Spanner",
@@ -1479,7 +1479,7 @@
     "Name": "スパナとかなづち",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "SmartPhone",
@@ -1498,7 +1498,7 @@
     "Name": "スマホ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "None",
@@ -1517,7 +1517,7 @@
     "Name": "はけ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Firework",
@@ -1536,7 +1536,7 @@
     "Name": "手持ち花火",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "PinataStick",
@@ -1555,7 +1555,7 @@
     "Name": "ピニャータ割り棒",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Balloon",
@@ -1574,7 +1574,7 @@
     "Name": "ふうせん",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "BlowStick",
@@ -1593,7 +1593,7 @@
     "Name": "ふきもどし",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Ice",
@@ -1612,7 +1612,7 @@
     "Name": "アイス",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Branch",
@@ -1631,7 +1631,7 @@
     "Name": "えだ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Hammer",
@@ -1650,7 +1650,7 @@
     "Name": "かなづち",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Canister",
@@ -1669,7 +1669,7 @@
     "Name": "缶",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Candy",
@@ -1688,7 +1688,7 @@
     "Name": "キャンディ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Sprayer",
@@ -1707,7 +1707,7 @@
     "Name": "きりふき",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "FruitBasket",
@@ -1726,7 +1726,7 @@
     "Name": "果物カゴ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Coffee",
@@ -1745,7 +1745,7 @@
     "Name": "コーヒー",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Cop",
@@ -1764,7 +1764,7 @@
     "Name": "コップ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Dh",
@@ -1783,7 +1783,7 @@
     "Name": "皿",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Sandwich",
@@ -1802,7 +1802,7 @@
     "Name": "サンドウィッチ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Sketchbook",
@@ -1821,7 +1821,7 @@
     "Name": "スケッチブック",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Smoothie",
@@ -1840,7 +1840,7 @@
     "Name": "スムージー",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Dumbbell",
@@ -1859,7 +1859,7 @@
     "Name": "ダンベル",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "LightDumbbell",
@@ -1878,7 +1878,7 @@
     "Name": "ダンベル(軽い)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "CUten",
@@ -1897,7 +1897,7 @@
     "Name": "調理器具",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "RcmTourFlag",
@@ -1916,7 +1916,7 @@
     "Name": "つぶまめツアー旗",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "BagHand",
@@ -1935,7 +1935,7 @@
     "Name": "手提げカバン",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "CuteBagHand",
@@ -1954,7 +1954,7 @@
     "Name": "手提げかばん(キュート)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "CoolBagHand",
@@ -1973,7 +1973,7 @@
     "Name": "手提げかばん(クール)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "HighBagHand",
@@ -1992,7 +1992,7 @@
     "Name": "手提げかばん(生活度高)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "LowBagHand",
@@ -2011,7 +2011,7 @@
     "Name": "手提げかばん(生活度低)",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Doughnut",
@@ -2030,7 +2030,7 @@
     "Name": "ドーナッツ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "TkkGuitar",
@@ -2049,7 +2049,7 @@
     "Name": "とたけけギター",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Duster",
@@ -2068,7 +2068,7 @@
     "Name": "はたき",
     "SpecialELink": 1,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Bouquet",
@@ -2087,7 +2087,7 @@
     "Name": "ブーケ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "PBag",
@@ -2106,7 +2106,7 @@
     "Name": "プレゼントぶくろ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Pennant",
@@ -2125,7 +2125,7 @@
     "Name": "ペナント",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Broom",
@@ -2144,7 +2144,7 @@
     "Name": "ほうき",
     "SpecialELink": 1,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Scallop",
@@ -2163,7 +2163,7 @@
     "Name": "ホタテ",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Book",
@@ -2182,7 +2182,7 @@
     "Name": "本",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "SmallBook",
@@ -2201,7 +2201,7 @@
     "Name": "本(小)",
     "SpecialELink": 0,
     "SpecialSLink": 1,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "Firewood",
@@ -2220,7 +2220,7 @@
     "Name": "薪",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   },
   {
     "Category": "HandLens",
@@ -2239,6 +2239,6 @@
     "Name": "虫眼鏡",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "Storage": ""
+    "Storage": 0
   }
 ]

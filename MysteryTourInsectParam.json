@@ -1,46 +1,46 @@
 [
   {
     "UniqueID": 1,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 2,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 3,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 4,
-    "TargetInsect": "�\t"
+    "TargetInsect": 255
   },
   {
     "UniqueID": 5,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 6,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 7,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 8,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 9,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 10,
-    "TargetInsect": ""
+    "TargetInsect": 0
   },
   {
     "UniqueID": 11,
-    "TargetInsect": ""
+    "TargetInsect": 0
   }
 ]

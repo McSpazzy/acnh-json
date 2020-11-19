@@ -17,7 +17,7 @@
     "Rate5": 7,
     "Rate6": 13,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 8,
@@ -37,7 +37,7 @@
     "Rate5": 20,
     "Rate6": 20,
     "Rate7": 20,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 9,
@@ -57,7 +57,7 @@
     "Rate5": 0,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 10,
@@ -77,7 +77,7 @@
     "Rate5": 0,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 11,
@@ -97,7 +97,7 @@
     "Rate5": 0,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 12,
@@ -117,7 +117,7 @@
     "Rate5": 0,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 13,
@@ -137,7 +137,7 @@
     "Rate5": 0,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   },
   {
     "UniqueID": 14,
@@ -157,6 +157,6 @@
     "Rate5": 25,
     "Rate6": 0,
     "Rate7": 0,
-    "Rate8": ""
+    "Rate8": 0
   }
 ]
