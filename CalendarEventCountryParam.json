@@ -30,6 +30,11 @@
     "Label": "Japan"
   },
   {
+    "FlagAnim": 17,
+    "UniqueID": 17,
+    "Label": "Russia"
+  },
+  {
     "FlagAnim": 25,
     "UniqueID": 25,
     "Label": "France"

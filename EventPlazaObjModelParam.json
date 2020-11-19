@@ -194,6 +194,30 @@
   {
     "DemoDistance": 15.0,
     "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 0,
+    "UniqueID": 22,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjHarvestGarlandN",
+    "e2760d00 u8": 1,
+    "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 0,
+    "UniqueID": 23,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjHarvestGarlandS",
+    "e2760d00 u8": 1,
+    "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
     "RoofMaterial": 5,
     "UniqueID": 24,
     "FlowEntryName": "",
@@ -202,5 +226,41 @@
     "ResourceName": "EvtobjRazyStallPumpkin",
     "e2760d00 u8": 0,
     "UseCollision": 1
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 0,
+    "UniqueID": 25,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjChristmasGarland",
+    "e2760d00 u8": 1,
+    "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "None",
+    "RoofMaterial": 0,
+    "UniqueID": 26,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjChristmasDecorations",
+    "e2760d00 u8": 1,
+    "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "B685245C",
+    "RoofMaterial": 0,
+    "UniqueID": 27,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjHarvestLight",
+    "e2760d00 u8": 0,
+    "UseCollision": 0
   }
 ]

@@ -1,5 +1,82 @@
 [
   {
+    "RegionEventCountry1": "World",
+    "SortID": 100,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 30,
+    "EventLabel": "WorldNewYear",
+    "ItemFrom": "NewYearWorld"
+  },
+  {
+    "RegionEventCountry1": "60013FBB",
+    "SortID": 101,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 29,
+    "EventLabel": "RoshiaNewYear",
+    "ItemFrom": "NewYearRoshia"
+  },
+  {
+    "RegionEventCountry1": "Asia",
+    "SortID": 102,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 32,
+    "EventLabel": "ChinaNewYear",
+    "ItemFrom": "NewYearChina"
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 103,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 28,
+    "EventLabel": "RegionNewYear2",
+    "ItemFrom": "NewYearDay2"
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 104,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 15,
+    "EventLabel": "RegionNewYear",
+    "ItemFrom": "NewYearDay"
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 105,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 33,
+    "EventLabel": "RegionNewYear3",
+    "ItemFrom": "NeyYearDay3"
+  },
+  {
+    "RegionEventCountry1": "FF0E0B02",
+    "SortID": 106,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 31,
+    "EventLabel": "KoreaNewYear",
+    "ItemFrom": "NewYearKorea"
+  },
+  {
     "RegionEventCountry1": "EachCountry",
     "SortID": 501,
     "RegionEventCountry2": 0,
@@ -90,9 +167,9 @@
   {
     "RegionEventCountry1": "Spain",
     "SortID": 900,
-    "RegionEventCountry2": 6,
-    "RegionEventCountry3": 9,
-    "RegionEventCountry4": 8,
+    "RegionEventCountry2": 7,
+    "RegionEventCountry3": 10,
+    "RegionEventCountry4": 9,
     "RegionEventCountry5": 0,
     "UniqueID": 8,
     "EventLabel": "GrapeHarvestFestival",
@@ -108,5 +185,71 @@
     "UniqueID": 10,
     "EventLabel": "MidAutumnFestival",
     "ItemFrom": "MoonViewing"
+  },
+  {
+    "RegionEventCountry1": "Northern",
+    "SortID": 1200,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 14,
+    "EventLabel": "Midwinter",
+    "ItemFrom": "WinterSolstice_Southern"
+  },
+  {
+    "RegionEventCountry1": "Southern",
+    "SortID": 1201,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 17,
+    "EventLabel": "SouthernMidwinter",
+    "ItemFrom": "SummerSolstice"
+  },
+  {
+    "RegionEventCountry1": "World",
+    "SortID": 1202,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 27,
+    "EventLabel": "NewYearsEveWorld",
+    "ItemFrom": "NewYearsEveWorld"
+  },
+  {
+    "RegionEventCountry1": "Spain",
+    "SortID": 1203,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 26,
+    "EventLabel": "NewYearsEveSpain",
+    "ItemFrom": "NewYearsEveSpain"
+  },
+  {
+    "RegionEventCountry1": "9515B8B7",
+    "SortID": 1204,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 22,
+    "EventLabel": "NewYearsEveGermany",
+    "ItemFrom": "NewYearsEveGermany"
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 1205,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 21,
+    "EventLabel": "Oomisoka",
+    "ItemFrom": "NewYearEve"
   }
 ]

@@ -37,6 +37,12 @@
   },
   {
     "HHABaseScore": 151,
+    "UniqueID": 213,
+    "Label": "ShopLv1_Dec",
+    "Name": "店_店舗小_12月"
+  },
+  {
+    "HHABaseScore": 151,
     "UniqueID": 56,
     "Label": "ShopLv2",
     "Name": "店_店舗大"
@@ -274,6 +280,12 @@
     "UniqueID": 187,
     "Label": "MileExchangeNewColor",
     "Name": "マイル交換_新規カラー(買い切り)"
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 207,
+    "Label": "MileExchangeReaction",
+    "Name": "マイル交換_リアクション(買い切り)"
   },
   {
     "HHABaseScore": 0,
@@ -855,7 +867,7 @@
     "HHABaseScore": 201,
     "UniqueID": 146,
     "Label": "SummerSolstice",
-    "Name": "<リージョン>夏至祭"
+    "Name": "<リージョン>夏至"
   },
   {
     "HHABaseScore": 201,
@@ -883,15 +895,81 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 157,
+    "Label": "NewYearDay",
+    "Name": "<リージョン>お正月（日本１）"
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 168,
     "Label": "WinterSolstice_Southern",
-    "Name": "<リージョン>冬至祭（６月南半球）"
+    "Name": "<リージョン>冬至"
   },
   {
     "HHABaseScore": 201,
     "UniqueID": 186,
     "Label": "AsiaStarFestival",
     "Name": "<リージョン>牛郎織女の日"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 196,
+    "Label": "NewYearEve",
+    "Name": "<リージョン>大晦日"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 199,
+    "Label": "NewYearsEveGermany",
+    "Name": "<リージョン>NewYearsEve（ドイツ）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 200,
+    "Label": "NewYearsEveSpain",
+    "Name": "<リージョン>NewYearsEve（スペイン）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 201,
+    "Label": "NewYearsEveWorld",
+    "Name": "<リージョン>NewYearsEve（ワールド）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 202,
+    "Label": "NewYearDay2",
+    "Name": "<リージョン>お正月（日本２）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 203,
+    "Label": "NewYearRoshia",
+    "Name": "<リージョン>お正月（ロシア）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 204,
+    "Label": "NewYearWorld",
+    "Name": "<リージョン>お正月（ワールド）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 205,
+    "Label": "NewYearKorea",
+    "Name": "<リージョン>お正月（韓国）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 206,
+    "Label": "NewYearChina",
+    "Name": "<リージョン>お正月（アジア）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 210,
+    "Label": "NeyYearDay3",
+    "Name": "<リージョン>お正月（日本３）"
   },
   {
     "HHABaseScore": 178,
@@ -913,12 +991,6 @@
   },
   {
     "HHABaseScore": 231,
-    "UniqueID": 174,
-    "Label": "Halloween",
-    "Name": "ハロウィン"
-  },
-  {
-    "HHABaseScore": 231,
     "UniqueID": 180,
     "Label": "Halloween_NPC",
     "Name": "ハロウィン_NPC"
@@ -928,6 +1000,36 @@
     "UniqueID": 181,
     "Label": "Halloween_Pumpking",
     "Name": "ハロウィン_パンプキング"
+  },
+  {
+    "HHABaseScore": 231,
+    "UniqueID": 193,
+    "Label": "Harvest",
+    "Name": "ハーベスト_家具"
+  },
+  {
+    "HHABaseScore": 351,
+    "UniqueID": 194,
+    "Label": "Harvest_tuk",
+    "Name": "ハーベスト_フランクリン"
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 195,
+    "Label": "Harvest_RecipeBook",
+    "Name": "店_ハーベストレシピ本"
+  },
+  {
+    "HHABaseScore": 231,
+    "UniqueID": 198,
+    "Label": "Christmas_ShopLv2",
+    "Name": "店_店舗大クリスマス"
+  },
+  {
+    "HHABaseScore": 351,
+    "UniqueID": 211,
+    "Label": "Christmas_NPC",
+    "Name": "クリスマス_NPC"
   },
   {
     "HHABaseScore": 0,

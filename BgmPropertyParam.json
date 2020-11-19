@@ -110,5 +110,9 @@
   {
     "UniqueID": 33,
     "Label": "EventAnnounceState"
+  },
+  {
+    "UniqueID": 34,
+    "Label": "HarvestCookingState"
   }
 ]

@@ -224,6 +224,14 @@
     "Name": "開ける"
   },
   {
+    "Priority": 150,
+    "UniqueID": 103,
+    "AutoDisappear": 0,
+    "Label": "CheckBigbagPresent",
+    "MSLabel": "0153",
+    "Name": "中を見る"
+  },
+  {
     "Priority": 200,
     "UniqueID": 25,
     "AutoDisappear": 0,

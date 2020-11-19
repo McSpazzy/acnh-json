@@ -1,6 +1,7 @@
 [
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -13,6 +14,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4235,
     "AccMouth": -2,
@@ -25,6 +27,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -37,6 +40,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4235,
     "AccMouth": -2,
@@ -49,6 +53,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4462,
     "AccMouth": 3550,
@@ -61,6 +66,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -73,6 +79,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11068,
     "AccMouth": -2,
@@ -85,6 +92,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11073,
     "AccMouth": -2,
@@ -97,6 +105,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11076,
     "AccMouth": -2,
@@ -109,6 +118,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11069,
     "AccMouth": -2,
@@ -121,6 +131,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -133,6 +144,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4239,
     "AccMouth": -2,
@@ -145,6 +157,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -157,6 +170,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -169,6 +183,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11221,
     "AccMouth": -2,
@@ -181,6 +196,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11077,
     "AccMouth": -2,
@@ -193,6 +209,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4238,
     "AccMouth": -2,
@@ -205,6 +222,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -217,6 +235,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11187,
     "AccMouth": -2,
@@ -229,6 +248,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -241,6 +261,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11503,
     "AccMouth": -2,
@@ -253,6 +274,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4237,
     "AccMouth": -2,
@@ -265,6 +287,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11200,
     "AccMouth": -2,
@@ -277,6 +300,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11193,
     "AccMouth": 11028,
@@ -289,6 +313,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4239,
     "AccMouth": -2,
@@ -301,6 +326,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -313,6 +339,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11200,
     "AccMouth": -2,
@@ -325,6 +352,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11221,
     "AccMouth": -2,
@@ -337,6 +365,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11075,
     "AccMouth": -2,
@@ -349,6 +378,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4241,
     "AccMouth": 4676,
@@ -361,6 +391,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -373,6 +404,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11228,
     "AccMouth": -2,
@@ -385,6 +417,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -397,6 +430,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -409,6 +443,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 4646,
     "AccMouth": -2,
@@ -421,6 +456,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -433,6 +469,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -445,6 +482,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -457,6 +495,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11214,
     "AccMouth": -2,
@@ -469,6 +508,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11075,
     "AccMouth": -2,
@@ -481,6 +521,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -493,6 +534,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11084,
     "AccMouth": -2,
@@ -505,6 +547,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -517,6 +560,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -529,6 +573,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11221,
     "AccMouth": -2,
@@ -541,6 +586,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11074,
     "AccMouth": -2,
@@ -553,6 +599,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -565,6 +612,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 4453,
     "AccMouth": -2,
@@ -577,6 +625,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -589,6 +638,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -601,6 +651,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -613,6 +664,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -625,6 +677,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11080,
     "AccMouth": -2,
@@ -637,6 +690,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11074,
     "AccMouth": -2,
@@ -649,6 +703,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4241,
     "AccMouth": -2,
@@ -661,6 +716,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -673,6 +729,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -685,6 +742,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -697,6 +755,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -709,6 +768,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -721,6 +781,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4607,
     "AccMouth": -2,
@@ -733,6 +794,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 4460,
     "AccMouth": -2,
@@ -745,6 +807,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": 3549,
@@ -757,6 +820,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4235,
     "AccMouth": -2,
@@ -769,6 +833,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -781,6 +846,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11004,
     "AccMouth": 11028,
@@ -793,6 +859,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -805,6 +872,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -817,6 +885,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -829,6 +898,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -841,6 +911,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -853,6 +924,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11196,
     "AccMouth": -2,
@@ -865,6 +937,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4608,
     "AccMouth": -2,
@@ -877,6 +950,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 4669,
     "AccMouth": -2,
@@ -889,6 +963,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11224,
     "AccMouth": -2,
@@ -901,6 +976,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11186,
     "AccMouth": -2,
@@ -913,6 +989,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11085,
     "AccMouth": -2,
@@ -925,6 +1002,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4241,
     "AccMouth": -2,
@@ -937,6 +1015,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -949,6 +1028,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4236,
     "AccMouth": -2,
@@ -961,6 +1041,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -973,6 +1054,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4235,
     "AccMouth": -2,
@@ -985,6 +1067,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -997,6 +1080,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11087,
     "AccMouth": -2,
@@ -1009,6 +1093,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1021,6 +1106,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4241,
     "AccMouth": -2,
@@ -1033,6 +1119,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1045,6 +1132,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4461,
     "AccMouth": -2,
@@ -1057,6 +1145,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 4238,
     "AccMouth": -2,
@@ -1069,6 +1158,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1081,6 +1171,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11093,
     "AccMouth": -2,
@@ -1093,6 +1184,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11221,
     "AccMouth": -2,
@@ -1105,6 +1197,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": 11069,
     "AccMouth": -2,
@@ -1117,6 +1210,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": 6040,
@@ -1129,6 +1223,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11090,
     "AccMouth": 4491,
@@ -1141,6 +1236,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 4,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1153,6 +1249,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1165,6 +1262,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11214,
     "AccMouth": -2,
@@ -1177,6 +1275,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11210,
     "AccMouth": -2,
@@ -1189,6 +1288,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11231,
     "AccMouth": -2,
@@ -1201,6 +1301,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4608,
     "AccMouth": -2,
@@ -1213,6 +1314,7 @@
   },
   {
     "MannequinPose": "MannequinPause06",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11221,
     "AccMouth": -2,
@@ -1225,6 +1327,7 @@
   },
   {
     "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11069,
     "AccMouth": -2,
@@ -1237,6 +1340,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 11084,
     "AccMouth": -2,
@@ -1249,6 +1353,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4461,
     "AccMouth": -2,
@@ -1261,6 +1366,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1273,6 +1379,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1285,6 +1392,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": 4677,
@@ -1297,6 +1405,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1309,6 +1418,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 4609,
     "AccMouth": -2,
@@ -1321,6 +1431,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1333,6 +1444,7 @@
   },
   {
     "MannequinPose": "MannequinPause02",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": 11066,
     "AccMouth": -2,
@@ -1345,6 +1457,7 @@
   },
   {
     "MannequinPose": "MannequinPause03",
+    "62ff0c3d string": "Normal",
     "Seasonality": 2,
     "AccEye": 4607,
     "AccMouth": -2,
@@ -1357,6 +1470,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1369,6 +1483,7 @@
   },
   {
     "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": -2,
@@ -1381,6 +1496,7 @@
   },
   {
     "MannequinPose": "MannequinPause01",
+    "62ff0c3d string": "Normal",
     "Seasonality": 0,
     "AccEye": -2,
     "AccMouth": 4671,
@@ -1390,5 +1506,31 @@
     "Socks": -2,
     "Tops": 12163,
     "UniqueID": 155
+  },
+  {
+    "MannequinPose": "MannequinPause05",
+    "62ff0c3d string": "Christmas",
+    "Seasonality": 0,
+    "AccEye": -2,
+    "AccMouth": 4492,
+    "Bottoms": 3391,
+    "Cap": 5306,
+    "Shoes": -2,
+    "Socks": -2,
+    "Tops": 3390,
+    "UniqueID": 156
+  },
+  {
+    "MannequinPose": "MannequinPause04",
+    "62ff0c3d string": "Christmas",
+    "Seasonality": 0,
+    "AccEye": -2,
+    "AccMouth": -2,
+    "Bottoms": -2,
+    "Cap": 5446,
+    "Shoes": -2,
+    "Socks": -2,
+    "Tops": 4511,
+    "UniqueID": 157
   }
 ]

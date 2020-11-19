@@ -4030,5 +4030,53 @@
     "ItemName": "はなびたいかいのかべ",
     "ResourceName": "RoomSpWallFireworks00",
     "TextureWindow": 0
+  },
+  {
+    "AO": "UseAO",
+    "Act": "None",
+    "Light": "Orange",
+    "Price": 888,
+    "ArchUniqueID": 0,
+    "CeilingUniqueID": 7,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 13318,
+    "UniqueID": 364,
+    "WindowUniqueID": 6,
+    "ItemName": "サンクスギビングなかべ",
+    "ResourceName": "RoomTexWallHarvest00",
+    "TextureWindow": 0
+  },
+  {
+    "AO": "None",
+    "Act": "Random",
+    "Light": "White",
+    "Price": 888,
+    "ArchUniqueID": 6,
+    "CeilingUniqueID": 3,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 13603,
+    "UniqueID": 383,
+    "WindowUniqueID": 6,
+    "ItemName": "ゆきのふるかべ",
+    "ResourceName": "RoomSpWallSnowy00",
+    "TextureWindow": 1
+  },
+  {
+    "AO": "None",
+    "Act": "Synchro",
+    "Light": "White",
+    "Price": 888,
+    "ArchUniqueID": 0,
+    "CeilingUniqueID": 8,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 13609,
+    "UniqueID": 384,
+    "WindowUniqueID": 6,
+    "ItemName": "オーロラのかべ",
+    "ResourceName": "RoomSpWallAurora00",
+    "TextureWindow": 0
   }
 ]

@@ -888,5 +888,45 @@
     "SelectRate": 80,
     "StartHour": 0,
     "Type": ""
+  },
+  {
+    "SelectSecond": 3,
+    "UniqueID": 104,
+    "ASCommand": "TukCookingStir",
+    "EndHour": 24,
+    "Label": "tuk",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 3,
+    "UniqueID": 105,
+    "ASCommand": "TukCookingSprinkle",
+    "EndHour": 24,
+    "Label": "tuk",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 3,
+    "UniqueID": 106,
+    "ASCommand": "TukCookingSmell",
+    "EndHour": 24,
+    "Label": "tuk",
+    "SelectRate": 30,
+    "StartHour": 0,
+    "Type": ""
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 107,
+    "ASCommand": "ReiCarryBag",
+    "EndHour": 24,
+    "Label": "rei",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": ""
   }
 ]

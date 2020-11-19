@@ -349,5 +349,86 @@
     "FlagsFlowAccess": 0,
     "Key": "EnableConvTalkDaysCount",
     "Name": "会話のフリを解禁するまでの日数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 29,
+    "UniqueID": 50,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 0,
+    "Key": "WantIngredients",
+    "Name": "ハーベスト｜要求する食材"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 29,
+    "UniqueID": 51,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 0,
+    "Key": "BeforeGiveIngredients",
+    "Name": "ハーベスト｜直前にくれた食材"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 29,
+    "UniqueID": 52,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 0,
+    "Key": "BeforeWantIngredients",
+    "Name": "ハーベスト｜直前に要求した食材"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 300,
+    "UniqueID": 54,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 0,
+    "Key": "XmasEveWakeUpMinute",
+    "Name": "クリスマス|起床時刻制御用"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 55,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "EquipChristmasWear",
+    "Name": "クリスマス用装備にする"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 56,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestGiveHint1",
+    "Name": "ハーベスト｜1品目の隠し食材ヒント出したら1か2をセット"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 57,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestGiveHint2",
+    "Name": "ハーベスト｜2品目の隠し食材ヒント出したら1か2をセット"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 58,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestGiveHint3",
+    "Name": "ハーベスト｜3品目の隠し食材ヒント出したら1か2をセット"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 59,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestGiveHint4",
+    "Name": "ハーベスト｜4品目の隠し食材ヒント出したら1か2をセット"
   }
 ]

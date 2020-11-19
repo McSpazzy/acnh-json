@@ -360,6 +360,12 @@
     "ResName": "SmartphoneCase"
   },
   {
+    "UniqueID": 734,
+    "Label": "SmartphoneCaseComp",
+    "Name": "ポケットキャンプスマホ",
+    "ResName": "SmartphoneCaseComp"
+  },
+  {
     "UniqueID": 214,
     "Label": "Medicine",
     "Name": "おくすり",
@@ -412,12 +418,6 @@
     "Label": "Present2",
     "Name": "プレゼントBOX：クエスト用",
     "ResName": "Present2"
-  },
-  {
-    "UniqueID": 296,
-    "Label": "WrappingPaper",
-    "Name": "ラッピング済みアイテム",
-    "ResName": "WrappingPaper"
   },
   {
     "UniqueID": 622,
@@ -612,6 +612,18 @@
     "ResName": "WBagBlack"
   },
   {
+    "UniqueID": 731,
+    "Label": "WPaperOrnament",
+    "Name": "ラッピングペーパー：オーナメント",
+    "ResName": "WPaperOrnament"
+  },
+  {
+    "UniqueID": 730,
+    "Label": "WBagOrnament",
+    "Name": "ラッピング袋：オーナメント",
+    "ResName": "WBagOrnament"
+  },
+  {
     "UniqueID": 359,
     "Label": "YellowPaperBag",
     "Name": "汎用紙袋",
@@ -648,12 +660,6 @@
     "ResName": "Book"
   },
   {
-    "UniqueID": 588,
-    "Label": "LostQuestPorch",
-    "Name": "落とし物：巾着",
-    "ResName": ""
-  },
-  {
     "UniqueID": 589,
     "Label": "LostQuestMemo",
     "Name": "落とし物：本（かきもの）",
@@ -664,12 +670,6 @@
     "Label": "Porch",
     "Name": "落とし物：ポーチ",
     "ResName": "Porch"
-  },
-  {
-    "UniqueID": 358,
-    "Label": "OddGlove",
-    "Name": "落とし物：片方の手袋",
-    "ResName": "OddGlove"
   },
   {
     "UniqueID": 655,
@@ -706,12 +706,6 @@
     "Label": "StarPieceRare",
     "Name": "ほしのかけら：レア",
     "ResName": "StarPieceRare"
-  },
-  {
-    "UniqueID": 591,
-    "Label": "StarPieceSeason",
-    "Name": "xほしのかけら：季節",
-    "ResName": ""
   },
   {
     "UniqueID": 590,
@@ -930,18 +924,6 @@
     "ResName": "Gold_Ore"
   },
   {
-    "UniqueID": 136,
-    "Label": "Shell0",
-    "Name": "アコヤガイのかいがら",
-    "ResName": "Shell0"
-  },
-  {
-    "UniqueID": 252,
-    "Label": "Oyster",
-    "Name": "カキのかいがら",
-    "ResName": "Oyster"
-  },
-  {
     "UniqueID": 137,
     "Label": "Shell1",
     "Name": "ホラガイ",
@@ -964,12 +946,6 @@
     "Label": "Shell4",
     "Name": "ホネガイ",
     "ResName": "Shell4"
-  },
-  {
-    "UniqueID": 141,
-    "Label": "Shell5",
-    "Name": "ホタテガイ",
-    "ResName": "Shell5"
   },
   {
     "UniqueID": 142,
@@ -3126,12 +3102,6 @@
     "ResName": "PltMoney"
   },
   {
-    "UniqueID": 544,
-    "Label": "SeedlingSquash",
-    "Name": "カボチャのなえ",
-    "ResName": "SeedlingSquash"
-  },
-  {
     "UniqueID": 545,
     "Label": "PltSquashOrange",
     "Name": "オレンジのカボチャの木",
@@ -3154,96 +3124,6 @@
     "Label": "PltSquashWhite",
     "Name": "しろいカボチャの木",
     "ResName": "PltSquashWhite"
-  },
-  {
-    "UniqueID": 702,
-    "Label": "SeedlingWheat",
-    "Name": "こむぎのなえ",
-    "ResName": "SeedlingWheat"
-  },
-  {
-    "UniqueID": 703,
-    "Label": "PltWheat",
-    "Name": "こむぎの木",
-    "ResName": "PltWheat"
-  },
-  {
-    "UniqueID": 704,
-    "Label": "SeedlingSugarCane",
-    "Name": "さとうきびのなえ",
-    "ResName": "SeedlingSugarCane"
-  },
-  {
-    "UniqueID": 705,
-    "Label": "PltSugarCane",
-    "Name": "さとうきびの木",
-    "ResName": "PltSugarCane"
-  },
-  {
-    "UniqueID": 706,
-    "Label": "SeedlingPotato",
-    "Name": "じゃがいものなえ",
-    "ResName": "SeedlingPotato"
-  },
-  {
-    "UniqueID": 707,
-    "Label": "PltPotato",
-    "Name": "じゃがいもの木",
-    "ResName": "PltPotato"
-  },
-  {
-    "UniqueID": 708,
-    "Label": "SeedlingTomato",
-    "Name": "トマトのなえ",
-    "ResName": "SeedlingTomato"
-  },
-  {
-    "UniqueID": 709,
-    "Label": "PltTomato",
-    "Name": "トマトの木",
-    "ResName": "PltTomato"
-  },
-  {
-    "UniqueID": 710,
-    "Label": "SeedlingCarrot",
-    "Name": "にんじんのなえ",
-    "ResName": "SeedlingCarrot"
-  },
-  {
-    "UniqueID": 711,
-    "Label": "PltCarrot",
-    "Name": "にんじんの木",
-    "ResName": "PltCarrot"
-  },
-  {
-    "UniqueID": 712,
-    "Label": "Wheat",
-    "Name": "こむぎ",
-    "ResName": "Wheat"
-  },
-  {
-    "UniqueID": 713,
-    "Label": "SugarCane",
-    "Name": "さとうきび",
-    "ResName": "SugarCane"
-  },
-  {
-    "UniqueID": 714,
-    "Label": "Potato",
-    "Name": "じゃがいも",
-    "ResName": "Potato"
-  },
-  {
-    "UniqueID": 716,
-    "Label": "Tomato",
-    "Name": "トマト",
-    "ResName": "Tomato"
-  },
-  {
-    "UniqueID": 715,
-    "Label": "Carrot",
-    "Name": "にんじん",
-    "ResName": "Carrot"
   },
   {
     "UniqueID": 549,
@@ -3318,6 +3198,12 @@
     "ResName": "PltHolly"
   },
   {
+    "UniqueID": 365,
+    "Label": "SparklingSoda",
+    "Name": "スパークリングサイダー",
+    "ResName": "SparklingSoda"
+  },
+  {
     "UniqueID": 683,
     "Label": "EggGround",
     "Name": "じめんのたまご",
@@ -3388,5 +3274,11 @@
     "Label": "Lollipop",
     "Name": "ロリポップ",
     "ResName": "Lollipop"
+  },
+  {
+    "UniqueID": 372,
+    "Label": "SantaSack",
+    "Name": "プレゼントぶくろ",
+    "ResName": "SantaSack"
   }
 ]

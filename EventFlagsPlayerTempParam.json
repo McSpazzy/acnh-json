@@ -1062,6 +1062,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 124,
+    "3dad9135 u8": 0,
+    "SkinBushA": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "SzaChristmasHintMessage",
+    "Name": "しずえ|クリスマスのヒントメッセージを出した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 125,
     "3dad9135 u8": 0,
     "SkinBushA": 0,

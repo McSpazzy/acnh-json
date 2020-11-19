@@ -590,5 +590,29 @@
     "FlagsFlowAccess": 2,
     "Key": "DC_NpcTalkHalloweenFlag",
     "Name": "一般NPC/ハロウィン|イベント中、誰かと話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 93,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_TukTalkBeforeEvent",
+    "Name": "ハーベスト|お出かけ先のフランクリンとイベント前に話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 94,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_TukTalkRunningEvent",
+    "Name": "ハーベスト|お出かけ先のフランクリンとイベント中に話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 95,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_TukTalkAfterEvent",
+    "Name": "ハーベスト|お出かけ先のフランクリンとイベント後に話した？"
   }
 ]

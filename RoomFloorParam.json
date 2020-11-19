@@ -2192,7 +2192,7 @@
   {
     "Act": "None",
     "Price": 888,
-    "Scale": "None",
+    "Scale": "Scale",
     "Scale10x6": "None",
     "Floorboards": 23,
     "ItemTableId": 5268,
@@ -2698,5 +2698,20 @@
     "ItemName": "ハロウィンなゆか",
     "ResourceName": "RoomTexFloorHalloween00",
     "Rotatable": 0
+  },
+  {
+    "Act": "None",
+    "Price": 888,
+    "Scale": "None",
+    "Scale10x6": "None",
+    "Floorboards": 6,
+    "ItemTableId": 13319,
+    "LandingUniqueID": 0,
+    "UniqueID": 275,
+    "HasJmp": 0,
+    "Horizon": 0,
+    "ItemName": "サンクスギビングなゆか",
+    "ResourceName": "RoomTexFloorHarvest00",
+    "Rotatable": 1
   }
 ]

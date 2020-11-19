@@ -138,5 +138,19 @@
     "ShopType": "Label1",
     "AttrCollectBit": 1,
     "ItemFrom": "MileExchangeNewColor"
+  },
+  {
+    "FlagLand": 380,
+    "FlagPlayer": -1,
+    "ShopType": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Harvest_RecipeBook"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 140,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeReaction"
   }
 ]

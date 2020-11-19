@@ -280,6 +280,16 @@
     "ResName": "UnitIconSmartphoneCase"
   },
   {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 315,
+    "ColorIndex": 255,
+    "Label": "SmartphoneCaseComp",
+    "ModelName": "UnitIconSmartphoneCaseComp",
+    "Name": "ポケットキャンプのスマホリメイクキット",
+    "ResName": "UnitIconSmartphoneCaseComp"
+  },
+  {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
     "UniqueID": 236,
@@ -1402,6 +1412,16 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 317,
+    "ColorIndex": 255,
+    "Label": "WPaperOrnament",
+    "ModelName": "UnitIconWrappingPaperOrnament",
+    "Name": "ラッピングペーパー：オーナメント ",
+    "ResName": "UnitIconWrappingPaperOrnament"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 257,
     "ColorIndex": 0,
     "Label": "WParcelYellow",
@@ -1558,6 +1578,16 @@
     "ModelName": "UnitIconWrapping",
     "Name": "ラッピング袋：ブラック",
     "ResName": "UnitIconWrapping"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 316,
+    "ColorIndex": 255,
+    "Label": "WParceOrnament",
+    "ModelName": "UnitIconWrappingOrnament",
+    "Name": "ラッピング袋：オーナメント ",
+    "ResName": "UnitIconWrappingOrnament"
   },
   {
     "ScaleOffset": 0.8,

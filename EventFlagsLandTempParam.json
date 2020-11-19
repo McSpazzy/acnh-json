@@ -799,7 +799,7 @@
     "3dad9135 u8": 0,
     "SkinBushA": 0,
     "FlagsFlowAccess": 0,
-    "FlagsNetAccess": 2,
+    "FlagsNetAccess": 5,
     "Key": "SeasonEventIndoorUpdateHour",
     "Name": "季節イベント室内NPC更新時刻(時間)"
   },
@@ -811,8 +811,68 @@
     "3dad9135 u8": 0,
     "SkinBushA": 0,
     "FlagsFlowAccess": 0,
-    "FlagsNetAccess": 2,
+    "FlagsNetAccess": 5,
     "Key": "SeasonEventIndoorUpdateMinute",
     "Name": "季節イベント室内NPC更新時刻(分)"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 86,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "SkinBushA": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "HarvestDemoCooking",
+    "Name": "ハーベスト|料理デモ：今回配置された料理番号"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 87,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 1,
+    "SkinBushA": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "HarvestDemoNpcStep",
+    "Name": "ハーベスト|料理デモ：一般NPCの行動状態"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 88,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 1,
+    "SkinBushA": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "HarvestDemoPlayerProgress",
+    "Name": "ハーベスト|料理デモ：デモ中のプレイヤーの進捗"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 91,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "SkinBushA": 0,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 2,
+    "Key": "SeasonEventIndoorSceneChangeUpdate",
+    "Name": "シーン切替時の季節イベント室内割り振り更新要求"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 92,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "SkinBushA": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "TukBehaviorControlFlag",
+    "Name": "ハーベスト|演技、道具、コンロを制御するフラグ"
   }
 ]

@@ -178,5 +178,32 @@
     "UniqueID": 20,
     "BeforeDays": 30,
     "EventLabelShort": "Halloween"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone": "AllDay",
+    "Frames": 392,
+    "MusicNo": 321,
+    "UniqueID": 21,
+    "BeforeDays": 7,
+    "EventLabelShort": "HarvestFestival"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone": "AllDay",
+    "Frames": 262,
+    "MusicNo": 322,
+    "UniqueID": 22,
+    "BeforeDays": 24,
+    "EventLabelShort": "XmasEve"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone": "AllDay",
+    "Frames": 396,
+    "MusicNo": 323,
+    "UniqueID": 23,
+    "BeforeDays": 14,
+    "EventLabelShort": "Countdown"
   }
 ]

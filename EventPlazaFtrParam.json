@@ -187,5 +187,40 @@
     "ItemNameUniqueID": 13352,
     "UniqueID": 36,
     "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13538,
+    "UniqueID": 38,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13789,
+    "UniqueID": 40,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13539,
+    "UniqueID": 41,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13790,
+    "UniqueID": 43,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 13837,
+    "UniqueID": 44,
+    "cb7385a8 u32": 0
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "UniqueID": 0,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "None",
@@ -8,6 +9,7 @@
   },
   {
     "UniqueID": 38,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 1,
     "Label": "C_Normal",
@@ -15,6 +17,7 @@
   },
   {
     "UniqueID": 39,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 1,
     "Label": "C_Brim",
@@ -22,6 +25,7 @@
   },
   {
     "UniqueID": 40,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 1,
     "Label": "C_BrimUnder",
@@ -29,6 +33,7 @@
   },
   {
     "UniqueID": 41,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 1,
     "Label": "C_Bandana",
@@ -36,6 +41,7 @@
   },
   {
     "UniqueID": 42,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 1,
     "Label": "C_Knit",
@@ -43,6 +49,7 @@
   },
   {
     "UniqueID": 43,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Mask",
@@ -50,6 +57,7 @@
   },
   {
     "UniqueID": 44,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Crown",
@@ -57,6 +65,7 @@
   },
   {
     "UniqueID": 45,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Forehead",
@@ -64,6 +73,7 @@
   },
   {
     "UniqueID": 46,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Top",
@@ -71,6 +81,7 @@
   },
   {
     "UniqueID": 47,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_LeftBig",
@@ -78,6 +89,7 @@
   },
   {
     "UniqueID": 48,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Left",
@@ -85,6 +97,7 @@
   },
   {
     "UniqueID": 49,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "C_Right",
@@ -92,6 +105,7 @@
   },
   {
     "UniqueID": 50,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_Normal",
@@ -99,6 +113,7 @@
   },
   {
     "UniqueID": 51,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_Down",
@@ -106,6 +121,7 @@
   },
   {
     "UniqueID": 52,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_UP",
@@ -113,6 +129,7 @@
   },
   {
     "UniqueID": 53,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_Fit",
@@ -120,6 +137,7 @@
   },
   {
     "UniqueID": 54,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_FitLittle",
@@ -127,6 +145,7 @@
   },
   {
     "UniqueID": 55,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_Left",
@@ -134,6 +153,7 @@
   },
   {
     "UniqueID": 56,
+    "b3da5c52 u8": 0,
     "8e07b21e u8": 0,
     "RadiusBOutdoor": 0,
     "Label": "G_Beard",

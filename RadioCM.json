@@ -133,5 +133,23 @@
     "BeforeDays": 30,
     "EventLabelShort": "Halloween",
     "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 583,
+    "MusicNo": 216,
+    "UniqueID": 15,
+    "BeforeDays": 7,
+    "EventLabelShort": "HarvestFestival",
+    "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 400,
+    "MusicNo": 217,
+    "UniqueID": 16,
+    "BeforeDays": 24,
+    "EventLabelShort": "XmasEve",
+    "Timezone": 0
   }
 ]

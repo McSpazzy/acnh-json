@@ -346,5 +346,29 @@
     "UniqueID": 44,
     "Label": "SzaFireWinter",
     "Name": "しずえ・冬服花火大会セット"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": -2,
+    "Cap": -2,
+    "Shoes": -2,
+    "SpNpcID": 48,
+    "Tool": 13317,
+    "Tops": -2,
+    "UniqueID": 48,
+    "Label": "ReiDefault",
+    "Name": "ジングル・デフォルト"
+  },
+  {
+    "AcceEye": -2,
+    "Bottoms": -2,
+    "Cap": -2,
+    "Shoes": -2,
+    "SpNpcID": 40,
+    "Tool": -2,
+    "Tops": -2,
+    "UniqueID": 49,
+    "Label": "TukCooking",
+    "Name": "フランクリン・調理中"
   }
 ]

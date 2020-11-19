@@ -2547,9 +2547,9 @@
     "NfpType": 1,
     "NpcLabel": "tuk",
     "NpcType": 1,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 110336,
@@ -2558,9 +2558,9 @@
     "NfpType": 1,
     "NpcLabel": "rei",
     "NpcType": 1,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 210944,

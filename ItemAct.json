@@ -605,6 +605,17 @@
     "SwitchableOnWall": 0
   },
   {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 79,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "CrsSocks",
+    "Name": "くつしたのかざり",
+    "SwitchableOnWall": 1
+  },
+  {
     "AsName": "FtrInsectSing",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
@@ -668,6 +679,17 @@
     "DemoType": 1,
     "Label": "StampRack",
     "Name": "スタンプ台(国際ミュージアム)",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 81,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "HarvestKitchen",
+    "Name": "フランクリンのキッチン(ハーベスト)",
     "SwitchableOnWall": 0
   }
 ]

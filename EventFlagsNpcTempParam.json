@@ -588,5 +588,45 @@
     "FlagsFlowAccess": 2,
     "Key": "HalloweenApproachNowStage",
     "Name": "現在シーンでハロウィン用アプローチをしたか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 64,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 1,
+    "Key": "HarvestPlazaPlace",
+    "Name": "ハーベスト：NPCの配置場所"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 65,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "HarvestPlazaHandTool",
+    "Name": "ハーベスト：手持ちアイテムの種類"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 67,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ChristmasApproachTalk",
+    "Name": "クリスマス用アプローチ会話が出せる状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 68,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestNpcAttentionPPocket",
+    "Name": "ハーベスト：このシーンでプレイヤのポケットの食材に反応した？"
   }
 ]

@@ -202,5 +202,23 @@
     "UniqueID": 144,
     "Label": "Halloween",
     "Name": "ハロウィン"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 146,
+    "Label": "Harvest_Party",
+    "Name": "ハーベスト_立食"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 147,
+    "Label": "Harvest_Cook",
+    "Name": "ハーベスト_調理"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 148,
+    "Label": "Christmas",
+    "Name": "クリスマス"
   }
 ]
