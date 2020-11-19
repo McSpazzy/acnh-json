@@ -2,7 +2,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -25,7 +25,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -48,7 +48,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -71,7 +71,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -94,7 +94,7 @@
   {
     "036dd90c.HashRef": "InsectConvention",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -117,7 +117,7 @@
   {
     "036dd90c.HashRef": "FishingConvention",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -140,7 +140,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -163,7 +163,7 @@
   {
     "036dd90c.HashRef": "InsectConvention",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -186,7 +186,7 @@
   {
     "036dd90c.HashRef": "FishingConvention",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -209,7 +209,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -232,7 +232,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -255,7 +255,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -278,7 +278,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -301,7 +301,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -324,7 +324,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -347,7 +347,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -370,7 +370,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -393,7 +393,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -416,7 +416,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -439,7 +439,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -462,7 +462,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -485,7 +485,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -508,7 +508,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -531,7 +531,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -554,7 +554,7 @@
   {
     "036dd90c.HashRef": "TotakekeLive",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -577,7 +577,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -600,7 +600,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -623,7 +623,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -646,7 +646,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -669,7 +669,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -692,7 +692,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -715,7 +715,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -738,7 +738,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -761,7 +761,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -784,7 +784,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -807,7 +807,7 @@
   {
     "036dd90c.HashRef": "Countdown",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -830,7 +830,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "VisitorNpc",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -853,7 +853,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -876,7 +876,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -899,7 +899,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -922,7 +922,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -945,7 +945,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -968,7 +968,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -991,7 +991,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1014,7 +1014,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1037,7 +1037,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "VisitorNpc",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1060,7 +1060,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "VisitorNpc",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1083,7 +1083,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1106,7 +1106,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "Picnic",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1129,7 +1129,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "Picnic",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1152,7 +1152,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "Picnic",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1175,7 +1175,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "Bonfire",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1198,7 +1198,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1221,7 +1221,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1244,7 +1244,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "BenchResting",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1267,7 +1267,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "BenchDrinking",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1290,7 +1290,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicSpring",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1313,7 +1313,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicSpring",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1336,7 +1336,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicSpring",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1359,7 +1359,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicAutumn",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1382,7 +1382,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicWinter",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1405,7 +1405,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicWinter",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1428,7 +1428,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "PicnicWinter",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1451,7 +1451,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "GroupCleaning",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1474,7 +1474,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1497,7 +1497,7 @@
   {
     "036dd90c.HashRef": "Easter",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1520,7 +1520,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "VisitorNpc",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1543,7 +1543,7 @@
   {
     "036dd90c.HashRef": "Easter",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1566,7 +1566,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1589,7 +1589,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1612,7 +1612,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1635,7 +1635,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1658,7 +1658,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1681,7 +1681,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1704,7 +1704,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1727,7 +1727,7 @@
   {
     "036dd90c.HashRef": "Halloween",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1750,7 +1750,7 @@
   {
     "036dd90c.HashRef": "Halloween",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -1773,7 +1773,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1796,7 +1796,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -1819,7 +1819,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -1842,7 +1842,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1865,7 +1865,7 @@
   {
     "036dd90c.HashRef": "Fireworks",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1888,7 +1888,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "NpcGroupActivity",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "GroupPlayFirework",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -1911,7 +1911,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "Office",
@@ -1934,7 +1934,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "Office",
@@ -1957,7 +1957,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "PermanentObj",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "Tent",
@@ -1980,7 +1980,7 @@
   {
     "036dd90c.HashRef": "EventNone",
     "EventType": "VisitorNpc",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -2003,7 +2003,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -2026,7 +2026,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "North",
+    "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2049,7 +2049,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "North",
+    "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -2072,7 +2072,7 @@
   {
     "036dd90c.HashRef": "D9C7EBC2",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "NPC",
     "160cb241 string": "All",
@@ -2095,7 +2095,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "North",
+    "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2118,7 +2118,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "North",
+    "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2141,7 +2141,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "South",
+    "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2164,7 +2164,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "South",
+    "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2187,7 +2187,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "South",
+    "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2210,7 +2210,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "South",
+    "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -2233,7 +2233,7 @@
   {
     "036dd90c.HashRef": "9E7B4F10",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2256,7 +2256,7 @@
   {
     "036dd90c.HashRef": "D9C7EBC2",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",
@@ -2279,7 +2279,7 @@
   {
     "036dd90c.HashRef": "8EC4653B",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -2302,7 +2302,7 @@
   {
     "036dd90c.HashRef": "9E7B4F10",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -2325,7 +2325,7 @@
   {
     "036dd90c.HashRef": "D9C7EBC2",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "Office",
@@ -2348,7 +2348,7 @@
   {
     "036dd90c.HashRef": "75BFA143",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -2371,7 +2371,7 @@
   {
     "036dd90c.HashRef": "F2FB7FBD",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "EventObj",
     "160cb241 string": "All",
@@ -2394,7 +2394,7 @@
   {
     "036dd90c.HashRef": "F2FB7FBD",
     "EventType": "CalendarEvent",
-    "c8f02583 string": "All",
+    "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
     "PlacementKind": "Ftr",
     "160cb241 string": "All",

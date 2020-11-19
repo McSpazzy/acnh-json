@@ -24,7 +24,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Ftr",
     "Name": "家具"
@@ -54,7 +54,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "RoomWall",
     "Name": "内装：壁紙"
@@ -84,7 +84,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "RoomFloor",
     "Name": "内装：床板"
@@ -114,7 +114,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Rug",
     "Name": "ラグ"
@@ -144,7 +144,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "RugMyDesign",
     "Name": "ラグマイデザイン"
@@ -174,7 +174,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "TopsDefault",
     "Name": "装備品：トップスデフォルト"
@@ -204,7 +204,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Tops",
     "Name": "装備品：トップス"
@@ -234,7 +234,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "OnePiece",
     "Name": "装備品：ワンピース"
@@ -264,7 +264,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "MarineSuit",
     "Name": "装備品：マリンスーツ"
@@ -294,7 +294,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "BottomsDefault",
     "Name": "装備品：ボトムスデフォルト"
@@ -324,7 +324,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Bottoms",
     "Name": "装備品：ボトムス"
@@ -354,7 +354,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Socks",
     "Name": "装備品：くつした"
@@ -384,7 +384,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Shoes",
     "Name": "装備品：くつ"
@@ -414,7 +414,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Cap",
     "Name": "装備品：ぼうし"
@@ -444,7 +444,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Helmet",
     "Name": "装備品：かぶりもの"
@@ -474,7 +474,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Accessory",
     "Name": "装備品：アクセサリ"
@@ -504,7 +504,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Bag",
     "Name": "装備品：バッグ"
@@ -534,7 +534,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Umbrella",
     "Name": "装備品：かさ"
@@ -564,7 +564,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FishingRod",
     "Name": "道具：つりざお"
@@ -594,7 +594,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Net",
     "Name": "道具：あみ"
@@ -624,7 +624,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Shovel",
     "Name": "道具：スコップ"
@@ -654,7 +654,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Axe",
     "Name": "道具：オノ"
@@ -684,7 +684,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Watering",
     "Name": "道具：じょうろ"
@@ -714,7 +714,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Slingshot",
     "Name": "道具：パチンコ"
@@ -744,7 +744,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "ChangeStick",
     "Name": "道具：変身ステッキ"
@@ -774,7 +774,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "WoodenStickTool",
     "Name": "道具：川越えツール"
@@ -804,7 +804,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Ladder",
     "Name": "道具：ハシゴ"
@@ -834,7 +834,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "GroundMaker",
     "Name": "道具：道造成キット"
@@ -864,7 +864,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "RiverMaker",
     "Name": "道具：川造成キット"
@@ -894,7 +894,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "CliffMaker",
     "Name": "道具：崖造成キット"
@@ -924,7 +924,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PartyPopper",
     "Name": "サブ道具：クラッカー"
@@ -954,7 +954,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Ocarina",
     "Name": "サブ道具：オカリナ"
@@ -984,7 +984,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Panflute",
     "Name": "サブ道具：パンフルート"
@@ -1014,7 +1014,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Tambourine",
     "Name": "サブ道具：タンバリン"
@@ -1044,7 +1044,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FierworkHand",
     "Name": "サブ道具：手持ち花火"
@@ -1074,7 +1074,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "StickLight",
     "Name": "サブ道具：スティックライト"
@@ -1104,7 +1104,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Uchiwa",
     "Name": "サブ道具：うちわ"
@@ -1134,7 +1134,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Windmill",
     "Name": "サブ道具：風車"
@@ -1164,7 +1164,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "BlowBubble",
     "Name": "サブ道具：シャボン玉"
@@ -1194,7 +1194,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Partyhorn",
     "Name": "サブ道具：ふきもどし"
@@ -1224,7 +1224,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Balloon",
     "Name": "サブ道具：風船"
@@ -1254,7 +1254,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Timer",
     "Name": "タイマー"
@@ -1284,7 +1284,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "HandheldPennant",
     "Name": "サブ道具：手持ちペナント"
@@ -1314,7 +1314,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "BigbagPresent",
     "Name": "サブ道具：プレゼントぶくろ"
@@ -1344,7 +1344,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "JuiceFuzzyapple",
     "Name": "サブ道具：スパークリングサイダー"
@@ -1374,7 +1374,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "TreeSeedling",
     "Name": "植物：木の苗"
@@ -1404,7 +1404,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Tree",
     "Name": "植物：木"
@@ -1434,7 +1434,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "BushSeedling",
     "Name": "植物：低木の苗"
@@ -1464,7 +1464,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Bush",
     "Name": "植物：低木"
@@ -1494,7 +1494,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "VegeSeedling",
     "Name": "植物：野菜の苗"
@@ -1524,7 +1524,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "VegeTree",
     "Name": "植物：野菜の木"
@@ -1554,7 +1554,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Vegetable",
     "Name": "植物：野菜"
@@ -1584,7 +1584,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Weed",
     "Name": "植物：雑草"
@@ -1614,7 +1614,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FlowerSeed",
     "Name": "植物：花の種"
@@ -1644,7 +1644,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FlowerBud",
     "Name": "植物：花の茎、蕾、株"
@@ -1674,7 +1674,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Flower",
     "Name": "植物：花"
@@ -1704,7 +1704,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Fruit",
     "Name": "フルーツ"
@@ -1734,7 +1734,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Mushroom",
     "Name": "キノコ"
@@ -1764,7 +1764,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Turnip",
     "Name": "カブ"
@@ -1794,7 +1794,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "TurnipExpired",
     "Name": "カブ（くさったカブ）"
@@ -1824,7 +1824,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FishBait",
     "Name": "撒き餌"
@@ -1854,7 +1854,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PitFallSeed",
     "Name": "おとしあなのタネ"
@@ -1884,7 +1884,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Medicine",
     "Name": "おくすり"
@@ -1914,7 +1914,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "CraftMaterial",
     "Name": "素材：DIY"
@@ -1944,7 +1944,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "CraftRemake",
     "Name": "素材：リメイクキット"
@@ -1974,7 +1974,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Ore",
     "Name": "素材：鉱石"
@@ -2004,7 +2004,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "CraftPhoneCase",
     "Name": "素材：スマホケース"
@@ -2034,7 +2034,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Honeycomb",
     "Name": "ハチの巣"
@@ -2064,7 +2064,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Trash",
     "Name": "ゴミ"
@@ -2094,7 +2094,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "SnowCrystal",
     "Name": "雪の結晶"
@@ -2124,7 +2124,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "AutumnLeaf",
     "Name": "紅葉"
@@ -2154,7 +2154,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Sakurapetal",
     "Name": "桜の花びら"
@@ -2184,7 +2184,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "XmasDeco",
     "Name": "クリスマスオーナメント"
@@ -2214,7 +2214,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "StarPiece",
     "Name": "星のかけら"
@@ -2244,7 +2244,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Insect",
     "Name": "生き物：ムシ"
@@ -2274,7 +2274,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Fish",
     "Name": "生き物：サカナ"
@@ -2304,7 +2304,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DiveFish",
     "Name": "生き物：海の幸"
@@ -2334,7 +2334,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "ShellDrift",
     "Name": "漂着貝"
@@ -2364,7 +2364,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "ShellFish",
     "Name": "生き物：潮干狩り貝"
@@ -2394,7 +2394,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "FishToy",
     "Name": "サカナ模型"
@@ -2424,7 +2424,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "InsectToy",
     "Name": "ムシ模型"
@@ -2454,7 +2454,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Fossil",
     "Name": "化石"
@@ -2484,7 +2484,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FossilUnknown",
     "Name": "化石（未鑑定）"
@@ -2514,7 +2514,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Music",
     "Name": "ミュージック"
@@ -2544,7 +2544,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "MusicMiss",
     "Name": "ミュージック(入手不可)"
@@ -2574,7 +2574,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Bromide",
     "Name": "ブロマイド"
@@ -2604,7 +2604,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Poster",
     "Name": "ポスター"
@@ -2634,7 +2634,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "HousePost",
     "Name": "家パーツポスト"
@@ -2664,7 +2664,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "DoorDeco",
     "Name": "ドア飾り"
@@ -2694,7 +2694,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Fence",
     "Name": "柵"
@@ -2724,7 +2724,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyRecipe",
     "Name": "陳列用：レシピブック"
@@ -2754,7 +2754,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyDIYRecipe",
     "Name": "陳列用：単品DIYレシピ"
@@ -2784,7 +2784,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyHowtoBook",
     "Name": "陳列用：ハウツー本"
@@ -2814,7 +2814,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "LicenseItem",
     "Name": "陳列用：工事ライセンス"
@@ -2844,7 +2844,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "BridgeItem",
     "Name": "陳列用：橋"
@@ -2874,7 +2874,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "SlopeItem",
     "Name": "陳列用：坂"
@@ -2904,7 +2904,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DIYRecipe",
     "Name": "DIYレシピ"
@@ -2934,7 +2934,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "MessageBottle",
     "Name": "メッセージボトル"
@@ -2964,7 +2964,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "WrappingPaper",
     "Name": "ラッピングペーパー"
@@ -2994,7 +2994,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "HousingKit",
     "Name": "ハウジングキット"
@@ -3024,7 +3024,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "HousingKitRcoQuest",
     "Name": "ハウジングキット：移住クエスト"
@@ -3054,7 +3054,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "HousingKitBirdge",
     "Name": "ハウジングキット：橋用"
@@ -3084,7 +3084,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Money",
     "Name": "ベル（お金）"
@@ -3114,7 +3114,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "FireworkM",
     "Name": "花火（置き）"
@@ -3144,7 +3144,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "BdayCupcake",
     "Name": "バースデーカップケーキ"
@@ -3174,7 +3174,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "YutaroWisp",
     "Name": "ゆうたろうのたましい"
@@ -3204,7 +3204,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "JohnnyQuest",
     "Name": "ジョニークエスト"
@@ -3234,7 +3234,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "JohnnyQuestDust",
     "Name": "ジョニークエストごみ"
@@ -3264,7 +3264,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PirateQuest",
     "Name": "海賊クエスト"
@@ -3294,7 +3294,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "QuestWrapping",
     "Name": "クエスト配達プレゼントBOX"
@@ -3324,7 +3324,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "QuestChristmasPresentbox",
     "Name": "クエストクリスマスプレゼントBOX"
@@ -3354,7 +3354,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "LostQuest",
     "Name": "おとしもの"
@@ -3384,7 +3384,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "LostQuestDust",
     "Name": "おとしものゴミ"
@@ -3414,7 +3414,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "TailorTicket",
     "Name": "仕立て屋クーポン"
@@ -3444,7 +3444,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "TreasureQuest",
     "Name": "宝探しカプセル"
@@ -3474,7 +3474,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 1,
+    "CantTakeOver": 1,
     "IsCollectAchievement": 0,
     "Label": "TreasureQuestDust",
     "Name": "宝探しカプセルごみ"
@@ -3504,7 +3504,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "MilePlaneTicket",
     "Name": "マイル航空券"
@@ -3534,7 +3534,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "RollanTicket",
     "Name": "ローラン引換券"
@@ -3564,7 +3564,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "EasterEgg",
     "Name": "イースターのたまご"
@@ -3594,7 +3594,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "LoveCrystal",
     "Name": "あいのけっしょう"
@@ -3624,7 +3624,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Candy",
     "Name": "アメ"
@@ -3654,7 +3654,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "HarvestDish",
     "Name": "ハーベストの料理"
@@ -3684,7 +3684,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "Giftbox",
     "Name": "初期支給プレゼントBOX"
@@ -3714,7 +3714,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PinataStick",
     "Name": "装備専用：ピニャータ割り棒"
@@ -3744,7 +3744,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "NpcOutfit",
     "Name": "装備品：NPC専用"
@@ -3774,7 +3774,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PlayerDemoOutfit",
     "Name": "装備品：プレイヤ演出専用"
@@ -3804,7 +3804,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Picture",
     "Name": "芸術品：絵画"
@@ -3834,7 +3834,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "Sculpture",
     "Name": "芸術品：彫刻"
@@ -3864,7 +3864,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "PictureFake",
     "Name": "芸術品：絵画贋作"
@@ -3894,7 +3894,7 @@
     "CanSetInTrashBox": 1,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 1,
     "Label": "SculptureFake",
     "Name": "芸術品：彫刻贋作"
@@ -3924,7 +3924,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "SmartPhone",
     "Name": "スマホ"
@@ -3954,7 +3954,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyFtr",
     "Name": "ダミー家具"
@@ -3984,7 +3984,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "SequenceOnly",
     "Name": "シーケンス専用"
@@ -4014,7 +4014,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "MyDesignObject",
     "Name": "マイデザインオブジェクト"
@@ -4044,7 +4044,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "MyDesignTexture",
     "Name": "マイデザインテクスチャ"
@@ -4074,7 +4074,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "None",
     "Name": "なし"
@@ -4104,7 +4104,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyWrapping",
     "Name": "ダミーラッピング済アイテム"
@@ -4134,7 +4134,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyPresentbox",
     "Name": "ダミープレゼントBOX"
@@ -4164,7 +4164,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 1,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "DummyCardboard",
     "Name": "ダミーダンボール入りアイテム"
@@ -4194,7 +4194,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "EventObjFtr",
     "Name": "イベントオブジェ家具"
@@ -4224,7 +4224,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 0,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "NnpcRoomMarker",
     "Name": "NPC部屋マーカー"
@@ -4254,7 +4254,7 @@
     "CanSetInTrashBox": 0,
     "CanSetItem": 0,
     "CanUsePhotoStudio": 1,
-    "c37a683c u8": 0,
+    "CantTakeOver": 0,
     "IsCollectAchievement": 0,
     "Label": "PhotoStudioList",
     "Name": "撮影スタジオ用アイテム"
