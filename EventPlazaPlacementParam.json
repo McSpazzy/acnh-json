@@ -2001,7 +2001,7 @@
     "VisitorNpcLabel": "slo"
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2024,7 +2024,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
@@ -2047,7 +2047,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
@@ -2070,7 +2070,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "D9C7EBC2",
+    "036dd90c.HashRef": "XmasEve",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2093,7 +2093,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
@@ -2116,7 +2116,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "North",
     "24e5b19d.HashRef": "None",
@@ -2139,7 +2139,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
@@ -2162,7 +2162,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
@@ -2185,7 +2185,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
@@ -2208,7 +2208,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "South",
     "24e5b19d.HashRef": "None",
@@ -2231,7 +2231,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "9E7B4F10",
+    "036dd90c.HashRef": "XmasReady2",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2254,7 +2254,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "D9C7EBC2",
+    "036dd90c.HashRef": "XmasEve",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2277,7 +2277,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "8EC4653B",
+    "036dd90c.HashRef": "XmasReady1",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2300,7 +2300,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "9E7B4F10",
+    "036dd90c.HashRef": "XmasReady2",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2323,7 +2323,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "D9C7EBC2",
+    "036dd90c.HashRef": "XmasEve",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2346,7 +2346,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "75BFA143",
+    "036dd90c.HashRef": "HarvestFestival",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2369,7 +2369,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "F2FB7FBD",
+    "036dd90c.HashRef": "XmasAfter",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",
@@ -2392,7 +2392,7 @@
     "VisitorNpcLabel": ""
   },
   {
-    "036dd90c.HashRef": "F2FB7FBD",
+    "036dd90c.HashRef": "XmasAfter",
     "EventType": "CalendarEvent",
     "EventWeatherArea": "All",
     "24e5b19d.HashRef": "None",

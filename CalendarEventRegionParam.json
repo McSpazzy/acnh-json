@@ -11,7 +11,7 @@
     "ItemFrom": "NewYearWorld"
   },
   {
-    "RegionEventCountry1": "60013FBB",
+    "RegionEventCountry1": "Russia",
     "SortID": 101,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
@@ -66,7 +66,7 @@
     "ItemFrom": "NeyYearDay3"
   },
   {
-    "RegionEventCountry1": "FF0E0B02",
+    "RegionEventCountry1": "Korea",
     "SortID": 106,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
@@ -231,7 +231,7 @@
     "ItemFrom": "NewYearsEveSpain"
   },
   {
-    "RegionEventCountry1": "9515B8B7",
+    "RegionEventCountry1": "Germany",
     "SortID": 1204,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
