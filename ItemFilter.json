@@ -80,7 +80,7 @@
     "ItemKind9": 135,
     "UniqueID": 3,
     "CheckDonation": 1,
-    "ItemNum": 255,
+    "ItemNum": -1,
     "Label": "OwlDonation"
   },
   {
@@ -122,7 +122,7 @@
     "ItemKind9": 135,
     "UniqueID": 5,
     "CheckDonation": 0,
-    "ItemNum": 255,
+    "ItemNum": -1,
     "Label": "OwlFossilJudgement"
   },
   {
@@ -164,7 +164,7 @@
     "ItemKind9": 135,
     "UniqueID": 7,
     "CheckDonation": 1,
-    "ItemNum": 255,
+    "ItemNum": -1,
     "Label": "OwlDonation1_2"
   },
   {
@@ -185,7 +185,7 @@
     "ItemKind9": 135,
     "UniqueID": 8,
     "CheckDonation": 1,
-    "ItemNum": 255,
+    "ItemNum": -1,
     "Label": "OwlDonation1_3"
   },
   {
@@ -206,7 +206,7 @@
     "ItemKind9": 135,
     "UniqueID": 9,
     "CheckDonation": 1,
-    "ItemNum": 255,
+    "ItemNum": -1,
     "Label": "OwlDonation1_4"
   },
   {
