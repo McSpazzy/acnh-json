@@ -171,7 +171,7 @@
   },
   {
     "NpcFtrActionHoldTime": 1800,
-    "NpcFtrActionInterest": "32DB41D9",
+    "NpcFtrActionInterest": "StayOn",
     "NpcFtrActionWeather": "None",
     "NpcFtrActionTool": -2,
     "UniqueID": 28,

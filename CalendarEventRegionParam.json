@@ -312,7 +312,7 @@
     "1c2c02f5 u8": 0
   },
   {
-    "RegionEventCountry1": "35C4632E",
+    "RegionEventCountry1": "GreaterChina",
     "SortID": 1301,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
@@ -351,7 +351,7 @@
     "1c2c02f5 u8": 0
   },
   {
-    "RegionEventCountry1": "68FDB418",
+    "RegionEventCountry1": "America",
     "SortID": 1304,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
@@ -364,7 +364,7 @@
     "1c2c02f5 u8": 0
   },
   {
-    "RegionEventCountry1": "68FDB418",
+    "RegionEventCountry1": "America",
     "SortID": 1305,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
@@ -377,7 +377,7 @@
     "1c2c02f5 u8": 0
   },
   {
-    "RegionEventCountry1": "68FDB418",
+    "RegionEventCountry1": "America",
     "SortID": 1306,
     "RegionEventCountry2": 0,
     "RegionEventCountry3": 0,
