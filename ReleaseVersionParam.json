@@ -52,5 +52,11 @@
     "UniqueID": 13,
     "Label": "Ver1Winter",
     "Name": "1.6.0 冬パッチ"
+  },
+  {
+    "ReleaseKey": 10700,
+    "UniqueID": 14,
+    "Label": "NewYear2021",
+    "Name": "1.7.0 2021新年パッチ"
   }
 ]

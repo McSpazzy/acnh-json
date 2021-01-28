@@ -157,7 +157,7 @@
   {
     "UniqueID": 11,
     "Label": "Plants",
-    "Name": "植物"
+    "Name": "植物家具"
   },
   {
     "UniqueID": 55,
@@ -560,6 +560,106 @@
     "Name": "◆◆特殊（無機質）"
   },
   {
+    "UniqueID": 195,
+    "Label": "Cap",
+    "Name": "装備：ぼうし・かぶりもの"
+  },
+  {
+    "UniqueID": 196,
+    "Label": "Accessory",
+    "Name": "装備：アクセサリ"
+  },
+  {
+    "UniqueID": 197,
+    "Label": "Tops",
+    "Name": "装備：トップス"
+  },
+  {
+    "UniqueID": 198,
+    "Label": "OnePiece",
+    "Name": "装備：ワンピ"
+  },
+  {
+    "UniqueID": 199,
+    "Label": "Bottoms",
+    "Name": "装備：ボトムス"
+  },
+  {
+    "UniqueID": 200,
+    "Label": "Socks",
+    "Name": "装備：くつした"
+  },
+  {
+    "UniqueID": 201,
+    "Label": "Shoes",
+    "Name": "装備：くつ"
+  },
+  {
+    "UniqueID": 202,
+    "Label": "Bag",
+    "Name": "装備：リュック"
+  },
+  {
+    "UniqueID": 216,
+    "Label": "Umbrella",
+    "Name": "装備：かさ"
+  },
+  {
+    "UniqueID": 217,
+    "Label": "MarineSuit",
+    "Name": "装備：マリンスーツ"
+  },
+  {
+    "UniqueID": 203,
+    "Label": "LivingInsect",
+    "Name": "生物：ムシ"
+  },
+  {
+    "UniqueID": 204,
+    "Label": "LivingFish",
+    "Name": "生物：サカナ"
+  },
+  {
+    "UniqueID": 205,
+    "Label": "LivingDiveFish",
+    "Name": "生物：うみのいきもの"
+  },
+  {
+    "UniqueID": 209,
+    "Label": "Tool",
+    "Name": "道具"
+  },
+  {
+    "UniqueID": 210,
+    "Label": "SubTool",
+    "Name": "サブ道具"
+  },
+  {
+    "UniqueID": 211,
+    "Label": "FieldPlants",
+    "Name": "植物"
+  },
+  {
+    "UniqueID": 212,
+    "Label": "Fossil",
+    "Name": "化石"
+  },
+  {
+    "UniqueID": 213,
+    "Label": "FossilUnknown",
+    "Name": "未鑑定化石"
+  },
+  {
+    "UniqueID": 214,
+    "Label": "Music",
+    "Name": "ミュージック"
+  },
+  {
+    "UniqueID": 215,
+    "Label": "Etc",
+    "Name": "その他"
+  },
+  {
     "UniqueID": 95,
     "Label": "WallWood",
     "Name": "■■木"
@@ -878,5 +978,65 @@
     "UniqueID": 177,
     "Label": "RugPark",
     "Name": "●●どうぶつの森"
+  },
+  {
+    "UniqueID": 181,
+    "Label": "FieldTreeOak",
+    "Name": "外専用：広葉樹"
+  },
+  {
+    "UniqueID": 182,
+    "Label": "FieldTreeFruit",
+    "Name": "外専用：フルーツの木"
+  },
+  {
+    "UniqueID": 183,
+    "Label": "FieldTreeOakDeco",
+    "Name": "外専用：飾りつきの広葉樹"
+  },
+  {
+    "UniqueID": 184,
+    "Label": "FieldTreeCedar",
+    "Name": "外専用：針葉樹"
+  },
+  {
+    "UniqueID": 185,
+    "Label": "FieldTreeCedarDeco",
+    "Name": "外専用：飾りつきの針葉樹"
+  },
+  {
+    "UniqueID": 186,
+    "Label": "FieldTreePalm",
+    "Name": "外専用：ヤシの木"
+  },
+  {
+    "UniqueID": 187,
+    "Label": "FieldTreeBamboo",
+    "Name": "外専用：竹"
+  },
+  {
+    "UniqueID": 188,
+    "Label": "FieldBush",
+    "Name": "外専用：低木"
+  },
+  {
+    "UniqueID": 189,
+    "Label": "FieldFlw",
+    "Name": "外専用：花"
+  },
+  {
+    "UniqueID": 192,
+    "Label": "FieldWeed",
+    "Name": "外専用：雑草"
+  },
+  {
+    "UniqueID": 193,
+    "Label": "FieldVgt",
+    "Name": "外専用：野菜"
+  },
+  {
+    "UniqueID": 194,
+    "Label": "FieldStone",
+    "Name": "外専用：岩"
   }
 ]

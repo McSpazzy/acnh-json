@@ -168,5 +168,15 @@
     "Label": "SwitchSmellFood",
     "Name": "駆動（匂いをかぐ）",
     "NpcFtrActionAsName": "NpcSmellFurniture"
+  },
+  {
+    "NpcFtrActionHoldTime": 1800,
+    "NpcFtrActionInterest": "32DB41D9",
+    "NpcFtrActionWeather": "None",
+    "NpcFtrActionTool": -2,
+    "UniqueID": 28,
+    "Label": "DanceFloor",
+    "Name": "フロアマットで踊る",
+    "NpcFtrActionAsName": "MaReAddDance"
   }
 ]

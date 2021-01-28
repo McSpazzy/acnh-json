@@ -114,5 +114,9 @@
   {
     "UniqueID": 34,
     "Label": "HarvestCookingState"
+  },
+  {
+    "UniqueID": 35,
+    "Label": "CarnivalDanceDemoState"
   }
 ]

@@ -220,5 +220,11 @@
     "UniqueID": 148,
     "Label": "Christmas",
     "Name": "クリスマス"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 153,
+    "Label": "Carnival",
+    "Name": "カーニバル"
   }
 ]

@@ -324,6 +324,24 @@
     "ResName": "ToolPennantRcm"
   },
   {
+    "UniqueID": 735,
+    "Label": "MaracasCarnival",
+    "Name": "マラカス",
+    "ResName": "MaracasCarnival"
+  },
+  {
+    "UniqueID": 348,
+    "Label": "Megaphone",
+    "Name": "メガホン",
+    "ResName": "Megaphone"
+  },
+  {
+    "UniqueID": 736,
+    "Label": "Soy",
+    "Name": "まめまきセット",
+    "ResName": "Soy"
+  },
+  {
     "UniqueID": 188,
     "Label": "Music",
     "Name": "ミュージック",
@@ -622,6 +640,30 @@
     "Label": "WBagOrnament",
     "Name": "ラッピング袋：オーナメント",
     "ResName": "WBagOrnament"
+  },
+  {
+    "UniqueID": 737,
+    "Label": "OtoshidamaOpenCh",
+    "Name": "しゅんせつのおとしだま：包む前",
+    "ResName": "OtoshidamaOpenCh"
+  },
+  {
+    "UniqueID": 738,
+    "Label": "OtoshidamaOpenKr",
+    "Name": "ソルラルのおとしだま：包む前",
+    "ResName": "OtoshidamaOpenKr"
+  },
+  {
+    "UniqueID": 740,
+    "Label": "OtoshidamaSealCh",
+    "Name": "しゅんせつのおとしだま：包んだ後",
+    "ResName": "OtoshidamaSealCh"
+  },
+  {
+    "UniqueID": 741,
+    "Label": "OtoshidamaSealKr",
+    "Name": "ソルラルのおとしだま：包んだ後",
+    "ResName": "OtoshidamaSealKr"
   },
   {
     "UniqueID": 359,
@@ -3280,5 +3322,35 @@
     "Label": "SantaSack",
     "Name": "プレゼントぶくろ",
     "ResName": "SantaSack"
+  },
+  {
+    "UniqueID": 301,
+    "Label": "FeatherRed",
+    "Name": "あかいはね",
+    "ResName": "FeatherRed"
+  },
+  {
+    "UniqueID": 302,
+    "Label": "FeatherBlu",
+    "Name": "あおいはね",
+    "ResName": "FeatherBlu"
+  },
+  {
+    "UniqueID": 303,
+    "Label": "FeatherGrn",
+    "Name": "みどりのはね",
+    "ResName": "FeatherGrn"
+  },
+  {
+    "UniqueID": 305,
+    "Label": "FeatherPpl",
+    "Name": "むらさきのはね",
+    "ResName": "FeatherPpl"
+  },
+  {
+    "UniqueID": 308,
+    "Label": "FeatherRainbow",
+    "Name": "にじいろのはね",
+    "ResName": "FeatherRainbow"
   }
 ]

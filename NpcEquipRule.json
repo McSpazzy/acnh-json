@@ -573,5 +573,28 @@
     "MaskPurposeLimit": 0,
     "MaskTemporarilyCreate": 0,
     "Name": "クリスマス"
+  },
+  {
+    "ClothesFrequencyWear": "Always",
+    "ClothesPurposeLimit": "Limit",
+    "ClothesTemporarilyCreate": "Enable",
+    "PurposeScore": 2,
+    "PurposeTag": 37,
+    "ScoreMultiplier": 4.0,
+    "SeasonScore": 0,
+    "TasteScore": 8,
+    "UniqueID": 35,
+    "CapFrequencyWear": 3,
+    "CapPurposeLimit": 1,
+    "CapTemporarilyCreate": 1,
+    "GlassesFrequencyWear": 0,
+    "GlassesPurposeLimit": 0,
+    "GlassesTemporarilyCreate": 0,
+    "IsEquipCeremony": 1,
+    "Label": "Carnival",
+    "MaskFrequencyWear": 0,
+    "MaskPurposeLimit": 0,
+    "MaskTemporarilyCreate": 0,
+    "Name": "カーニバル"
   }
 ]

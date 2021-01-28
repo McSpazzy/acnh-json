@@ -16069,7 +16069,7 @@
     "SpecialSLink": 0,
     "21c5bbd6 u8": 5,
     "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "42f255d5 u32": 3
   },
   {
     "a54f92fd u32": 9,
@@ -16110,7 +16110,7 @@
     "SpecialSLink": 0,
     "21c5bbd6 u8": 5,
     "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "42f255d5 u32": 2
   },
   {
     "a54f92fd u32": 9,
@@ -16151,7 +16151,7 @@
     "SpecialSLink": 0,
     "21c5bbd6 u8": 5,
     "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "42f255d5 u32": 3
   },
   {
     "a54f92fd u32": 9,
@@ -16162,8 +16162,8 @@
     "Hobby": "Play",
     "NpcLooks": "Girl_active",
     "Social": "High",
-    "VmPauseType": "Stop",
-    "VmRhythmType": "Normal",
+    "VmPauseType": "Tie",
+    "VmRhythmType": "Shuffle",
     "AccentWall": 0,
     "BromideItemID": 11118,
     "FloorType": 0,
@@ -16190,9 +16190,9 @@
     "ResName": "",
     "SpecialELink": 0,
     "SpecialSLink": 0,
-    "21c5bbd6 u8": 5,
+    "21c5bbd6 u8": 3,
     "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "42f255d5 u32": 3
   },
   {
     "a54f92fd u32": 9,
@@ -16203,7 +16203,7 @@
     "Hobby": "Play",
     "NpcLooks": "Girl_normal",
     "Social": "Low",
-    "VmPauseType": "Stop",
+    "VmPauseType": "Tie",
     "VmRhythmType": "Normal",
     "AccentWall": 0,
     "BromideItemID": 11119,
@@ -16233,7 +16233,7 @@
     "SpecialSLink": 0,
     "21c5bbd6 u8": 5,
     "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "42f255d5 u32": 2
   },
   {
     "a54f92fd u32": 9,
@@ -16244,7 +16244,7 @@
     "Hobby": "Music",
     "NpcLooks": "Boy_snobby",
     "Social": "High",
-    "VmPauseType": "Stop",
+    "VmPauseType": "Tie",
     "VmRhythmType": "Normal",
     "AccentWall": 0,
     "BromideItemID": 11120,
@@ -16273,7 +16273,7 @@
     "SpecialELink": 0,
     "SpecialSLink": 0,
     "21c5bbd6 u8": 5,
-    "e52f0037 u8": 1,
-    "42f255d5 u32": 4
+    "e52f0037 u8": 3,
+    "42f255d5 u32": 5
   }
 ]

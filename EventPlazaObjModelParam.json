@@ -262,5 +262,29 @@
     "ResourceName": "EvtobjHarvestLight",
     "e2760d00 u8": 0,
     "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "7155E707",
+    "RoofMaterial": 0,
+    "UniqueID": 28,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjCarnivalDecorations",
+    "e2760d00 u8": 1,
+    "UseCollision": 1
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "7155E707",
+    "RoofMaterial": 0,
+    "UniqueID": 29,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjCarnivalGarland",
+    "e2760d00 u8": 1,
+    "UseCollision": 0
   }
 ]

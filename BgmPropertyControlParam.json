@@ -634,5 +634,23 @@
     "UniqueID": 118,
     "Value": 0,
     "Name": "フランクリンの料理デモ：0_料理終了"
+  },
+  {
+    "PropertyID": 10,
+    "UniqueID": 119,
+    "Value": 24,
+    "Name": "カレンダーイベント：カーニバル"
+  },
+  {
+    "PropertyID": 35,
+    "UniqueID": 120,
+    "Value": 1,
+    "Name": "ベルリーナのダンスデモ：1_BGM停止"
+  },
+  {
+    "PropertyID": 35,
+    "UniqueID": 121,
+    "Value": 0,
+    "Name": "ベルリーナのダンスデモ：0_BGM再開"
   }
 ]

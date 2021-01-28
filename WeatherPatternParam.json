@@ -134,5 +134,21 @@
   {
     "UniqueID": 33,
     "Label": "EventDay00"
+  },
+  {
+    "UniqueID": 34,
+    "Label": "EventDay01"
+  },
+  {
+    "UniqueID": 35,
+    "Label": "EventDay02"
+  },
+  {
+    "UniqueID": 36,
+    "Label": "EventDay03"
+  },
+  {
+    "UniqueID": 37,
+    "Label": "EventDay04"
   }
 ]

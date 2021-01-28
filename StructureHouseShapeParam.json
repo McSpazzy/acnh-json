@@ -1,7 +1,7 @@
 [
   {
     "AppearanceLevel": "Level04",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 5,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 0,
     "DefaultWallUniqueID": 0,
@@ -12,7 +12,7 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 9,
     "DefaultDoorUniqueID": 9,
     "DefaultRoofUniqueID": 19,
     "DefaultWallUniqueID": 14,
@@ -67,7 +67,7 @@
   },
   {
     "AppearanceLevel": "Level00",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 1,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 10,
     "DefaultWallUniqueID": 13,
@@ -78,7 +78,7 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 10,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 27,
     "DefaultWallUniqueID": 24,
@@ -89,7 +89,7 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 11,
     "DefaultDoorUniqueID": 32,
     "DefaultRoofUniqueID": 30,
     "DefaultWallUniqueID": 27,
@@ -122,7 +122,7 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 12,
     "DefaultDoorUniqueID": 35,
     "DefaultRoofUniqueID": 35,
     "DefaultWallUniqueID": 32,
@@ -133,7 +133,7 @@
   },
   {
     "AppearanceLevel": "Level01",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 2,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 38,
     "DefaultWallUniqueID": 35,
@@ -144,7 +144,7 @@
   },
   {
     "AppearanceLevel": "Level02",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 3,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 47,
     "DefaultWallUniqueID": 64,
@@ -155,7 +155,7 @@
   },
   {
     "AppearanceLevel": "Level03",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 4,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 39,
     "DefaultWallUniqueID": 37,

@@ -140,7 +140,7 @@
     "DefaultValue": 0,
     "FlagsFlowAccess": 1,
     "Key": "TalkCountToday",
-    "MaxValue": 7,
+    "MaxValue": 9,
     "Name": "今日の会話回数（通算）"
   },
   {
@@ -589,10 +589,10 @@
   },
   {
     "UniqueID": 49,
-    "5f77b61a u8": 0,
-    "5140e4b4 u8": 0,
-    "bed25a86 u8": 0,
-    "8d401df7 u8": 0,
+    "5f77b61a u8": 1,
+    "5140e4b4 u8": 3,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 1,
     "DefaultValue": 0,
     "FlagsFlowAccess": 2,
     "Key": "AcquaintanceshipFlagOff",
@@ -1572,18 +1572,6 @@
     "Name": "ハロウィン|このシーンでアメもらった？"
   },
   {
-    "UniqueID": 134,
-    "5f77b61a u8": 0,
-    "5140e4b4 u8": 1,
-    "bed25a86 u8": 0,
-    "8d401df7 u8": 0,
-    "DefaultValue": 0,
-    "FlagsFlowAccess": 2,
-    "Key": "FollowQuestAfter",
-    "MaxValue": 1,
-    "Name": "追従｜追従クエスト後か？ "
-  },
-  {
     "UniqueID": 136,
     "5f77b61a u8": 0,
     "5140e4b4 u8": 1,
@@ -1762,5 +1750,65 @@
     "Key": "ChristmasSantaPresentRemakeId",
     "MaxValue": 8,
     "Name": "クリスマス｜サンタミッションであげたプレゼントのリメイクID"
+  },
+  {
+    "UniqueID": 151,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnvalTalkWithoutFeatherFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/カーニバル|はねを持たずに会話した？"
+  },
+  {
+    "UniqueID": 152,
+    "5f77b61a u8": 1,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 1,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnvalExchangeFeatherFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/カーニバル|このNPCとはね交換した？"
+  },
+  {
+    "UniqueID": 153,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnvalTalkOutdoorFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/カーニバル|今日屋外で会話した？"
+  },
+  {
+    "UniqueID": 154,
+    "5f77b61a u8": 1,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 1,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnvalExchangeFeatherTalkFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/カーニバル|このNPCとはね交換の会話をした？"
+  },
+  {
+    "UniqueID": 155,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ValentinePresentFlag",
+    "MaxValue": 1,
+    "Name": "バレンタイン|バレンタインのプレゼント渡した？"
   }
 ]

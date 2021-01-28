@@ -8,7 +8,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 30,
     "EventLabel": "WorldNewYear",
-    "ItemFrom": "NewYearWorld"
+    "ItemFrom": "NewYearWorld",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Russia",
@@ -19,7 +21,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 29,
     "EventLabel": "RoshiaNewYear",
-    "ItemFrom": "NewYearRoshia"
+    "ItemFrom": "NewYearRoshia",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Asia",
@@ -30,7 +34,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 32,
     "EventLabel": "ChinaNewYear",
-    "ItemFrom": "NewYearChina"
+    "ItemFrom": "NewYearChina",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Japan",
@@ -41,7 +47,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 28,
     "EventLabel": "RegionNewYear2",
-    "ItemFrom": "NewYearDay2"
+    "ItemFrom": "NewYearDay2",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Japan",
@@ -52,7 +60,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 15,
     "EventLabel": "RegionNewYear",
-    "ItemFrom": "NewYearDay"
+    "ItemFrom": "NewYearDay",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Japan",
@@ -63,7 +73,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 33,
     "EventLabel": "RegionNewYear3",
-    "ItemFrom": "NeyYearDay3"
+    "ItemFrom": "NeyYearDay3",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Korea",
@@ -74,7 +86,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 31,
     "EventLabel": "KoreaNewYear",
-    "ItemFrom": "NewYearKorea"
+    "ItemFrom": "NewYearKorea",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "EachCountry",
@@ -85,7 +99,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 1,
     "EventLabel": "MothersDay",
-    "ItemFrom": "MotherDay"
+    "ItemFrom": "MotherDay",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "EachCountry",
@@ -96,7 +112,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 2,
     "EventLabel": "WorldChild",
-    "ItemFrom": "WoldChildDay"
+    "ItemFrom": "WoldChildDay",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "EachCountry",
@@ -107,7 +125,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 3,
     "EventLabel": "FathersDay",
-    "ItemFrom": "FatherDay"
+    "ItemFrom": "FatherDay",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Northern",
@@ -118,7 +138,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 4,
     "EventLabel": "SummerSolstice",
-    "ItemFrom": "SummerSolstice"
+    "ItemFrom": "SummerSolstice",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Southern",
@@ -129,7 +151,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 16,
     "EventLabel": "WinterSolstice",
-    "ItemFrom": "WinterSolstice_Southern"
+    "ItemFrom": "WinterSolstice_Southern",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Japan",
@@ -140,7 +164,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 5,
     "EventLabel": "Tanabata",
-    "ItemFrom": "StarFestival"
+    "ItemFrom": "StarFestival",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Brazil",
@@ -151,7 +177,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 7,
     "EventLabel": "CowBoyFestival",
-    "ItemFrom": "CowboyFestival"
+    "ItemFrom": "CowboyFestival",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Asia",
@@ -162,18 +190,22 @@
     "RegionEventCountry5": 0,
     "UniqueID": 19,
     "EventLabel": "GyurouSyokujyo",
-    "ItemFrom": "AsiaStarFestival"
+    "ItemFrom": "AsiaStarFestival",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Spain",
     "SortID": 900,
-    "RegionEventCountry2": 7,
-    "RegionEventCountry3": 10,
-    "RegionEventCountry4": 9,
+    "RegionEventCountry2": 8,
+    "RegionEventCountry3": 11,
+    "RegionEventCountry4": 10,
     "RegionEventCountry5": 0,
     "UniqueID": 8,
     "EventLabel": "GrapeHarvestFestival",
-    "ItemFrom": "GrapeHarvestFestival"
+    "ItemFrom": "GrapeHarvestFestival",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "EachCountry",
@@ -184,7 +216,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 10,
     "EventLabel": "MidAutumnFestival",
-    "ItemFrom": "MoonViewing"
+    "ItemFrom": "MoonViewing",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Northern",
@@ -195,7 +229,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 14,
     "EventLabel": "Midwinter",
-    "ItemFrom": "WinterSolstice_Southern"
+    "ItemFrom": "WinterSolstice_Southern",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Southern",
@@ -206,7 +242,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 17,
     "EventLabel": "SouthernMidwinter",
-    "ItemFrom": "SummerSolstice"
+    "ItemFrom": "SummerSolstice",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "World",
@@ -217,7 +255,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 27,
     "EventLabel": "NewYearsEveWorld",
-    "ItemFrom": "NewYearsEveWorld"
+    "ItemFrom": "NewYearsEveWorld",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Spain",
@@ -228,7 +268,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 26,
     "EventLabel": "NewYearsEveSpain",
-    "ItemFrom": "NewYearsEveSpain"
+    "ItemFrom": "NewYearsEveSpain",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Germany",
@@ -239,7 +281,9 @@
     "RegionEventCountry5": 0,
     "UniqueID": 22,
     "EventLabel": "NewYearsEveGermany",
-    "ItemFrom": "NewYearsEveGermany"
+    "ItemFrom": "NewYearsEveGermany",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   },
   {
     "RegionEventCountry1": "Japan",
@@ -250,6 +294,99 @@
     "RegionEventCountry5": 0,
     "UniqueID": 21,
     "EventLabel": "Oomisoka",
-    "ItemFrom": "NewYearEve"
+    "ItemFrom": "NewYearEve",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "EachCountry",
+    "SortID": 1300,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 34,
+    "EventLabel": "RegionValentine",
+    "ItemFrom": "Valentine",
+    "b4f1ab32 u8": 1,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "35C4632E",
+    "SortID": 1301,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 36,
+    "EventLabel": "RegionLunarNewYearAsia",
+    "ItemFrom": "LunarNewYearAsia",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "Korea",
+    "SortID": 1302,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 35,
+    "EventLabel": "RegionLunarNewYearKR",
+    "ItemFrom": "LunarNewYearKorea",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 1303,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 38,
+    "EventLabel": "Setsubun",
+    "ItemFrom": "Setsubun",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "68FDB418",
+    "SortID": 1304,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 39,
+    "EventLabel": "GroundhogDay",
+    "ItemFrom": "GroundhogDay",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "68FDB418",
+    "SortID": 1305,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 37,
+    "EventLabel": "RegionBigGame",
+    "ItemFrom": "BigGame",
+    "b4f1ab32 u8": 1,
+    "1c2c02f5 u8": 0
+  },
+  {
+    "RegionEventCountry1": "68FDB418",
+    "SortID": 1306,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 40,
+    "EventLabel": "RegionBigGame2",
+    "ItemFrom": "BigGame2",
+    "b4f1ab32 u8": 0,
+    "1c2c02f5 u8": 0
   }
 ]

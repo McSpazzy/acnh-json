@@ -166,5 +166,19 @@
     "UniqueID": 26,
     "Label": "WeddingOrgan",
     "Name": "ジューンブライドパイプオルガン"
+  },
+  {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 13958,
+    "UniqueID": 31,
+    "Label": "Maracas",
+    "Name": "マラカス"
+  },
+  {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 13774,
+    "UniqueID": 32,
+    "Label": "CarnivalSurdo",
+    "Name": "カーニバルなパーカッション"
   }
 ]

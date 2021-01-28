@@ -856,7 +856,7 @@
     "Label": "SmallBook",
     "Misc": 1,
     "Name": "本(小)",
-    "ToolEnterAsName": "",
+    "ToolEnterAsName": "ToolBook_CloseKeep",
     "ToolLeftModelName": "",
     "ToolRightModelName": "",
     "ToolSetupAsName": "",
@@ -1152,6 +1152,22 @@
     "UseToolLeft": 0
   },
   {
+    "2924e11f u16": 37,
+    "UniqueID": 98,
+    "CanHasSit": 0,
+    "EquipOnlyOutdoor": 0,
+    "HandToolAsName": "CommonToolHand20000",
+    "Label": "Mcas",
+    "Misc": 11,
+    "Name": "マラカス",
+    "ToolEnterAsName": "",
+    "ToolLeftModelName": "Sub",
+    "ToolRightModelName": "Main",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
+    "UseToolLeft": 1
+  },
+  {
     "2924e11f u16": 0,
     "UniqueID": 100,
     "CanHasSit": 0,
@@ -1184,7 +1200,7 @@
     "UseToolLeft": 0
   },
   {
-    "2924e11f u16": 37,
+    "2924e11f u16": 38,
     "UniqueID": 102,
     "CanHasSit": 0,
     "EquipOnlyOutdoor": 0,
@@ -1198,5 +1214,53 @@
     "ToolSetupAsName": "",
     "ToolSetupPutawayAsName": "",
     "UseToolLeft": 0
+  },
+  {
+    "2924e11f u16": 0,
+    "UniqueID": 103,
+    "CanHasSit": 1,
+    "EquipOnlyOutdoor": 0,
+    "HandToolAsName": "CommonToolHand10700",
+    "Label": "SoSe",
+    "Misc": 1,
+    "Name": "まめまきセット",
+    "ToolEnterAsName": "",
+    "ToolLeftModelName": "",
+    "ToolRightModelName": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
+    "UseToolLeft": 0
+  },
+  {
+    "2924e11f u16": 0,
+    "UniqueID": 104,
+    "CanHasSit": 1,
+    "EquipOnlyOutdoor": 0,
+    "HandToolAsName": "CommonToolHand10700",
+    "Label": "MePh",
+    "Misc": 1,
+    "Name": "メガホン",
+    "ToolEnterAsName": "",
+    "ToolLeftModelName": "",
+    "ToolRightModelName": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
+    "UseToolLeft": 0
+  },
+  {
+    "2924e11f u16": 0,
+    "UniqueID": 105,
+    "CanHasSit": 1,
+    "EquipOnlyOutdoor": 0,
+    "HandToolAsName": "CommonToolHand10700",
+    "Label": "PMcas",
+    "Misc": 43,
+    "Name": "プレイヤーマラカス",
+    "ToolEnterAsName": "",
+    "ToolLeftModelName": "Sub",
+    "ToolRightModelName": "Main",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
+    "UseToolLeft": 1
   }
 ]

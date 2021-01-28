@@ -175,6 +175,12 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 218,
+    "Label": "ShopReaction",
+    "Name": "店_リアクション_カーニバル"
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 88,
     "Label": "ShopRemakeKit",
     "Name": "店_リメイクキット"
@@ -340,6 +346,18 @@
     "UniqueID": 184,
     "Label": "TailorMarketOnlyHalloween",
     "Name": "仕立て屋_店舗_ハロウィン"
+  },
+  {
+    "HHABaseScore": 51,
+    "UniqueID": 212,
+    "Label": "TailorMarketOnlyCarnival",
+    "Name": "仕立て屋_店舗_カーニバル"
+  },
+  {
+    "HHABaseScore": 51,
+    "UniqueID": 223,
+    "Label": "TailorMarketOnlySetsubun",
+    "Name": "仕立て屋_店舗_節分"
   },
   {
     "HHABaseScore": 253,
@@ -972,6 +990,48 @@
     "Name": "<リージョン>お正月（日本３）"
   },
   {
+    "HHABaseScore": 201,
+    "UniqueID": 220,
+    "Label": "LunarNewYearAsia",
+    "Name": "<リージョン>春節（中華圏・東アジア）"
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 221,
+    "Label": "LunarNewYearKorea",
+    "Name": "<リージョン>ソルラル（韓国）"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 219,
+    "Label": "Valentine",
+    "Name": "<リージョン>バレンタインデー"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 227,
+    "Label": "BigGame",
+    "Name": "<リージョン>ビッグゲーム"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 228,
+    "Label": "BigGame2",
+    "Name": "<リージョン>ビッグゲーム2"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 226,
+    "Label": "GroundhogDay",
+    "Name": "<リージョン>グラウンドホッグデー"
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 225,
+    "Label": "Setsubun",
+    "Name": "<リージョン>節分"
+  },
+  {
     "HHABaseScore": 178,
     "UniqueID": 159,
     "Label": "DeliveryPocketCamp",
@@ -1000,6 +1060,18 @@
     "UniqueID": 181,
     "Label": "Halloween_Pumpking",
     "Name": "ハロウィン_パンプキング"
+  },
+  {
+    "HHABaseScore": 231,
+    "UniqueID": 214,
+    "Label": "Carnival",
+    "Name": "カーニバル"
+  },
+  {
+    "HHABaseScore": 573,
+    "UniqueID": 215,
+    "Label": "Carnival_pck",
+    "Name": "カーニバル_ベルリーナ"
   },
   {
     "HHABaseScore": 231,

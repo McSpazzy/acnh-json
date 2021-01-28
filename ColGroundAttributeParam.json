@@ -1070,5 +1070,21 @@
     "PlayerNoEntry": 0,
     "Sand": 0,
     "WaterCheck": 0
+  },
+  {
+    "EffectAttribute": 1,
+    "SoundAttribute": 16,
+    "UniqueID": 71,
+    "ViewSortID": 97,
+    "CanBury": 0,
+    "DebugName": "カスタム0",
+    "FtrPlace": 1,
+    "2e1e45c3 string16": "#FFFFFF",
+    "bd859433 string16": "#FFFFFF",
+    "254bd05 u8": 0,
+    "NpcNoEntry": 0,
+    "PlayerNoEntry": 0,
+    "Sand": 0,
+    "WaterCheck": 0
   }
 ]

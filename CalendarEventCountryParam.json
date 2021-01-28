@@ -5,6 +5,11 @@
     "Label": "None"
   },
   {
+    "FlagAnim": 1,
+    "UniqueID": 1,
+    "Label": "America"
+  },
+  {
     "FlagAnim": 3,
     "UniqueID": 3,
     "Label": "Mexico"
@@ -83,5 +88,10 @@
     "FlagAnim": 0,
     "UniqueID": 40,
     "Label": "Southern"
+  },
+  {
+    "FlagAnim": 0,
+    "UniqueID": 41,
+    "Label": "GreaterChina"
   }
 ]

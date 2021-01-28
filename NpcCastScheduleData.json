@@ -98,7 +98,7 @@
     "EndHour": 29,
     "EndMinute": 0,
     "EventName": "NotEvent",
-    "NeglectSleep": 0,
+    "NeglectSleep": 1,
     "StartHour": 5,
     "StartMinute": 0,
     "UseRainGoods": 0
@@ -406,6 +406,19 @@
     "ApplyNeedActivity": 0,
     "CanDoze": 0,
     "CastLabel": 31,
+    "d507df3e u8": 0,
+    "EndHour": 29,
+    "EndMinute": 0,
+    "EventName": "Carnival",
+    "NeglectSleep": 1,
+    "StartHour": 5,
+    "StartMinute": 0,
+    "UseRainGoods": 0
+  },
+  {
+    "ApplyNeedActivity": 0,
+    "CanDoze": 0,
+    "CastLabel": 32,
     "d507df3e u8": 0,
     "EndHour": 29,
     "EndMinute": 0,

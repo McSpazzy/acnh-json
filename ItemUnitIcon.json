@@ -12,6 +12,76 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": -2,
+    "UniqueID": 323,
+    "ColorIndex": -1,
+    "Label": "FeatherRainbow",
+    "ModelName": "UnitIconFeatherRainbow",
+    "Name": "にじいろのはね",
+    "ResName": "UnitIconFeatherRainbow"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 324,
+    "ColorIndex": 3,
+    "Label": "FeatherPurple",
+    "ModelName": "UnitIconFeather",
+    "Name": "むらさきのはね",
+    "ResName": "UnitIconFeather"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 325,
+    "ColorIndex": 1,
+    "Label": "FeatherBlue",
+    "ModelName": "UnitIconFeather",
+    "Name": "あおいはね",
+    "ResName": "UnitIconFeather"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 326,
+    "ColorIndex": 2,
+    "Label": "FeatherGreen",
+    "ModelName": "UnitIconFeather",
+    "Name": "みどりのはね",
+    "ResName": "UnitIconFeather"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 327,
+    "ColorIndex": 0,
+    "Label": "FeatherRed",
+    "ModelName": "UnitIconFeather",
+    "Name": "あかいはね",
+    "ResName": "UnitIconFeather"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 329,
+    "ColorIndex": -1,
+    "Label": "OtoshidamaCh",
+    "ModelName": "UnitIconOtoshidamaCh",
+    "Name": "しゅんせつのおとしだま",
+    "ResName": "UnitIconOtoshidamaCh"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
+    "UniqueID": 330,
+    "ColorIndex": -1,
+    "Label": "OtoshidamaKr",
+    "ModelName": "UnitIconOtoshidamaKr",
+    "Name": "ソルラルのおとしだま",
+    "ResName": "UnitIconOtoshidamaKr"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": -2,
     "UniqueID": 0,
     "ColorIndex": 0,
     "Label": "Leaf",

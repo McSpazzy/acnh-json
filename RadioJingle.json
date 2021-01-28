@@ -205,5 +205,14 @@
     "UniqueID": 23,
     "BeforeDays": 14,
     "EventLabelShort": "Countdown"
+  },
+  {
+    "SelectRate": 10.0,
+    "Timezone": "AllDay",
+    "Frames": 360,
+    "MusicNo": 324,
+    "UniqueID": 24,
+    "BeforeDays": 14,
+    "EventLabelShort": "Carnival"
   }
 ]

@@ -614,5 +614,45 @@
     "FlagsFlowAccess": 2,
     "Key": "DC_TukTalkAfterEvent",
     "Name": "ハーベスト|お出かけ先のフランクリンとイベント後に話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 96,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PckTalkRunningEvent",
+    "Name": "カーニバル|お出かけ先のベルリーナと当日に話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 511,
+    "UniqueID": 97,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_GetCarnivalFurniture",
+    "Name": "カーニバル/ベルリーナ|お出かけ先でどの家具をもらったか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 102,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PckLookChatFlag",
+    "Name": "カーニバル/べルリーナ|カーニバル装備の雑談した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 103,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PckGiveFurnitureCount",
+    "Name": "カーニバル/べルリーナ|家具をもらった回数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 104,
+    "FlagsFlowAccess": 2,
+    "Key": "DC_PckRecipeTalkFlag",
+    "Name": "カーニバル/べルリーナ|にじいろのはねのレシピもらう会話した？"
   }
 ]

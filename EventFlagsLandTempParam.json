@@ -874,5 +874,41 @@
     "FlagsNetAccess": 0,
     "Key": "TukBehaviorControlFlag",
     "Name": "ハーベスト|演技、道具、コンロを制御するフラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 94,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "PckGiveFeather",
+    "Name": "カーニバル/べルリーナ|渡すはねの色は？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 95,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "PckDanceCarnivalRight",
+    "Name": "カーニバル/べルリーナ|ダンス時にライトを明滅速度を速くするか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 96,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "FlagsNetAccess": 0,
+    "Key": "PckDanceEffect",
+    "Name": "カーニバル/べルリーナ|ダンス時にエフェクトを出すか？"
   }
 ]

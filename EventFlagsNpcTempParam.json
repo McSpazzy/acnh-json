@@ -628,5 +628,25 @@
     "FlagsFlowAccess": 2,
     "Key": "HarvestNpcAttentionPPocket",
     "Name": "ハーベスト：このシーンでプレイヤのポケットの食材に反応した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 70,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnivalWanderEventPlaza",
+    "Name": "カーニバル：広場行動後のぶらつき状態か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 71,
+    "5f77b61a u8": 1,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnivalApproachAlready",
+    "Name": "カーニバルアプローチ発生が画面内で発生済みか"
   }
 ]

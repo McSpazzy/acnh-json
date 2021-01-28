@@ -430,5 +430,50 @@
     "FlagsFlowAccess": 2,
     "Key": "HarvestGiveHint4",
     "Name": "ハーベスト｜4品目の隠し食材ヒント出したら1か2をセット"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 61,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CarnivalFeatherColor",
+    "Name": "カーニバル｜欲しがる羽の色"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 62,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "DisplayValentinePresent",
+    "Name": "バレンタインデー｜飾られるブーケの種類"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 64,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestDemoEndWait",
+    "Name": "ハーベスト｜デモ終了待機中か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 65,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "WoreNewYearHat",
+    "Name": "カウントダウン｜ニューイヤーハットを被った"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 66,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HarvestDemoStateNow",
+    "Name": "ハーベスト｜デモ参加状態か？"
   }
 ]

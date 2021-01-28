@@ -151,5 +151,14 @@
     "BeforeDays": 24,
     "EventLabelShort": "XmasEve",
     "Timezone": 0
+  },
+  {
+    "SelectRate": 10.0,
+    "Frames": 548,
+    "MusicNo": 218,
+    "UniqueID": 17,
+    "BeforeDays": 14,
+    "EventLabelShort": "Carnival",
+    "Timezone": 0
   }
 ]
