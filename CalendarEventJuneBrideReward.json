@@ -26,7 +26,7 @@
   {
     "UniqueID": 4,
     "PriorityReward": 12409,
-    "SubordinateReward": -2,
+    "SubordinateReward": 65534,
     "JuneBrideProgress": 5
   },
   {

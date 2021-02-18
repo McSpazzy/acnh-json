@@ -11,7 +11,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 1,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -151,7 +151,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 17,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -271,7 +271,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 31,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,

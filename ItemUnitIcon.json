@@ -1,7 +1,7 @@
 [
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 5,
     "ColorIndex": -1,
     "Label": "None",
@@ -11,7 +11,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 323,
     "ColorIndex": -1,
     "Label": "FeatherRainbow",
@@ -21,7 +21,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 324,
     "ColorIndex": 3,
     "Label": "FeatherPurple",
@@ -31,7 +31,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 325,
     "ColorIndex": 1,
     "Label": "FeatherBlue",
@@ -41,7 +41,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 326,
     "ColorIndex": 2,
     "Label": "FeatherGreen",
@@ -51,7 +51,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 327,
     "ColorIndex": 0,
     "Label": "FeatherRed",
@@ -61,7 +61,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 329,
     "ColorIndex": -1,
     "Label": "OtoshidamaCh",
@@ -71,7 +71,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 330,
     "ColorIndex": -1,
     "Label": "OtoshidamaKr",
@@ -81,7 +81,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 0,
     "ColorIndex": 0,
     "Label": "Leaf",
@@ -91,7 +91,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 273,
     "ColorIndex": 1,
     "Label": "LeafYellow",
@@ -101,7 +101,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 157,
     "ColorIndex": -1,
     "Label": "RoomWall",
@@ -111,7 +111,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 156,
     "ColorIndex": -1,
     "Label": "RoomFloor",
@@ -121,7 +121,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 215,
     "ColorIndex": -1,
     "Label": "Rug",
@@ -131,7 +131,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 30,
     "ColorIndex": -1,
     "Label": "Tops",
@@ -141,7 +141,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 31,
     "ColorIndex": -1,
     "Label": "Bottoms",
@@ -151,7 +151,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 32,
     "ColorIndex": -1,
     "Label": "Socks",
@@ -161,7 +161,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 33,
     "ColorIndex": -1,
     "Label": "Shoes",
@@ -171,7 +171,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 34,
     "ColorIndex": -1,
     "Label": "Cap",
@@ -181,7 +181,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 35,
     "ColorIndex": -1,
     "Label": "Helmet",
@@ -191,7 +191,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 36,
     "ColorIndex": -1,
     "Label": "Accessory",
@@ -201,7 +201,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 37,
     "ColorIndex": -1,
     "Label": "Bag",
@@ -211,7 +211,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 160,
     "ColorIndex": -1,
     "Label": "Umbrella",
@@ -221,7 +221,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 161,
     "ColorIndex": -1,
     "Label": "FishingRod",
@@ -231,7 +231,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 204,
     "ColorIndex": -1,
     "Label": "Stick",
@@ -241,7 +241,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 303,
     "ColorIndex": -1,
     "Label": "MarineSuit",
@@ -251,7 +251,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 162,
     "ColorIndex": -1,
     "Label": "Fence",
@@ -261,7 +261,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 189,
     "ColorIndex": 0,
     "Label": "TentSet",
@@ -271,7 +271,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 186,
     "ColorIndex": 1,
     "Label": "HousingKit",
@@ -281,7 +281,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 19,
     "ColorIndex": -1,
     "Label": "FossilUnknown",
@@ -291,7 +291,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 29,
     "ColorIndex": -1,
     "Label": "FossilKnown",
@@ -301,7 +301,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 208,
     "ColorIndex": -1,
     "Label": "Pitfall",
@@ -311,7 +311,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 207,
     "ColorIndex": -1,
     "Label": "Music",
@@ -321,7 +321,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 184,
     "ColorIndex": -1,
     "Label": "Medicine",
@@ -331,7 +331,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 209,
     "ColorIndex": 0,
     "Label": "RemakeKit",
@@ -341,7 +341,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 274,
     "ColorIndex": -1,
     "Label": "SmartphoneCase",
@@ -351,7 +351,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 315,
     "ColorIndex": -1,
     "Label": "SmartphoneCaseComp",
@@ -361,7 +361,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 236,
     "ColorIndex": -1,
     "Label": "Timer",
@@ -371,7 +371,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 59,
     "ColorIndex": -1,
     "Label": "Honeycomb",
@@ -381,7 +381,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 72,
     "ColorIndex": -1,
     "Label": "Weed",
@@ -401,7 +401,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 17,
     "ColorIndex": -1,
     "Label": "TurnipExpired",
@@ -411,7 +411,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 220,
     "ColorIndex": -1,
     "Label": "MessageBottle",
@@ -431,7 +431,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 221,
     "ColorIndex": -1,
     "Label": "FishBait",
@@ -441,7 +441,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 218,
     "ColorIndex": 0,
     "Label": "AirTicket",
@@ -451,7 +451,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 235,
     "ColorIndex": 1,
     "Label": "TailorTicket",
@@ -461,7 +461,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 277,
     "ColorIndex": 2,
     "Label": "RollanTicket",
@@ -471,7 +471,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 278,
     "ColorIndex": 3,
     "Label": "BellExchangeTicket",
@@ -481,7 +481,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 307,
     "ColorIndex": 4,
     "Label": "DreamBellExchangeTicket",
@@ -491,7 +491,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 163,
     "ColorIndex": 0,
     "Label": "PresentBoxRed",
@@ -501,7 +501,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 164,
     "ColorIndex": 1,
     "Label": "PresentBoxGreen",
@@ -511,7 +511,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 166,
     "ColorIndex": -1,
     "Label": "Insect",
@@ -521,7 +521,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 165,
     "ColorIndex": -1,
     "Label": "Fish",
@@ -531,7 +531,7 @@
   },
   {
     "ScaleOffset": 0.7,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 167,
     "ColorIndex": -1,
     "Label": "TrushTire",
@@ -541,7 +541,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 168,
     "ColorIndex": -1,
     "Label": "TrushCan",
@@ -551,7 +551,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 171,
     "ColorIndex": -1,
     "Label": "TrushBoot",
@@ -581,7 +581,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 219,
     "ColorIndex": 0,
     "Label": "Parts",
@@ -591,7 +591,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 239,
     "ColorIndex": 1,
     "Label": "PartsDust",
@@ -601,7 +601,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 306,
     "ColorIndex": -1,
     "Label": "PirateQuest",
@@ -611,7 +611,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 305,
     "ColorIndex": -1,
     "Label": "Pearl",
@@ -621,7 +621,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 170,
     "ColorIndex": -1,
     "Label": "LostQuestPouch",
@@ -631,7 +631,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 169,
     "ColorIndex": -1,
     "Label": "LostQuestBook",
@@ -641,7 +641,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 172,
     "ColorIndex": -1,
     "Label": "LostQuestNote",
@@ -651,7 +651,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 210,
     "ColorIndex": -1,
     "Label": "CupCake",
@@ -661,7 +661,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 240,
     "ColorIndex": -1,
     "Label": "PinataStick",
@@ -671,7 +671,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 3,
     "ColorIndex": -1,
     "Label": "Apple",
@@ -681,7 +681,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 4,
     "ColorIndex": -1,
     "Label": "Orange",
@@ -691,7 +691,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 7,
     "ColorIndex": -1,
     "Label": "Pear",
@@ -701,7 +701,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 8,
     "ColorIndex": -1,
     "Label": "Peach",
@@ -711,7 +711,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 10,
     "ColorIndex": -1,
     "Label": "Cherry",
@@ -721,7 +721,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 11,
     "ColorIndex": -1,
     "Label": "Coconut",
@@ -731,7 +731,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 13,
     "ColorIndex": -1,
     "Label": "Bambooshoot",
@@ -741,7 +741,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 70,
     "ColorIndex": -1,
     "Label": "SeedlingOak",
@@ -751,7 +751,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 125,
     "ColorIndex": -1,
     "Label": "PltOak",
@@ -761,7 +761,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 71,
     "ColorIndex": -1,
     "Label": "SeedlingCedar",
@@ -771,7 +771,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 126,
     "ColorIndex": -1,
     "Label": "PltCedar",
@@ -781,7 +781,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 128,
     "ColorIndex": -1,
     "Label": "PltPalm",
@@ -791,7 +791,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 127,
     "ColorIndex": -1,
     "Label": "PltBamboo",
@@ -801,7 +801,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 154,
     "ColorIndex": -1,
     "Label": "SeedlingBush",
@@ -811,7 +811,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 292,
     "ColorIndex": -1,
     "Label": "PltBush",
@@ -831,7 +831,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 124,
     "ColorIndex": -1,
     "Label": "Seed",
@@ -841,7 +841,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 54,
     "ColorIndex": -1,
     "Label": "DIYBranch",
@@ -851,7 +851,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 53,
     "ColorIndex": 0,
     "Label": "DIYWoodNormal",
@@ -861,7 +861,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 52,
     "ColorIndex": 1,
     "Label": "DIYWoodSoft",
@@ -871,7 +871,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 51,
     "ColorIndex": 2,
     "Label": "DIYWoodHard",
@@ -881,7 +881,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 50,
     "ColorIndex": -1,
     "Label": "DIYBamboo",
@@ -891,7 +891,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 193,
     "ColorIndex": -1,
     "Label": "DIYBambooSpring",
@@ -901,7 +901,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 200,
     "ColorIndex": 1,
     "Label": "ShellSummer",
@@ -911,7 +911,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 191,
     "ColorIndex": -1,
     "Label": "DIYAcorn",
@@ -921,7 +921,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 192,
     "ColorIndex": -1,
     "Label": "DIYPinecone",
@@ -931,7 +931,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 275,
     "ColorIndex": -1,
     "Label": "Sakurapetal",
@@ -941,7 +941,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 276,
     "ColorIndex": -1,
     "Label": "AutumnLeaf",
@@ -951,7 +951,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 180,
     "ColorIndex": -1,
     "Label": "SnowCrystalLarge",
@@ -961,7 +961,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 179,
     "ColorIndex": -1,
     "Label": "SnowCrystal",
@@ -971,7 +971,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 214,
     "ColorIndex": 0,
     "Label": "DIYOrnamentRed",
@@ -981,7 +981,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 212,
     "ColorIndex": 1,
     "Label": "DIYOrnamentBlue",
@@ -991,7 +991,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 213,
     "ColorIndex": 2,
     "Label": "DIYOrnamentGold",
@@ -1001,7 +1001,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 63,
     "ColorIndex": -1,
     "Label": "MushSplendid",
@@ -1011,7 +1011,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 64,
     "ColorIndex": -1,
     "Label": "MushRound",
@@ -1021,7 +1021,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 65,
     "ColorIndex": -1,
     "Label": "MushSlender",
@@ -1031,7 +1031,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 66,
     "ColorIndex": -1,
     "Label": "MushFlat",
@@ -1041,7 +1041,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 67,
     "ColorIndex": -1,
     "Label": "MushRare",
@@ -1051,7 +1051,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 49,
     "ColorIndex": -1,
     "Label": "DIYStone",
@@ -1061,7 +1061,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 45,
     "ColorIndex": -1,
     "Label": "DIYClay",
@@ -1071,7 +1071,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 57,
     "ColorIndex": -1,
     "Label": "DIYIron",
@@ -1081,7 +1081,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 55,
     "ColorIndex": -1,
     "Label": "DIYGold",
@@ -1111,7 +1111,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 14,
     "ColorIndex": -1,
     "Label": "ShellCoral",
@@ -1121,7 +1121,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 121,
     "ColorIndex": 0,
     "Label": "SmartPhone",
@@ -1131,7 +1131,7 @@
   },
   {
     "ScaleOffset": 1.0,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 187,
     "ColorIndex": -1,
     "Label": "Paper",
@@ -1141,7 +1141,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 185,
     "ColorIndex": -1,
     "Label": "Map",
@@ -1151,7 +1151,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 279,
     "ColorIndex": -1,
     "Label": "MileCard",
@@ -1161,7 +1161,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 217,
     "ColorIndex": -1,
     "Label": "GeneralBox",
@@ -1171,7 +1171,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 216,
     "ColorIndex": -1,
     "Label": "GeneralSack",
@@ -1181,7 +1181,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 197,
     "ColorIndex": 0,
     "Label": "Starpiece",
@@ -1191,7 +1191,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 199,
     "ColorIndex": -1,
     "Label": "StarpieceRare",
@@ -1201,7 +1201,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 198,
     "ColorIndex": 1,
     "Label": "StarpieceCapricornus",
@@ -1211,7 +1211,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 233,
     "ColorIndex": 2,
     "Label": "StarpieceAquarius",
@@ -1221,7 +1221,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 234,
     "ColorIndex": 3,
     "Label": "StarpiecePisces",
@@ -1231,7 +1231,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 229,
     "ColorIndex": 4,
     "Label": "StarpieceAries",
@@ -1241,7 +1241,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 230,
     "ColorIndex": 5,
     "Label": "StarpieceTaurus",
@@ -1251,7 +1251,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 231,
     "ColorIndex": 6,
     "Label": "StarpieceGemini",
@@ -1261,7 +1261,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 232,
     "ColorIndex": 7,
     "Label": "StarpieceCancer",
@@ -1271,7 +1271,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 227,
     "ColorIndex": 8,
     "Label": "StarpieceLeo",
@@ -1281,7 +1281,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 228,
     "ColorIndex": 9,
     "Label": "StarpieceVirgo",
@@ -1291,7 +1291,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 226,
     "ColorIndex": 10,
     "Label": "StarpieceLibra",
@@ -1301,7 +1301,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 225,
     "ColorIndex": 11,
     "Label": "StarpieceScorpio",
@@ -1311,7 +1311,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 224,
     "ColorIndex": 12,
     "Label": "StarpieceSagittarius",
@@ -1321,7 +1321,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 251,
     "ColorIndex": 0,
     "Label": "WPaperYellow",
@@ -1331,7 +1331,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 252,
     "ColorIndex": 1,
     "Label": "WPaperPink",
@@ -1341,7 +1341,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 254,
     "ColorIndex": 2,
     "Label": "WPaperOrange",
@@ -1351,7 +1351,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 255,
     "ColorIndex": 3,
     "Label": "WPaperLightGreen",
@@ -1361,7 +1361,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 256,
     "ColorIndex": 4,
     "Label": "WPaperGreen",
@@ -1371,7 +1371,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 253,
     "ColorIndex": 5,
     "Label": "WPaperMint",
@@ -1381,7 +1381,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 246,
     "ColorIndex": 6,
     "Label": "WPaperLightBlue",
@@ -1391,7 +1391,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 247,
     "ColorIndex": 7,
     "Label": "WPaperPurple",
@@ -1401,7 +1401,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 248,
     "ColorIndex": 8,
     "Label": "WPaperNavy",
@@ -1411,7 +1411,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 249,
     "ColorIndex": 9,
     "Label": "WPaperBlue",
@@ -1421,7 +1421,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 250,
     "ColorIndex": 10,
     "Label": "WPaperWhite",
@@ -1431,7 +1431,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 244,
     "ColorIndex": 11,
     "Label": "WPaperRed",
@@ -1441,7 +1441,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 245,
     "ColorIndex": 12,
     "Label": "WPaperGold",
@@ -1451,7 +1451,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 243,
     "ColorIndex": 13,
     "Label": "WPaperBrown",
@@ -1461,7 +1461,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 242,
     "ColorIndex": 14,
     "Label": "WPaperGray",
@@ -1471,7 +1471,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 241,
     "ColorIndex": 15,
     "Label": "WPaperBlack",
@@ -1481,7 +1481,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 317,
     "ColorIndex": -1,
     "Label": "WPaperOrnament",
@@ -1491,7 +1491,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 257,
     "ColorIndex": 0,
     "Label": "WParcelYellow",
@@ -1501,7 +1501,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 258,
     "ColorIndex": 1,
     "Label": "WParcelPink",
@@ -1511,7 +1511,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 259,
     "ColorIndex": 2,
     "Label": "WParcelOrange",
@@ -1521,7 +1521,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 260,
     "ColorIndex": 3,
     "Label": "WParcelLightGreen",
@@ -1531,7 +1531,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 261,
     "ColorIndex": 4,
     "Label": "WParcelGreen",
@@ -1541,7 +1541,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 262,
     "ColorIndex": 5,
     "Label": "WParcelMint",
@@ -1551,7 +1551,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 263,
     "ColorIndex": 6,
     "Label": "WParcelLightBlue",
@@ -1561,7 +1561,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 264,
     "ColorIndex": 7,
     "Label": "WParcelPurple",
@@ -1571,7 +1571,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 265,
     "ColorIndex": 8,
     "Label": "WParcelNavy",
@@ -1581,7 +1581,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 266,
     "ColorIndex": 9,
     "Label": "WParcelBlue",
@@ -1591,7 +1591,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 267,
     "ColorIndex": 10,
     "Label": "WParcelWhite",
@@ -1601,7 +1601,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 268,
     "ColorIndex": 11,
     "Label": "WParcelRed",
@@ -1611,7 +1611,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 269,
     "ColorIndex": 12,
     "Label": "WParcelGold",
@@ -1621,7 +1621,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 270,
     "ColorIndex": 13,
     "Label": "WParcelBrown",
@@ -1631,7 +1631,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 271,
     "ColorIndex": 14,
     "Label": "WParcelGary",
@@ -1641,7 +1641,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 272,
     "ColorIndex": 15,
     "Label": "WParcelBlack",
@@ -1651,7 +1651,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 316,
     "ColorIndex": -1,
     "Label": "WParceOrnament",
@@ -1661,7 +1661,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 150,
     "ColorIndex": -1,
     "Label": "FlwTulip",
@@ -1671,7 +1671,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 146,
     "ColorIndex": -1,
     "Label": "FlwPansy",
@@ -1681,7 +1681,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 148,
     "ColorIndex": -1,
     "Label": "FlwCosmos",
@@ -1691,7 +1691,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 149,
     "ColorIndex": -1,
     "Label": "FlwRose",
@@ -1701,7 +1701,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 174,
     "ColorIndex": -1,
     "Label": "FlwRoseGold",
@@ -1711,7 +1711,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 147,
     "ColorIndex": -1,
     "Label": "FlwLily",
@@ -1721,7 +1721,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 155,
     "ColorIndex": -1,
     "Label": "FlwAnemone",
@@ -1731,7 +1731,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 144,
     "ColorIndex": -1,
     "Label": "FlwMum",
@@ -1741,7 +1741,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 145,
     "ColorIndex": -1,
     "Label": "FlwHyacinth",
@@ -1751,7 +1751,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 23,
     "ColorIndex": -1,
     "Label": "Squash",
@@ -1761,7 +1761,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 152,
     "ColorIndex": -1,
     "Label": "SeedlingSquash",
@@ -1771,7 +1771,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 281,
     "ColorIndex": -1,
     "Label": "EggGround",
@@ -1781,7 +1781,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 283,
     "ColorIndex": -1,
     "Label": "EggRock",
@@ -1791,7 +1791,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 284,
     "ColorIndex": -1,
     "Label": "EggLeaf",
@@ -1801,7 +1801,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 285,
     "ColorIndex": -1,
     "Label": "EggForest",
@@ -1811,7 +1811,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 282,
     "ColorIndex": -1,
     "Label": "EggSky",
@@ -1821,7 +1821,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 280,
     "ColorIndex": -1,
     "Label": "EggFish",
@@ -1831,7 +1831,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 291,
     "ColorIndex": -1,
     "Label": "MessageBottleEgg",
@@ -1841,7 +1841,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 290,
     "ColorIndex": -1,
     "Label": "Love",
@@ -1851,7 +1851,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 237,
     "ColorIndex": 0,
     "Label": "Fireworks",
@@ -1861,7 +1861,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 304,
     "ColorIndex": 1,
     "Label": "Cinder",
@@ -1871,7 +1871,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 313,
     "ColorIndex": -1,
     "Label": "Candy",
@@ -1881,7 +1881,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": -2,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 314,
     "ColorIndex": -1,
     "Label": "Lollipop",

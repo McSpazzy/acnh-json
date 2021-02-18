@@ -1,9 +1,9 @@
 [
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 4187,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6884,
     "Socks": 5199,
     "Tops": 6820,
@@ -11,10 +11,10 @@
     "Label": "BoySS_0"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 4186,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6889,
     "Socks": 5199,
     "Tops": 4615,
@@ -22,10 +22,10 @@
     "Label": "BoySS_1"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 9011,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6885,
     "Socks": 5199,
     "Tops": 9498,
@@ -33,10 +33,10 @@
     "Label": "BoySS_2"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 4187,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6889,
     "Socks": 5199,
     "Tops": 7761,
@@ -44,10 +44,10 @@
     "Label": "BoySS_3"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 2403,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 5566,
     "Socks": 5199,
     "Tops": 8974,
@@ -55,10 +55,10 @@
     "Label": "BoySS_4"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 4186,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 5566,
     "Socks": 5199,
     "Tops": 4147,
@@ -66,10 +66,10 @@
     "Label": "BoySS_5"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 4186,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6885,
     "Socks": 5199,
     "Tops": 7568,
@@ -77,10 +77,10 @@
     "Label": "BoySS_6"
   },
   {
-    "AcceEye": -2,
-    "AcceMouth": -2,
+    "AcceEye": 65534,
+    "AcceMouth": 65534,
     "Bottoms": 9011,
-    "Cap": -2,
+    "Cap": 65534,
     "Shoes": 6885,
     "Socks": 5199,
     "Tops": 8977,

@@ -487,7 +487,7 @@
   },
   {
     "UniqueID": 69,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 67,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -496,7 +496,7 @@
   },
   {
     "UniqueID": 70,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 68,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -505,7 +505,7 @@
   },
   {
     "UniqueID": 71,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 69,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -514,7 +514,7 @@
   },
   {
     "UniqueID": 72,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 70,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -523,7 +523,7 @@
   },
   {
     "UniqueID": 73,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 71,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -532,7 +532,7 @@
   },
   {
     "UniqueID": 74,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 72,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -541,7 +541,7 @@
   },
   {
     "UniqueID": 75,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 73,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -550,7 +550,7 @@
   },
   {
     "UniqueID": 76,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 74,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -559,7 +559,7 @@
   },
   {
     "UniqueID": 77,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 75,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -568,7 +568,7 @@
   },
   {
     "UniqueID": 78,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 76,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -577,7 +577,7 @@
   },
   {
     "UniqueID": 79,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 77,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -586,7 +586,7 @@
   },
   {
     "UniqueID": 80,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 78,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -595,7 +595,7 @@
   },
   {
     "UniqueID": 81,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 79,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -604,7 +604,7 @@
   },
   {
     "UniqueID": 82,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 80,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -613,7 +613,7 @@
   },
   {
     "UniqueID": 83,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 81,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -622,7 +622,7 @@
   },
   {
     "UniqueID": 84,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 82,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",
@@ -667,7 +667,7 @@
   },
   {
     "UniqueID": 92,
-    "WatchItem": -2,
+    "WatchItem": 65534,
     "WatchPointID": 88,
     "BalloonTalkKey": "BLN_Spot_Museum",
     "BalloonTalkLabelKey": "3631",

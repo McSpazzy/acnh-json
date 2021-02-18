@@ -2,7 +2,7 @@
   {
     "EventFtrDirection": "S",
     "EventFtrSwitch": "OFF",
-    "ItemNameUniqueID": -2,
+    "ItemNameUniqueID": 65534,
     "UniqueID": 0,
     "cb7385a8 u32": 0
   },

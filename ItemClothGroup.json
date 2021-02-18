@@ -1,7 +1,7 @@
 [
   {
     "ItemShopSeasonality": "AllYear",
-    "ParentItemName": -2,
+    "ParentItemName": 65534,
     "UniqueID": 0,
     "FashionThemeDaily": 0,
     "FashionThemeFairyland": 0,

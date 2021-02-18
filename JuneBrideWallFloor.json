@@ -9,7 +9,7 @@
   {
     "Theme": "Banquet",
     "FloorItemId": 12431,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 3,
     "WallItemId": 12461
   },
@@ -30,7 +30,7 @@
   {
     "Theme": "Cute",
     "FloorItemId": 6843,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 6,
     "WallItemId": 5226
   },
@@ -44,7 +44,7 @@
   {
     "Theme": "Cute",
     "FloorItemId": 12431,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 8,
     "WallItemId": 12466
   },
@@ -65,14 +65,14 @@
   {
     "Theme": "Chic",
     "FloorItemId": 5066,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 11,
     "WallItemId": 6852
   },
   {
     "Theme": "Chic",
     "FloorItemId": 5051,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 12,
     "WallItemId": 6851
   },
@@ -93,14 +93,14 @@
   {
     "Theme": "Chic",
     "FloorItemId": 5080,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 23,
     "WallItemId": 5483
   },
   {
     "Theme": "Garden",
     "FloorItemId": 12434,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 24,
     "WallItemId": 12469
   },
@@ -121,14 +121,14 @@
   {
     "Theme": "Garden",
     "FloorItemId": 5515,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 27,
     "WallItemId": 5457
   },
   {
     "Theme": "Garden",
     "FloorItemId": 5234,
-    "RugItemId": -2,
+    "RugItemId": 65534,
     "UniqueID": 28,
     "WallItemId": 11915
   }

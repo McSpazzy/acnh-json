@@ -2,7 +2,7 @@
   {
     "Offset": 2.0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 20,
     "ConditionType": 0,
     "FlagType": 0,
@@ -31,7 +31,7 @@
   {
     "Offset": 2.0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 21,
     "ConditionType": 1,
     "FlagType": 0,
@@ -60,7 +60,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 22,
     "ConditionType": 10,
     "FlagType": 0,
@@ -89,7 +89,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 1800,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 24,
     "ConditionType": 3,
     "FlagType": 1,
@@ -118,7 +118,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 105,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 25,
     "ConditionType": 3,
     "FlagType": 0,
@@ -147,7 +147,7 @@
   {
     "Offset": 7.5,
     "ContinuousTime": 150,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 23,
     "ConditionType": 4,
     "FlagType": 0,
@@ -176,7 +176,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 450,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 26,
     "ConditionType": 5,
     "FlagType": 0,
@@ -205,7 +205,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 450,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 27,
     "ConditionType": 6,
     "FlagType": 0,
@@ -234,7 +234,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 4500,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 28,
     "ConditionType": 11,
     "FlagType": 0,
@@ -263,7 +263,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 29,
     "ConditionType": 11,
     "FlagType": 0,
@@ -292,7 +292,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 300,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 30,
     "ConditionType": 11,
     "FlagType": 0,
@@ -321,7 +321,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 1200,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 31,
     "ConditionType": 8,
     "FlagType": 0,
@@ -350,7 +350,7 @@
   {
     "Offset": 12.0,
     "ContinuousTime": 450,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 23,
     "ConditionType": 7,
     "FlagType": 0,
@@ -379,7 +379,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 32,
     "ConditionType": 9,
     "FlagType": 0,
@@ -408,7 +408,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 450,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 33,
     "ConditionType": 2,
     "FlagType": 0,
@@ -437,7 +437,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 450,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 34,
     "ConditionType": 2,
     "FlagType": 0,
@@ -466,7 +466,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 1800,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 35,
     "ConditionType": 2,
     "FlagType": 0,
@@ -495,7 +495,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 1800,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 36,
     "ConditionType": 2,
     "FlagType": 0,
@@ -524,7 +524,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 1800,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 37,
     "ConditionType": 2,
     "FlagType": 0,
@@ -553,7 +553,7 @@
   {
     "Offset": 0,
     "ContinuousTime": 900,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "BehaviorType": 38,
     "ConditionType": 2,
     "FlagType": 0,

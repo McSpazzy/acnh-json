@@ -1,7 +1,7 @@
 [
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 1,
     "EquipRule": "",
@@ -43,7 +43,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 15,
     "EquipRule": "",
@@ -85,7 +85,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 15,
     "EquipRule": "",
@@ -169,7 +169,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 14,
     "EquipRule": "",
@@ -211,7 +211,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 8,
     "EquipRule": "cSports",
@@ -295,7 +295,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 8,
     "EquipRule": "cYoga",
@@ -379,7 +379,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 9,
     "EquipRule": "",
@@ -421,7 +421,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 36,
     "EquipRule": "",
@@ -463,7 +463,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 35,
     "EquipRule": "",
@@ -547,7 +547,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 8,
     "EquipRule": "cSports",
@@ -631,7 +631,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 8,
     "EquipRule": "cYoga",
@@ -715,7 +715,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 10,
     "EquipRule": "",
@@ -757,7 +757,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 8,
     "EquipRule": "",
@@ -841,7 +841,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 3,
     "EquipRule": "",
@@ -883,7 +883,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 6,
     "EquipRule": "",
@@ -967,7 +967,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 13,
     "EquipRule": "cFishing",
@@ -1009,7 +1009,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 12,
     "EquipRule": "cCatchingInsect",
@@ -1093,7 +1093,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 16,
     "EquipRule": "",
@@ -1135,7 +1135,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 26,
     "EquipRule": "",
@@ -1177,7 +1177,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 4,
     "EquipRule": "",
@@ -1219,7 +1219,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 17,
     "EquipRule": "",
@@ -1303,7 +1303,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 36,
     "EquipRule": "cConcert",
@@ -1345,7 +1345,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 26,
     "EquipRule": "",
@@ -1387,7 +1387,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 26,
     "EquipRule": "",
@@ -1429,7 +1429,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 2,
     "EquipRule": "cYoga",
@@ -1471,7 +1471,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 2,
     "EquipRule": "cSports",
@@ -1639,7 +1639,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 4,
     "EquipRule": "cSunbathing",
@@ -1681,7 +1681,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 36,
     "EquipRule": "cConcert",
@@ -1765,7 +1765,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 9,
     "EquipRule": "",
@@ -1975,7 +1975,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 18,
     "EquipRule": "",
@@ -2017,7 +2017,7 @@
   },
   {
     "ArriveDist": -1.0,
-    "ItemUniqueID": -2,
+    "ItemUniqueID": 65534,
     "SatisfyMinute": 15,
     "BehaviorType": 19,
     "EquipRule": "",

@@ -13,7 +13,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 1,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -37,7 +37,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 3,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 1,
@@ -49,7 +49,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 4,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -61,7 +61,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 5,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -73,7 +73,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 6,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -85,7 +85,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 7,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -97,7 +97,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 8,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 1,
@@ -157,7 +157,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 13,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 1,
@@ -169,7 +169,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 14,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
@@ -181,7 +181,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": -1,
+    "MaxValue": 65535,
     "UniqueID": 15,
     "5140e4b4 u8": 0,
     "3dad9135 u8": 0,
