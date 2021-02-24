@@ -1,0 +1,14 @@
+[
+  {
+    "MysteryTourFieldOutside": "NoRiver",
+    "UniqueID": 0
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 1
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 2
+  }
+]

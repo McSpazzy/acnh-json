@@ -1,0 +1,29 @@
+[
+  {
+    "ItemPlacementKind": "Normal",
+    "UniqueID": 0,
+    "MysteryTourItemUniqueID": 0,
+    "MysteryTourFieldUniqueID": 0,
+    "InsectPattern": -1,
+    "FishPattern": -1,
+    "SelectWeight": 1
+  },
+  {
+    "ItemPlacementKind": "Normal",
+    "UniqueID": 1,
+    "MysteryTourItemUniqueID": 1,
+    "MysteryTourFieldUniqueID": 1,
+    "InsectPattern": -1,
+    "FishPattern": -1,
+    "SelectWeight": 1
+  },
+  {
+    "ItemPlacementKind": "Normal",
+    "UniqueID": 2,
+    "MysteryTourItemUniqueID": 1,
+    "MysteryTourFieldUniqueID": 2,
+    "InsectPattern": -1,
+    "FishPattern": -1,
+    "SelectWeight": 1
+  }
+]
