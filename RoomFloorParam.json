@@ -2713,5 +2713,20 @@
     "ItemName": "サンクスギビングなゆか",
     "ResourceName": "RoomTexFloorHarvest00",
     "Rotatable": 1
+  },
+  {
+    "Act": "None",
+    "Price": 888,
+    "Scale": "None",
+    "Scale10x6": "None",
+    "Floorboards": 18,
+    "ItemTableId": 13804,
+    "LandingUniqueID": 0,
+    "UniqueID": 279,
+    "HasJmp": 0,
+    "Horizon": 0,
+    "ItemName": "スーパーマリオのゆか",
+    "ResourceName": "RoomTexFloorMario00",
+    "Rotatable": 0
   }
 ]

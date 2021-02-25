@@ -295,6 +295,11 @@
     "Name": "雑貨：季節イベント"
   },
   {
+    "UniqueID": 218,
+    "Label": "Mario",
+    "Name": "マリオコラボ"
+  },
+  {
     "UniqueID": 180,
     "Label": "Compass",
     "Name": "ポケ森コラボ"

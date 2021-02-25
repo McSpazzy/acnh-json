@@ -1262,5 +1262,21 @@
     "ToolSetupAsName": "",
     "ToolSetupPutawayAsName": "",
     "UseToolLeft": 1
+  },
+  {
+    "2924e11f u16": 0,
+    "UniqueID": 106,
+    "CanHasSit": 1,
+    "EquipOnlyOutdoor": 0,
+    "HandToolAsName": "CommonToolHand10800",
+    "Label": "ShSo",
+    "Misc": 1,
+    "Name": "シャムロックソーダ",
+    "ToolEnterAsName": "",
+    "ToolLeftModelName": "",
+    "ToolRightModelName": "",
+    "ToolSetupAsName": "",
+    "ToolSetupPutawayAsName": "",
+    "UseToolLeft": 0
   }
 ]

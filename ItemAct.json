@@ -473,6 +473,17 @@
     "SwitchableOnWall": 0
   },
   {
+    "AsName": "FtrLoopTrigger",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 80,
+    "Collision": 0,
+    "DemoType": 0,
+    "Label": "PassTriggerWaitEndOnKeep",
+    "Name": "通過：ループ終了待ち：トリガー",
+    "SwitchableOnWall": 0
+  },
+  {
     "AsName": "FtrTriggerOnce",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
@@ -625,6 +636,17 @@
     "Label": "SingInsect",
     "Name": "鳴くムシ",
     "SwitchableOnWall": 1
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 84,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "WarpHall",
+    "Name": "ワープどかん",
+    "SwitchableOnWall": 0
   },
   {
     "AsName": "FtrLoopAuto",

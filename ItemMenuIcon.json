@@ -342,6 +342,12 @@
     "ResName": "Soy"
   },
   {
+    "UniqueID": 743,
+    "Label": "JuiceShamrock",
+    "Name": "シャムロックソーダ",
+    "ResName": "JuiceShamrock"
+  },
+  {
     "UniqueID": 188,
     "Label": "Music",
     "Name": "ミュージック",

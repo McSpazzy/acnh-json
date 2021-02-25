@@ -4078,5 +4078,21 @@
     "ItemName": "オーロラのかべ",
     "ResourceName": "RoomSpWallAurora00",
     "TextureWindow": 0
+  },
+  {
+    "AO": "None",
+    "Act": "Synchro",
+    "Light": "White",
+    "Price": 888,
+    "ArchUniqueID": 0,
+    "CeilingUniqueID": 8,
+    "CurtainTexUniqueID": 23,
+    "CurtainUniqueID": 6,
+    "ItemTableId": 13805,
+    "UniqueID": 385,
+    "WindowUniqueID": 6,
+    "ItemName": "スーパーマリオのかべ",
+    "ResourceName": "RoomSpWallMario00",
+    "TextureWindow": 0
   }
 ]

@@ -652,5 +652,11 @@
     "UniqueID": 121,
     "Value": 0,
     "Name": "ベルリーナのダンスデモ：0_BGM再開"
+  },
+  {
+    "PropertyID": 12,
+    "UniqueID": 125,
+    "Value": 3,
+    "Name": "ハチ刺され：3_土管に逃亡"
   }
 ]

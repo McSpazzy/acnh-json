@@ -58,5 +58,11 @@
     "UniqueID": 14,
     "Label": "NewYear2021",
     "Name": "1.7.0 2021新年パッチ"
+  },
+  {
+    "ReleaseKey": 10800,
+    "UniqueID": 16,
+    "Label": "Spring1st2021",
+    "Name": "1.8.0 2021春パッチ1"
   }
 ]

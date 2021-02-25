@@ -388,5 +388,44 @@
     "ItemFrom": "BigGame2",
     "SelectGrowUp": 0,
     "SelectOne": 0
+  },
+  {
+    "RegionEventCountry1": "Japan",
+    "SortID": 1400,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 42,
+    "EventLabel": "RegionHinamatsuri",
+    "ItemFrom": "Hinamatsuri",
+    "SelectGrowUp": 0,
+    "SelectOne": 1
+  },
+  {
+    "RegionEventCountry1": "EachCountry",
+    "SortID": 1401,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 43,
+    "EventLabel": "RegionPiDay",
+    "ItemFrom": "PiDay",
+    "SelectGrowUp": 0,
+    "SelectOne": 0
+  },
+  {
+    "RegionEventCountry1": "Europe",
+    "SortID": 1402,
+    "RegionEventCountry2": 0,
+    "RegionEventCountry3": 0,
+    "RegionEventCountry4": 0,
+    "RegionEventCountry5": 0,
+    "UniqueID": 41,
+    "EventLabel": "RegionShamrockDay",
+    "ItemFrom": "ShamrockDay",
+    "SelectGrowUp": 0,
+    "SelectOne": 1
   }
 ]
