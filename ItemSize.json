@@ -50,7 +50,7 @@
     "Name": "3x2"
   },
   {
-    "ResSizeLimit": 14.175,
+    "ResSizeLimit": 10.48576,
     "MemoryUnitNum": 9,
     "PolygonLimit": 10800,
     "UniqueID": 7,
@@ -70,9 +70,9 @@
     "Name": "1x0.5"
   },
   {
-    "ResSizeLimit": 3.15,
+    "ResSizeLimit": 1.575,
     "MemoryUnitNum": 2,
-    "PolygonLimit": 2400,
+    "PolygonLimit": 1200,
     "UniqueID": 3,
     "HalfUnitSizeX": 4,
     "HalfUnitSizeZ": 1,
@@ -80,7 +80,7 @@
     "Name": "2x0.5"
   },
   {
-    "ResSizeLimit": 3.15,
+    "ResSizeLimit": 3.54375,
     "MemoryUnitNum": 3,
     "PolygonLimit": 2700,
     "UniqueID": 22,
@@ -90,7 +90,7 @@
     "Name": "1.5x1.5"
   },
   {
-    "ResSizeLimit": 1.575,
+    "ResSizeLimit": 1.75,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 25,
@@ -100,7 +100,7 @@
     "Name": "1x0.5(壁)"
   },
   {
-    "ResSizeLimit": 1.575,
+    "ResSizeLimit": 1.75,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 24,
@@ -110,7 +110,7 @@
     "Name": "0.5x1(壁)"
   },
   {
-    "ResSizeLimit": 1.575,
+    "ResSizeLimit": 1.75,
     "MemoryUnitNum": 1,
     "PolygonLimit": 1200,
     "UniqueID": 26,
@@ -120,9 +120,9 @@
     "Name": "1x1(壁)"
   },
   {
-    "ResSizeLimit": 3.15,
+    "ResSizeLimit": 2.625,
     "MemoryUnitNum": 2,
-    "PolygonLimit": 2400,
+    "PolygonLimit": 1800,
     "UniqueID": 9,
     "HalfUnitSizeX": 2,
     "HalfUnitSizeZ": 3,
@@ -140,7 +140,7 @@
     "Name": "1x2　 (壁)"
   },
   {
-    "ResSizeLimit": 3.15,
+    "ResSizeLimit": 3.5,
     "MemoryUnitNum": 2,
     "PolygonLimit": 2400,
     "UniqueID": 27,
@@ -150,9 +150,9 @@
     "Name": "2x1(壁)"
   },
   {
-    "ResSizeLimit": 6.3,
+    "ResSizeLimit": 5.25,
     "MemoryUnitNum": 4,
-    "PolygonLimit": 4800,
+    "PolygonLimit": 3600,
     "UniqueID": 12,
     "HalfUnitSizeX": 4,
     "HalfUnitSizeZ": 3,
@@ -170,9 +170,9 @@
     "Name": "2x2(壁)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 0.229376,
     "MemoryUnitNum": 1,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 33,
     "HalfUnitSizeX": 2,
     "HalfUnitSizeZ": 2,
@@ -180,9 +180,9 @@
     "Name": "1x1(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 0.917504,
     "MemoryUnitNum": 2,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 21,
     "HalfUnitSizeX": 4,
     "HalfUnitSizeZ": 2,
@@ -190,9 +190,9 @@
     "Name": "2x1(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 0.917504,
     "MemoryUnitNum": 4,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 19,
     "HalfUnitSizeX": 4,
     "HalfUnitSizeZ": 4,
@@ -200,9 +200,9 @@
     "Name": "2x2(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 2.064384,
     "MemoryUnitNum": 6,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 20,
     "HalfUnitSizeX": 6,
     "HalfUnitSizeZ": 4,
@@ -210,9 +210,9 @@
     "Name": "3x2(ラグ）"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 2.064384,
     "MemoryUnitNum": 9,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 18,
     "HalfUnitSizeX": 6,
     "HalfUnitSizeZ": 6,
@@ -220,9 +220,9 @@
     "Name": "3x3(ラグ）"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 3.670016,
     "MemoryUnitNum": 12,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 16,
     "HalfUnitSizeX": 8,
     "HalfUnitSizeZ": 6,
@@ -230,9 +230,9 @@
     "Name": "4x3(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 3.670016,
     "MemoryUnitNum": 16,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 14,
     "HalfUnitSizeX": 8,
     "HalfUnitSizeZ": 8,
@@ -240,9 +240,9 @@
     "Name": "4x4(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 5.7344,
     "MemoryUnitNum": 20,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 31,
     "HalfUnitSizeX": 10,
     "HalfUnitSizeZ": 8,
@@ -250,9 +250,9 @@
     "Name": "5x4(ラグ)"
   },
   {
-    "ResSizeLimit": 7.0,
+    "ResSizeLimit": 5.7344,
     "MemoryUnitNum": 25,
-    "PolygonLimit": 1000,
+    "PolygonLimit": 2000,
     "UniqueID": 32,
     "HalfUnitSizeX": 10,
     "HalfUnitSizeZ": 10,

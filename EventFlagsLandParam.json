@@ -151,7 +151,7 @@
     "MaxValue": 1,
     "UniqueID": 13,
     "Key": "Plorogue4BuiltMuseum",
-    "Name": "フータテント予定地設置したか？",
+    "Name": "博物館|フータテント予定地設置したか？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3067,7 +3067,7 @@
     "MaxValue": 5,
     "UniqueID": 294,
     "Key": "MuseumConstruction2",
-    "Name": "博物館1→2への工事中",
+    "Name": "博物館1→2(美術部屋追加)への工事中",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3079,7 +3079,7 @@
     "MaxValue": 1,
     "UniqueID": 295,
     "Key": "MuseumGrowupEnable2",
-    "Name": "博物館2への成長条件達成",
+    "Name": "博物館2(美術部屋追加)への成長条件達成",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3115,7 +3115,7 @@
     "MaxValue": 1,
     "UniqueID": 306,
     "Key": "Museum3Built",
-    "Name": "博物館②完成",
+    "Name": "博物館②(美術部屋追加)完成",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3127,7 +3127,7 @@
     "MaxValue": 1,
     "UniqueID": 307,
     "Key": "Museum3BuiltToday",
-    "Name": "博物館②完成当日か？",
+    "Name": "博物館②(美術部屋追加)完成当日か？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3139,7 +3139,7 @@
     "MaxValue": 10000,
     "UniqueID": 308,
     "Key": "CountMuseum2AfterBuild",
-    "Name": "博物館②|オープンして何日目か",
+    "Name": "博物館②(美術部屋追加)|オープンして何日目か",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -3151,7 +3151,7 @@
     "MaxValue": 1,
     "UniqueID": 309,
     "Key": "Museum2ConstructionToday",
-    "Name": "今日、博物館②工事当日であるか？",
+    "Name": "今日、博物館②(美術部屋追加)工事当日であるか？",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -4238,6 +4238,42 @@
   {
     "fdb1f290.HashRef": "None",
     "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 416,
+    "Key": "GrowUpAfterPatch1_9",
+    "Name": "1.9適用して成長処理をした",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 65535,
+    "UniqueID": 417,
+    "Key": "RandomKey9",
+    "Name": "ランダムキーi",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 1
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 418,
+    "Key": "BCAT_EventFlag_009",
+    "Name": "イースター2年目準備解禁",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
     "FlagsFlowAccess": "DisableAccess",
     "FlagsNetAccess": "ReadOnly",
     "MaxValue": 9999,
@@ -4280,6 +4316,42 @@
     "UniqueID": 422,
     "Key": "CarnivalEventPlazaNpcWander",
     "Name": "カーニバル｜広場行動NPCがぶらつくか",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 429,
+    "Key": "BCAT_EventFlag_010",
+    "Name": "イースター2年目本番解禁",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 65535,
+    "UniqueID": 430,
+    "Key": "RandomKey10",
+    "Name": "ランダムキーj",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 1
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 437,
+    "Key": "AOC_EventFlag_002",
+    "Name": "AOC同期フラグ| 002 1.9.0NSO加入特典",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   }

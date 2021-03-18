@@ -1086,5 +1086,37 @@
     "PlayerNoEntry": 0,
     "Sand": 0,
     "WaterCheck": 0
+  },
+  {
+    "EffectAttribute": 21,
+    "SoundAttribute": 4,
+    "UniqueID": 72,
+    "ViewSortID": 98,
+    "CanBury": 1,
+    "DebugName": "カスタム1",
+    "FtrPlace": 1,
+    "2e1e45c3 string16": "#EDCF9F",
+    "bd859433 string16": "#EBDAA0",
+    "254bd05 u8": 0,
+    "NpcNoEntry": 0,
+    "PlayerNoEntry": 0,
+    "Sand": 1,
+    "WaterCheck": 0
+  },
+  {
+    "EffectAttribute": 29,
+    "SoundAttribute": 0,
+    "UniqueID": 73,
+    "ViewSortID": 99,
+    "CanBury": 0,
+    "DebugName": "カスタム2",
+    "FtrPlace": 1,
+    "2e1e45c3 string16": "#FFFFFF",
+    "bd859433 string16": "#FFFFFF",
+    "254bd05 u8": 0,
+    "NpcNoEntry": 0,
+    "PlayerNoEntry": 0,
+    "Sand": 0,
+    "WaterCheck": 0
   }
 ]

@@ -3671,7 +3671,7 @@
     "CanBury": 1,
     "CanEat": 1,
     "CanFtr": 0,
-    "CanGift": 0,
+    "CanGift": 1,
     "CanNpcBirthdayPresent": 1,
     "CanNpcPresent": 1,
     "CanPlant": 0,
@@ -4440,7 +4440,7 @@
     "Name": "撮影スタジオ用アイテム"
   },
   {
-    "FtrIconCaptureType": "OnCaptureUIcon",
+    "FtrIconCaptureType": "None",
     "ItemKindUIType": "Present",
     "ItemRemakeType": "None",
     "MessageKind": "80_Etc",

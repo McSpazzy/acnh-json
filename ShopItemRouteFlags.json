@@ -140,6 +140,13 @@
     "ItemFrom": "MileExchangeNewColor"
   },
   {
+    "FlagLand": -1,
+    "FlagPlayer": 1174,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeMydesignPro2"
+  },
+  {
     "FlagLand": 380,
     "FlagPlayer": -1,
     "ShopType": "Shop",
@@ -152,5 +159,12 @@
     "ShopType": "Label1",
     "AttrCollectBit": 1,
     "ItemFrom": "MileExchangeReaction"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 845,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchange_MydesignShowcase"
   }
 ]

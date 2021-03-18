@@ -57,7 +57,7 @@
     "FlagsFlowAccess": 2,
     "Key": "EasterGetRecipeFlag",
     "MaxValue": 1,
-    "Name": "イースター|今日このNPCからレシピを受け取った"
+    "Name": "イースター|今日このNPCからアイテムを受け取った"
   },
   {
     "UniqueID": 5,
@@ -1509,7 +1509,7 @@
     "FlagsFlowAccess": 2,
     "Key": "EasterCannotGetNnpcRecipeFlag",
     "MaxValue": 1,
-    "Name": "イースター|このNPCから受け取り損ねたレシピがある？"
+    "Name": "イースター|このNPCから受け取り損ねたアイテムがある？"
   },
   {
     "UniqueID": 129,
@@ -1810,5 +1810,53 @@
     "Key": "ValentinePresentFlag",
     "MaxValue": 1,
     "Name": "バレンタイン|バレンタインのプレゼント渡した？"
+  },
+  {
+    "UniqueID": 156,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "EasterTalkOutdoorFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/イースター|今日屋外で会話した？"
+  },
+  {
+    "UniqueID": 157,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 1,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "EasterExchangeEggFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/イースターこのNPCとたまご交換した？"
+  },
+  {
+    "UniqueID": 158,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 1,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "EasterExchangeEggTalkFlag",
+    "MaxValue": 1,
+    "Name": "一般NPC/イースター|このNPCとたまご交換の会話をした？"
+  },
+  {
+    "UniqueID": 159,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "EasterCannotGetNnpcIsRecipeFlag",
+    "MaxValue": 1,
+    "Name": "イースター|このNPCから受け取り損ねたのはレシピか"
   }
 ]

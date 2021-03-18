@@ -416,9 +416,22 @@
     "UseRainGoods": 0
   },
   {
-    "ApplyNeedActivity": 0,
+    "ApplyNeedActivity": 1,
     "CanDoze": 0,
     "CastLabel": 32,
+    "d507df3e u8": 0,
+    "EndHour": 29,
+    "EndMinute": 0,
+    "EventName": "Easter",
+    "NeglectSleep": 0,
+    "StartHour": 5,
+    "StartMinute": 0,
+    "UseRainGoods": 0
+  },
+  {
+    "ApplyNeedActivity": 0,
+    "CanDoze": 0,
+    "CastLabel": 33,
     "d507df3e u8": 0,
     "EndHour": 29,
     "EndMinute": 0,

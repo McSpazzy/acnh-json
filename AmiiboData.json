@@ -5143,9 +5143,9 @@
     "NfpType": 1,
     "NpcLabel": "gor11",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 167681,
@@ -5154,9 +5154,9 @@
     "NfpType": 1,
     "NpcLabel": "cbr18",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 316161,
@@ -5165,9 +5165,9 @@
     "NfpType": 1,
     "NpcLabel": "shp14",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 208385,
@@ -5176,9 +5176,9 @@
     "NfpType": 1,
     "NpcLabel": "elp11",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 188417,
@@ -5187,9 +5187,9 @@
     "NfpType": 1,
     "NpcLabel": "der10",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   },
   {
     "CharacterId": 305153,
@@ -5198,8 +5198,8 @@
     "NfpType": 1,
     "NpcLabel": "rbt20",
     "NpcType": 0,
-    "Reaction": 1,
+    "Reaction": 0,
     "SeriesId": 5,
-    "Studio": 1
+    "Studio": 0
   }
 ]

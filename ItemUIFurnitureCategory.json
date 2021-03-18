@@ -295,6 +295,36 @@
     "Name": "雑貨：季節イベント"
   },
   {
+    "UniqueID": 219,
+    "Label": "Sanrio1",
+    "Name": "サンリオコラボ_キティ"
+  },
+  {
+    "UniqueID": 220,
+    "Label": "Sanrio2",
+    "Name": "サンリオコラボ_プリン"
+  },
+  {
+    "UniqueID": 221,
+    "Label": "Sanrio3",
+    "Name": "サンリオコラボ_キキララ"
+  },
+  {
+    "UniqueID": 222,
+    "Label": "Sanrio4",
+    "Name": "サンリオコラボ_シナモン"
+  },
+  {
+    "UniqueID": 223,
+    "Label": "Sanrio5",
+    "Name": "サンリオコラボ_マイメロ"
+  },
+  {
+    "UniqueID": 224,
+    "Label": "Sanrio6",
+    "Name": "サンリオコラボ_けろっぴ"
+  },
+  {
     "UniqueID": 218,
     "Label": "Mario",
     "Name": "マリオコラボ"
@@ -563,6 +593,11 @@
     "UniqueID": 67,
     "Label": "SpInorganic",
     "Name": "◆◆特殊（無機質）"
+  },
+  {
+    "UniqueID": 157,
+    "Label": "Sanrio",
+    "Name": "◆◆サンリオ"
   },
   {
     "UniqueID": 195,
@@ -910,6 +945,11 @@
     "Name": "■■特殊（無機質）"
   },
   {
+    "UniqueID": 156,
+    "Label": "WallSanrio",
+    "Name": "■■サンリオ"
+  },
+  {
     "UniqueID": 143,
     "Label": "RugSimple",
     "Name": "●●シンプル"
@@ -983,6 +1023,11 @@
     "UniqueID": 177,
     "Label": "RugPark",
     "Name": "●●どうぶつの森"
+  },
+  {
+    "UniqueID": 172,
+    "Label": "RugSanrio",
+    "Name": "●●サンリオ"
   },
   {
     "UniqueID": 181,

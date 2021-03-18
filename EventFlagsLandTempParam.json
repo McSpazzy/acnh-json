@@ -910,5 +910,17 @@
     "FlagsNetAccess": 0,
     "Key": "PckDanceEffect",
     "Name": "カーニバル/べルリーナ|ダンス時にエフェクトを出すか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 98,
+    "5140e4b4 u8": 3,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 0,
+    "FlagsNetAccess": 2,
+    "Key": "SetCampSiteRequestFtr",
+    "Name": "テントで納品した家具を配置したか"
   }
 ]

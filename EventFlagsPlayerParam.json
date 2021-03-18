@@ -188,7 +188,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "KaburibaTalkTodayFlag",
-    "Name": "カブリバ孫|今日すでに会話した？",
+    "Name": "ウリ|今日すでに会話した？",
     "SendPlayReport": 1
   },
   {
@@ -200,7 +200,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "KaburibaTalkBeforeFlag",
-    "Name": "カブリバ孫|今までに会話したことある？",
+    "Name": "ウリ|今までに会話したことある？",
     "SendPlayReport": 1
   },
   {
@@ -212,7 +212,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "KaburibaBuyKabuTodayFlag",
-    "Name": "カブリバ孫|今日カブ買った？",
+    "Name": "ウリ|今日カブ買った？",
     "SendPlayReport": 1
   },
   {
@@ -980,7 +980,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OdekakeTutorial",
-    "Name": "空港|おでかけ初回説明済？",
+    "Name": "空港|モーリー|おでかけ初回説明済？",
     "SendPlayReport": 1
   },
   {
@@ -992,7 +992,7 @@
     "c436ce69 u8": 1,
     "FlagsFlowAccess": 2,
     "Key": "OdekakeTutorialKeyword",
-    "Name": "空港|おでかけあいことばマッチメイク初回説明済？",
+    "Name": "空港|モーリー|おでかけあいことばマッチメイク初回説明済？",
     "SendPlayReport": 1
   },
   {
@@ -1052,7 +1052,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OdekakeFirstTalk",
-    "Name": "空港|おでかけ初めて話しかけた？",
+    "Name": "空港|モーリー|おでかけ初めて話しかけた？",
     "SendPlayReport": 1
   },
   {
@@ -1064,7 +1064,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OdekakeFirstOpenGate",
-    "Name": "空港|おでかけ始めて改札を開けた説明済？",
+    "Name": "空港|モーリー|おでかけ始めて改札を開けた説明済？",
     "SendPlayReport": 1
   },
   {
@@ -1292,7 +1292,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChmTalkRuleFirst",
-    "Name": "[大会]カメヤマ|初回ルール説明聞いたか？",
+    "Name": "[大会]レックス|初回ルール説明聞いたか？",
     "SendPlayReport": 1
   },
   {
@@ -1304,7 +1304,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChmQuestFinish",
-    "Name": "[大会]カメヤマ|結果発表あるか？",
+    "Name": "[大会]レックス|結果発表あるか？",
     "SendPlayReport": 0
   },
   {
@@ -1316,7 +1316,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChmTalkPoint_BeforeEv",
-    "Name": "[大会]カメヤマ|受付前、ポイント交換のお誘い聞いた?",
+    "Name": "[大会]レックス|受付前、ポイント交換のお誘い聞いた?",
     "SendPlayReport": 1
   },
   {
@@ -1328,7 +1328,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChmTalkFirst_EvQuestFinish",
-    "Name": "[大会]カメヤマ|今日大会クエストしたか？",
+    "Name": "[大会]レックス|今日大会クエストしたか？",
     "SendPlayReport": 1
   },
   {
@@ -1340,7 +1340,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChmTalkFirst_AfterEv",
-    "Name": "[大会]カメヤマ|受付終了後、初回会話聞いた？",
+    "Name": "[大会]レックス|受付終了後、初回会話聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -1532,7 +1532,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "KaburibaConditionFlag",
-    "Name": "カブリバ孫|プレイヤーが住む前から来訪していた？",
+    "Name": "ウリ|プレイヤーが住む前から来訪していた？",
     "SendPlayReport": 1
   },
   {
@@ -1796,7 +1796,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BevTalkRuleFirst",
-    "Name": "[大会]|うおまさJr|初回ルール説明聞いたか？",
+    "Name": "[大会]ジャスティン|初回ルール説明聞いたか？",
     "SendPlayReport": 1
   },
   {
@@ -1808,7 +1808,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BevQuestFinish",
-    "Name": "[大会]|うおまさJr|結果発表あるか？",
+    "Name": "[大会]ジャスティン|結果発表あるか？",
     "SendPlayReport": 0
   },
   {
@@ -1820,7 +1820,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BevTalkPoint_BeforeEv",
-    "Name": "[大会]|うおまさJr|受付前ポイント交換のお誘い聞いた?",
+    "Name": "[大会]ジャスティン|受付前ポイント交換のお誘い聞いた?",
     "SendPlayReport": 1
   },
   {
@@ -1832,7 +1832,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BevTalkFirst_EvQuestFinish",
-    "Name": "[大会]|うおまさJr|今日クエストしたか？",
+    "Name": "[大会]ジャスティン|今日クエストしたか？",
     "SendPlayReport": 1
   },
   {
@@ -1844,7 +1844,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BevTalkFirst_AfterEv",
-    "Name": "[大会]|うおまさJr|受付終了後、初回会話聞いた？",
+    "Name": "[大会]ジャスティン|受付終了後、初回会話聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -2816,7 +2816,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_TalkFirst",
-    "Name": "カメヤマJr|面識ある？（大会、来訪共通）",
+    "Name": "レックス|面識ある？（大会、来訪共通）",
     "SendPlayReport": 1
   },
   {
@@ -2828,7 +2828,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_TalkFirst",
-    "Name": "うおまさJr|面識ある？（大会、来訪共通）",
+    "Name": "ジャスティン|面識ある？（大会、来訪共通）",
     "SendPlayReport": 1
   },
   {
@@ -2840,7 +2840,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_QuestClear",
-    "Name": "うおまさJr|来訪クエスト達成会話聞いた？",
+    "Name": "ジャスティン|来訪クエスト達成会話聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -3332,7 +3332,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_QuestCount",
-    "Name": "うおまさJr|指定サイズの魚を釣り上げた回数",
+    "Name": "ジャスティン|指定サイズの魚を釣り上げた回数",
     "SendPlayReport": 1
   },
   {
@@ -3392,7 +3392,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "DodExplainAboutMysteryTour",
-    "Name": "飛行場職員|ミステリーツアーの説明聞いた？",
+    "Name": "モーリー|ミステリーツアーの説明聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -3416,7 +3416,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "DodFirstTalkAfterPlusEnable",
-    "Name": "飛行場職員|初会話したのはマイレージ+解禁後？",
+    "Name": "モーリー|初会話したのはマイレージ+解禁後？",
     "SendPlayReport": 1
   },
   {
@@ -3464,7 +3464,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "DodUseFirstFreeTour",
-    "Name": "飛行場職員|ミステリーツアーの初回無料権使った？",
+    "Name": "モーリー|ミステリーツアーの初回無料権使った？",
     "SendPlayReport": 1
   },
   {
@@ -3608,7 +3608,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_TalkFirstDay",
-    "Name": "カメヤマJr|今回の来訪中に話したか？",
+    "Name": "レックス|今回の来訪中に話したか？",
     "SendPlayReport": 1
   },
   {
@@ -3620,7 +3620,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_SellCount",
-    "Name": "カメヤマJr|買取総数（今回計算含む）/未使用",
+    "Name": "レックス|買取総数（今回計算含む）/未使用",
     "SendPlayReport": 1
   },
   {
@@ -3632,7 +3632,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_SellFirst",
-    "Name": "カメヤマJr|今日買取した？",
+    "Name": "レックス|今日買取した？",
     "SendPlayReport": 1
   },
   {
@@ -3704,7 +3704,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_TalkFirstDay",
-    "Name": "うおまさJr|今回の来訪中に話した？",
+    "Name": "ジャスティン|今回の来訪中に話した？",
     "SendPlayReport": 1
   },
   {
@@ -3740,7 +3740,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_QuestStart",
-    "Name": "うおまさJr|クエスト申し込みした？",
+    "Name": "ジャスティン|クエスト申し込みした？",
     "SendPlayReport": 1
   },
   {
@@ -3872,7 +3872,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_TotalPoint",
-    "Name": "[大会]カメヤマ|ムシとり大会累計ポイント",
+    "Name": "[大会]レックス|ムシとり大会累計ポイント",
     "SendPlayReport": 1
   },
   {
@@ -3884,7 +3884,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_TotalPoint",
-    "Name": "[大会]|うおまさJr|つり大会累計ポイント",
+    "Name": "[大会]ジャスティン|つり大会累計ポイント",
     "SendPlayReport": 1
   },
   {
@@ -3896,7 +3896,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_GetTrophyGold",
-    "Name": "[大会]カメヤマ|トロフィ金もらったか？",
+    "Name": "[大会]レックス|トロフィ金もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3908,7 +3908,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_GetTrophySilver",
-    "Name": "[大会]カメヤマ|トロフィ銀もらったか？",
+    "Name": "[大会]レックス|トロフィ銀もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3920,7 +3920,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_GetTrophyCopper",
-    "Name": "[大会]カメヤマ|トロフィ銅もらったか？",
+    "Name": "[大会]レックス|トロフィ銅もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3932,7 +3932,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_GetTrophyGold",
-    "Name": "[大会]|うおまさJr|トロフィ金もらったか？",
+    "Name": "[大会]ジャスティン|トロフィ金もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3944,7 +3944,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_GetTrophySilver",
-    "Name": "[大会]|うおまさJr|トロフィ銀もらったか？",
+    "Name": "[大会]ジャスティン|トロフィ銀もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3956,7 +3956,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_GetTrophyCopper",
-    "Name": "[大会]|うおまさJr|トロフィ銅もらったか？",
+    "Name": "[大会]ジャスティン|トロフィ銅もらったか？",
     "SendPlayReport": 1
   },
   {
@@ -3980,7 +3980,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_ReqObj",
-    "Name": "うおまさJr|サカナOBJ申込した？",
+    "Name": "ジャスティン|サカナOBJ申込した？",
     "SendPlayReport": 1
   },
   {
@@ -3992,7 +3992,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_ReqObj",
-    "Name": "カメヤマJr|ムシOBJ申込した？",
+    "Name": "レックス|ムシOBJ申込した？",
     "SendPlayReport": 1
   },
   {
@@ -4004,7 +4004,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_ExplainReqObj_First",
-    "Name": "うおまさJr|サカナOBJ初回説明聞いた？",
+    "Name": "ジャスティン|サカナOBJ初回説明聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -4016,7 +4016,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_ExplainReqObj_First",
-    "Name": "カメヤマJr|ムシOBJ初回説明聞いた？",
+    "Name": "レックス|ムシOBJ初回説明聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -4124,7 +4124,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_ExolainQ_First",
-    "Name": "うおまさJr|初回クエスト説明聞いた？",
+    "Name": "ジャスティン|初回クエスト説明聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -4268,7 +4268,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyDaily_AnnounceEvent",
-    "Name": "カメヤマJr|ムシとり大会予告聞いた？",
+    "Name": "レックス|ムシとり大会予告聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -4280,7 +4280,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyDaily_AnnounceEvent",
-    "Name": "うおまさJr|つり大会予告聞いた？",
+    "Name": "ジャスティン|つり大会予告聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -4784,7 +4784,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 0,
     "Key": "ChyDaily_InsectSellNum",
-    "Name": "カメヤマJr|今回の来訪中に買取した数",
+    "Name": "レックス|今回の来訪中に買取した数",
     "SendPlayReport": 1
   },
   {
@@ -4832,7 +4832,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_TalkTrophyGold",
-    "Name": "[大会]|カメヤマJr|金トロフィ会話した？",
+    "Name": "[大会]レックス|金トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -4844,7 +4844,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_TalkTrophySilver",
-    "Name": "[大会]|カメヤマJr|銀トロフィ会話した？",
+    "Name": "[大会]レックス|銀トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -4856,7 +4856,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_TalkTrophyCopper",
-    "Name": "[大会]|カメヤマJr|銅トロフィ会話した？",
+    "Name": "[大会]レックス|銅トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -4868,7 +4868,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_TalkTrophyGold",
-    "Name": "[大会]|うおまさJr|金トロフィ会話した？",
+    "Name": "[大会]ジャスティン|金トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -4880,7 +4880,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_TalkTrophySilver",
-    "Name": "[大会]|うおまさJr|銀トロフィ会話した？",
+    "Name": "[大会]ジャスティン|銀トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -4892,7 +4892,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_TalkTrophyCopper",
-    "Name": "[大会]|うおまさJr|銅トロフィ会話した？",
+    "Name": "[大会]ジャスティン|銅トロフィ会話した？",
     "SendPlayReport": 1
   },
   {
@@ -6080,7 +6080,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BeyEvent_TalkFirst",
-    "Name": "[大会]うおまさJr|つり大会の日に会話したか？",
+    "Name": "[大会]ジャスティン|つり大会の日に会話したか？",
     "SendPlayReport": 1
   },
   {
@@ -6152,7 +6152,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ChyEvent_TalkFirst",
-    "Name": "[大会]カメヤマJr|ムシとり大会の日に会話をしたか？",
+    "Name": "[大会]レックス|ムシとり大会の日に会話をしたか？",
     "SendPlayReport": 1
   },
   {
@@ -6584,7 +6584,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BocAllowAddBuyCount",
-    "Name": "カブリバ孫|カブ購入回数加算許可",
+    "Name": "ウリ|カブ購入回数加算許可",
     "SendPlayReport": 1
   },
   {
@@ -6596,7 +6596,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BocBuyCount",
-    "Name": "カブリバ孫|カブ購入回数",
+    "Name": "ウリ|カブ購入回数",
     "SendPlayReport": 1
   },
   {
@@ -6608,7 +6608,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "BocBuyNumCount",
-    "Name": "カブリバ孫|カブ購入個数",
+    "Name": "ウリ|カブ購入個数",
     "SendPlayReport": 1
   },
   {
@@ -7244,7 +7244,7 @@
     "c436ce69 u8": 1,
     "FlagsFlowAccess": 2,
     "Key": "OdekakeFirstInternet",
-    "Name": "空港|おでかけ初めてインターネットの島を選択",
+    "Name": "空港|モーリー|おでかけ初めてインターネットの島を選択",
     "SendPlayReport": 1
   },
   {
@@ -8708,7 +8708,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "StampRallyRunningForPlayer",
-    "Name": "スタンプラリーに参加中？",
+    "Name": "フータ/国際ミュージアム|スタンプラリーに参加中？",
     "SendPlayReport": 1
   },
   {
@@ -8720,7 +8720,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally1",
-    "Name": "スタンプラリー（ムシ）1つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ1つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8732,7 +8732,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally2",
-    "Name": "スタンプラリー（ムシ）2つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ2つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8744,7 +8744,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally3",
-    "Name": "スタンプラリー（ムシ）3つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ3つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8756,7 +8756,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally1",
-    "Name": "スタンプラリー（サカナ）1つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ1つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8768,7 +8768,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally2",
-    "Name": "スタンプラリー（サカナ）2つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ2つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8780,7 +8780,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally3",
-    "Name": "スタンプラリー（サカナ）3つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ3つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8792,7 +8792,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally1",
-    "Name": "スタンプラリー（かせき）1つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ1つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8804,7 +8804,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally2",
-    "Name": "スタンプラリー（かせき）2つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ2つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -8816,7 +8816,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally3",
-    "Name": "スタンプラリー（かせき）3つ目を押した？",
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ3つ目を押した？",
     "SendPlayReport": 1
   },
   {
@@ -9356,7 +9356,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampPlayed",
-    "Name": "フータ|スタンプラリーに参加したことがある",
+    "Name": "フータ/国際ミュージアム|今年スタンプラリーに参加した？",
     "SendPlayReport": 1
   },
   {
@@ -9368,8 +9368,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampPocketWasFull",
-    "Name": "フータ|スタンプラリー報酬受け取りでポケットいっぱいだった",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|報酬受け取りでポケットいっぱいだった",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9380,8 +9380,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotInsectReward",
-    "Name": "フータ|その日、スタンプ(ムシ)報酬を貰った",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、ムシ報酬を貰った",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9392,8 +9392,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFishReward",
-    "Name": "フータ|その日、スタンプ(サカナ)報酬を貰った",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、サカナ報酬を貰った",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9404,8 +9404,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFossilReward",
-    "Name": "フータ|その日、スタンプ(化石)報酬を貰った",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、かせき報酬を貰った",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9464,8 +9464,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotInsect",
-    "Name": "フータ|その日、フータスタンプ(ムシ)を押した",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、フータスタンプ(ムシ)を押した",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9476,8 +9476,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFish",
-    "Name": "フータ|その日、フータスタンプ(サカナ)を押した",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、フータスタンプ(サカナ)を押した",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9488,8 +9488,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFossil",
-    "Name": "フータ|その日、フータスタンプ(化石)を押した",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|その日、フータスタンプ(かせき)を押した",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -9812,8 +9812,8 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotRewardExplain",
-    "Name": "フータ|スタンプラリー報酬は二重に貰えない説明を受けた",
-    "SendPlayReport": 0
+    "Name": "フータ/国際ミュージアム|スタンプラリー報酬は二重に貰えない説明を受けた",
+    "SendPlayReport": 1
   },
   {
     "DefaultValue": 0,
@@ -10124,7 +10124,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "PAnnounceStampRally",
-    "Name": "島内放送|国際ミュージアムの放送を聞いた？",
+    "Name": "島内放送|今年国際ミュージアム初回ログイン時の放送を聞いた？",
     "SendPlayReport": 1
   },
   {
@@ -11282,6 +11282,54 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 1171,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AddHowtoBookMydesignPro2",
+    "Name": "マイデザインPROエディタ２解禁条件を満たしたか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1172,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockMydesignPro2",
+    "Name": "マイデザインPROエディタ２習得済みか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1173,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "ExplainMydesignPro2",
+    "Name": "マイデザインPROエディタ２習得後の説明を聞いたか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1174,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RcoMachineExplainMydesignPro2",
+    "Name": "タヌポートでマイデザインPROエディタ２販売開始の案内聞いたか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 1177,
     "5140e4b4 u8": 0,
     "bed25a86 u8": 1,
@@ -11672,7 +11720,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "AnnounceHalloween",
-    "Name": "ハロウィンを島内放送で告知した",
+    "Name": "ハロウィンを島内放送で告知した(2回目放送用)",
     "SendPlayReport": 1
   },
   {
@@ -11684,7 +11732,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "AnnounceHarvest",
-    "Name": "ハーベスト｜当日島内放送で告知した",
+    "Name": "ハーベスト｜当日島内放送で告知した(2回目放送用)",
     "SendPlayReport": 1
   },
   {
@@ -12625,6 +12673,18 @@
   },
   {
     "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1310,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MainmenuMydesignShowcase",
+    "Name": "スマホUI|マイデザインショーケース解禁",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
     "MaxValue": 8,
     "UniqueID": 1311,
     "5140e4b4 u8": 1,
@@ -12656,7 +12716,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "AnnounceChristmasEve",
-    "Name": "クリスマス｜当日に島内放送で告知した？",
+    "Name": "クリスマス｜当日に島内放送で告知した？(2回目放送用)",
     "SendPlayReport": 1
   },
   {
@@ -12693,6 +12753,30 @@
     "FlagsFlowAccess": 2,
     "Key": "PckRecipeTalkFlag",
     "Name": "カーニバル/べルリーナ|にじいろのはねのレシピもらう会話した？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1326,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Mobile1stBoot_MydesignShowcase",
+    "Name": "スマホアプリ初起動|マイデザインアプリにショーケース追加",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1327,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MydesignExchangeTalkAboutMobile",
+    "Name": "マイデザイン交換| マイデザインショーケースアプリについて説明",
     "SendPlayReport": 1
   },
   {
@@ -12812,7 +12896,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "AnnounceCarnival",
-    "Name": "カーニバル｜当日に島内放送で告知した？",
+    "Name": "カーニバル｜当日に島内放送で告知した？(2回目放送用)",
     "SendPlayReport": 1
   },
   {
@@ -12825,6 +12909,210 @@
     "FlagsFlowAccess": 2,
     "Key": "ShootDownShamrockRecipeBalloon",
     "Name": "シャムロックデー|今日、シャムロックステッキのレシピ風船を撃ち落としたか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1339,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "MailSendFlag_ReceiveAnniversaryItem",
+    "Name": "手紙|1周年手紙を送った",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1340,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "AOC_EventFlag_002",
+    "Name": "AOC同期フラグ| 002 1.9.0NSO加入特典",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1341,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster",
+    "Name": "サンリオNPCポスター解禁_キティ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1342,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster2",
+    "Name": "サンリオNPCポスター解禁_プリン",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1343,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster3",
+    "Name": "サンリオNPCポスター解禁_キキララ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1344,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster4",
+    "Name": "サンリオNPCポスター解禁_シナモン",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1345,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster5",
+    "Name": "サンリオNPCポスター解禁_マイメロ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1346,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollaboPoster6",
+    "Name": "サンリオNPCポスター解禁_けろっぴ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1347,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AnnounceEaster",
+    "Name": "イースター(2021年)｜当日に島内放送で告知した？(2回目放送用)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1355,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AnnounceEasterReady",
+    "Name": "イースター(2021年)｜準備期間に島内放送で告知した？(2回目放送用)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1358,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "PynEvent_SendMailThisYear",
+    "Name": "イースター|今年手紙を受け取った？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1373,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo",
+    "Name": "サンリオコラボ解禁_キティ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1374,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo2",
+    "Name": "サンリオコラボ解禁_プリン",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1375,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo3",
+    "Name": "サンリオコラボ解禁_キキララ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1376,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo4",
+    "Name": "サンリオコラボ解禁_シナモン",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1377,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo5",
+    "Name": "サンリオコラボ解禁_マイメロ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1378,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "UnlockSanrioCollabo6",
+    "Name": "サンリオコラボ解禁_けろっぴ",
     "SendPlayReport": 1
   }
 ]

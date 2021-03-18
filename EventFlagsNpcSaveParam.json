@@ -475,5 +475,14 @@
     "FlagsFlowAccess": 2,
     "Key": "HarvestDemoStateNow",
     "Name": "ハーベスト｜デモ参加状態か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 36,
+    "UniqueID": 70,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "WearItemLayer1LayoutLimit",
+    "Name": "成長処理家具入替時の装備品の二層目配置候補上限数"
   }
 ]

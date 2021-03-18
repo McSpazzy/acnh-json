@@ -385,6 +385,14 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 192,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeMydesignPro2",
+    "Name": "マイル交換_マイデザインPRO2(買い切り)",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 207,
     "8f225c6 u8": 0,
     "Label": "MileExchangeReaction",
@@ -496,6 +504,30 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 51,
+    "UniqueID": 241,
+    "8f225c6 u8": 0,
+    "Label": "TailorMarketOnlyProm",
+    "Name": "仕立て屋_店舗_プロム",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 23,
+    "UniqueID": 10,
+    "8f225c6 u8": 0,
+    "Label": "ShoesBagShop",
+    "Name": "シャンク",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 23,
+    "UniqueID": 188,
+    "8f225c6 u8": 0,
+    "Label": "ShoesBagShop_Halloween",
+    "Name": "シャンク_ハロウィン",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 253,
     "UniqueID": 22,
     "8f225c6 u8": 0,
@@ -525,22 +557,6 @@
     "8f225c6 u8": 0,
     "Label": "LaurentWallFloor",
     "Name": "ローラン壁床",
-    "RegionEventItem": 0
-  },
-  {
-    "HHABaseScore": 23,
-    "UniqueID": 10,
-    "8f225c6 u8": 0,
-    "Label": "ShoesBagShop",
-    "Name": "シャンク",
-    "RegionEventItem": 0
-  },
-  {
-    "HHABaseScore": 23,
-    "UniqueID": 188,
-    "8f225c6 u8": 0,
-    "Label": "ShoesBagShop_Halloween",
-    "Name": "シャンク_ハロウィン",
     "RegionEventItem": 0
   },
   {
@@ -1236,7 +1252,7 @@
     "UniqueID": 152,
     "8f225c6 u8": 0,
     "Label": "MoonViewing",
-    "Name": "<リージョン>中秋節",
+    "Name": "<リージョン>お月見",
     "RegionEventItem": 1
   },
   {
@@ -1380,7 +1396,7 @@
     "UniqueID": 228,
     "8f225c6 u8": 0,
     "Label": "BigGame2",
-    "Name": "<リージョン>ビッグゲーム2",
+    "Name": "<リージョン>ビッグゲーム_ラグ",
     "RegionEventItem": 1
   },
   {
@@ -1424,6 +1440,46 @@
     "RegionEventItem": 1
   },
   {
+    "HHABaseScore": 201,
+    "UniqueID": 238,
+    "8f225c6 u8": 0,
+    "Label": "AprilFool",
+    "Name": "<リージョン>エイプリルフール",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 237,
+    "8f225c6 u8": 0,
+    "Label": "Prom",
+    "Name": "<リージョン>プロム",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 250,
+    "8f225c6 u8": 0,
+    "Label": "Prom_Sash",
+    "Name": "<リージョン>プロム_たすき",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 240,
+    "8f225c6 u8": 0,
+    "Label": "PlantingDay",
+    "Name": "<リージョン>植木の日",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 239,
+    "8f225c6 u8": 0,
+    "Label": "EarthDay",
+    "Name": "<リージョン>アースデー",
+    "RegionEventItem": 1
+  },
+  {
     "HHABaseScore": 178,
     "UniqueID": 159,
     "8f225c6 u8": 1,
@@ -1440,11 +1496,91 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 201,
+    "UniqueID": 234,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo",
+    "Name": "<永続配信>サンリオコラボ_キティ",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 245,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo2",
+    "Name": "<永続配信>サンリオコラボ_プリン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 242,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo3",
+    "Name": "<永続配信>サンリオコラボ_キキララ",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 244,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo4",
+    "Name": "<永続配信>サンリオコラボ_シナモン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 246,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo5",
+    "Name": "<永続配信>サンリオコラボ_マイメロ",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 243,
+    "8f225c6 u8": 1,
+    "Label": "SanrioCollabo6",
+    "Name": "<永続配信>サンリオコラボ_けろっぴ",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 431,
+    "UniqueID": 247,
+    "8f225c6 u8": 0,
+    "Label": "BlancoLogin",
+    "Name": "Blancoログインボーナス",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 777,
+    "UniqueID": 249,
+    "8f225c6 u8": 0,
+    "Label": "1stAnniversary",
+    "Name": "1周年記念",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 437,
+    "UniqueID": 259,
+    "8f225c6 u8": 1,
+    "Label": "NSOBenefit2",
+    "Name": "NSO加入特典2",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 351,
     "UniqueID": 163,
     "8f225c6 u8": 0,
     "Label": "Easter",
     "Name": "イースター",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 351,
+    "UniqueID": 235,
+    "8f225c6 u8": 0,
+    "Label": "Easter_Shop",
+    "Name": "イースター店舗",
     "RegionEventItem": 0
   },
   {

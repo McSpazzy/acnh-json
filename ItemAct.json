@@ -704,6 +704,17 @@
     "SwitchableOnWall": 0
   },
   {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 75,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "FacePanel",
+    "Name": "かおだしかんばん",
+    "SwitchableOnWall": 0
+  },
+  {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",

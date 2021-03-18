@@ -648,5 +648,25 @@
     "FlagsFlowAccess": 2,
     "Key": "CarnivalApproachAlready",
     "Name": "カーニバルアプローチ発生が画面内で発生済みか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 5,
+    "UniqueID": 72,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "EasterExchangeEggKind",
+    "Name": "イースター｜交換するタマゴの種類"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 73,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "EasterScheduleDay",
+    "Name": "イースター｜イースター用のスケジュールが設定された日か"
   }
 ]

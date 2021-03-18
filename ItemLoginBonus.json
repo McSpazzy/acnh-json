@@ -1,0 +1,32 @@
+[
+  {
+    "ItemID": 13315,
+    "UniqueID": 0,
+    "UnlockTrigger": 0
+  },
+  {
+    "ItemID": 14250,
+    "UniqueID": 1,
+    "UnlockTrigger": 0
+  },
+  {
+    "ItemID": 14298,
+    "UniqueID": 2,
+    "UnlockTrigger": 0
+  },
+  {
+    "ItemID": 14254,
+    "UniqueID": 3,
+    "UnlockTrigger": 0
+  },
+  {
+    "ItemID": 14256,
+    "UniqueID": 4,
+    "UnlockTrigger": 1
+  },
+  {
+    "ItemID": 14255,
+    "UniqueID": 5,
+    "UnlockTrigger": 0
+  }
+]

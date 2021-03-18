@@ -373,7 +373,7 @@
     "UniqueID": 64,
     "FlagsFlowAccess": 2,
     "Key": "StampRallyRunningForPlayer",
-    "Name": "お出かけ先|スタンプラリーに参加中？"
+    "Name": "フータ/国際ミュージアム|スタンプラリーに参加中？"
   },
   {
     "DefaultValue": 0,
@@ -381,7 +381,7 @@
     "UniqueID": 65,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally1",
-    "Name": "お出かけ先|スタンプラリー（ムシ）1つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ1つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -389,7 +389,7 @@
     "UniqueID": 66,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally2",
-    "Name": "お出かけ先|スタンプラリー（ムシ）2つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ2つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -397,7 +397,7 @@
     "UniqueID": 67,
     "FlagsFlowAccess": 2,
     "Key": "OwlInsectStampRally3",
-    "Name": "お出かけ先|スタンプラリー（ムシ）3つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【ムシ】スタンプ3つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -405,7 +405,7 @@
     "UniqueID": 68,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally1",
-    "Name": "お出かけ先|スタンプラリー（サカナ）1つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ1つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -413,7 +413,7 @@
     "UniqueID": 69,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally2",
-    "Name": "お出かけ先|スタンプラリー（サカナ）2つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ2つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -421,7 +421,7 @@
     "UniqueID": 70,
     "FlagsFlowAccess": 2,
     "Key": "OwlFishStampRally3",
-    "Name": "お出かけ先|スタンプラリー（サカナ）3つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【サカナ】スタンプ3つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -429,7 +429,7 @@
     "UniqueID": 71,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally1",
-    "Name": "お出かけ先|スタンプラリー（かせき）1つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ1つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -437,7 +437,7 @@
     "UniqueID": 72,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally2",
-    "Name": "お出かけ先|スタンプラリー（かせき）2つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ2つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -445,7 +445,7 @@
     "UniqueID": 73,
     "FlagsFlowAccess": 2,
     "Key": "OwlFossilStampRally3",
-    "Name": "お出かけ先|スタンプラリー（かせき）3つ目を押した？"
+    "Name": "フータ/国際ミュージアム|【かせき】スタンプ3つ目を押した？"
   },
   {
     "DefaultValue": 0,
@@ -453,7 +453,7 @@
     "UniqueID": 74,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampPocketWasFull",
-    "Name": "お出かけ先|スタンプラリー報酬受け取りでポケットいっぱいだった"
+    "Name": "フータ/国際ミュージアム|報酬受け取りでポケットいっぱいだった"
   },
   {
     "DefaultValue": 0,
@@ -461,7 +461,7 @@
     "UniqueID": 75,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotInsect",
-    "Name": "お出かけ先|その日、フータスタンプ(ムシ)を押した"
+    "Name": "フータ/国際ミュージアム|フータスタンプ(ムシ)を押した"
   },
   {
     "DefaultValue": 0,
@@ -469,7 +469,7 @@
     "UniqueID": 76,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFish",
-    "Name": "お出かけ先|その日、フータスタンプ(サカナ)を押した"
+    "Name": "フータ/国際ミュージアム|フータスタンプ(サカナ)を押した"
   },
   {
     "DefaultValue": 0,
@@ -477,7 +477,7 @@
     "UniqueID": 77,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotFossil",
-    "Name": "お出かけ先|その日、フータスタンプ(化石)を押した"
+    "Name": "フータ/国際ミュージアム|フータスタンプ(かせき)を押した"
   },
   {
     "DefaultValue": 0,
@@ -501,7 +501,7 @@
     "UniqueID": 80,
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotRewardExplain",
-    "Name": "フータ|スタンプラリー報酬は二重に貰えない説明を受けた"
+    "Name": "フータ/国際ミュージアム|スタンプラリー報酬は二重に貰えない説明を受けた"
   },
   {
     "DefaultValue": 0,

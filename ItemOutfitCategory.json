@@ -658,7 +658,7 @@
   {
     "2924e11f u16": 13,
     "UniqueID": 52,
-    "CanHasSit": 0,
+    "CanHasSit": 1,
     "EquipOnlyOutdoor": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "Dumbbell",
@@ -866,7 +866,7 @@
   {
     "2924e11f u16": 24,
     "UniqueID": 69,
-    "CanHasSit": 0,
+    "CanHasSit": 1,
     "EquipOnlyOutdoor": 0,
     "HandToolAsName": "CommonToolHand",
     "Label": "LightDumbbell",

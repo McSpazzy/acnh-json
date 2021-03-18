@@ -971,7 +971,17 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": 16,
+    "MaxValue": 1,
+    "UniqueID": 114,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "EnterSceneByMydesignShowcaseApp",
+    "Name": "マイデザインショーケース| アプリからのシーン遷移かどうか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 64,
     "UniqueID": 115,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
