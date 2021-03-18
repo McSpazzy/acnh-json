@@ -21504,7 +21504,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "172CFB8D",
+    "NpcMsgBullfestCondition": "NightClothes",
     "AN1Index": 221,
     "AN2Index": 401,
     "AccessoryID": 65534,
@@ -21536,7 +21536,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "7150603C",
+    "NpcMsgBullfestCondition": "HgcSet",
     "AN1Index": 222,
     "AN2Index": 401,
     "AccessoryID": 65534,
@@ -22720,7 +22720,7 @@
     "ZK2Index": 401
   },
   {
-    "NpcMsgBullfestCondition": "51F1ECE2",
+    "NpcMsgBullfestCondition": "BestClothes",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": 65534,
@@ -23520,7 +23520,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "75E2671A",
+    "NpcMsgBullfestCondition": "SweatSuit",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": 65534,
@@ -24096,7 +24096,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "BDFF15FE",
+    "NpcMsgBullfestCondition": "GorgeousKimono",
     "AN1Index": -1,
     "AN2Index": -1,
     "AccessoryID": 65534,
@@ -24128,7 +24128,7 @@
     "ZK2Index": 65535
   },
   {
-    "NpcMsgBullfestCondition": "CA4045D4",
+    "NpcMsgBullfestCondition": "JinbeiSet",
     "AN1Index": 311,
     "AN2Index": 401,
     "AccessoryID": 65534,
