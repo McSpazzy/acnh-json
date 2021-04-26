@@ -9,7 +9,7 @@
     "UniqueID": 30,
     "EventLabel": "WorldNewYear",
     "ItemFrom": "NewYearWorld",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -23,7 +23,7 @@
     "UniqueID": 29,
     "EventLabel": "RoshiaNewYear",
     "ItemFrom": "NewYearRoshia",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -37,7 +37,7 @@
     "UniqueID": 32,
     "EventLabel": "ChinaNewYear",
     "ItemFrom": "NewYearChina",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -51,7 +51,7 @@
     "UniqueID": 28,
     "EventLabel": "RegionNewYear2",
     "ItemFrom": "NewYearDay2",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -65,7 +65,7 @@
     "UniqueID": 15,
     "EventLabel": "RegionNewYear",
     "ItemFrom": "NewYearDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -79,7 +79,7 @@
     "UniqueID": 33,
     "EventLabel": "RegionNewYear3",
     "ItemFrom": "NeyYearDay3",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -93,7 +93,7 @@
     "UniqueID": 31,
     "EventLabel": "KoreaNewYear",
     "ItemFrom": "NewYearKorea",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -107,7 +107,7 @@
     "UniqueID": 1,
     "EventLabel": "MothersDay",
     "ItemFrom": "MotherDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -121,7 +121,7 @@
     "UniqueID": 2,
     "EventLabel": "WorldChild",
     "ItemFrom": "WoldChildDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -135,7 +135,7 @@
     "UniqueID": 3,
     "EventLabel": "FathersDay",
     "ItemFrom": "FatherDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -149,7 +149,7 @@
     "UniqueID": 4,
     "EventLabel": "SummerSolstice",
     "ItemFrom": "SummerSolstice",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -163,7 +163,7 @@
     "UniqueID": 16,
     "EventLabel": "WinterSolstice",
     "ItemFrom": "WinterSolstice_Southern",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -177,7 +177,7 @@
     "UniqueID": 5,
     "EventLabel": "Tanabata",
     "ItemFrom": "StarFestival",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -191,7 +191,7 @@
     "UniqueID": 19,
     "EventLabel": "GyurouSyokujyo",
     "ItemFrom": "AsiaStarFestival",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -205,7 +205,7 @@
     "UniqueID": 7,
     "EventLabel": "CowBoyFestival",
     "ItemFrom": "CowboyFestival",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -219,7 +219,7 @@
     "UniqueID": 8,
     "EventLabel": "GrapeHarvestFestival",
     "ItemFrom": "GrapeHarvestFestival",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -233,7 +233,7 @@
     "UniqueID": 10,
     "EventLabel": "MidAutumnFestival",
     "ItemFrom": "MoonViewing",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -247,7 +247,7 @@
     "UniqueID": 14,
     "EventLabel": "Midwinter",
     "ItemFrom": "WinterSolstice_Southern",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -261,7 +261,7 @@
     "UniqueID": 17,
     "EventLabel": "SouthernMidwinter",
     "ItemFrom": "SummerSolstice",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -275,7 +275,7 @@
     "UniqueID": 27,
     "EventLabel": "NewYearsEveWorld",
     "ItemFrom": "NewYearsEveWorld",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -289,7 +289,7 @@
     "UniqueID": 26,
     "EventLabel": "NewYearsEveSpain",
     "ItemFrom": "NewYearsEveSpain",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -303,7 +303,7 @@
     "UniqueID": 22,
     "EventLabel": "NewYearsEveGermany",
     "ItemFrom": "NewYearsEveGermany",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -317,7 +317,7 @@
     "UniqueID": 21,
     "EventLabel": "Oomisoka",
     "ItemFrom": "NewYearEve",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -331,7 +331,7 @@
     "UniqueID": 34,
     "EventLabel": "RegionValentine",
     "ItemFrom": "Valentine",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 1,
     "SelectOne": 0
   },
@@ -345,7 +345,7 @@
     "UniqueID": 36,
     "EventLabel": "RegionLunarNewYearAsia",
     "ItemFrom": "LunarNewYearAsia",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -359,7 +359,7 @@
     "UniqueID": 35,
     "EventLabel": "RegionLunarNewYearKR",
     "ItemFrom": "LunarNewYearKorea",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -373,7 +373,7 @@
     "UniqueID": 38,
     "EventLabel": "Setsubun",
     "ItemFrom": "Setsubun",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -387,7 +387,7 @@
     "UniqueID": 39,
     "EventLabel": "GroundhogDay",
     "ItemFrom": "GroundhogDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -401,7 +401,7 @@
     "UniqueID": 37,
     "EventLabel": "RegionBigGame",
     "ItemFrom": "BigGame",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 1,
     "SelectOne": 0
   },
@@ -415,7 +415,7 @@
     "UniqueID": 40,
     "EventLabel": "RegionBigGame2",
     "ItemFrom": "BigGame2",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -429,7 +429,7 @@
     "UniqueID": 42,
     "EventLabel": "RegionHinamatsuri",
     "ItemFrom": "Hinamatsuri",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 1
   },
@@ -443,7 +443,7 @@
     "UniqueID": 43,
     "EventLabel": "RegionPiDay",
     "ItemFrom": "PiDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -457,7 +457,7 @@
     "UniqueID": 41,
     "EventLabel": "RegionShamrockDay",
     "ItemFrom": "ShamrockDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 1
   },
@@ -471,7 +471,7 @@
     "UniqueID": 47,
     "EventLabel": "RegionAprilFool",
     "ItemFrom": "AprilFool",
-    "3fc005f0 u8": 1,
+    "SelectColor": 1,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -485,7 +485,7 @@
     "UniqueID": 46,
     "EventLabel": "RegionTreeDay",
     "ItemFrom": "PlantingDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -499,7 +499,7 @@
     "UniqueID": 45,
     "EventLabel": "RegionEarthDay",
     "ItemFrom": "EarthDay",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   },
@@ -513,7 +513,7 @@
     "UniqueID": 49,
     "EventLabel": "RegionProm2",
     "ItemFrom": "Prom_Sash",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 1
   },
@@ -527,7 +527,7 @@
     "UniqueID": 48,
     "EventLabel": "RegionProm",
     "ItemFrom": "Prom",
-    "3fc005f0 u8": 0,
+    "SelectColor": 0,
     "SelectGrowUp": 0,
     "SelectOne": 0
   }
