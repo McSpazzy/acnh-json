@@ -3547,7 +3547,7 @@
     "MaxValue": 65535,
     "UniqueID": 348,
     "Key": "RandomKey1",
-    "Name": "ランダムキーa",
+    "Name": "ランダムキー1",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -3559,7 +3559,7 @@
     "MaxValue": 65535,
     "UniqueID": 349,
     "Key": "RandomKey2",
-    "Name": "ランダムキーb",
+    "Name": "ランダムキー2",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -3571,7 +3571,7 @@
     "MaxValue": 65535,
     "UniqueID": 350,
     "Key": "RandomKey3",
-    "Name": "ランダムキーc",
+    "Name": "ランダムキー3",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -3583,7 +3583,7 @@
     "MaxValue": 65535,
     "UniqueID": 351,
     "Key": "RandomKey4",
-    "Name": "ランダムキーd",
+    "Name": "ランダムキー4",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4111,7 +4111,7 @@
     "MaxValue": 65535,
     "UniqueID": 405,
     "Key": "RandomKey5",
-    "Name": "ランダムキーe",
+    "Name": "ランダムキー5",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   },
@@ -4159,7 +4159,7 @@
     "MaxValue": 65535,
     "UniqueID": 409,
     "Key": "RandomKey6",
-    "Name": "ランダムキーf",
+    "Name": "ランダムキー6",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4171,7 +4171,7 @@
     "MaxValue": 65535,
     "UniqueID": 410,
     "Key": "RandomKey7",
-    "Name": "ランダムキーg",
+    "Name": "ランダムキー7",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4183,7 +4183,7 @@
     "MaxValue": 65535,
     "UniqueID": 411,
     "Key": "RandomKey8",
-    "Name": "ランダムキーh",
+    "Name": "ランダムキー8",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4255,7 +4255,7 @@
     "MaxValue": 65535,
     "UniqueID": 417,
     "Key": "RandomKey9",
-    "Name": "ランダムキーi",
+    "Name": "ランダムキー9",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4339,7 +4339,7 @@
     "MaxValue": 65535,
     "UniqueID": 430,
     "Key": "RandomKey10",
-    "Name": "ランダムキーj",
+    "Name": "ランダムキー10",
     "SendPlayReport": 1,
     "SyncNoCheck": 1
   },
@@ -4352,6 +4352,114 @@
     "UniqueID": 437,
     "Key": "AOC_EventFlag_002",
     "Name": "AOC同期フラグ| 002 1.9.0NSO加入特典",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 438,
+    "Key": "BCAT_EventFlag_011",
+    "Name": "ジューンブライド2年目解禁",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 65535,
+    "UniqueID": 439,
+    "Key": "RandomKey11",
+    "Name": "ランダムキー11",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 1
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 50,
+    "UniqueID": 440,
+    "Key": "MuseumArtStampRackLotID1",
+    "Name": "国際ミュージアム|1つ目の美術品のスタンプ台ID",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 50,
+    "UniqueID": 441,
+    "Key": "MuseumArtStampRackLotID2",
+    "Name": "国際ミュージアム|2つ目の美術品のスタンプ台ID",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 50,
+    "UniqueID": 442,
+    "Key": "MuseumArtStampRackLotID3",
+    "Name": "国際ミュージアム|3つ目の美術品のスタンプ台ID",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 466,
+    "Key": "EventObjFlag1",
+    "Name": "イベントオブジェフラグ1",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 467,
+    "Key": "EventObjFlag2",
+    "Name": "イベントオブジェフラグ2",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "EnableReadWrite",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 1,
+    "UniqueID": 477,
+    "Key": "GrowUpAfterPatch1_10",
+    "Name": "1.10適用して成長処理をした",
+    "SendPlayReport": 1,
+    "SyncNoCheck": 0
+  },
+  {
+    "fdb1f290.HashRef": "None",
+    "DefaultValue": 0,
+    "FlagsFlowAccess": "DisableAccess",
+    "FlagsNetAccess": "ReadOnly",
+    "MaxValue": 9999,
+    "UniqueID": 483,
+    "Key": "MayDayAddBbsYear",
+    "Name": "メーデー予告の掲示板書き込みをした年",
     "SendPlayReport": 1,
     "SyncNoCheck": 0
   }

@@ -348,6 +348,12 @@
     "ResName": "JuiceShamrock"
   },
   {
+    "UniqueID": 744,
+    "Label": "Flowershower",
+    "Name": "フラワーシャワー",
+    "ResName": "Flowershower"
+  },
+  {
     "UniqueID": 188,
     "Label": "Music",
     "Name": "ミュージック",

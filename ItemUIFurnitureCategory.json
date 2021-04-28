@@ -102,7 +102,7 @@
   {
     "UniqueID": 16,
     "Label": "Clock",
-    "Name": "時計"
+    "Name": "掛け時計"
   },
   {
     "UniqueID": 32,
@@ -1075,14 +1075,14 @@
     "Name": "外専用：花"
   },
   {
-    "UniqueID": 192,
-    "Label": "FieldWeed",
-    "Name": "外専用：雑草"
-  },
-  {
     "UniqueID": 193,
     "Label": "FieldVgt",
     "Name": "外専用：野菜"
+  },
+  {
+    "UniqueID": 192,
+    "Label": "FieldWeed",
+    "Name": "外専用：雑草"
   },
   {
     "UniqueID": 194,

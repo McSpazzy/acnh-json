@@ -340,5 +340,23 @@
     "PlayerFlagKeyON2": "",
     "SelectWeight": 0,
     "StatusPattern": 3
+  },
+  {
+    "ItemPlacementKind": "Normal",
+    "TourType": "MayDay",
+    "FishPattern": -1,
+    "InsectPattern": -1,
+    "MustItem0": 65534,
+    "MustItem1": 65534,
+    "MysteryTourFieldUniqueID": 26,
+    "MysteryTourItemUniqueID": 26,
+    "UniqueID": 28,
+    "LandFlagKeyON": "",
+    "PlayerFlagKeyAfterSelect": "",
+    "PlayerFlagKeyOFF": "",
+    "PlayerFlagKeyON": "",
+    "PlayerFlagKeyON2": "",
+    "SelectWeight": 0,
+    "StatusPattern": 3
   }
 ]

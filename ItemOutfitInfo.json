@@ -2109,6 +2109,25 @@
     "Storage": 0
   },
   {
+    "Category": "PeTo",
+    "FloorScale": 1.0,
+    "RotateOffsetX": 0,
+    "RotateOffsetY": 0,
+    "RotateOffsetZ": 0,
+    "TransOffsetX": 0,
+    "TransOffsetY": 0,
+    "TransOffsetZ": 0,
+    "WallScale": 1.0,
+    "BreakDamage": 0,
+    "UniqueID": 179,
+    "HangerInfo": 0,
+    "Label": "PetalToss",
+    "Name": "フラワーシャワー",
+    "SpecialELink": 0,
+    "SpecialSLink": 0,
+    "Storage": 0
+  },
+  {
     "Category": "PMcas",
     "FloorScale": 1.0,
     "RotateOffsetX": 0,

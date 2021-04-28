@@ -654,5 +654,69 @@
     "FlagsFlowAccess": 2,
     "Key": "DC_PckRecipeTalkFlag",
     "Name": "カーニバル/べルリーナ|にじいろのはねのレシピもらう会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 105,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlArtStampRally1",
+    "Name": "フータ/国際ミュージアム|【美術品】スタンプ1つ目を押した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 106,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlArtStampRally2",
+    "Name": "フータ/国際ミュージアム|【美術品】スタンプ2つ目を押した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 107,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlArtStampRally3",
+    "Name": "フータ/国際ミュージアム|【美術品】スタンプ3つ目を押した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 108,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlStampGotArt",
+    "Name": "フータ/国際ミュージアム|フータスタンプ(美術品)を押した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 109,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlStampGotInsectReward",
+    "Name": "フータ/国際ミュージアム|ムシ報酬を貰った"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 110,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlStampGotFishReward",
+    "Name": "フータ/国際ミュージアム|サカナ報酬を貰った"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 111,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlStampGotFossilReward",
+    "Name": "フータ/国際ミュージアム|かせき報酬を貰った"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 112,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlStampGotArtReward",
+    "Name": "フータ/国際ミュージアム|美術品報酬を貰った"
   }
 ]

@@ -328,6 +328,22 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 0,
+    "UniqueID": 187,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeNewColor",
+    "Name": "マイル交換_新規カラー(買い切り)",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 207,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeReaction",
+    "Name": "マイル交換_リアクション(買い切り)",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 83,
     "UniqueID": 130,
     "8f225c6 u8": 0,
@@ -369,22 +385,6 @@
   },
   {
     "HHABaseScore": 0,
-    "UniqueID": 165,
-    "8f225c6 u8": 0,
-    "Label": "MileExchangeNsoPresent",
-    "Name": "マイル交換_NSO加入特典",
-    "RegionEventItem": 0
-  },
-  {
-    "HHABaseScore": 0,
-    "UniqueID": 187,
-    "8f225c6 u8": 0,
-    "Label": "MileExchangeNewColor",
-    "Name": "マイル交換_新規カラー(買い切り)",
-    "RegionEventItem": 0
-  },
-  {
-    "HHABaseScore": 0,
     "UniqueID": 192,
     "8f225c6 u8": 0,
     "Label": "MileExchangeMydesignPro2",
@@ -393,18 +393,18 @@
   },
   {
     "HHABaseScore": 0,
-    "UniqueID": 207,
-    "8f225c6 u8": 0,
-    "Label": "MileExchangeReaction",
-    "Name": "マイル交換_リアクション(買い切り)",
-    "RegionEventItem": 0
-  },
-  {
-    "HHABaseScore": 0,
     "UniqueID": 224,
     "8f225c6 u8": 0,
     "Label": "MileExchange_MydesignShowcase",
     "Name": "マイル交換_マイデザインSC（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 165,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeNsoPresent",
+    "Name": "マイル交換_NSO加入特典",
     "RegionEventItem": 0
   },
   {
@@ -509,6 +509,14 @@
     "8f225c6 u8": 0,
     "Label": "TailorMarketOnlyProm",
     "Name": "仕立て屋_店舗_プロム",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 51,
+    "UniqueID": 262,
+    "8f225c6 u8": 0,
+    "Label": "TailorMarketOnlyJuneBride",
+    "Name": "仕立て屋_店舗_ジューンブライド",
     "RegionEventItem": 0
   },
   {
@@ -1217,6 +1225,14 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 278,
+    "8f225c6 u8": 0,
+    "Label": "FatherDay2",
+    "Name": "<リージョン>父の日_エプロン",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 146,
     "8f225c6 u8": 0,
     "Label": "SummerSolstice",
@@ -1480,6 +1496,70 @@
     "RegionEventItem": 1
   },
   {
+    "HHABaseScore": 201,
+    "UniqueID": 142,
+    "8f225c6 u8": 0,
+    "Label": "ChildDay",
+    "Name": "<リージョン>こどもの日",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 255,
+    "8f225c6 u8": 0,
+    "Label": "CheeseRolling",
+    "Name": "<リージョン>チーズ転がし",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 260,
+    "8f225c6 u8": 0,
+    "Label": "JuneBrideRegion",
+    "Name": "<リージョン>ジューンブライド",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 261,
+    "8f225c6 u8": 0,
+    "Label": "JuneBrideRegion2",
+    "Name": "<リージョン>ジューンブライド_カラバリ",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 258,
+    "8f225c6 u8": 0,
+    "Label": "Tangosetsu_KR",
+    "Name": "<リージョン>端午節（韓国）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 254,
+    "8f225c6 u8": 0,
+    "Label": "Tangosetsu_CH",
+    "Name": "<リージョン>端午節（東アジア）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 270,
+    "8f225c6 u8": 0,
+    "Label": "MarineDay",
+    "Name": "<リージョン>海の日",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 253,
+    "8f225c6 u8": 0,
+    "Label": "BastilleDay",
+    "Name": "<リージョン>パリ祭",
+    "RegionEventItem": 1
+  },
+  {
     "HHABaseScore": 178,
     "UniqueID": 159,
     "8f225c6 u8": 1,
@@ -1589,6 +1669,22 @@
     "8f225c6 u8": 0,
     "Label": "JuneBride",
     "Name": "ジューンブライド",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 437,
+    "UniqueID": 264,
+    "8f225c6 u8": 0,
+    "Label": "MuseumDay",
+    "Name": "国際ミュージアムデー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 351,
+    "UniqueID": 280,
+    "8f225c6 u8": 0,
+    "Label": "MayDay",
+    "Name": "メーデー",
     "RegionEventItem": 0
   },
   {

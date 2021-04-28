@@ -1947,7 +1947,7 @@
     "b8e42602 u8": 0,
     "DisableInDream": 1,
     "4906e466 u8": 0,
-    "LandFlagKeyOFF": "",
+    "LandFlagKeyOFF": "EventObjFlag1",
     "LandFlagKeyON": "IsHalloweenLessThanThreeDays",
     "LandTempFlagKeyOFF": "CalendarEventStop",
     "NpcSpLabel": "",

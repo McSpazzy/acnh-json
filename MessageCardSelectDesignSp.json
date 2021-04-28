@@ -958,5 +958,35 @@
     "DesignSummer2": 65535,
     "DesignWinter1": 65535,
     "DesignWinter2": 65535
+  },
+  {
+    "37571146.HashRef": "767D6DEB",
+    "DesignAlways1": 429,
+    "DesignAlways2": 65535,
+    "DesignAlways3": 65535,
+    "DesignAlways4": 65535,
+    "DesignAutumn1": 65535,
+    "DesignAutumn2": 65535,
+    "DesignSpring1": 65535,
+    "DesignSpring2": 65535,
+    "DesignSummer1": 65535,
+    "DesignSummer2": 65535,
+    "DesignWinter1": 65535,
+    "DesignWinter2": 65535
+  },
+  {
+    "37571146.HashRef": "2BA57FE1",
+    "DesignAlways1": 0,
+    "DesignAlways2": 65535,
+    "DesignAlways3": 65535,
+    "DesignAlways4": 65535,
+    "DesignAutumn1": 65535,
+    "DesignAutumn2": 65535,
+    "DesignSpring1": 65535,
+    "DesignSpring2": 65535,
+    "DesignSummer1": 65535,
+    "DesignSummer2": 65535,
+    "DesignWinter1": 65535,
+    "DesignWinter2": 65535
   }
 ]

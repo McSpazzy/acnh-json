@@ -9086,5 +9086,37 @@
     "Misc": 64,
     "MoveAs": 0,
     "ToolAsCommand": ""
+  },
+  {
+    "EmoticonTool": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": 65535,
+    "UniqueID": 893,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "PlayerFlowerThrow",
+    "CancelFootSE": 1,
+    "CancelFootprint": 0,
+    "Comment": "Player:花をまく",
+    "DisableEmoticon": 0,
+    "Misc": 4,
+    "MoveAs": 0,
+    "ToolAsCommand": ""
+  },
+  {
+    "EmoticonTool": "None",
+    "LowerSetting": "DisableOnlyLowerBody",
+    "UISortID": 65535,
+    "UniqueID": 894,
+    "9f5123d4 u8": 0,
+    "d5217761 u8": 255,
+    "AsCommand": "CommonToolHand11000",
+    "CancelFootSE": 0,
+    "CancelFootprint": 0,
+    "Comment": "道具持ちアニメ2021夏",
+    "DisableEmoticon": 0,
+    "Misc": 0,
+    "MoveAs": 0,
+    "ToolAsCommand": ""
   }
 ]

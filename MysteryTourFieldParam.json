@@ -94,5 +94,9 @@
   {
     "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 25
+  },
+  {
+    "MysteryTourFieldOutside": "NoRiver",
+    "UniqueID": 26
   }
 ]

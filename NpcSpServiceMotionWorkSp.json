@@ -3,6 +3,8 @@
     "UniqueID": 0,
     "ASCommand": "NpcSpGymnastics",
     "EndHour": 9,
+    "NpcLabel": "rco",
+    "6d0f4a8 string32": "sza",
     "SelectRate": 40,
     "StartHour": 7
   },
@@ -10,6 +12,8 @@
     "UniqueID": 1,
     "ASCommand": "NpcSpGymnastics",
     "EndHour": 15,
+    "NpcLabel": "rco",
+    "6d0f4a8 string32": "sza",
     "SelectRate": 50,
     "StartHour": 14
   },
@@ -17,6 +21,8 @@
     "UniqueID": 2,
     "ASCommand": "NpcSpGymnastics",
     "EndHour": 7,
+    "NpcLabel": "rco",
+    "6d0f4a8 string32": "sza",
     "SelectRate": 60,
     "StartHour": 6
   }
