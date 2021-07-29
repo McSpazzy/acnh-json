@@ -693,7 +693,7 @@
     "FlagsFlowAccess": 2,
     "Key": "HalloweenDIYGetItem",
     "MaxValue": 2,
-    "Name": "ハロウィン|DIYしている時の報酬アイテムは？"
+    "Name": "DIYしている時の報酬アイテムは？"
   },
   {
     "UniqueID": 59,

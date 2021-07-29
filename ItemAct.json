@@ -724,5 +724,16 @@
     "Label": "HarvestKitchen",
     "Name": "フランクリンのキッチン(ハーベスト)",
     "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrSticklightColorful",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 89,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "SticklightColorful",
+    "Name": "カラフルスティックライト",
+    "SwitchableOnWall": 0
   }
 ]

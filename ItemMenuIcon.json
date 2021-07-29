@@ -354,6 +354,42 @@
     "ResName": "Flowershower"
   },
   {
+    "UniqueID": 746,
+    "Label": "BasketHalloween",
+    "Name": "ハロウィンなおやつバスケット",
+    "ResName": "BasketHalloween"
+  },
+  {
+    "UniqueID": 747,
+    "Label": "Icecandy",
+    "Name": "アイスキャンディ",
+    "ResName": "Icecandy"
+  },
+  {
+    "UniqueID": 748,
+    "Label": "Candyfloss",
+    "Name": "わたあめ",
+    "ResName": "Candyfloss"
+  },
+  {
+    "UniqueID": 749,
+    "Label": "Tapioca",
+    "Name": "タピオカドリンク",
+    "ResName": "Tapioca"
+  },
+  {
+    "UniqueID": 754,
+    "Label": "Chitoseame",
+    "Name": "ちとせあめ",
+    "ResName": "Chitoseame"
+  },
+  {
+    "UniqueID": 758,
+    "Label": "Lantern",
+    "Name": "てもちランタン",
+    "ResName": "Lantern"
+  },
+  {
     "UniqueID": 188,
     "Label": "Music",
     "Name": "ミュージック",

@@ -150,5 +150,17 @@
   {
     "UniqueID": 37,
     "Label": "EventDay04"
+  },
+  {
+    "UniqueID": 38,
+    "Label": "Rain06"
+  },
+  {
+    "UniqueID": 39,
+    "Label": "Fine07"
+  },
+  {
+    "UniqueID": 40,
+    "Label": "Rain07"
   }
 ]

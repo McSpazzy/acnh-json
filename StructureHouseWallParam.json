@@ -111,7 +111,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 10,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 14,
@@ -122,7 +122,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 21,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 15,
@@ -133,7 +133,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 31,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 16,
@@ -199,7 +199,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 51,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 24,
@@ -210,7 +210,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 61,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 25,
@@ -221,7 +221,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 71,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 26,
@@ -232,7 +232,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 81,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 27,
@@ -243,7 +243,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 91,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 28,
@@ -254,7 +254,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 101,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 29,
@@ -287,7 +287,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 111,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 32,
@@ -298,7 +298,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 121,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 33,
@@ -309,7 +309,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 131,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 34,
@@ -353,7 +353,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 32,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 42,
@@ -364,7 +364,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 33,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 43,
@@ -375,7 +375,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 34,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 44,
@@ -386,7 +386,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 35,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 45,
@@ -397,7 +397,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 36,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 46,
@@ -408,7 +408,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 37,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 47,
@@ -419,7 +419,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 38,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 48,
@@ -430,7 +430,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 22,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 57,
@@ -441,7 +441,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 23,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 58,
@@ -452,7 +452,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 24,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 59,
@@ -463,7 +463,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 25,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 60,
@@ -474,7 +474,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 26,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 61,
@@ -485,7 +485,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 27,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 62,
@@ -496,7 +496,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 28,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 63,
@@ -518,7 +518,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 11,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 65,
@@ -529,7 +529,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 12,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 66,
@@ -540,7 +540,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 13,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 67,
@@ -551,7 +551,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 14,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 68,
@@ -562,7 +562,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 15,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 69,
@@ -573,7 +573,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 16,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 70,
@@ -584,7 +584,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 17,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 71,
@@ -595,7 +595,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 52,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 72,
@@ -606,7 +606,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 53,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 73,
@@ -617,7 +617,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 54,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 74,
@@ -628,7 +628,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 55,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 75,
@@ -639,7 +639,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 56,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 76,
@@ -650,7 +650,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 57,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 77,
@@ -661,7 +661,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 58,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 78,
@@ -672,7 +672,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 72,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 79,
@@ -683,7 +683,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 73,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 80,
@@ -694,7 +694,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 74,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 81,
@@ -705,7 +705,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 75,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 82,
@@ -716,7 +716,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 76,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 83,
@@ -727,7 +727,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 77,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 84,
@@ -738,7 +738,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 78,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 85,
@@ -749,7 +749,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 62,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 86,
@@ -760,7 +760,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 63,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 87,
@@ -771,7 +771,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 64,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 88,
@@ -782,7 +782,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 65,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 89,
@@ -793,7 +793,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 66,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 90,
@@ -804,7 +804,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 67,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 91,
@@ -815,7 +815,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 68,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 92,
@@ -826,7 +826,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 92,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 100,
@@ -837,7 +837,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 93,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 101,
@@ -848,7 +848,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 94,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 102,
@@ -859,7 +859,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 95,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 103,
@@ -870,7 +870,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 96,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 104,
@@ -881,7 +881,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 97,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 105,
@@ -892,7 +892,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 98,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 106,
@@ -903,7 +903,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 82,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 107,
@@ -914,7 +914,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 83,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 108,
@@ -925,7 +925,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 84,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 109,
@@ -936,7 +936,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 85,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 110,
@@ -947,7 +947,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 86,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 111,
@@ -958,7 +958,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 87,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 112,
@@ -969,7 +969,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 88,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 113,
@@ -980,7 +980,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 102,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 114,
@@ -991,7 +991,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 103,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 115,
@@ -1002,7 +1002,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 104,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 116,
@@ -1013,7 +1013,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 105,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 117,
@@ -1024,7 +1024,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 106,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 118,
@@ -1035,7 +1035,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 107,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 119,
@@ -1046,7 +1046,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 108,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 120,
@@ -1057,7 +1057,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 122,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 121,
@@ -1068,7 +1068,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 123,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 122,
@@ -1079,7 +1079,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 124,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 123,
@@ -1090,7 +1090,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 125,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 124,
@@ -1101,7 +1101,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 126,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 125,
@@ -1112,7 +1112,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 127,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 126,
@@ -1123,7 +1123,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 128,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 127,
@@ -1134,7 +1134,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 112,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 128,
@@ -1145,7 +1145,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 113,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 129,
@@ -1156,7 +1156,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 114,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 130,
@@ -1167,7 +1167,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 115,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 131,
@@ -1178,7 +1178,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 116,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 132,
@@ -1189,7 +1189,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 117,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 133,
@@ -1200,7 +1200,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 118,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 134,
@@ -1211,7 +1211,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 132,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 135,
@@ -1222,7 +1222,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 133,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 136,
@@ -1233,7 +1233,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 134,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 137,
@@ -1244,7 +1244,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 135,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 138,
@@ -1255,7 +1255,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 136,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 139,
@@ -1266,7 +1266,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 137,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 140,
@@ -1277,7 +1277,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 138,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 141,
@@ -1530,7 +1530,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 41,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 164,
@@ -1541,7 +1541,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 42,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 165,
@@ -1552,7 +1552,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 43,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 166,
@@ -1563,7 +1563,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 44,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 167,
@@ -1574,7 +1574,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 45,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 168,
@@ -1585,7 +1585,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 46,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 169,
@@ -1596,7 +1596,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 47,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 170,
@@ -1607,7 +1607,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 48,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 171,
@@ -1618,7 +1618,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 18,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 172,
@@ -1629,7 +1629,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 19,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 173,

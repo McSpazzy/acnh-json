@@ -260,7 +260,7 @@
     "c436ce69 u8": 0,
     "FlagsFlowAccess": 2,
     "Key": "ReijiTalkBeforeFlag",
-    "Name": "レイジ|行商で会話したことある？",
+    "Name": "レイジ|今までに会話したことある？（面識ある？）",
     "SendPlayReport": 1
   },
   {
@@ -13346,6 +13346,42 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 1469,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FoxTalk2020FireworksFlag",
+    "Name": "つねきち|2020年の花火大会で会話したことない？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1470,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FoxTalkIceCandyTodayFlag",
+    "Name": "つねきち|アイスキャンディの説明した？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1471,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FoxTalkTapiocaTodayFlag",
+    "Name": "つねきち|タピオカドリンクの説明した？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 1478,
     "5140e4b4 u8": 1,
     "bed25a86 u8": 0,
@@ -13353,6 +13389,66 @@
     "FlagsFlowAccess": 2,
     "Key": "AlwJuneBrideNoRemake1stFlag",
     "Name": "リサ/ジューンブライド|今日1回目でリメイク解禁してなかった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1480,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AnnounceHalloween2",
+    "Name": "2021年ハロウィンを島内放送で告知した(2回目放送用)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1542,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FoxTalkFireworksFoodFlag",
+    "Name": "つねきち|花火大会で食べ物追加された会話聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1543,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AnnounceHalloween2Ready",
+    "Name": "2021年ハロウィン｜準備期間に島内放送で告知した？(2回目放送用)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 1553,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FoxFirstTalkTodayFireworksFlag",
+    "Name": "つねきち|今日花火大会で会話した？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 9999,
+    "UniqueID": 1581,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "c436ce69 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "LastPlayFireWorksFestival",
+    "Name": "花火大会|最後に遊んだ花火大会の年",
     "SendPlayReport": 1
   }
 ]

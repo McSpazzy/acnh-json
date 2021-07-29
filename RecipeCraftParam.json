@@ -21,8 +21,9 @@
     "Material6": 65534,
     "SerialID": 1701,
     "UniqueID": 6,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -46,8 +47,9 @@
     "Material6": 65534,
     "SerialID": 1600,
     "UniqueID": 9,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -71,8 +73,9 @@
     "Material6": 65534,
     "SerialID": 100,
     "UniqueID": 10,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -96,8 +99,9 @@
     "Material6": 65534,
     "SerialID": 200,
     "UniqueID": 13,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -121,8 +125,9 @@
     "Material6": 65534,
     "SerialID": 430,
     "UniqueID": 14,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -146,8 +151,9 @@
     "Material6": 65534,
     "SerialID": 311,
     "UniqueID": 15,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -171,8 +177,9 @@
     "Material6": 65534,
     "SerialID": 432,
     "UniqueID": 16,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -196,8 +203,9 @@
     "Material6": 65534,
     "SerialID": 317,
     "UniqueID": 17,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -221,8 +229,9 @@
     "Material6": 65534,
     "SerialID": 318,
     "UniqueID": 18,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -246,8 +255,9 @@
     "Material6": 65534,
     "SerialID": 103,
     "UniqueID": 19,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -271,8 +281,9 @@
     "Material6": 65534,
     "SerialID": 109,
     "UniqueID": 20,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -296,8 +307,9 @@
     "Material6": 65534,
     "SerialID": 105,
     "UniqueID": 21,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -321,8 +333,9 @@
     "Material6": 65534,
     "SerialID": 107,
     "UniqueID": 22,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -346,8 +359,9 @@
     "Material6": 65534,
     "SerialID": 353,
     "UniqueID": 23,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -371,8 +385,9 @@
     "Material6": 65534,
     "SerialID": 355,
     "UniqueID": 24,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -396,8 +411,9 @@
     "Material6": 65534,
     "SerialID": 354,
     "UniqueID": 26,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -421,8 +437,9 @@
     "Material6": 65534,
     "SerialID": 111,
     "UniqueID": 29,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -446,8 +463,9 @@
     "Material6": 65534,
     "SerialID": 704,
     "UniqueID": 30,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -471,8 +489,9 @@
     "Material6": 65534,
     "SerialID": 5403,
     "UniqueID": 32,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -496,8 +515,9 @@
     "Material6": 65534,
     "SerialID": 400,
     "UniqueID": 33,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -521,8 +541,9 @@
     "Material6": 65534,
     "SerialID": 201,
     "UniqueID": 34,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -546,8 +567,9 @@
     "Material6": 65534,
     "SerialID": 1003,
     "UniqueID": 35,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -571,8 +593,9 @@
     "Material6": 65534,
     "SerialID": 811,
     "UniqueID": 36,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -596,8 +619,9 @@
     "Material6": 65534,
     "SerialID": 703,
     "UniqueID": 37,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -621,8 +645,9 @@
     "Material6": 65534,
     "SerialID": 350,
     "UniqueID": 38,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -646,8 +671,9 @@
     "Material6": 65534,
     "SerialID": 435,
     "UniqueID": 41,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -671,8 +697,9 @@
     "Material6": 65534,
     "SerialID": 802,
     "UniqueID": 42,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -696,8 +723,9 @@
     "Material6": 65534,
     "SerialID": 460,
     "UniqueID": 43,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -721,8 +749,9 @@
     "Material6": 65534,
     "SerialID": 406,
     "UniqueID": 44,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -746,8 +775,9 @@
     "Material6": 65534,
     "SerialID": 462,
     "UniqueID": 45,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -771,8 +801,9 @@
     "Material6": 65534,
     "SerialID": 2401,
     "UniqueID": 46,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -796,8 +827,9 @@
     "Material6": 65534,
     "SerialID": 805,
     "UniqueID": 48,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -821,8 +853,9 @@
     "Material6": 65534,
     "SerialID": 808,
     "UniqueID": 49,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -846,8 +879,9 @@
     "Material6": 65534,
     "SerialID": 5406,
     "UniqueID": 51,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -871,8 +905,9 @@
     "Material6": 65534,
     "SerialID": 813,
     "UniqueID": 55,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -896,8 +931,9 @@
     "Material6": 65534,
     "SerialID": 1900,
     "UniqueID": 56,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -921,8 +957,9 @@
     "Material6": 65534,
     "SerialID": 376,
     "UniqueID": 57,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -946,8 +983,9 @@
     "Material6": 65534,
     "SerialID": 706,
     "UniqueID": 58,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -971,8 +1009,9 @@
     "Material6": 65534,
     "SerialID": 377,
     "UniqueID": 59,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -996,8 +1035,9 @@
     "Material6": 65534,
     "SerialID": 652,
     "UniqueID": 60,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1021,8 +1061,9 @@
     "Material6": 65534,
     "SerialID": 356,
     "UniqueID": 61,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1046,8 +1087,9 @@
     "Material6": 65534,
     "SerialID": 357,
     "UniqueID": 62,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1071,8 +1113,9 @@
     "Material6": 65534,
     "SerialID": 902,
     "UniqueID": 63,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1096,8 +1139,9 @@
     "Material6": 65534,
     "SerialID": 900,
     "UniqueID": 64,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1121,8 +1165,9 @@
     "Material6": 65534,
     "SerialID": 901,
     "UniqueID": 65,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1146,8 +1191,9 @@
     "Material6": 65534,
     "SerialID": 653,
     "UniqueID": 66,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -1171,8 +1217,9 @@
     "Material6": 65534,
     "SerialID": 803,
     "UniqueID": 77,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1196,8 +1243,9 @@
     "Material6": 65534,
     "SerialID": 651,
     "UniqueID": 78,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -1221,8 +1269,9 @@
     "Material6": 65534,
     "SerialID": 915,
     "UniqueID": 79,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1246,8 +1295,9 @@
     "Material6": 65534,
     "SerialID": 373,
     "UniqueID": 80,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -1271,8 +1321,9 @@
     "Material6": 65534,
     "SerialID": 1100,
     "UniqueID": 81,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1296,8 +1347,9 @@
     "Material6": 65534,
     "SerialID": 301,
     "UniqueID": 82,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1321,8 +1373,9 @@
     "Material6": 65534,
     "SerialID": 1000,
     "UniqueID": 83,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1346,8 +1399,9 @@
     "Material6": 65534,
     "SerialID": 1004,
     "UniqueID": 84,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1371,8 +1425,9 @@
     "Material6": 65534,
     "SerialID": 1001,
     "UniqueID": 85,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1396,8 +1451,9 @@
     "Material6": 65534,
     "SerialID": 1002,
     "UniqueID": 86,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1421,8 +1477,9 @@
     "Material6": 65534,
     "SerialID": 1005,
     "UniqueID": 87,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1446,8 +1503,9 @@
     "Material6": 65534,
     "SerialID": 358,
     "UniqueID": 89,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1471,8 +1529,9 @@
     "Material6": 65534,
     "SerialID": 359,
     "UniqueID": 90,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1496,8 +1555,9 @@
     "Material6": 65534,
     "SerialID": 1007,
     "UniqueID": 91,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1521,8 +1581,9 @@
     "Material6": 65534,
     "SerialID": 1006,
     "UniqueID": 92,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -1546,8 +1607,9 @@
     "Material6": 65534,
     "SerialID": 1040,
     "UniqueID": 94,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -1571,8 +1633,9 @@
     "Material6": 65534,
     "SerialID": 770,
     "UniqueID": 99,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1596,8 +1659,9 @@
     "Material6": 65534,
     "SerialID": 581,
     "UniqueID": 100,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -1621,8 +1685,9 @@
     "Material6": 65534,
     "SerialID": 2490,
     "UniqueID": 101,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1646,8 +1711,9 @@
     "Material6": 65534,
     "SerialID": 403,
     "UniqueID": 102,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1671,8 +1737,9 @@
     "Material6": 65534,
     "SerialID": 202,
     "UniqueID": 103,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -1696,8 +1763,9 @@
     "Material6": 65534,
     "SerialID": 800,
     "UniqueID": 104,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -1721,8 +1789,9 @@
     "Material6": 65534,
     "SerialID": 801,
     "UniqueID": 105,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -1746,8 +1815,9 @@
     "Material6": 65534,
     "SerialID": 122,
     "UniqueID": 107,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1771,8 +1841,9 @@
     "Material6": 65534,
     "SerialID": 337,
     "UniqueID": 110,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1796,8 +1867,9 @@
     "Material6": 65534,
     "SerialID": 334,
     "UniqueID": 111,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1821,8 +1893,9 @@
     "Material6": 65534,
     "SerialID": 331,
     "UniqueID": 112,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1846,8 +1919,9 @@
     "Material6": 65534,
     "SerialID": 335,
     "UniqueID": 113,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1871,8 +1945,9 @@
     "Material6": 65534,
     "SerialID": 339,
     "UniqueID": 114,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1896,8 +1971,9 @@
     "Material6": 65534,
     "SerialID": 340,
     "UniqueID": 115,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1921,8 +1997,9 @@
     "Material6": 65534,
     "SerialID": 330,
     "UniqueID": 116,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1946,8 +2023,9 @@
     "Material6": 65534,
     "SerialID": 336,
     "UniqueID": 117,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1971,8 +2049,9 @@
     "Material6": 65534,
     "SerialID": 333,
     "UniqueID": 118,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -1996,8 +2075,9 @@
     "Material6": 65534,
     "SerialID": 338,
     "UniqueID": 119,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -2021,8 +2101,9 @@
     "Material6": 65534,
     "SerialID": 701,
     "UniqueID": 120,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2046,8 +2127,9 @@
     "Material6": 65534,
     "SerialID": 1230,
     "UniqueID": 121,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -2071,8 +2153,9 @@
     "Material6": 65534,
     "SerialID": 930,
     "UniqueID": 122,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -2096,8 +2179,9 @@
     "Material6": 65534,
     "SerialID": 931,
     "UniqueID": 123,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2121,8 +2205,9 @@
     "Material6": 65534,
     "SerialID": 1009,
     "UniqueID": 124,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2146,8 +2231,9 @@
     "Material6": 65534,
     "SerialID": 1008,
     "UniqueID": 125,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -2171,8 +2257,9 @@
     "Material6": 65534,
     "SerialID": 903,
     "UniqueID": 126,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -2196,8 +2283,9 @@
     "Material6": 65534,
     "SerialID": 905,
     "UniqueID": 128,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -2221,8 +2309,9 @@
     "Material6": 65534,
     "SerialID": 1102,
     "UniqueID": 130,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -2246,8 +2335,9 @@
     "Material6": 65534,
     "SerialID": 1101,
     "UniqueID": 131,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -2271,8 +2361,9 @@
     "Material6": 65534,
     "SerialID": 2306,
     "UniqueID": 132,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -2296,8 +2387,9 @@
     "Material6": 65534,
     "SerialID": 1103,
     "UniqueID": 133,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -2321,8 +2413,9 @@
     "Material6": 65534,
     "SerialID": 5401,
     "UniqueID": 136,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -2346,8 +2439,9 @@
     "Material6": 65534,
     "SerialID": 5408,
     "UniqueID": 138,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -2371,8 +2465,9 @@
     "Material6": 65534,
     "SerialID": 5407,
     "UniqueID": 139,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2396,8 +2491,9 @@
     "Material6": 65534,
     "SerialID": 6606,
     "UniqueID": 140,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2421,8 +2517,9 @@
     "Material6": 65534,
     "SerialID": 6608,
     "UniqueID": 141,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2446,8 +2543,9 @@
     "Material6": 65534,
     "SerialID": 6601,
     "UniqueID": 142,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2471,8 +2569,9 @@
     "Material6": 65534,
     "SerialID": 6602,
     "UniqueID": 143,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2496,8 +2595,9 @@
     "Material6": 65534,
     "SerialID": 6609,
     "UniqueID": 145,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2521,8 +2621,9 @@
     "Material6": 65534,
     "SerialID": 6603,
     "UniqueID": 146,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2546,8 +2647,9 @@
     "Material6": 65534,
     "SerialID": 6605,
     "UniqueID": 147,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2571,8 +2673,9 @@
     "Material6": 65534,
     "SerialID": 6607,
     "UniqueID": 148,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -2596,8 +2699,9 @@
     "Material6": 65534,
     "SerialID": 6604,
     "UniqueID": 149,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2621,8 +2725,9 @@
     "Material6": 65534,
     "SerialID": 2430,
     "UniqueID": 151,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2646,8 +2751,9 @@
     "Material6": 65534,
     "SerialID": 2409,
     "UniqueID": 152,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2671,8 +2777,9 @@
     "Material6": 65534,
     "SerialID": 2402,
     "UniqueID": 153,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2696,8 +2803,9 @@
     "Material6": 65534,
     "SerialID": 2412,
     "UniqueID": 154,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2721,8 +2829,9 @@
     "Material6": 65534,
     "SerialID": 2405,
     "UniqueID": 155,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2746,8 +2855,9 @@
     "Material6": 65534,
     "SerialID": 2403,
     "UniqueID": 157,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2771,8 +2881,9 @@
     "Material6": 65534,
     "SerialID": 3000,
     "UniqueID": 158,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2796,8 +2907,9 @@
     "Material6": 65534,
     "SerialID": 2410,
     "UniqueID": 159,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -2821,8 +2933,9 @@
     "Material6": 65534,
     "SerialID": 352,
     "UniqueID": 160,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -2846,8 +2959,9 @@
     "Material6": 65534,
     "SerialID": 1400,
     "UniqueID": 161,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -2871,8 +2985,9 @@
     "Material6": 65534,
     "SerialID": 1430,
     "UniqueID": 162,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2896,8 +3011,9 @@
     "Material6": 65534,
     "SerialID": 1800,
     "UniqueID": 163,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -2921,8 +3037,9 @@
     "Material6": 65534,
     "SerialID": 402,
     "UniqueID": 164,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -2946,8 +3063,9 @@
     "Material6": 65534,
     "SerialID": 431,
     "UniqueID": 165,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -2971,8 +3089,9 @@
     "Material6": 65534,
     "SerialID": 372,
     "UniqueID": 166,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -2996,8 +3115,9 @@
     "Material6": 65534,
     "SerialID": 1200,
     "UniqueID": 167,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3021,8 +3141,9 @@
     "Material6": 65534,
     "SerialID": 310,
     "UniqueID": 168,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -3046,8 +3167,9 @@
     "Material6": 65534,
     "SerialID": 907,
     "UniqueID": 169,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3071,8 +3193,9 @@
     "Material6": 65534,
     "SerialID": 313,
     "UniqueID": 170,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3096,8 +3219,9 @@
     "Material6": 65534,
     "SerialID": 481,
     "UniqueID": 171,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3121,8 +3245,9 @@
     "Material6": 65534,
     "SerialID": 316,
     "UniqueID": 172,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3146,8 +3271,9 @@
     "Material6": 65534,
     "SerialID": 322,
     "UniqueID": 173,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3171,8 +3297,9 @@
     "Material6": 65534,
     "SerialID": 371,
     "UniqueID": 174,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3196,8 +3323,9 @@
     "Material6": 1382,
     "SerialID": 3805,
     "UniqueID": 175,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3221,8 +3349,9 @@
     "Material6": 65534,
     "SerialID": 3804,
     "UniqueID": 176,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3246,8 +3375,9 @@
     "Material6": 65534,
     "SerialID": 3800,
     "UniqueID": 177,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3271,8 +3401,9 @@
     "Material6": 65534,
     "SerialID": 3802,
     "UniqueID": 178,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3296,8 +3427,9 @@
     "Material6": 65534,
     "SerialID": 3801,
     "UniqueID": 180,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3321,8 +3453,9 @@
     "Material6": 65534,
     "SerialID": 3803,
     "UniqueID": 181,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3346,8 +3479,9 @@
     "Material6": 65534,
     "SerialID": 3806,
     "UniqueID": 182,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -3371,8 +3505,9 @@
     "Material6": 65534,
     "SerialID": 121,
     "UniqueID": 183,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -3396,8 +3531,9 @@
     "Material6": 65534,
     "SerialID": 1330,
     "UniqueID": 184,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -3421,8 +3557,9 @@
     "Material6": 65534,
     "SerialID": 1300,
     "UniqueID": 185,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -3446,8 +3583,9 @@
     "Material6": 65534,
     "SerialID": 1601,
     "UniqueID": 186,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -3471,8 +3609,9 @@
     "Material6": 65534,
     "SerialID": 1500,
     "UniqueID": 187,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -3496,8 +3635,9 @@
     "Material6": 65534,
     "SerialID": 1501,
     "UniqueID": 188,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -3521,8 +3661,9 @@
     "Material6": 65534,
     "SerialID": 1700,
     "UniqueID": 189,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -3546,8 +3687,9 @@
     "Material6": 65534,
     "SerialID": 1201,
     "UniqueID": 190,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3571,8 +3713,9 @@
     "Material6": 65534,
     "SerialID": 131,
     "UniqueID": 191,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -3596,8 +3739,9 @@
     "Material6": 65534,
     "SerialID": 702,
     "UniqueID": 192,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3621,8 +3765,9 @@
     "Material6": 65534,
     "SerialID": 463,
     "UniqueID": 193,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -3646,8 +3791,9 @@
     "Material6": 65534,
     "SerialID": 6600,
     "UniqueID": 194,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3671,8 +3817,9 @@
     "Material6": 65534,
     "SerialID": 464,
     "UniqueID": 195,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -3696,8 +3843,9 @@
     "Material6": 65534,
     "SerialID": 2100,
     "UniqueID": 196,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -3721,8 +3869,9 @@
     "Material6": 65534,
     "SerialID": 2111,
     "UniqueID": 197,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -3746,8 +3895,9 @@
     "Material6": 65534,
     "SerialID": 908,
     "UniqueID": 199,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3771,8 +3921,9 @@
     "Material6": 65534,
     "SerialID": 3807,
     "UniqueID": 200,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -3796,8 +3947,9 @@
     "Material6": 65534,
     "SerialID": 315,
     "UniqueID": 201,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3821,8 +3973,9 @@
     "Material6": 65534,
     "SerialID": 5801,
     "UniqueID": 202,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -3846,8 +3999,9 @@
     "Material6": 65534,
     "SerialID": 7410,
     "UniqueID": 203,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -3871,8 +4025,9 @@
     "Material6": 65534,
     "SerialID": 2000,
     "UniqueID": 204,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3896,8 +4051,9 @@
     "Material6": 65534,
     "SerialID": 5809,
     "UniqueID": 205,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3921,8 +4077,9 @@
     "Material6": 65534,
     "SerialID": 5807,
     "UniqueID": 206,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3946,8 +4103,9 @@
     "Material6": 65534,
     "SerialID": 5808,
     "UniqueID": 207,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3971,8 +4129,9 @@
     "Material6": 65534,
     "SerialID": 5810,
     "UniqueID": 208,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -3996,8 +4155,9 @@
     "Material6": 65534,
     "SerialID": 5803,
     "UniqueID": 209,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -4021,8 +4181,9 @@
     "Material6": 65534,
     "SerialID": 5800,
     "UniqueID": 210,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -4046,8 +4207,9 @@
     "Material6": 65534,
     "SerialID": 5804,
     "UniqueID": 212,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -4071,8 +4233,9 @@
     "Material6": 65534,
     "SerialID": 439,
     "UniqueID": 213,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4096,8 +4259,9 @@
     "Material6": 65534,
     "SerialID": 1231,
     "UniqueID": 214,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -4121,8 +4285,9 @@
     "Material6": 65534,
     "SerialID": 405,
     "UniqueID": 215,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -4146,8 +4311,9 @@
     "Material6": 65534,
     "SerialID": 404,
     "UniqueID": 216,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4171,8 +4337,9 @@
     "Material6": 65534,
     "SerialID": 2407,
     "UniqueID": 217,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -4196,8 +4363,9 @@
     "Material6": 65534,
     "SerialID": 133,
     "UniqueID": 218,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -4221,8 +4389,9 @@
     "Material6": 1382,
     "SerialID": 4240,
     "UniqueID": 219,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -4246,8 +4415,9 @@
     "Material6": 65534,
     "SerialID": 5400,
     "UniqueID": 220,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -4271,8 +4441,9 @@
     "Material6": 65534,
     "SerialID": 5440,
     "UniqueID": 221,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -4296,8 +4467,9 @@
     "Material6": 65534,
     "SerialID": 7040,
     "UniqueID": 222,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -4321,8 +4493,9 @@
     "Material6": 65534,
     "SerialID": 1940,
     "UniqueID": 223,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -4346,8 +4519,9 @@
     "Material6": 65534,
     "SerialID": 375,
     "UniqueID": 224,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -4371,8 +4545,9 @@
     "Material6": 65534,
     "SerialID": 240,
     "UniqueID": 225,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -4396,8 +4571,9 @@
     "Material6": 65534,
     "SerialID": 7440,
     "UniqueID": 226,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4421,8 +4597,9 @@
     "Material6": 65534,
     "SerialID": 7846,
     "UniqueID": 227,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4446,8 +4623,9 @@
     "Material6": 65534,
     "SerialID": 7840,
     "UniqueID": 228,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4471,8 +4649,9 @@
     "Material6": 65534,
     "SerialID": 7852,
     "UniqueID": 229,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4496,8 +4675,9 @@
     "Material6": 65534,
     "SerialID": 7857,
     "UniqueID": 230,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4521,8 +4701,9 @@
     "Material6": 65534,
     "SerialID": 7843,
     "UniqueID": 231,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4546,8 +4727,9 @@
     "Material6": 65534,
     "SerialID": 7860,
     "UniqueID": 232,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -4571,8 +4753,9 @@
     "Material6": 65534,
     "SerialID": 2227,
     "UniqueID": 233,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -4596,8 +4779,9 @@
     "Material6": 65534,
     "SerialID": 2202,
     "UniqueID": 234,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -4621,8 +4805,9 @@
     "Material6": 65534,
     "SerialID": 2203,
     "UniqueID": 235,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -4646,8 +4831,9 @@
     "Material6": 65534,
     "SerialID": 2220,
     "UniqueID": 236,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4671,8 +4857,9 @@
     "Material6": 65534,
     "SerialID": 8220,
     "UniqueID": 237,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4696,8 +4883,9 @@
     "Material6": 65534,
     "SerialID": 8221,
     "UniqueID": 238,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4721,8 +4909,9 @@
     "Material6": 65534,
     "SerialID": 8222,
     "UniqueID": 239,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4746,8 +4935,9 @@
     "Material6": 65534,
     "SerialID": 8200,
     "UniqueID": 240,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4771,8 +4961,9 @@
     "Material6": 65534,
     "SerialID": 8201,
     "UniqueID": 241,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4796,8 +4987,9 @@
     "Material6": 65534,
     "SerialID": 8202,
     "UniqueID": 242,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4821,8 +5013,9 @@
     "Material6": 65534,
     "SerialID": 8209,
     "UniqueID": 243,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4846,8 +5039,9 @@
     "Material6": 65534,
     "SerialID": 8210,
     "UniqueID": 244,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4871,8 +5065,9 @@
     "Material6": 65534,
     "SerialID": 8211,
     "UniqueID": 245,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4896,8 +5091,9 @@
     "Material6": 65534,
     "SerialID": 8217,
     "UniqueID": 246,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4921,8 +5117,9 @@
     "Material6": 65534,
     "SerialID": 8218,
     "UniqueID": 247,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4946,8 +5143,9 @@
     "Material6": 65534,
     "SerialID": 8219,
     "UniqueID": 248,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4971,8 +5169,9 @@
     "Material6": 65534,
     "SerialID": 8206,
     "UniqueID": 249,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -4996,8 +5195,9 @@
     "Material6": 65534,
     "SerialID": 8207,
     "UniqueID": 250,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5021,8 +5221,9 @@
     "Material6": 65534,
     "SerialID": 8208,
     "UniqueID": 251,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5046,8 +5247,9 @@
     "Material6": 65534,
     "SerialID": 8212,
     "UniqueID": 252,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5071,8 +5273,9 @@
     "Material6": 65534,
     "SerialID": 8213,
     "UniqueID": 253,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5096,8 +5299,9 @@
     "Material6": 65534,
     "SerialID": 8214,
     "UniqueID": 254,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5121,8 +5325,9 @@
     "Material6": 65534,
     "SerialID": 8223,
     "UniqueID": 255,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5146,8 +5351,9 @@
     "Material6": 65534,
     "SerialID": 8224,
     "UniqueID": 256,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5171,8 +5377,9 @@
     "Material6": 65534,
     "SerialID": 8225,
     "UniqueID": 257,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5196,8 +5403,9 @@
     "Material6": 65534,
     "SerialID": 8203,
     "UniqueID": 258,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5221,8 +5429,9 @@
     "Material6": 65534,
     "SerialID": 8204,
     "UniqueID": 259,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5246,8 +5455,9 @@
     "Material6": 65534,
     "SerialID": 8205,
     "UniqueID": 260,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5271,8 +5481,9 @@
     "Material6": 65534,
     "SerialID": 1280,
     "UniqueID": 261,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -5296,8 +5507,9 @@
     "Material6": 65534,
     "SerialID": 1106,
     "UniqueID": 262,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5321,8 +5533,9 @@
     "Material6": 65534,
     "SerialID": 302,
     "UniqueID": 263,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -5346,8 +5559,9 @@
     "Material6": 65534,
     "SerialID": 135,
     "UniqueID": 264,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -5371,8 +5585,9 @@
     "Material6": 65534,
     "SerialID": 870,
     "UniqueID": 266,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -5396,8 +5611,9 @@
     "Material6": 65534,
     "SerialID": 971,
     "UniqueID": 267,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5421,8 +5637,9 @@
     "Material6": 65534,
     "SerialID": 583,
     "UniqueID": 268,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5446,8 +5663,9 @@
     "Material6": 65534,
     "SerialID": 580,
     "UniqueID": 269,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5471,8 +5689,9 @@
     "Material6": 65534,
     "SerialID": 102,
     "UniqueID": 271,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -5496,8 +5715,9 @@
     "Material6": 65534,
     "SerialID": 7404,
     "UniqueID": 273,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -5521,8 +5741,9 @@
     "Material6": 65534,
     "SerialID": 7403,
     "UniqueID": 274,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -5546,8 +5767,9 @@
     "Material6": 65534,
     "SerialID": 917,
     "UniqueID": 277,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -5571,8 +5793,9 @@
     "Material6": 65534,
     "SerialID": 2101,
     "UniqueID": 278,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5596,8 +5819,9 @@
     "Material6": 65534,
     "SerialID": 483,
     "UniqueID": 279,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5621,8 +5845,9 @@
     "Material6": 65534,
     "SerialID": 110,
     "UniqueID": 280,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5646,8 +5871,9 @@
     "Material6": 65534,
     "SerialID": 104,
     "UniqueID": 281,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5671,8 +5897,9 @@
     "Material6": 65534,
     "SerialID": 106,
     "UniqueID": 282,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5696,8 +5923,9 @@
     "Material6": 65534,
     "SerialID": 108,
     "UniqueID": 283,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5721,8 +5949,9 @@
     "Material6": 65534,
     "SerialID": 465,
     "UniqueID": 284,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -5746,8 +5975,9 @@
     "Material6": 65534,
     "SerialID": 101,
     "UniqueID": 285,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -5771,8 +6001,9 @@
     "Material6": 65534,
     "SerialID": 2251,
     "UniqueID": 286,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -5796,8 +6027,9 @@
     "Material6": 65534,
     "SerialID": 6660,
     "UniqueID": 288,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -5821,8 +6053,9 @@
     "Material6": 65534,
     "SerialID": 7061,
     "UniqueID": 289,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -5846,8 +6079,9 @@
     "Material6": 65534,
     "SerialID": 4650,
     "UniqueID": 290,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -5871,8 +6105,9 @@
     "Material6": 65534,
     "SerialID": 7450,
     "UniqueID": 291,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -5896,8 +6131,9 @@
     "Material6": 65534,
     "SerialID": 2252,
     "UniqueID": 292,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -5921,8 +6157,9 @@
     "Material6": 65534,
     "SerialID": 6650,
     "UniqueID": 293,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -5946,8 +6183,9 @@
     "Material6": 65534,
     "SerialID": 2250,
     "UniqueID": 294,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -5971,8 +6209,9 @@
     "Material6": 65534,
     "SerialID": 7050,
     "UniqueID": 295,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -5996,8 +6235,9 @@
     "Material6": 65534,
     "SerialID": 2050,
     "UniqueID": 296,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -6021,8 +6261,9 @@
     "Material6": 65534,
     "SerialID": 1151,
     "UniqueID": 298,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -6046,8 +6287,9 @@
     "Material6": 65534,
     "SerialID": 1150,
     "UniqueID": 299,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6071,8 +6313,9 @@
     "Material6": 65534,
     "SerialID": 3051,
     "UniqueID": 300,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -6096,8 +6339,9 @@
     "Material6": 65534,
     "SerialID": 670,
     "UniqueID": 301,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -6121,8 +6365,9 @@
     "Material6": 65534,
     "SerialID": 7051,
     "UniqueID": 302,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -6146,8 +6391,9 @@
     "Material6": 65534,
     "SerialID": 1350,
     "UniqueID": 303,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -6171,8 +6417,9 @@
     "Material6": 65534,
     "SerialID": 1750,
     "UniqueID": 304,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6196,8 +6443,9 @@
     "Material6": 65534,
     "SerialID": 1650,
     "UniqueID": 305,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -6221,8 +6469,9 @@
     "Material6": 65534,
     "SerialID": 1550,
     "UniqueID": 306,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -6246,8 +6495,9 @@
     "Material6": 65534,
     "SerialID": 1450,
     "UniqueID": 307,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -6271,8 +6521,9 @@
     "Material6": 65534,
     "SerialID": 5451,
     "UniqueID": 308,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6296,8 +6547,9 @@
     "Material6": 65534,
     "SerialID": 523,
     "UniqueID": 309,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6321,8 +6573,9 @@
     "Material6": 65534,
     "SerialID": 521,
     "UniqueID": 310,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6346,8 +6599,9 @@
     "Material6": 65534,
     "SerialID": 522,
     "UniqueID": 311,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6371,8 +6625,9 @@
     "Material6": 65534,
     "SerialID": 524,
     "UniqueID": 312,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6396,8 +6651,9 @@
     "Material6": 65534,
     "SerialID": 525,
     "UniqueID": 313,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6421,8 +6677,9 @@
     "Material6": 65534,
     "SerialID": 528,
     "UniqueID": 314,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6446,8 +6703,9 @@
     "Material6": 65534,
     "SerialID": 527,
     "UniqueID": 315,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -6471,8 +6729,9 @@
     "Material6": 65534,
     "SerialID": 2112,
     "UniqueID": 316,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -6496,8 +6755,9 @@
     "Material6": 65534,
     "SerialID": 2103,
     "UniqueID": 317,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -6521,8 +6781,9 @@
     "Material6": 65534,
     "SerialID": 850,
     "UniqueID": 318,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6546,8 +6807,9 @@
     "Material6": 65534,
     "SerialID": 526,
     "UniqueID": 319,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -6571,8 +6833,9 @@
     "Material6": 65534,
     "SerialID": 520,
     "UniqueID": 320,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -6596,8 +6859,9 @@
     "Material6": 65534,
     "SerialID": 3451,
     "UniqueID": 321,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6621,8 +6885,9 @@
     "Material6": 65534,
     "SerialID": 2450,
     "UniqueID": 322,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -6646,8 +6911,9 @@
     "Material6": 65534,
     "SerialID": 7052,
     "UniqueID": 323,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -6671,8 +6937,9 @@
     "Material6": 65534,
     "SerialID": 851,
     "UniqueID": 324,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -6696,8 +6963,9 @@
     "Material6": 65534,
     "SerialID": 950,
     "UniqueID": 325,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6721,8 +6989,9 @@
     "Material6": 65534,
     "SerialID": 1250,
     "UniqueID": 326,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6746,8 +7015,9 @@
     "Material6": 65534,
     "SerialID": 2408,
     "UniqueID": 359,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6771,8 +7041,9 @@
     "Material6": 65534,
     "SerialID": 7849,
     "UniqueID": 360,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6796,8 +7067,9 @@
     "Material6": 65534,
     "SerialID": 7850,
     "UniqueID": 361,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -6821,8 +7093,9 @@
     "Material6": 65534,
     "SerialID": 7851,
     "UniqueID": 362,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -6846,8 +7119,9 @@
     "Material6": 65534,
     "SerialID": 6610,
     "UniqueID": 364,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -6871,8 +7145,9 @@
     "Material6": 65534,
     "SerialID": 906,
     "UniqueID": 365,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -6896,8 +7171,9 @@
     "Material6": 65534,
     "SerialID": 2310,
     "UniqueID": 366,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -6921,8 +7197,9 @@
     "Material6": 65534,
     "SerialID": 2300,
     "UniqueID": 367,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -6946,8 +7223,9 @@
     "Material6": 65534,
     "SerialID": 2305,
     "UniqueID": 368,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -6971,8 +7249,9 @@
     "Material6": 65534,
     "SerialID": 2309,
     "UniqueID": 370,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -6996,8 +7275,9 @@
     "Material6": 65534,
     "SerialID": 2303,
     "UniqueID": 371,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7021,8 +7301,9 @@
     "Material6": 65534,
     "SerialID": 7401,
     "UniqueID": 372,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7046,8 +7327,9 @@
     "Material6": 65534,
     "SerialID": 2226,
     "UniqueID": 373,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -7071,8 +7353,9 @@
     "Material6": 65534,
     "SerialID": 810,
     "UniqueID": 374,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -7096,8 +7379,9 @@
     "Material6": 65534,
     "SerialID": 3401,
     "UniqueID": 375,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7121,8 +7405,9 @@
     "Material6": 65534,
     "SerialID": 2308,
     "UniqueID": 376,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7146,8 +7431,9 @@
     "Material6": 65534,
     "SerialID": 2302,
     "UniqueID": 377,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7171,8 +7457,9 @@
     "Material6": 65534,
     "SerialID": 482,
     "UniqueID": 378,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7196,8 +7483,9 @@
     "Material6": 65534,
     "SerialID": 2222,
     "UniqueID": 379,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7221,8 +7509,9 @@
     "Material6": 65534,
     "SerialID": 2307,
     "UniqueID": 380,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7246,8 +7535,9 @@
     "Material6": 65534,
     "SerialID": 2223,
     "UniqueID": 381,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7271,8 +7561,9 @@
     "Material6": 65534,
     "SerialID": 3003,
     "UniqueID": 382,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7296,8 +7587,9 @@
     "Material6": 65534,
     "SerialID": 441,
     "UniqueID": 383,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7321,8 +7613,9 @@
     "Material6": 65534,
     "SerialID": 2301,
     "UniqueID": 384,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7346,8 +7639,9 @@
     "Material6": 65534,
     "SerialID": 3004,
     "UniqueID": 385,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7371,8 +7665,9 @@
     "Material6": 65534,
     "SerialID": 2225,
     "UniqueID": 386,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7396,8 +7691,9 @@
     "Material6": 65534,
     "SerialID": 351,
     "UniqueID": 387,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7421,8 +7717,9 @@
     "Material6": 65534,
     "SerialID": 7402,
     "UniqueID": 388,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -7446,8 +7743,9 @@
     "Material6": 65534,
     "SerialID": 911,
     "UniqueID": 389,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7471,8 +7769,9 @@
     "Material6": 65534,
     "SerialID": 466,
     "UniqueID": 390,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7496,8 +7795,9 @@
     "Material6": 65534,
     "SerialID": 1202,
     "UniqueID": 391,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7521,8 +7821,9 @@
     "Material6": 65534,
     "SerialID": 7409,
     "UniqueID": 392,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -7546,8 +7847,9 @@
     "Material6": 65534,
     "SerialID": 910,
     "UniqueID": 393,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -7571,8 +7873,9 @@
     "Material6": 65534,
     "SerialID": 2150,
     "UniqueID": 394,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -7596,8 +7899,9 @@
     "Material6": 65534,
     "SerialID": 914,
     "UniqueID": 395,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7621,8 +7925,9 @@
     "Material6": 65534,
     "SerialID": 1232,
     "UniqueID": 396,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7646,8 +7951,9 @@
     "Material6": 65534,
     "SerialID": 2413,
     "UniqueID": 397,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7671,8 +7977,9 @@
     "Material6": 65534,
     "SerialID": 134,
     "UniqueID": 398,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7696,8 +8003,9 @@
     "Material6": 65534,
     "SerialID": 2311,
     "UniqueID": 399,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7721,8 +8029,9 @@
     "Material6": 2288,
     "SerialID": 1901,
     "UniqueID": 400,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7746,8 +8055,9 @@
     "Material6": 65534,
     "SerialID": 7408,
     "UniqueID": 401,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7771,8 +8081,9 @@
     "Material6": 65534,
     "SerialID": 467,
     "UniqueID": 402,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7796,8 +8107,9 @@
     "Material6": 65534,
     "SerialID": 461,
     "UniqueID": 403,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -7821,8 +8133,9 @@
     "Material6": 65534,
     "SerialID": 2102,
     "UniqueID": 404,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -7846,8 +8159,9 @@
     "Material6": 65534,
     "SerialID": 1830,
     "UniqueID": 405,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -7871,8 +8185,9 @@
     "Material6": 65534,
     "SerialID": 7407,
     "UniqueID": 406,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7896,8 +8211,9 @@
     "Material6": 65534,
     "SerialID": 2304,
     "UniqueID": 407,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -7921,8 +8237,9 @@
     "Material6": 65534,
     "SerialID": 707,
     "UniqueID": 408,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -7946,8 +8263,9 @@
     "Material6": 65534,
     "SerialID": 2221,
     "UniqueID": 409,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -7971,8 +8289,9 @@
     "Material6": 65534,
     "SerialID": 812,
     "UniqueID": 410,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -7996,8 +8315,9 @@
     "Material6": 65534,
     "SerialID": 4605,
     "UniqueID": 411,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8021,8 +8341,9 @@
     "Material6": 65534,
     "SerialID": 341,
     "UniqueID": 412,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -8046,8 +8367,9 @@
     "Material6": 65534,
     "SerialID": 2110,
     "UniqueID": 413,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8071,8 +8393,9 @@
     "Material6": 65534,
     "SerialID": 4630,
     "UniqueID": 414,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8096,8 +8419,9 @@
     "Material6": 65534,
     "SerialID": 4606,
     "UniqueID": 415,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8121,8 +8445,9 @@
     "Material6": 65534,
     "SerialID": 4607,
     "UniqueID": 416,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8146,8 +8471,9 @@
     "Material6": 65534,
     "SerialID": 4608,
     "UniqueID": 417,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -8171,8 +8497,9 @@
     "Material6": 65534,
     "SerialID": 3400,
     "UniqueID": 418,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -8196,8 +8523,9 @@
     "Material6": 65534,
     "SerialID": 3402,
     "UniqueID": 419,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8221,8 +8549,9 @@
     "Material6": 65534,
     "SerialID": 2404,
     "UniqueID": 420,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8246,8 +8575,9 @@
     "Material6": 65534,
     "SerialID": 2406,
     "UniqueID": 421,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -8271,8 +8601,9 @@
     "Material6": 65534,
     "SerialID": 3403,
     "UniqueID": 422,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8296,8 +8627,9 @@
     "Material6": 65534,
     "SerialID": 4609,
     "UniqueID": 423,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8321,8 +8653,9 @@
     "Material6": 65534,
     "SerialID": 3002,
     "UniqueID": 424,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -8346,8 +8679,9 @@
     "Material6": 65534,
     "SerialID": 3430,
     "UniqueID": 426,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -8371,8 +8705,9 @@
     "Material6": 65534,
     "SerialID": 3404,
     "UniqueID": 427,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -8396,8 +8731,9 @@
     "Material6": 65534,
     "SerialID": 2200,
     "UniqueID": 429,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -8421,8 +8757,9 @@
     "Material6": 65534,
     "SerialID": 2231,
     "UniqueID": 430,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -8446,8 +8783,9 @@
     "Material6": 65534,
     "SerialID": 2201,
     "UniqueID": 432,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -8471,8 +8809,9 @@
     "Material6": 65534,
     "SerialID": 7430,
     "UniqueID": 433,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -8496,8 +8835,9 @@
     "Material6": 65534,
     "SerialID": 2224,
     "UniqueID": 434,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -8521,8 +8861,9 @@
     "Material6": 65534,
     "SerialID": 912,
     "UniqueID": 435,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8546,8 +8887,9 @@
     "Material6": 65534,
     "SerialID": 332,
     "UniqueID": 436,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -8571,8 +8913,9 @@
     "Material6": 65534,
     "SerialID": 480,
     "UniqueID": 437,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8596,8 +8939,9 @@
     "Material6": 65534,
     "SerialID": 7863,
     "UniqueID": 438,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8621,8 +8965,9 @@
     "Material6": 65534,
     "SerialID": 7842,
     "UniqueID": 440,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8646,8 +8991,9 @@
     "Material6": 65534,
     "SerialID": 7841,
     "UniqueID": 441,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8671,8 +9017,9 @@
     "Material6": 65534,
     "SerialID": 7845,
     "UniqueID": 442,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8696,8 +9043,9 @@
     "Material6": 65534,
     "SerialID": 7844,
     "UniqueID": 443,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8721,8 +9069,9 @@
     "Material6": 65534,
     "SerialID": 7848,
     "UniqueID": 444,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8746,8 +9095,9 @@
     "Material6": 65534,
     "SerialID": 7847,
     "UniqueID": 445,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8771,8 +9121,9 @@
     "Material6": 65534,
     "SerialID": 7854,
     "UniqueID": 446,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8796,8 +9147,9 @@
     "Material6": 65534,
     "SerialID": 7855,
     "UniqueID": 447,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8821,8 +9173,9 @@
     "Material6": 65534,
     "SerialID": 7853,
     "UniqueID": 448,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8846,8 +9199,9 @@
     "Material6": 65534,
     "SerialID": 7856,
     "UniqueID": 449,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8871,8 +9225,9 @@
     "Material6": 65534,
     "SerialID": 7859,
     "UniqueID": 450,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8896,8 +9251,9 @@
     "Material6": 65534,
     "SerialID": 7858,
     "UniqueID": 451,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8921,8 +9277,9 @@
     "Material6": 65534,
     "SerialID": 7862,
     "UniqueID": 452,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8946,8 +9303,9 @@
     "Material6": 65534,
     "SerialID": 7861,
     "UniqueID": 453,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8971,8 +9329,9 @@
     "Material6": 65534,
     "SerialID": 7865,
     "UniqueID": 454,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -8996,8 +9355,9 @@
     "Material6": 65534,
     "SerialID": 7864,
     "UniqueID": 455,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9021,8 +9381,9 @@
     "Material6": 65534,
     "SerialID": 1282,
     "UniqueID": 456,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9046,8 +9407,9 @@
     "Material6": 65534,
     "SerialID": 203,
     "UniqueID": 457,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 49,
@@ -9071,8 +9433,9 @@
     "Material6": 65534,
     "SerialID": 1,
     "UniqueID": 458,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9096,8 +9459,9 @@
     "Material6": 65534,
     "SerialID": 8215,
     "UniqueID": 459,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9121,8 +9485,9 @@
     "Material6": 65534,
     "SerialID": 8216,
     "UniqueID": 460,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 49,
@@ -9146,8 +9511,9 @@
     "Material6": 65534,
     "SerialID": 1,
     "UniqueID": 461,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -9171,8 +9537,9 @@
     "Material6": 65534,
     "SerialID": 2120,
     "UniqueID": 462,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -9196,8 +9563,9 @@
     "Material6": 65534,
     "SerialID": 2121,
     "UniqueID": 463,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -9221,8 +9589,9 @@
     "Material6": 65534,
     "SerialID": 840,
     "UniqueID": 464,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9246,8 +9615,9 @@
     "Material6": 65534,
     "SerialID": 502,
     "UniqueID": 465,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9271,8 +9641,9 @@
     "Material6": 65534,
     "SerialID": 501,
     "UniqueID": 466,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9296,8 +9667,9 @@
     "Material6": 65534,
     "SerialID": 500,
     "UniqueID": 467,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -9321,8 +9693,9 @@
     "Material6": 65534,
     "SerialID": 940,
     "UniqueID": 468,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -9346,8 +9719,9 @@
     "Material6": 65534,
     "SerialID": 941,
     "UniqueID": 469,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9371,8 +9745,9 @@
     "Material6": 65534,
     "SerialID": 1260,
     "UniqueID": 470,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9396,8 +9771,9 @@
     "Material6": 65534,
     "SerialID": 1251,
     "UniqueID": 471,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -9421,8 +9797,9 @@
     "Material6": 65534,
     "SerialID": 2060,
     "UniqueID": 472,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -9446,8 +9823,9 @@
     "Material6": 65534,
     "SerialID": 2190,
     "UniqueID": 473,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -9471,8 +9849,9 @@
     "Material6": 65534,
     "SerialID": 855,
     "UniqueID": 474,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -9496,8 +9875,9 @@
     "Material6": 65534,
     "SerialID": 1155,
     "UniqueID": 475,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9521,8 +9901,9 @@
     "Material6": 65534,
     "SerialID": 4660,
     "UniqueID": 476,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -9546,8 +9927,9 @@
     "Material6": 65534,
     "SerialID": 2262,
     "UniqueID": 477,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -9571,8 +9953,9 @@
     "Material6": 65534,
     "SerialID": 2261,
     "UniqueID": 478,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -9596,8 +9979,9 @@
     "Material6": 65534,
     "SerialID": 3460,
     "UniqueID": 479,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -9621,8 +10005,9 @@
     "Material6": 65534,
     "SerialID": 3450,
     "UniqueID": 480,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -9646,8 +10031,9 @@
     "Material6": 65534,
     "SerialID": 2260,
     "UniqueID": 482,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -9671,8 +10057,9 @@
     "Material6": 65534,
     "SerialID": 7060,
     "UniqueID": 483,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -9696,8 +10083,9 @@
     "Material6": 65534,
     "SerialID": 5450,
     "UniqueID": 484,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9721,8 +10109,9 @@
     "Material6": 65534,
     "SerialID": 2460,
     "UniqueID": 485,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -9746,8 +10135,9 @@
     "Material6": 65534,
     "SerialID": 680,
     "UniqueID": 486,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9771,8 +10161,9 @@
     "Material6": 65534,
     "SerialID": 1261,
     "UniqueID": 487,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -9796,8 +10187,9 @@
     "Material6": 65534,
     "SerialID": 5460,
     "UniqueID": 488,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -9821,8 +10213,9 @@
     "Material6": 65534,
     "SerialID": 955,
     "UniqueID": 489,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -9846,8 +10239,9 @@
     "Material6": 65534,
     "SerialID": 916,
     "UniqueID": 490,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9871,8 +10265,9 @@
     "Material6": 65534,
     "SerialID": 314,
     "UniqueID": 491,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9896,8 +10291,9 @@
     "Material6": 65534,
     "SerialID": 312,
     "UniqueID": 492,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9921,8 +10317,9 @@
     "Material6": 65534,
     "SerialID": 319,
     "UniqueID": 493,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -9946,8 +10343,9 @@
     "Material6": 65534,
     "SerialID": 300,
     "UniqueID": 494,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -9971,8 +10369,9 @@
     "Material6": 65534,
     "SerialID": 7803,
     "UniqueID": 495,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -9996,8 +10395,9 @@
     "Material6": 65534,
     "SerialID": 2132,
     "UniqueID": 496,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -10021,8 +10421,9 @@
     "Material6": 65534,
     "SerialID": 2133,
     "UniqueID": 497,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -10046,8 +10447,9 @@
     "Material6": 65534,
     "SerialID": 2130,
     "UniqueID": 498,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -10071,8 +10473,9 @@
     "Material6": 65534,
     "SerialID": 2131,
     "UniqueID": 500,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10096,8 +10499,9 @@
     "Material6": 65534,
     "SerialID": 7802,
     "UniqueID": 501,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10121,8 +10525,9 @@
     "Material6": 65534,
     "SerialID": 320,
     "UniqueID": 502,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10146,8 +10551,9 @@
     "Material6": 65534,
     "SerialID": 7800,
     "UniqueID": 503,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -10171,8 +10577,9 @@
     "Material6": 65534,
     "SerialID": 650,
     "UniqueID": 504,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10196,8 +10603,9 @@
     "Material6": 65534,
     "SerialID": 7801,
     "UniqueID": 505,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10221,8 +10629,9 @@
     "Material6": 65534,
     "SerialID": 7806,
     "UniqueID": 506,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10246,8 +10655,9 @@
     "Material6": 65534,
     "SerialID": 7804,
     "UniqueID": 507,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10271,8 +10681,9 @@
     "Material6": 65534,
     "SerialID": 433,
     "UniqueID": 508,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10296,8 +10707,9 @@
     "Material6": 65534,
     "SerialID": 4603,
     "UniqueID": 509,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10321,8 +10733,9 @@
     "Material6": 65534,
     "SerialID": 440,
     "UniqueID": 510,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -10346,8 +10759,9 @@
     "Material6": 65534,
     "SerialID": 820,
     "UniqueID": 511,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -10371,8 +10785,9 @@
     "Material6": 65534,
     "SerialID": 821,
     "UniqueID": 512,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -10396,8 +10811,9 @@
     "Material6": 65534,
     "SerialID": 819,
     "UniqueID": 513,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -10421,8 +10837,9 @@
     "Material6": 65534,
     "SerialID": 2230,
     "UniqueID": 514,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10446,8 +10863,9 @@
     "Material6": 65534,
     "SerialID": 7807,
     "UniqueID": 515,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10471,8 +10889,9 @@
     "Material6": 65534,
     "SerialID": 7805,
     "UniqueID": 516,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -10496,8 +10915,9 @@
     "Material6": 65534,
     "SerialID": 814,
     "UniqueID": 518,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10521,8 +10941,9 @@
     "Material6": 65534,
     "SerialID": 4604,
     "UniqueID": 519,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -10546,8 +10967,9 @@
     "Material6": 65534,
     "SerialID": 705,
     "UniqueID": 520,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -10571,8 +10993,9 @@
     "Material6": 65534,
     "SerialID": 2140,
     "UniqueID": 521,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -10596,8 +11019,9 @@
     "Material6": 65534,
     "SerialID": 2291,
     "UniqueID": 523,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10621,8 +11045,9 @@
     "Material6": 65534,
     "SerialID": 8276,
     "UniqueID": 524,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10646,8 +11071,9 @@
     "Material6": 65534,
     "SerialID": 8270,
     "UniqueID": 525,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10671,8 +11097,9 @@
     "Material6": 65534,
     "SerialID": 8273,
     "UniqueID": 526,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10696,8 +11123,9 @@
     "Material6": 65534,
     "SerialID": 8275,
     "UniqueID": 527,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10721,8 +11149,9 @@
     "Material6": 65534,
     "SerialID": 8272,
     "UniqueID": 528,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10746,8 +11175,9 @@
     "Material6": 65534,
     "SerialID": 8274,
     "UniqueID": 529,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10771,8 +11201,9 @@
     "Material6": 65534,
     "SerialID": 8277,
     "UniqueID": 530,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10796,8 +11227,9 @@
     "Material6": 65534,
     "SerialID": 8271,
     "UniqueID": 531,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 41,
@@ -10821,8 +11253,9 @@
     "Material6": 65534,
     "SerialID": 123,
     "UniqueID": 532,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -10846,8 +11279,9 @@
     "Material6": 65534,
     "SerialID": 6690,
     "UniqueID": 533,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -10871,8 +11305,9 @@
     "Material6": 65534,
     "SerialID": 4290,
     "UniqueID": 534,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -10896,8 +11331,9 @@
     "Material6": 65534,
     "SerialID": 290,
     "UniqueID": 535,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -10921,8 +11357,9 @@
     "Material6": 65534,
     "SerialID": 5490,
     "UniqueID": 536,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -10946,8 +11383,9 @@
     "Material6": 65534,
     "SerialID": 3490,
     "UniqueID": 537,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -10971,8 +11409,9 @@
     "Material6": 65534,
     "SerialID": 3090,
     "UniqueID": 538,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -10996,8 +11435,9 @@
     "Material6": 65534,
     "SerialID": 1170,
     "UniqueID": 539,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -11021,8 +11461,9 @@
     "Material6": 65534,
     "SerialID": 979,
     "UniqueID": 540,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11046,8 +11487,9 @@
     "Material6": 65534,
     "SerialID": 4680,
     "UniqueID": 541,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -11071,8 +11513,9 @@
     "Material6": 65534,
     "SerialID": 1770,
     "UniqueID": 542,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -11096,8 +11539,9 @@
     "Material6": 65534,
     "SerialID": 1470,
     "UniqueID": 543,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -11121,8 +11565,9 @@
     "Material6": 65534,
     "SerialID": 1370,
     "UniqueID": 544,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -11146,8 +11591,9 @@
     "Material6": 65534,
     "SerialID": 1570,
     "UniqueID": 545,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -11171,8 +11617,9 @@
     "Material6": 65534,
     "SerialID": 1670,
     "UniqueID": 546,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -11196,8 +11643,9 @@
     "Material6": 65534,
     "SerialID": 970,
     "UniqueID": 549,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11221,8 +11669,9 @@
     "Material6": 65534,
     "SerialID": 597,
     "UniqueID": 550,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -11246,8 +11695,9 @@
     "Material6": 65534,
     "SerialID": 1290,
     "UniqueID": 552,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11271,8 +11721,9 @@
     "Material6": 65534,
     "SerialID": 584,
     "UniqueID": 553,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -11296,8 +11747,9 @@
     "Material6": 65534,
     "SerialID": 871,
     "UniqueID": 555,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -11321,8 +11773,9 @@
     "Material6": 65534,
     "SerialID": 873,
     "UniqueID": 556,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11346,8 +11799,9 @@
     "Material6": 65534,
     "SerialID": 585,
     "UniqueID": 561,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -11371,8 +11825,9 @@
     "Material6": 65534,
     "SerialID": 4260,
     "UniqueID": 564,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -11396,8 +11851,9 @@
     "Material6": 65534,
     "SerialID": 4262,
     "UniqueID": 565,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -11421,8 +11877,9 @@
     "Material6": 65534,
     "SerialID": 1161,
     "UniqueID": 566,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -11446,8 +11903,9 @@
     "Material6": 65534,
     "SerialID": 130,
     "UniqueID": 567,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -11471,8 +11929,9 @@
     "Material6": 65534,
     "SerialID": 815,
     "UniqueID": 568,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -11496,8 +11955,9 @@
     "Material6": 65534,
     "SerialID": 1105,
     "UniqueID": 569,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -11521,8 +11981,9 @@
     "Material6": 65534,
     "SerialID": 816,
     "UniqueID": 570,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11546,8 +12007,9 @@
     "Material6": 65534,
     "SerialID": 436,
     "UniqueID": 571,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11571,8 +12033,9 @@
     "Material6": 65534,
     "SerialID": 321,
     "UniqueID": 572,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -11596,8 +12059,9 @@
     "Material6": 65534,
     "SerialID": 904,
     "UniqueID": 573,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -11621,8 +12085,9 @@
     "Material6": 65534,
     "SerialID": 700,
     "UniqueID": 574,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -11646,8 +12111,9 @@
     "Material6": 65534,
     "SerialID": 1801,
     "UniqueID": 575,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11671,8 +12137,9 @@
     "Material6": 65534,
     "SerialID": 401,
     "UniqueID": 576,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -11696,8 +12163,9 @@
     "Material6": 65534,
     "SerialID": 2160,
     "UniqueID": 577,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -11721,8 +12189,9 @@
     "Material6": 65534,
     "SerialID": 1107,
     "UniqueID": 578,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11746,8 +12215,9 @@
     "Material6": 65534,
     "SerialID": 468,
     "UniqueID": 579,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11771,8 +12241,9 @@
     "Material6": 65534,
     "SerialID": 442,
     "UniqueID": 580,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11796,8 +12267,9 @@
     "Material6": 65534,
     "SerialID": 378,
     "UniqueID": 582,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11821,8 +12293,9 @@
     "Material6": 65534,
     "SerialID": 379,
     "UniqueID": 583,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11846,8 +12319,9 @@
     "Material6": 65534,
     "SerialID": 380,
     "UniqueID": 584,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11871,8 +12345,9 @@
     "Material6": 65534,
     "SerialID": 381,
     "UniqueID": 585,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11896,8 +12371,9 @@
     "Material6": 65534,
     "SerialID": 4602,
     "UniqueID": 586,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -11921,8 +12397,9 @@
     "Material6": 65534,
     "SerialID": 3001,
     "UniqueID": 587,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11946,8 +12423,9 @@
     "Material6": 65534,
     "SerialID": 4600,
     "UniqueID": 588,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -11971,8 +12449,9 @@
     "Material6": 65534,
     "SerialID": 4601,
     "UniqueID": 589,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -11996,8 +12475,9 @@
     "Material6": 65534,
     "SerialID": 2400,
     "UniqueID": 590,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12021,8 +12501,9 @@
     "Material6": 65534,
     "SerialID": 2411,
     "UniqueID": 591,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -12046,8 +12527,9 @@
     "Material6": 65534,
     "SerialID": 4610,
     "UniqueID": 592,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -12071,8 +12553,9 @@
     "Material6": 65534,
     "SerialID": 437,
     "UniqueID": 593,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -12096,8 +12579,9 @@
     "Material6": 65534,
     "SerialID": 2228,
     "UniqueID": 594,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -12121,8 +12605,9 @@
     "Material6": 65534,
     "SerialID": 1130,
     "UniqueID": 595,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -12146,8 +12631,9 @@
     "Material6": 65534,
     "SerialID": 438,
     "UniqueID": 596,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 16,
@@ -12171,8 +12657,9 @@
     "Material6": 65534,
     "SerialID": 708,
     "UniqueID": 598,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -12196,8 +12683,9 @@
     "Material6": 65534,
     "SerialID": 804,
     "UniqueID": 599,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -12221,8 +12709,9 @@
     "Material6": 65534,
     "SerialID": 913,
     "UniqueID": 600,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -12246,8 +12735,9 @@
     "Material6": 65534,
     "SerialID": 1131,
     "UniqueID": 601,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -12271,8 +12761,9 @@
     "Material6": 65534,
     "SerialID": 1132,
     "UniqueID": 602,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12296,8 +12787,9 @@
     "Material6": 65534,
     "SerialID": 1286,
     "UniqueID": 603,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12321,8 +12813,9 @@
     "Material6": 65534,
     "SerialID": 1285,
     "UniqueID": 604,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12346,8 +12839,9 @@
     "Material6": 65534,
     "SerialID": 1287,
     "UniqueID": 605,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12371,8 +12865,9 @@
     "Material6": 65534,
     "SerialID": 1283,
     "UniqueID": 606,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12396,8 +12891,9 @@
     "Material6": 65534,
     "SerialID": 1284,
     "UniqueID": 607,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12421,8 +12917,9 @@
     "Material6": 3727,
     "SerialID": 7808,
     "UniqueID": 608,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12446,8 +12943,9 @@
     "Material6": 65534,
     "SerialID": 2134,
     "UniqueID": 609,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12471,8 +12969,9 @@
     "Material6": 65534,
     "SerialID": 2135,
     "UniqueID": 610,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12496,8 +12995,9 @@
     "Material6": 65534,
     "SerialID": 2136,
     "UniqueID": 611,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12521,8 +13021,9 @@
     "Material6": 65534,
     "SerialID": 1482,
     "UniqueID": 612,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12546,8 +13047,9 @@
     "Material6": 65534,
     "SerialID": 1481,
     "UniqueID": 613,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -12571,8 +13073,9 @@
     "Material6": 65534,
     "SerialID": 1480,
     "UniqueID": 614,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12596,8 +13099,9 @@
     "Material6": 65534,
     "SerialID": 1682,
     "UniqueID": 615,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12621,8 +13125,9 @@
     "Material6": 65534,
     "SerialID": 1681,
     "UniqueID": 616,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -12646,8 +13151,9 @@
     "Material6": 65534,
     "SerialID": 1680,
     "UniqueID": 617,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -12671,8 +13177,9 @@
     "Material6": 65534,
     "SerialID": 1582,
     "UniqueID": 618,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -12696,8 +13203,9 @@
     "Material6": 65534,
     "SerialID": 1581,
     "UniqueID": 619,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -12721,8 +13229,9 @@
     "Material6": 65534,
     "SerialID": 1580,
     "UniqueID": 620,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -12746,8 +13255,9 @@
     "Material6": 65534,
     "SerialID": 1782,
     "UniqueID": 621,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -12771,8 +13281,9 @@
     "Material6": 65534,
     "SerialID": 1781,
     "UniqueID": 622,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 12,
@@ -12796,8 +13307,9 @@
     "Material6": 65534,
     "SerialID": 1780,
     "UniqueID": 623,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -12821,8 +13333,9 @@
     "Material6": 65534,
     "SerialID": 1381,
     "UniqueID": 624,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -12846,8 +13359,9 @@
     "Material6": 65534,
     "SerialID": 1380,
     "UniqueID": 625,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -12871,8 +13385,9 @@
     "Material6": 65534,
     "SerialID": 1382,
     "UniqueID": 626,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -12896,8 +13411,9 @@
     "Material6": 65534,
     "SerialID": 2281,
     "UniqueID": 627,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 48,
@@ -12921,8 +13437,9 @@
     "Material6": 65534,
     "SerialID": 2280,
     "UniqueID": 628,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -12946,8 +13463,9 @@
     "Material6": 65534,
     "SerialID": 3480,
     "UniqueID": 629,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -12971,8 +13489,9 @@
     "Material6": 65534,
     "SerialID": 3481,
     "UniqueID": 630,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -12996,8 +13515,9 @@
     "Material6": 65534,
     "SerialID": 4681,
     "UniqueID": 631,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13021,8 +13541,9 @@
     "Material6": 65534,
     "SerialID": 4682,
     "UniqueID": 632,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -13046,8 +13567,9 @@
     "Material6": 65534,
     "SerialID": 7080,
     "UniqueID": 633,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13071,8 +13593,9 @@
     "Material6": 65534,
     "SerialID": 4280,
     "UniqueID": 634,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -13096,8 +13619,9 @@
     "Material6": 65534,
     "SerialID": 1281,
     "UniqueID": 635,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -13121,8 +13645,9 @@
     "Material6": 65534,
     "SerialID": 1288,
     "UniqueID": 636,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -13146,8 +13671,9 @@
     "Material6": 65534,
     "SerialID": 6680,
     "UniqueID": 637,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13171,8 +13697,9 @@
     "Material6": 65534,
     "SerialID": 570,
     "UniqueID": 638,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -13196,8 +13723,9 @@
     "Material6": 65534,
     "SerialID": 961,
     "UniqueID": 640,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -13221,8 +13749,9 @@
     "Material6": 65534,
     "SerialID": 960,
     "UniqueID": 641,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -13246,8 +13775,9 @@
     "Material6": 65534,
     "SerialID": 962,
     "UniqueID": 642,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13271,8 +13801,9 @@
     "Material6": 65534,
     "SerialID": 1162,
     "UniqueID": 643,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13296,8 +13827,9 @@
     "Material6": 65534,
     "SerialID": 1160,
     "UniqueID": 644,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -13321,8 +13853,9 @@
     "Material6": 65534,
     "SerialID": 3080,
     "UniqueID": 645,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -13346,8 +13879,9 @@
     "Material6": 65534,
     "SerialID": 806,
     "UniqueID": 646,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -13371,8 +13905,9 @@
     "Material6": 65534,
     "SerialID": 807,
     "UniqueID": 647,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 43,
@@ -13396,8 +13931,9 @@
     "Material6": 65534,
     "SerialID": 5480,
     "UniqueID": 648,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 40,
@@ -13421,8 +13957,9 @@
     "Material6": 65534,
     "SerialID": 3461,
     "UniqueID": 649,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13446,8 +13983,9 @@
     "Material6": 65534,
     "SerialID": 7400,
     "UniqueID": 650,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -13471,8 +14009,9 @@
     "Material6": 65534,
     "SerialID": 817,
     "UniqueID": 651,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -13496,8 +14035,9 @@
     "Material6": 65534,
     "SerialID": 809,
     "UniqueID": 652,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 17,
@@ -13521,8 +14061,9 @@
     "Material6": 65534,
     "SerialID": 818,
     "UniqueID": 653,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -13546,8 +14087,9 @@
     "Material6": 65534,
     "SerialID": 2161,
     "UniqueID": 654,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13571,8 +14113,9 @@
     "Material6": 65534,
     "SerialID": 204,
     "UniqueID": 655,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13596,8 +14139,9 @@
     "Material6": 65534,
     "SerialID": 588,
     "UniqueID": 656,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13621,8 +14165,9 @@
     "Material6": 65534,
     "SerialID": 592,
     "UniqueID": 657,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13646,8 +14191,9 @@
     "Material6": 65534,
     "SerialID": 115,
     "UniqueID": 658,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13671,8 +14217,9 @@
     "Material6": 65534,
     "SerialID": 116,
     "UniqueID": 659,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13696,8 +14243,9 @@
     "Material6": 65534,
     "SerialID": 113,
     "UniqueID": 660,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13721,8 +14269,9 @@
     "Material6": 65534,
     "SerialID": 117,
     "UniqueID": 661,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13746,8 +14295,9 @@
     "Material6": 65534,
     "SerialID": 114,
     "UniqueID": 662,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -13771,8 +14321,9 @@
     "Material6": 65534,
     "SerialID": 112,
     "UniqueID": 663,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -13796,8 +14347,9 @@
     "Material6": 65534,
     "SerialID": 690,
     "UniqueID": 664,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13821,8 +14373,9 @@
     "Material6": 65534,
     "SerialID": 4251,
     "UniqueID": 665,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13846,8 +14399,9 @@
     "Material6": 65534,
     "SerialID": 4250,
     "UniqueID": 666,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13871,8 +14425,9 @@
     "Material6": 65534,
     "SerialID": 4261,
     "UniqueID": 667,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13896,8 +14451,9 @@
     "Material6": 65534,
     "SerialID": 3870,
     "UniqueID": 668,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -13921,8 +14477,9 @@
     "Material6": 1382,
     "SerialID": 3860,
     "UniqueID": 669,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 42,
@@ -13946,8 +14503,9 @@
     "Material6": 65534,
     "SerialID": 374,
     "UniqueID": 670,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -13971,8 +14529,9 @@
     "Material6": 65534,
     "SerialID": 3070,
     "UniqueID": 671,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -13996,8 +14555,9 @@
     "Material6": 65534,
     "SerialID": 2470,
     "UniqueID": 672,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14021,8 +14581,9 @@
     "Material6": 65534,
     "SerialID": 8660,
     "UniqueID": 673,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14046,8 +14607,9 @@
     "Material6": 65534,
     "SerialID": 8661,
     "UniqueID": 674,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14071,8 +14633,9 @@
     "Material6": 65534,
     "SerialID": 8662,
     "UniqueID": 675,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14096,8 +14659,9 @@
     "Material6": 65534,
     "SerialID": 8663,
     "UniqueID": 676,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14121,8 +14685,9 @@
     "Material6": 65534,
     "SerialID": 8664,
     "UniqueID": 677,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14146,8 +14711,9 @@
     "Material6": 65534,
     "SerialID": 8665,
     "UniqueID": 678,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14171,8 +14737,9 @@
     "Material6": 65534,
     "SerialID": 8666,
     "UniqueID": 679,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14196,8 +14763,9 @@
     "Material6": 65534,
     "SerialID": 8667,
     "UniqueID": 680,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14221,8 +14789,9 @@
     "Material6": 65534,
     "SerialID": 8668,
     "UniqueID": 681,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14246,8 +14815,9 @@
     "Material6": 65534,
     "SerialID": 8669,
     "UniqueID": 682,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14271,8 +14841,9 @@
     "Material6": 65534,
     "SerialID": 8670,
     "UniqueID": 683,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14296,8 +14867,9 @@
     "Material6": 65534,
     "SerialID": 8671,
     "UniqueID": 684,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14321,8 +14893,9 @@
     "Material6": 65534,
     "SerialID": 8672,
     "UniqueID": 685,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14346,8 +14919,9 @@
     "Material6": 65534,
     "SerialID": 8673,
     "UniqueID": 686,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14371,8 +14945,9 @@
     "Material6": 65534,
     "SerialID": 8674,
     "UniqueID": 687,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14396,8 +14971,9 @@
     "Material6": 65534,
     "SerialID": 8675,
     "UniqueID": 688,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14421,8 +14997,9 @@
     "Material6": 65534,
     "SerialID": 8676,
     "UniqueID": 689,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14446,8 +15023,9 @@
     "Material6": 65534,
     "SerialID": 8677,
     "UniqueID": 690,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14471,8 +15049,9 @@
     "Material6": 12514,
     "SerialID": 8678,
     "UniqueID": 691,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14496,8 +15075,9 @@
     "Material6": 12514,
     "SerialID": 8679,
     "UniqueID": 692,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14521,8 +15101,9 @@
     "Material6": 12514,
     "SerialID": 8680,
     "UniqueID": 693,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14546,8 +15127,9 @@
     "Material6": 12514,
     "SerialID": 8681,
     "UniqueID": 694,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14571,8 +15153,9 @@
     "Material6": 12514,
     "SerialID": 8608,
     "UniqueID": 695,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14596,8 +15179,9 @@
     "Material6": 12514,
     "SerialID": 8609,
     "UniqueID": 696,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14621,8 +15205,9 @@
     "Material6": 65534,
     "SerialID": 8605,
     "UniqueID": 697,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14646,8 +15231,9 @@
     "Material6": 12514,
     "SerialID": 8604,
     "UniqueID": 698,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14671,8 +15257,9 @@
     "Material6": 65534,
     "SerialID": 8600,
     "UniqueID": 699,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14696,8 +15283,9 @@
     "Material6": 12514,
     "SerialID": 8631,
     "UniqueID": 700,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14721,8 +15309,9 @@
     "Material6": 65534,
     "SerialID": 8630,
     "UniqueID": 701,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14746,8 +15335,9 @@
     "Material6": 65534,
     "SerialID": 8606,
     "UniqueID": 702,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14771,8 +15361,9 @@
     "Material6": 65534,
     "SerialID": 8603,
     "UniqueID": 703,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14796,8 +15387,9 @@
     "Material6": 65534,
     "SerialID": 8607,
     "UniqueID": 704,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14821,8 +15413,9 @@
     "Material6": 65534,
     "SerialID": 8601,
     "UniqueID": 705,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14846,8 +15439,9 @@
     "Material6": 65534,
     "SerialID": 8602,
     "UniqueID": 706,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14871,8 +15465,9 @@
     "Material6": 12514,
     "SerialID": 8640,
     "UniqueID": 707,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14896,8 +15491,9 @@
     "Material6": 12514,
     "SerialID": 8650,
     "UniqueID": 708,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14921,8 +15517,9 @@
     "Material6": 12514,
     "SerialID": 8652,
     "UniqueID": 709,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14946,8 +15543,9 @@
     "Material6": 12514,
     "SerialID": 8651,
     "UniqueID": 710,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14971,8 +15569,9 @@
     "Material6": 65534,
     "SerialID": 8691,
     "UniqueID": 711,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -14996,8 +15595,9 @@
     "Material6": 12514,
     "SerialID": 8690,
     "UniqueID": 712,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Easter",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -15021,8 +15621,9 @@
     "Material6": 65534,
     "SerialID": 1291,
     "UniqueID": 713,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 45,
@@ -15046,8 +15647,9 @@
     "Material6": 65534,
     "SerialID": 972,
     "UniqueID": 714,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "JuneBride",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -15071,8 +15673,9 @@
     "Material6": 65534,
     "SerialID": 8278,
     "UniqueID": 715,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "JuneBride",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 47,
@@ -15096,8 +15699,9 @@
     "Material6": 65534,
     "SerialID": 1163,
     "UniqueID": 716,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15121,8 +15725,9 @@
     "Material6": 65534,
     "SerialID": 3809,
     "UniqueID": 717,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15146,8 +15751,9 @@
     "Material6": 65534,
     "SerialID": 3810,
     "UniqueID": 718,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15171,8 +15777,9 @@
     "Material6": 65534,
     "SerialID": 3811,
     "UniqueID": 719,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15196,8 +15803,9 @@
     "Material6": 65534,
     "SerialID": 3812,
     "UniqueID": 720,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15221,8 +15829,9 @@
     "Material6": 65534,
     "SerialID": 3813,
     "UniqueID": 721,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15246,8 +15855,9 @@
     "Material6": 65534,
     "SerialID": 3830,
     "UniqueID": 722,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15271,8 +15881,9 @@
     "Material6": 65534,
     "SerialID": 3814,
     "UniqueID": 723,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15296,8 +15907,9 @@
     "Material6": 65534,
     "SerialID": 3815,
     "UniqueID": 724,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15321,8 +15933,9 @@
     "Material6": 65534,
     "SerialID": 3816,
     "UniqueID": 725,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15346,8 +15959,9 @@
     "Material6": 65534,
     "SerialID": 3817,
     "UniqueID": 726,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15371,8 +15985,9 @@
     "Material6": 65534,
     "SerialID": 3818,
     "UniqueID": 727,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15396,8 +16011,9 @@
     "Material6": 65534,
     "SerialID": 3871,
     "UniqueID": 728,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15421,8 +16037,9 @@
     "Material6": 1382,
     "SerialID": 3850,
     "UniqueID": 729,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15446,8 +16063,9 @@
     "Material6": 65534,
     "SerialID": 3861,
     "UniqueID": 730,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15471,8 +16089,9 @@
     "Material6": 65534,
     "SerialID": 5805,
     "UniqueID": 732,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15496,8 +16115,9 @@
     "Material6": 65534,
     "SerialID": 5802,
     "UniqueID": 733,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15521,8 +16141,9 @@
     "Material6": 65534,
     "SerialID": 5830,
     "UniqueID": 734,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15546,8 +16167,9 @@
     "Material6": 65534,
     "SerialID": 5806,
     "UniqueID": 735,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15571,8 +16193,9 @@
     "Material6": 65534,
     "SerialID": 5891,
     "UniqueID": 736,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 44,
@@ -15596,8 +16219,9 @@
     "Material6": 65534,
     "SerialID": 5890,
     "UniqueID": 737,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Halloween",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 50,
@@ -15621,8 +16245,9 @@
     "Material6": 65534,
     "SerialID": 6202,
     "UniqueID": 740,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15646,8 +16271,9 @@
     "Material6": 65534,
     "SerialID": 6203,
     "UniqueID": 741,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15671,8 +16297,9 @@
     "Material6": 65534,
     "SerialID": 6207,
     "UniqueID": 742,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15696,8 +16323,9 @@
     "Material6": 65534,
     "SerialID": 6200,
     "UniqueID": 743,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15721,8 +16349,9 @@
     "Material6": 65534,
     "SerialID": 6201,
     "UniqueID": 745,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 46,
@@ -15746,8 +16375,9 @@
     "Material6": 65534,
     "SerialID": 7470,
     "UniqueID": 746,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 50,
@@ -15771,8 +16401,9 @@
     "Material6": 65534,
     "SerialID": 6204,
     "UniqueID": 747,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15796,8 +16427,9 @@
     "Material6": 65534,
     "SerialID": 6206,
     "UniqueID": 748,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 50,
@@ -15821,8 +16453,9 @@
     "Material6": 65534,
     "SerialID": 6205,
     "UniqueID": 749,
+    "3ccca419 u8": 1,
     "SelectCalendarEventSeason": "HarvestFestival",
-    "ad0c787a u16": 1
+    "ad0c787a u8": 1
   },
   {
     "BoardColorID": 46,
@@ -15846,8 +16479,9 @@
     "Material6": 65534,
     "SerialID": 7411,
     "UniqueID": 750,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "XmasEve",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15871,8 +16505,9 @@
     "Material6": 65534,
     "SerialID": 7490,
     "UniqueID": 751,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 15,
@@ -15896,8 +16531,9 @@
     "Material6": 65534,
     "SerialID": 7053,
     "UniqueID": 752,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 13,
@@ -15921,8 +16557,9 @@
     "Material6": 65534,
     "SerialID": 7690,
     "UniqueID": 755,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "Carnival",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15946,8 +16583,9 @@
     "Material6": 65534,
     "SerialID": 4270,
     "UniqueID": 757,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 14,
@@ -15971,8 +16609,9 @@
     "Material6": 65534,
     "SerialID": 1292,
     "UniqueID": 774,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "RegionShamrockDay",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
   },
   {
     "BoardColorID": 46,
@@ -15996,7 +16635,86 @@
     "Material6": 65534,
     "SerialID": 3890,
     "UniqueID": 776,
+    "3ccca419 u8": 0,
     "SelectCalendarEventSeason": "EventNone",
-    "ad0c787a u16": 0
+    "ad0c787a u8": 0
+  },
+  {
+    "BoardColorID": 44,
+    "CraftRecipeSeason": "Pumpkin",
+    "CraftRecipeSelectSeasonType": "SelectRecipeSeason",
+    "CraftUnlock": "SeasonPumpkin",
+    "NPCUnlock": "NO_TAKE",
+    "VillagerOpenNum": 0,
+    "Amount1": 5,
+    "Amount2": 10,
+    "Amount3": 0,
+    "Amount4": 0,
+    "Amount5": 0,
+    "Amount6": 0,
+    "Item": 14550,
+    "Material1": 4525,
+    "Material2": 2769,
+    "Material3": 65534,
+    "Material4": 65534,
+    "Material5": 65534,
+    "Material6": 65534,
+    "SerialID": 5812,
+    "UniqueID": 980,
+    "3ccca419 u8": 0,
+    "SelectCalendarEventSeason": "EventNone",
+    "ad0c787a u8": 0
+  },
+  {
+    "BoardColorID": 44,
+    "CraftRecipeSeason": "Pumpkin",
+    "CraftRecipeSelectSeasonType": "SelectRecipeSeason",
+    "CraftUnlock": "SeasonPumpkin",
+    "NPCUnlock": "NO_TAKE",
+    "VillagerOpenNum": 0,
+    "Amount1": 4,
+    "Amount2": 4,
+    "Amount3": 0,
+    "Amount4": 0,
+    "Amount5": 0,
+    "Amount6": 0,
+    "Item": 14551,
+    "Material1": 4525,
+    "Material2": 2511,
+    "Material3": 65534,
+    "Material4": 65534,
+    "Material5": 65534,
+    "Material6": 65534,
+    "SerialID": 5811,
+    "UniqueID": 981,
+    "3ccca419 u8": 0,
+    "SelectCalendarEventSeason": "EventNone",
+    "ad0c787a u8": 0
+  },
+  {
+    "BoardColorID": 44,
+    "CraftRecipeSeason": "Pumpkin",
+    "CraftRecipeSelectSeasonType": "SelectRecipeSeason",
+    "CraftUnlock": "SeasonPumpkin",
+    "NPCUnlock": "NO_TAKE",
+    "VillagerOpenNum": 0,
+    "Amount1": 1,
+    "Amount2": 2,
+    "Amount3": 0,
+    "Amount4": 0,
+    "Amount5": 0,
+    "Amount6": 0,
+    "Item": 14542,
+    "Material1": 4525,
+    "Material2": 13197,
+    "Material3": 65534,
+    "Material4": 65534,
+    "Material5": 65534,
+    "Material6": 65534,
+    "SerialID": 5892,
+    "UniqueID": 982,
+    "3ccca419 u8": 0,
+    "SelectCalendarEventSeason": "EventNone",
+    "ad0c787a u8": 0
   }
 ]

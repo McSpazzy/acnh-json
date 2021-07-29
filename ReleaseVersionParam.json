@@ -76,5 +76,11 @@
     "UniqueID": 18,
     "Label": "Summer1st2021",
     "Name": "1.10.0 2021夏パッチ1"
+  },
+  {
+    "ReleaseKey": 11100,
+    "UniqueID": 17,
+    "Label": "Summer2nd2021",
+    "Name": "1.11.0 2021夏パッチ2"
   }
 ]

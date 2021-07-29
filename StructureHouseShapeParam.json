@@ -1,25 +1,25 @@
 [
   {
     "AppearanceLevel": "Level04",
-    "CustomizeSortID": 5,
+    "CustomizeSortID": 15,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 0,
     "DefaultWallUniqueID": 0,
     "HousePartsType": 0,
     "UniqueID": 0,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "スタンダード1"
+    "Name": "ノーマルないえXL"
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 9,
+    "CustomizeSortID": 1,
     "DefaultDoorUniqueID": 9,
     "DefaultRoofUniqueID": 19,
     "DefaultWallUniqueID": 14,
     "HousePartsType": 1,
     "UniqueID": 1,
     "DoorBellName": "DoorBell_House_Standard1_Npc",
-    "Name": "NPCスタンダード１"
+    "Name": "コンパクトないえA"
   },
   {
     "AppearanceLevel": "Tent",
@@ -67,36 +67,36 @@
   },
   {
     "AppearanceLevel": "Level00",
-    "CustomizeSortID": 1,
+    "CustomizeSortID": 11,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 10,
     "DefaultWallUniqueID": 13,
     "HousePartsType": 0,
     "UniqueID": 7,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "成長段階00"
+    "Name": "ノーマルないえXS"
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 10,
+    "CustomizeSortID": 2,
     "DefaultDoorUniqueID": 0,
     "DefaultRoofUniqueID": 27,
     "DefaultWallUniqueID": 24,
     "HousePartsType": 1,
     "UniqueID": 9,
     "DoorBellName": "DoorBell_House_Standard2_Npc",
-    "Name": "NPCスタンダード２"
+    "Name": "コンパクトないえB"
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 11,
+    "CustomizeSortID": 3,
     "DefaultDoorUniqueID": 32,
     "DefaultRoofUniqueID": 30,
     "DefaultWallUniqueID": 27,
     "HousePartsType": 1,
     "UniqueID": 10,
     "DoorBellName": "DoorBell_House_Oriental1_Npc",
-    "Name": "NPCオリエンタル１"
+    "Name": "コンパクトないえC"
   },
   {
     "AppearanceLevel": "Invalid",
@@ -122,46 +122,46 @@
   },
   {
     "AppearanceLevel": "Invalid",
-    "CustomizeSortID": 12,
+    "CustomizeSortID": 4,
     "DefaultDoorUniqueID": 35,
     "DefaultRoofUniqueID": 35,
     "DefaultWallUniqueID": 32,
     "HousePartsType": 1,
     "UniqueID": 13,
     "DoorBellName": "DoorBell_House_Fantasy1_Npc",
-    "Name": "NPCファンタジー１"
+    "Name": "コンパクトないえD"
   },
   {
     "AppearanceLevel": "Level01",
-    "CustomizeSortID": 2,
+    "CustomizeSortID": 12,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 38,
     "DefaultWallUniqueID": 35,
     "HousePartsType": 0,
     "UniqueID": 14,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "成長段階01"
+    "Name": "ノーマルないえS"
   },
   {
     "AppearanceLevel": "Level02",
-    "CustomizeSortID": 3,
+    "CustomizeSortID": 13,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 47,
     "DefaultWallUniqueID": 64,
     "HousePartsType": 0,
     "UniqueID": 15,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "成長段階02"
+    "Name": "ノーマルないえM"
   },
   {
     "AppearanceLevel": "Level03",
-    "CustomizeSortID": 4,
+    "CustomizeSortID": 14,
     "DefaultDoorUniqueID": 17,
     "DefaultRoofUniqueID": 39,
     "DefaultWallUniqueID": 37,
     "HousePartsType": 0,
     "UniqueID": 16,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "成長段階03"
+    "Name": "ノーマルないえL"
   }
 ]

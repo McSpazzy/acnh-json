@@ -513,7 +513,7 @@
     "FlagsFlowAccess": 0,
     "FlagsNetAccess": 1,
     "Key": "ExistIllminations",
-    "Name": "成長処理時点で電飾付の木が一本以上存在しているか？"
+    "Name": "x)成長処理時点で電飾付の木が一本以上存在しているか？"
   },
   {
     "DefaultValue": 0,
@@ -525,7 +525,7 @@
     "FlagsFlowAccess": 0,
     "FlagsNetAccess": 1,
     "Key": "ExistSakura",
-    "Name": "成長処理時点で村に桜の木が存在するか？"
+    "Name": "x)成長処理時点で村に桜の木が存在するか？"
   },
   {
     "DefaultValue": 0,
@@ -537,7 +537,7 @@
     "FlagsFlowAccess": 0,
     "FlagsNetAccess": 1,
     "Key": "ExistBanboo",
-    "Name": "成長処理時点で村に竹の成木が存在するか？"
+    "Name": "x)成長処理時点で村に竹の成木が存在するか？"
   },
   {
     "DefaultValue": 0,
@@ -549,7 +549,7 @@
     "FlagsFlowAccess": 0,
     "FlagsNetAccess": 1,
     "Key": "ExistOak",
-    "Name": "成長処理時点で村に成木の広葉樹が存在するか？"
+    "Name": "x)成長処理時点で村に成木の広葉樹が存在するか？"
   },
   {
     "DefaultValue": 0,
@@ -561,7 +561,7 @@
     "FlagsFlowAccess": 0,
     "FlagsNetAccess": 1,
     "Key": "ExistCedar",
-    "Name": "成長処理時点で村に成木の針葉樹が存在するか？"
+    "Name": "x)成長処理時点で村に成木の針葉樹が存在するか？"
   },
   {
     "DefaultValue": 0,

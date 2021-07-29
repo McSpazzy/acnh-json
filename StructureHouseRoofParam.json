@@ -73,7 +73,7 @@
   },
   {
     "HouseColor": "Red",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 1,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 10,
@@ -82,7 +82,7 @@
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 2,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 11,
@@ -91,7 +91,7 @@
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 3,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 12,
@@ -100,7 +100,7 @@
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 4,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 13,
@@ -109,7 +109,7 @@
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 5,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 14,
@@ -118,7 +118,7 @@
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 6,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 15,
@@ -127,7 +127,7 @@
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 7,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 16,
@@ -136,7 +136,7 @@
   },
   {
     "HouseColor": "Black",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 8,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 17,
@@ -154,7 +154,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 401,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 19,
@@ -163,7 +163,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 411,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 20,
@@ -172,7 +172,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 421,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 21,
@@ -217,7 +217,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 501,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 27,
@@ -226,7 +226,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 531,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 28,
@@ -235,7 +235,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 521,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 29,
@@ -244,7 +244,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 601,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 30,
@@ -253,7 +253,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 621,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 31,
@@ -262,7 +262,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 611,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 32,
@@ -289,7 +289,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 701,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 35,
@@ -298,7 +298,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 711,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 36,
@@ -307,7 +307,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 721,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 37,
@@ -316,7 +316,7 @@
   },
   {
     "HouseColor": "Red",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 11,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 38,
@@ -325,7 +325,7 @@
   },
   {
     "HouseColor": "Red",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 31,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 39,
@@ -334,7 +334,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 422,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 40,
@@ -343,7 +343,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 423,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 41,
@@ -352,7 +352,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 424,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 42,
@@ -361,7 +361,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 425,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 43,
@@ -370,7 +370,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 426,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 44,
@@ -379,7 +379,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 427,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 45,
@@ -388,7 +388,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 428,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 46,
@@ -397,7 +397,7 @@
   },
   {
     "HouseColor": "Red",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 21,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 47,
@@ -406,7 +406,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 412,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 48,
@@ -415,7 +415,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 413,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 49,
@@ -424,7 +424,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 414,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 50,
@@ -433,7 +433,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 415,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 51,
@@ -442,7 +442,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 416,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 52,
@@ -451,7 +451,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 417,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 53,
@@ -460,7 +460,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 418,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 54,
@@ -469,7 +469,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 402,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 55,
@@ -478,7 +478,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 403,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 56,
@@ -487,7 +487,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 404,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 57,
@@ -496,7 +496,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 405,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 58,
@@ -505,7 +505,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 406,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 59,
@@ -514,7 +514,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 407,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 60,
@@ -523,7 +523,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 408,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 61,
@@ -532,7 +532,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 502,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 62,
@@ -541,7 +541,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 503,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 63,
@@ -550,7 +550,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 504,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 64,
@@ -559,7 +559,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 505,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 65,
@@ -568,7 +568,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 506,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 66,
@@ -577,7 +577,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 507,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 67,
@@ -586,7 +586,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 508,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 68,
@@ -595,7 +595,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 522,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 69,
@@ -604,7 +604,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 523,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 70,
@@ -613,7 +613,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 524,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 71,
@@ -622,7 +622,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 525,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 72,
@@ -631,7 +631,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 526,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 73,
@@ -640,7 +640,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 527,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 74,
@@ -649,7 +649,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 528,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 75,
@@ -658,7 +658,7 @@
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 12,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 76,
@@ -667,7 +667,7 @@
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 13,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 77,
@@ -676,7 +676,7 @@
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 14,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 78,
@@ -685,7 +685,7 @@
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 15,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 79,
@@ -694,7 +694,7 @@
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 16,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 80,
@@ -703,7 +703,7 @@
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 17,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 81,
@@ -712,7 +712,7 @@
   },
   {
     "HouseColor": "Black",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 18,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 82,
@@ -721,7 +721,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 532,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 83,
@@ -730,7 +730,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 533,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 84,
@@ -739,7 +739,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 534,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 85,
@@ -748,7 +748,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 535,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 86,
@@ -757,7 +757,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 536,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 87,
@@ -766,7 +766,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 537,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 88,
@@ -775,7 +775,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 538,
     "HouseShapeUniqueID": 9,
     "Material": 6,
     "UniqueID": 89,
@@ -784,7 +784,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 602,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 90,
@@ -793,7 +793,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 603,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 91,
@@ -802,7 +802,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 604,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 92,
@@ -811,7 +811,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 605,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 93,
@@ -820,7 +820,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 606,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 94,
@@ -829,7 +829,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 607,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 95,
@@ -838,7 +838,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 608,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 96,
@@ -847,7 +847,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 612,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 97,
@@ -856,7 +856,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 613,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 98,
@@ -865,7 +865,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 614,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 99,
@@ -874,7 +874,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 615,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 100,
@@ -883,7 +883,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 616,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 101,
@@ -892,7 +892,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 722,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 102,
@@ -901,7 +901,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 723,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 103,
@@ -910,7 +910,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 724,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 104,
@@ -919,7 +919,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 725,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 105,
@@ -928,7 +928,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 726,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 106,
@@ -937,7 +937,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 727,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 107,
@@ -946,7 +946,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 728,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 108,
@@ -955,7 +955,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 702,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 109,
@@ -964,7 +964,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 703,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 110,
@@ -973,7 +973,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 704,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 111,
@@ -982,7 +982,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 705,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 112,
@@ -991,7 +991,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 706,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 113,
@@ -1000,7 +1000,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 707,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 114,
@@ -1009,7 +1009,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 708,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 115,
@@ -1018,7 +1018,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 622,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 116,
@@ -1027,7 +1027,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 623,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 117,
@@ -1036,7 +1036,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 624,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 118,
@@ -1045,7 +1045,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 625,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 119,
@@ -1054,7 +1054,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 626,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 120,
@@ -1063,7 +1063,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 712,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 121,
@@ -1072,7 +1072,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 713,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 122,
@@ -1081,7 +1081,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 714,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 123,
@@ -1090,7 +1090,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 715,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 124,
@@ -1099,7 +1099,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 716,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 125,
@@ -1108,7 +1108,7 @@
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 22,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 126,
@@ -1117,7 +1117,7 @@
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 23,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 127,
@@ -1126,7 +1126,7 @@
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 24,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 128,
@@ -1135,7 +1135,7 @@
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 25,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 129,
@@ -1144,7 +1144,7 @@
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 26,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 130,
@@ -1153,7 +1153,7 @@
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 27,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 131,
@@ -1162,7 +1162,7 @@
   },
   {
     "HouseColor": "Black",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 28,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 132,
@@ -1171,7 +1171,7 @@
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 32,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 133,
@@ -1180,7 +1180,7 @@
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 33,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 134,
@@ -1189,7 +1189,7 @@
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 34,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 135,
@@ -1198,7 +1198,7 @@
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 35,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 136,
@@ -1207,7 +1207,7 @@
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 36,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 137,
@@ -1216,7 +1216,7 @@
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 37,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 138,
@@ -1225,7 +1225,7 @@
   },
   {
     "HouseColor": "Black",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 38,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 139,
@@ -1441,7 +1441,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 419,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 170,
@@ -1450,7 +1450,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 509,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 171,
@@ -1459,7 +1459,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 510,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 172,
@@ -1468,7 +1468,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 409,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 173,
@@ -1477,7 +1477,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 729,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 174,
@@ -1486,7 +1486,7 @@
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 0,
+    "CustomizeSortID": 730,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 175,

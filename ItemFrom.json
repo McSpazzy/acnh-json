@@ -625,6 +625,14 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 284,
+    "8f225c6 u8": 0,
+    "Label": "FoxFood",
+    "Name": "つねきち屋台_サブ道具食べ物",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 179,
     "8f225c6 u8": 0,
     "Label": "TapUploadReward",
@@ -1257,6 +1265,14 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 186,
+    "8f225c6 u8": 0,
+    "Label": "AsiaStarFestival",
+    "Name": "<リージョン>牛郎織女の日",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 150,
     "8f225c6 u8": 0,
     "Label": "GrapeHarvestFestival",
@@ -1273,50 +1289,10 @@
   },
   {
     "HHABaseScore": 201,
-    "UniqueID": 157,
-    "8f225c6 u8": 0,
-    "Label": "NewYearDay",
-    "Name": "<リージョン>お正月（日本１）",
-    "RegionEventItem": 1
-  },
-  {
-    "HHABaseScore": 201,
     "UniqueID": 168,
     "8f225c6 u8": 0,
     "Label": "WinterSolstice_Southern",
     "Name": "<リージョン>冬至",
-    "RegionEventItem": 1
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 186,
-    "8f225c6 u8": 0,
-    "Label": "AsiaStarFestival",
-    "Name": "<リージョン>牛郎織女の日",
-    "RegionEventItem": 1
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 196,
-    "8f225c6 u8": 0,
-    "Label": "NewYearEve",
-    "Name": "<リージョン>大晦日",
-    "RegionEventItem": 1
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 199,
-    "8f225c6 u8": 0,
-    "Label": "NewYearsEveGermany",
-    "Name": "<リージョン>NewYearsEve（ドイツ）",
-    "RegionEventItem": 1
-  },
-  {
-    "HHABaseScore": 201,
-    "UniqueID": 200,
-    "8f225c6 u8": 0,
-    "Label": "NewYearsEveSpain",
-    "Name": "<リージョン>NewYearsEve（スペイン）",
     "RegionEventItem": 1
   },
   {
@@ -1329,18 +1305,26 @@
   },
   {
     "HHABaseScore": 201,
-    "UniqueID": 202,
+    "UniqueID": 200,
     "8f225c6 u8": 0,
-    "Label": "NewYearDay2",
-    "Name": "<リージョン>お正月（日本２）",
+    "Label": "NewYearsEveSpain",
+    "Name": "<リージョン>NewYearsEve（スペイン）",
     "RegionEventItem": 1
   },
   {
     "HHABaseScore": 201,
-    "UniqueID": 203,
+    "UniqueID": 199,
     "8f225c6 u8": 0,
-    "Label": "NewYearRoshia",
-    "Name": "<リージョン>お正月（ロシア）",
+    "Label": "NewYearsEveGermany",
+    "Name": "<リージョン>NewYearsEve（ドイツ）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 196,
+    "8f225c6 u8": 0,
+    "Label": "NewYearEve",
+    "Name": "<リージョン>大晦日",
     "RegionEventItem": 1
   },
   {
@@ -1348,7 +1332,23 @@
     "UniqueID": 204,
     "8f225c6 u8": 0,
     "Label": "NewYearWorld",
-    "Name": "<リージョン>お正月（ワールド）",
+    "Name": "<リージョン>NewYear（ワールド）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 203,
+    "8f225c6 u8": 0,
+    "Label": "NewYearRoshia",
+    "Name": "<リージョン>NewYear（ロシア）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 206,
+    "8f225c6 u8": 0,
+    "Label": "NewYearChina",
+    "Name": "<リージョン>お正月（アジア）",
     "RegionEventItem": 1
   },
   {
@@ -1361,10 +1361,18 @@
   },
   {
     "HHABaseScore": 201,
-    "UniqueID": 206,
+    "UniqueID": 157,
     "8f225c6 u8": 0,
-    "Label": "NewYearChina",
-    "Name": "<リージョン>お正月（アジア）",
+    "Label": "NewYearDay",
+    "Name": "<リージョン>お正月（日本１）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 202,
+    "8f225c6 u8": 0,
+    "Label": "NewYearDay2",
+    "Name": "<リージョン>お正月（日本２）",
     "RegionEventItem": 1
   },
   {
@@ -1557,6 +1565,62 @@
     "8f225c6 u8": 0,
     "Label": "BastilleDay",
     "Name": "<リージョン>パリ祭",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 252,
+    "8f225c6 u8": 0,
+    "Label": "Obon",
+    "Name": "<リージョン>お盆",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 256,
+    "8f225c6 u8": 0,
+    "Label": "MoonViewing_JP",
+    "Name": "<リージョン>お月見（日本）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 257,
+    "8f225c6 u8": 0,
+    "Label": "MoonViewing_CH",
+    "Name": "<リージョン>お月見（東アジア）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 251,
+    "8f225c6 u8": 0,
+    "Label": "Syuseki",
+    "Name": "<リージョン>秋夕",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 153,
+    "8f225c6 u8": 0,
+    "Label": "DayOfTheDead",
+    "Name": "<リージョン>死者の日",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 290,
+    "8f225c6 u8": 0,
+    "Label": "StMartinDay",
+    "Name": "<リージョン>聖マルティヌスデー",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 292,
+    "8f225c6 u8": 0,
+    "Label": "Shichigosan",
+    "Name": "<リージョン>七五三",
     "RegionEventItem": 1
   },
   {

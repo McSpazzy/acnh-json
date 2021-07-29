@@ -1016,7 +1016,7 @@
   {
     "MannequinPose": "MannequinPause01",
     "MannequinUsage": "Normal",
-    "Seasonality": 0,
+    "Seasonality": 4,
     "AccEye": 65534,
     "AccMouth": 65534,
     "Bottoms": 9113,
@@ -1211,7 +1211,7 @@
   {
     "MannequinPose": "MannequinPause05",
     "MannequinUsage": "Normal",
-    "Seasonality": 0,
+    "Seasonality": 2,
     "AccEye": 65534,
     "AccMouth": 6040,
     "Bottoms": 4485,
