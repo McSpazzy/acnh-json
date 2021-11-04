@@ -1,8 +1,8 @@
 [
   {
-    "d0609acc string": "School",
-    "699b4124 string": "None",
-    "78e62b5d string": "None",
+    "Room0": "School",
+    "Room1": "None",
+    "Room2": "None",
     "SortID": 0,
     "UniqueID": 0,
     "e1c21e03 u16": 2,
@@ -11,9 +11,9 @@
     "cc2bec37 string": ""
   },
   {
-    "d0609acc string": "Hospital",
-    "699b4124 string": "Hospital_1",
-    "78e62b5d string": "Hospital_2",
+    "Room0": "Hospital",
+    "Room1": "Hospital_1",
+    "Room2": "Hospital_2",
     "SortID": 1,
     "UniqueID": 1,
     "e1c21e03 u16": 5,
@@ -22,9 +22,9 @@
     "cc2bec37 string": "\u0001"
   },
   {
-    "d0609acc string": "Restaurant",
-    "699b4124 string": "Restaurant_1",
-    "78e62b5d string": "Restaurant_2",
+    "Room0": "Restaurant",
+    "Room1": "Restaurant_1",
+    "Room2": "Restaurant_2",
     "SortID": 2,
     "UniqueID": 2,
     "e1c21e03 u16": 4,
@@ -33,9 +33,9 @@
     "cc2bec37 string": "\u0001"
   },
   {
-    "d0609acc string": "Cafe",
-    "699b4124 string": "Cafe_1",
-    "78e62b5d string": "None",
+    "Room0": "Cafe",
+    "Room1": "Cafe_1",
+    "Room2": "None",
     "SortID": 3,
     "UniqueID": 3,
     "e1c21e03 u16": 3,
@@ -44,9 +44,9 @@
     "cc2bec37 string": ""
   },
   {
-    "d0609acc string": "Tailor",
-    "699b4124 string": "None",
-    "78e62b5d string": "None",
+    "Room0": "Tailor",
+    "Room1": "None",
+    "Room2": "None",
     "SortID": 4,
     "UniqueID": 4,
     "e1c21e03 u16": 6,
