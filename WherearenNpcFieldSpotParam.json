@@ -1,0 +1,86 @@
+[
+  {
+    "7fc7405e u32": 0,
+    "38673a8e u32": 0,
+    "507133e u32": 0,
+    "UniqueID": 0,
+    "f0b8307e string34": "None"
+  },
+  {
+    "7fc7405e u32": 70,
+    "38673a8e u32": 70,
+    "507133e u32": 70,
+    "UniqueID": 1,
+    "f0b8307e string34": "NorthBeach1"
+  },
+  {
+    "7fc7405e u32": 55,
+    "38673a8e u32": 53,
+    "507133e u32": 23,
+    "UniqueID": 2,
+    "f0b8307e string34": "NorthBeach2"
+  },
+  {
+    "7fc7405e u32": 17,
+    "38673a8e u32": 10,
+    "507133e u32": 10,
+    "UniqueID": 3,
+    "f0b8307e string34": "NorthBeach3"
+  },
+  {
+    "7fc7405e u32": 59,
+    "38673a8e u32": 59,
+    "507133e u32": 59,
+    "UniqueID": 4,
+    "f0b8307e string34": "NorthBeach4"
+  },
+  {
+    "7fc7405e u32": 18,
+    "38673a8e u32": 70,
+    "507133e u32": 60,
+    "UniqueID": 5,
+    "f0b8307e string34": "Restaurant1"
+  },
+  {
+    "7fc7405e u32": 7,
+    "38673a8e u32": 62,
+    "507133e u32": 61,
+    "UniqueID": 6,
+    "f0b8307e string34": "Restaurant2"
+  },
+  {
+    "7fc7405e u32": 68,
+    "38673a8e u32": 68,
+    "507133e u32": 68,
+    "UniqueID": 7,
+    "f0b8307e string34": "Restaurant3"
+  },
+  {
+    "7fc7405e u32": 17,
+    "38673a8e u32": 11,
+    "507133e u32": 59,
+    "UniqueID": 8,
+    "f0b8307e string34": "Restaurant4"
+  },
+  {
+    "7fc7405e u32": 60,
+    "38673a8e u32": 60,
+    "507133e u32": 60,
+    "UniqueID": 9,
+    "f0b8307e string34": "Hospital1"
+  },
+  {
+    "7fc7405e u32": 18,
+    "38673a8e u32": 37,
+    "507133e u32": 12,
+    "UniqueID": 10,
+    "f0b8307e string34": "Hospital2"
+  },
+  {
+    "7fc7405e u32": 69,
+    "38673a8e u32": 69,
+    "507133e u32": 69,
+    "UniqueID": 11,
+    "f0b8307e string34": "Hospital3"
+  }
+]

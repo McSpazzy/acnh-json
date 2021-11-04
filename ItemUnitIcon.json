@@ -82,6 +82,146 @@
   {
     "ScaleOffset": 0.8,
     "CatalogItemUniqueID": 65534,
+    "UniqueID": 331,
+    "ColorIndex": -1,
+    "Label": "OtoshidamaJp",
+    "ModelName": "UnitIconOtoshidamaJp",
+    "Name": "おとしだま",
+    "ResName": "UnitIconOtoshidamaJp"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 333,
+    "ColorIndex": -1,
+    "Label": "SouvenirChocolate",
+    "ModelName": "UnitIconSouvenirChocolate",
+    "Name": "お土産チョコレート",
+    "ResName": "UnitIconSouvenirChocolate"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 335,
+    "ColorIndex": -1,
+    "Label": "HaniwaPiece",
+    "ModelName": "UnitIconHaniwaPiece",
+    "Name": "ハニワのかけら",
+    "ResName": "UnitIconHaniwaPiece"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 336,
+    "ColorIndex": -1,
+    "Label": "FlourWheat",
+    "ModelName": "UnitIconFlourWheat",
+    "Name": "こむぎこ",
+    "ResName": "UnitIconFlourWheat"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 337,
+    "ColorIndex": -1,
+    "Label": "FlourWheatwhole",
+    "ModelName": "UnitIconFlourWheatwhole",
+    "Name": "ぜんりゅうふん",
+    "ResName": "UnitIconFlourWheatwhole"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 338,
+    "ColorIndex": -1,
+    "Label": "FlourSugar",
+    "ModelName": "UnitIconFlourSugar",
+    "Name": "さとう",
+    "ResName": "UnitIconFlourSugar"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 339,
+    "ColorIndex": -1,
+    "Label": "FlourSugarbrown",
+    "ModelName": "UnitIconFlourSugarbrown",
+    "Name": "こくとう",
+    "ResName": "UnitIconFlourSugarbrown"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 341,
+    "ColorIndex": -1,
+    "Label": "PokiBag",
+    "ModelName": "UnitIconPokiBag",
+    "Name": "ポキ袋",
+    "ResName": "UnitIconPokiBag"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 342,
+    "ColorIndex": -1,
+    "Label": "HandBag",
+    "ModelName": "UnitIconHandBag",
+    "Name": "装：てもちかばん",
+    "ResName": "UnitIconHandBag"
+  },
+  {
+    "ScaleOffset": 1.0,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 343,
+    "ColorIndex": -1,
+    "Label": "SmartphoneCaseOtg",
+    "ModelName": "UnitIconSmartphoneCaseOtg",
+    "Name": "タクミライフのスマホケース",
+    "ResName": "UnitIconSmartphoneCaseOtg"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 344,
+    "ColorIndex": -1,
+    "Label": "CookingDrink",
+    "ModelName": "UnitIconCookingDrink",
+    "Name": "料理：飲み物",
+    "ResName": "UnitIconCookingDrink"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 345,
+    "ColorIndex": -1,
+    "Label": "CookingFood",
+    "ModelName": "UnitIconCookingFood",
+    "Name": "料理：食べ物",
+    "ResName": "UnitIconCookingFood"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 751,
+    "UniqueID": 346,
+    "ColorIndex": -1,
+    "Label": "LadderKit",
+    "ModelName": "UnitIconLadderKit",
+    "Name": " FIXはしごキット ",
+    "ResName": "UnitIconLadderKit"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 347,
+    "ColorIndex": -1,
+    "Label": "WallHighSeries",
+    "ModelName": "UnitIconWallHighSeries",
+    "Name": "カベタスシリーズ",
+    "ResName": "UnitIconWallHighSeries"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
     "UniqueID": 0,
     "ColorIndex": 0,
     "Label": "Leaf",
@@ -428,6 +568,16 @@
     "ModelName": "UnitIconRecipe",
     "Name": "レシピ",
     "ResName": "UnitIconRecipe"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 752,
+    "UniqueID": 340,
+    "ColorIndex": -1,
+    "Label": "CookingRecipeCard",
+    "ModelName": "UnitIconCookingRecipeCard",
+    "Name": "クッキングレシピカード",
+    "ResName": "UnitIconCookingRecipeCard"
   },
   {
     "ScaleOffset": 1.0,
@@ -801,7 +951,7 @@
   },
   {
     "ScaleOffset": 0.8,
-    "CatalogItemUniqueID": 65534,
+    "CatalogItemUniqueID": 755,
     "UniqueID": 154,
     "ColorIndex": -1,
     "Label": "SeedlingBush",
@@ -1888,5 +2038,135 @@
     "ModelName": "UnitIconLollipop",
     "Name": "ロリポップ",
     "ResName": "UnitIconLollipop"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 58,
+    "ColorIndex": -1,
+    "Label": "Gyroid",
+    "ModelName": "UnitIconGyroid",
+    "Name": "ハニワ",
+    "ResName": "UnitIconGyroid"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 6,
+    "ColorIndex": -1,
+    "Label": "Tomato",
+    "ModelName": "UnitIconPltVgtTomato",
+    "Name": "トマト",
+    "ResName": "UnitIconPltVgtTomato"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 24,
+    "ColorIndex": -1,
+    "Label": "SugarCane",
+    "ModelName": "UnitIconPltVgtSugarcane",
+    "Name": "サトウキビ",
+    "ResName": "UnitIconPltVgtSugarcane"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 25,
+    "ColorIndex": -1,
+    "Label": "Potato",
+    "ModelName": "UnitIconPltVgtPotato",
+    "Name": "ジャガイモ",
+    "ResName": "UnitIconPltVgtPotato"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 26,
+    "ColorIndex": -1,
+    "Label": "Carrot",
+    "ModelName": "UnitIconPltVgtCarrot",
+    "Name": "ニンジン",
+    "ResName": "UnitIconPltVgtCarrot"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 27,
+    "ColorIndex": -1,
+    "Label": "Wheat",
+    "ModelName": "UnitIconPltVgtWheat",
+    "Name": "小麦",
+    "ResName": "UnitIconPltVgtWheat"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 312,
+    "ColorIndex": -1,
+    "Label": "SeedingWheat",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "小麦のなえ",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 308,
+    "ColorIndex": -1,
+    "Label": "SeedingCarrot",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "ニンジンのなえ",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 309,
+    "ColorIndex": -1,
+    "Label": "SeedingSugercane",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "サトウキビのなえ",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 310,
+    "ColorIndex": -1,
+    "Label": "SeedingTomato",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "トマトのなえ",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 311,
+    "ColorIndex": -1,
+    "Label": "SeedingPotato",
+    "ModelName": "UnitIconPltVgtPumpkinSeeding",
+    "Name": "ジャガイモのたねいも",
+    "ResName": "UnitIconPltVgtPumpkinSeeding"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 328,
+    "ColorIndex": -1,
+    "Label": "Vine",
+    "ModelName": "UnitIconPltVine",
+    "Name": "ツル",
+    "ResName": "UnitIconPltVine"
+  },
+  {
+    "ScaleOffset": 0.8,
+    "CatalogItemUniqueID": 65534,
+    "UniqueID": 334,
+    "ColorIndex": -1,
+    "Label": "WeedLight",
+    "ModelName": "UnitIconPltWeedLight",
+    "Name": "ヒカリゴケ",
+    "ResName": "UnitIconPltWeedLight"
   }
 ]

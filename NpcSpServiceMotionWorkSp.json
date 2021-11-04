@@ -25,5 +25,50 @@
     "NpcLabel2": "sza",
     "SelectRate": 60,
     "StartHour": 6
+  },
+  {
+    "UniqueID": 3,
+    "ASCommand": "MaReSleep",
+    "EndHour": 5,
+    "NpcLabel": "man",
+    "NpcLabel2": "",
+    "SelectRate": 50,
+    "StartHour": 0
+  },
+  {
+    "UniqueID": 4,
+    "ASCommand": "NpcSpFeelWindMor",
+    "EndHour": 15,
+    "NpcLabel": "otg",
+    "NpcLabel2": "",
+    "SelectRate": 50,
+    "StartHour": 10
+  },
+  {
+    "UniqueID": 5,
+    "ASCommand": "NpcSpFeelWindEve",
+    "EndHour": 19,
+    "NpcLabel": "otg",
+    "NpcLabel2": "",
+    "SelectRate": 50,
+    "StartHour": 18
+  },
+  {
+    "UniqueID": 6,
+    "ASCommand": "NpcSpaceOut@ToolCupCoffee",
+    "EndHour": 5,
+    "NpcLabel": "spn",
+    "NpcLabel2": "pooB",
+    "SelectRate": 50,
+    "StartHour": 22
+  },
+  {
+    "UniqueID": 7,
+    "ASCommand": "NpcSpDrinking@ToolCupCoffee",
+    "EndHour": 5,
+    "NpcLabel": "pooB",
+    "NpcLabel2": "spn",
+    "SelectRate": 50,
+    "StartHour": 22
   }
 ]

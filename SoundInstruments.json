@@ -84,6 +84,13 @@
     "Name": "グランドピアノ"
   },
   {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 1906,
+    "UniqueID": 13,
+    "Label": "Snaredrum",
+    "Name": "スネアドラム"
+  },
+  {
     "InstrumentsType": "Normal",
     "RefItemUniqueID": 2772,
     "UniqueID": 14,
@@ -168,6 +175,34 @@
     "Name": "ジューンブライドパイプオルガン"
   },
   {
+    "InstrumentsType": "DrumSet",
+    "RefItemUniqueID": 12516,
+    "UniqueID": 27,
+    "Label": "Sampler",
+    "Name": "サンプラー"
+  },
+  {
+    "InstrumentsType": "Normal",
+    "RefItemUniqueID": 13471,
+    "UniqueID": 28,
+    "Label": "Timpani",
+    "Name": "ティンパニ"
+  },
+  {
+    "InstrumentsType": "Normal",
+    "RefItemUniqueID": 1206,
+    "UniqueID": 29,
+    "Label": "Trumpet",
+    "Name": "トランペット"
+  },
+  {
+    "InstrumentsType": "Normal",
+    "RefItemUniqueID": 13470,
+    "UniqueID": 30,
+    "Label": "Clarinet",
+    "Name": "クラリネット"
+  },
+  {
     "InstrumentsType": "Drum",
     "RefItemUniqueID": 13958,
     "UniqueID": 31,
@@ -180,5 +215,26 @@
     "UniqueID": 32,
     "Label": "CarnivalSurdo",
     "Name": "カーニバルなパーカッション"
+  },
+  {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 14535,
+    "UniqueID": 33,
+    "Label": "Bongo",
+    "Name": "ボンゴ"
+  },
+  {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 12672,
+    "UniqueID": 34,
+    "Label": "MaracasNPC",
+    "Name": "マラカス(NPC用)"
+  },
+  {
+    "InstrumentsType": "Drum",
+    "RefItemUniqueID": 13478,
+    "UniqueID": 35,
+    "Label": "Turntable",
+    "Name": "ターンテーブル"
   }
 ]

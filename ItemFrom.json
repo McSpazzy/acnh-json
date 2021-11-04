@@ -200,11 +200,27 @@
     "RegionEventItem": 0
   },
   {
-    "HHABaseScore": 0,
+    "HHABaseScore": 51,
     "UniqueID": 178,
     "8f225c6 u8": 0,
     "Label": "ShopVarietyManieSuit",
     "Name": "店_店売り：水着",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 349,
+    "8f225c6 u8": 0,
+    "Label": "ShopSubTool",
+    "Name": "店_サブ道具小",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 350,
+    "8f225c6 u8": 0,
+    "Label": "ShopSubTool2",
+    "Name": "店_サブ道具大",
     "RegionEventItem": 0
   },
   {
@@ -241,6 +257,14 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 303,
+    "8f225c6 u8": 0,
+    "Label": "ShopCookingRecipeBook1",
+    "Name": "店_料理レシピブック1",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 88,
     "8f225c6 u8": 0,
     "Label": "ShopRemakeKit",
@@ -257,6 +281,14 @@
   },
   {
     "HHABaseScore": 0,
+    "UniqueID": 357,
+    "8f225c6 u8": 0,
+    "Label": "Shop_EnableRecipePitfallSeed",
+    "Name": "店_レシピ解禁(おとしあなのタネ)",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
     "UniqueID": 85,
     "8f225c6 u8": 0,
     "Label": "Shop_EnableRecipeScoop",
@@ -269,6 +301,62 @@
     "8f225c6 u8": 0,
     "Label": "Shop_EnableRecipeLadder",
     "Name": "店_レシピ解禁(ハシゴ)",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 287,
+    "8f225c6 u8": 0,
+    "Label": "ShopOneRoomDefault",
+    "Name": "店_OneRoom_初期",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 288,
+    "8f225c6 u8": 0,
+    "Label": "ShopOneRoomMiscGoodsDefault",
+    "Name": "店_OneRoom_雑貨_初期",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 337,
+    "8f225c6 u8": 0,
+    "Label": "Shop_EnableRecipeFIXLadder",
+    "Name": "店_レシピ解禁(FIXハシゴ)",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 208,
+    "8f225c6 u8": 0,
+    "Label": "ShopOneRoomMiscGoods",
+    "Name": "店_OneRoom_雑貨",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 209,
+    "8f225c6 u8": 0,
+    "Label": "ShopOneRoom",
+    "Name": "店_OneRoom",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 403,
+    "UniqueID": 265,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomBigFtr",
+    "Name": "OneRoom_大型（たぬきショッピング）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 331,
+    "8f225c6 u8": 0,
+    "Label": "ShopOneRoomNonSouvenir",
+    "Name": "店_OneRoom_お土産に並べない",
     "RegionEventItem": 0
   },
   {
@@ -301,6 +389,14 @@
     "8f225c6 u8": 0,
     "Label": "SonkatsuReward2",
     "Name": "マイル交換_案内所",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 221,
+    "UniqueID": 330,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeFtrAfterED",
+    "Name": "マイル交換_とたけけライブ翌日",
     "RegionEventItem": 0
   },
   {
@@ -384,6 +480,30 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 151,
+    "UniqueID": 332,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeRecipeDIYStorage",
+    "Name": "マイル交換_家具レシピ（もくせいのものおき�",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 356,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeStoreRoom",
+    "Name": "マイル交換_ものおき",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 355,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeATM",
+    "Name": "マイル交換_ATM",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 0,
     "UniqueID": 192,
     "8f225c6 u8": 0,
@@ -400,11 +520,83 @@
     "RegionEventItem": 0
   },
   {
-    "HHABaseScore": 0,
+    "HHABaseScore": 89,
     "UniqueID": 165,
     "8f225c6 u8": 0,
     "Label": "MileExchangeNsoPresent",
     "Name": "マイル交換_NSO加入特典",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 283,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeOfficePlus",
+    "Name": "マイル交換_案内所＆プラス（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 281,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeDIYRecipePlus",
+    "Name": "マイル交換_DIYレシピ+（料理）（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 338,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeInteriorPRO",
+    "Name": "マイル交換_もようがえPRO（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 282,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeFenceRemake",
+    "Name": "マイル交換_柵リメイク（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 339,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeReactionv200",
+    "Name": "マイル交換_リアクション集v200（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 340,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeHairStylev200",
+    "Name": "マイル交換_髪型v200（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 341,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeTipsApp",
+    "Name": "マイル交換_Tipsアプリ（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 353,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeHairStylev160",
+    "Name": "マイル交換_髪型v160（買い切り）",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 354,
+    "8f225c6 u8": 0,
+    "Label": "MileExchangeBridgeSlopePlus",
+    "Name": "マイル交換_橋坂増設（買い切り）",
     "RegionEventItem": 0
   },
   {
@@ -536,7 +728,15 @@
     "RegionEventItem": 0
   },
   {
-    "HHABaseScore": 253,
+    "HHABaseScore": 23,
+    "UniqueID": 271,
+    "8f225c6 u8": 0,
+    "Label": "ShoesBagShop_Commune",
+    "Name": "シャンク_コミューン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 89,
     "UniqueID": 22,
     "8f225c6 u8": 0,
     "Label": "RugS",
@@ -544,7 +744,7 @@
     "RegionEventItem": 0
   },
   {
-    "HHABaseScore": 253,
+    "HHABaseScore": 137,
     "UniqueID": 23,
     "8f225c6 u8": 0,
     "Label": "RugM",
@@ -565,6 +765,38 @@
     "8f225c6 u8": 0,
     "Label": "LaurentWallFloor",
     "Name": "ローラン壁床",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 89,
+    "UniqueID": 266,
+    "8f225c6 u8": 0,
+    "Label": "CmlCommune_RugS",
+    "Name": "ローランS_コミューン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 137,
+    "UniqueID": 267,
+    "8f225c6 u8": 0,
+    "Label": "CmlCommune_RugM",
+    "Name": "ローランM_コミューン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 253,
+    "UniqueID": 268,
+    "8f225c6 u8": 0,
+    "Label": "CmlCommune_RugL",
+    "Name": "ローランL_コミューン",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 451,
+    "UniqueID": 269,
+    "8f225c6 u8": 0,
+    "Label": "CmlCommune_WallFloor",
+    "Name": "ローラン壁床_コミューン",
     "RegionEventItem": 0
   },
   {
@@ -629,6 +861,30 @@
     "8f225c6 u8": 0,
     "Label": "FoxFood",
     "Name": "つねきち屋台_サブ道具食べ物",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 328,
+    "8f225c6 u8": 0,
+    "Label": "FoxCommuneSubtool",
+    "Name": "つねきちコミューン_サブ道具",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 329,
+    "8f225c6 u8": 0,
+    "Label": "FoxCommuneFood",
+    "Name": "つねきちコミューン_サブ道具食べ物",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 327,
+    "8f225c6 u8": 0,
+    "Label": "FoxCommuneBook",
+    "Name": "つねきちコミューン_サブ道具ほん",
     "RegionEventItem": 0
   },
   {
@@ -784,6 +1040,14 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 103,
+    "UniqueID": 352,
+    "8f225c6 u8": 0,
+    "Label": "BocRecipe",
+    "Name": "ウリ",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 444,
     "UniqueID": 29,
     "8f225c6 u8": 0,
@@ -888,11 +1152,27 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 355,
+    "UniqueID": 263,
+    "8f225c6 u8": 0,
+    "Label": "BptSale",
+    "Name": "<ハッケミィ開運グッズ>",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 53,
     "UniqueID": 137,
     "8f225c6 u8": 0,
     "Label": "RecycleBox",
-    "Name": "リサイクルBOX",
+    "Name": "リサイクルボックス",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 153,
+    "UniqueID": 348,
+    "8f225c6 u8": 0,
+    "Label": "RecycleBox_Fr",
+    "Name": "リサイクルボックス家具",
     "RegionEventItem": 0
   },
   {
@@ -901,6 +1181,14 @@
     "8f225c6 u8": 0,
     "Label": "ShopSeed_Chrysanthemum",
     "Name": "販売種_菊",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 153,
+    "UniqueID": 313,
+    "8f225c6 u8": 0,
+    "Label": "CafeMaster",
+    "Name": "マスター",
     "RegionEventItem": 0
   },
   {
@@ -1024,11 +1312,35 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 207,
+    "UniqueID": 342,
+    "8f225c6 u8": 0,
+    "Label": "Gyroid",
+    "Name": "<はにわ>",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 343,
+    "8f225c6 u8": 0,
+    "Label": "BrokenGyroid",
+    "Name": "<はにわのかけら>",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 87,
     "UniqueID": 127,
     "8f225c6 u8": 0,
     "Label": "Flower",
     "Name": "植物：花",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 153,
+    "UniqueID": 344,
+    "8f225c6 u8": 0,
+    "Label": "Museum3Event",
+    "Name": "<カフェ増築イベント>",
     "RegionEventItem": 0
   },
   {
@@ -1061,6 +1373,22 @@
     "8f225c6 u8": 0,
     "Label": "Trophy",
     "Name": "トロフィー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 251,
+    "UniqueID": 345,
+    "8f225c6 u8": 0,
+    "Label": "MuseumComplete",
+    "Name": "<博物館コンプポスター>",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 346,
+    "8f225c6 u8": 0,
+    "Label": "RadioExercise",
+    "Name": "<ラジオ体操報酬>",
     "RegionEventItem": 0
   },
   {
@@ -1208,6 +1536,22 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 103,
+    "UniqueID": 302,
+    "8f225c6 u8": 0,
+    "Label": "CookingNormal",
+    "Name": "<料理>汎用",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 286,
+    "8f225c6 u8": 0,
+    "Label": "CookPumpkin",
+    "Name": "<料理>かぼちゃ",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 201,
     "UniqueID": 143,
     "8f225c6 u8": 0,
@@ -1245,6 +1589,14 @@
     "8f225c6 u8": 0,
     "Label": "SummerSolstice",
     "Name": "<リージョン>夏至",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 307,
+    "8f225c6 u8": 0,
+    "Label": "SummerSolstice_EU",
+    "Name": "<リージョン>夏至（EU）",
     "RegionEventItem": 1
   },
   {
@@ -1297,6 +1649,22 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 309,
+    "8f225c6 u8": 0,
+    "Label": "WinterSolstice_TW",
+    "Name": "<リージョン>冬至（中華圏）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 310,
+    "8f225c6 u8": 0,
+    "Label": "WinterSolstice_JP",
+    "Name": "<リージョン>冬至（日本）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 201,
     "8f225c6 u8": 0,
     "Label": "NewYearsEveWorld",
@@ -1337,6 +1705,14 @@
   },
   {
     "HHABaseScore": 201,
+    "UniqueID": 301,
+    "8f225c6 u8": 0,
+    "Label": "NewYearWorld2",
+    "Name": "<リージョン>NewYear（ワールド２）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
     "UniqueID": 203,
     "8f225c6 u8": 0,
     "Label": "NewYearRoshia",
@@ -1348,7 +1724,15 @@
     "UniqueID": 206,
     "8f225c6 u8": 0,
     "Label": "NewYearChina",
-    "Name": "<リージョン>お正月（アジア）",
+    "Name": "<リージョン>お正月（アジア）うしのおきもの",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 314,
+    "8f225c6 u8": 0,
+    "Label": "NewYearEtoTiger",
+    "Name": "<リージョン>お正月とらのおきもの",
     "RegionEventItem": 1
   },
   {
@@ -1381,6 +1765,14 @@
     "8f225c6 u8": 0,
     "Label": "NeyYearDay3",
     "Name": "<リージョン>お正月（日本３）",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 304,
+    "8f225c6 u8": 0,
+    "Label": "NewYearDay4_Osechi",
+    "Name": "<リージョン>お正月（日本４）",
     "RegionEventItem": 1
   },
   {
@@ -1624,6 +2016,30 @@
     "RegionEventItem": 1
   },
   {
+    "HHABaseScore": 201,
+    "UniqueID": 293,
+    "8f225c6 u8": 0,
+    "Label": "Nanakusagayu",
+    "Name": "<リージョン>七草粥",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 294,
+    "8f225c6 u8": 0,
+    "Label": "VeniceCarnival",
+    "Name": "<リージョン>ヴェニスのカーニバル",
+    "RegionEventItem": 1
+  },
+  {
+    "HHABaseScore": 201,
+    "UniqueID": 148,
+    "8f225c6 u8": 0,
+    "Label": "Tomatina",
+    "Name": "<リージョン>トマティーナ",
+    "RegionEventItem": 1
+  },
+  {
     "HHABaseScore": 178,
     "UniqueID": 159,
     "8f225c6 u8": 1,
@@ -1808,6 +2224,22 @@
     "RegionEventItem": 0
   },
   {
+    "HHABaseScore": 103,
+    "UniqueID": 325,
+    "8f225c6 u8": 0,
+    "Label": "Harvest_CookingRecipeBook",
+    "Name": "店_ハーベスト料理レシピ本",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 289,
+    "8f225c6 u8": 0,
+    "Label": "CookFrankrin",
+    "Name": "<料理>フランクリン",
+    "RegionEventItem": 0
+  },
+  {
     "HHABaseScore": 231,
     "UniqueID": 198,
     "8f225c6 u8": 0,
@@ -1821,6 +2253,118 @@
     "8f225c6 u8": 0,
     "Label": "Christmas_NPC",
     "Name": "クリスマス_NPC",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 393,
+    "UniqueID": 326,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomBenefit",
+    "Name": "OneRoom_購入特典",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 216,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafe",
+    "Name": "OneRoom：カフェ食べ物",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 137,
+    "UniqueID": 296,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeTeishoku",
+    "Name": "OneRoom：カフェ_ていしょく",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 137,
+    "UniqueID": 297,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeSetMenu",
+    "Name": "OneRoom：カフェ_ノーマルセットメニュー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 137,
+    "UniqueID": 335,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeSetMenuB",
+    "Name": "OneRoom：カフェ_サラダセットメニュー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 298,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeSingleMenu",
+    "Name": "OneRoom：カフェ_たんぴんメニュー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 299,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeIceCoffee",
+    "Name": "OneRoom：カフェ_アイスコーヒー",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 300,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeOrangeJuice",
+    "Name": "OneRoom：カフェ_オレンジジュース",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 103,
+    "UniqueID": 217,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomCafeDrink",
+    "Name": "OneRoom：カフェ_ドリンク",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 51,
+    "UniqueID": 347,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomTailorKKFes",
+    "Name": "OneRoom_服屋けけフェス",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 275,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomGradeUpReward",
+    "Name": "OneRoom_昇給報酬",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 276,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomPartyReward",
+    "Name": "OneRoom_打ち上げ報酬",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 151,
+    "UniqueID": 277,
+    "8f225c6 u8": 0,
+    "Label": "ManCatalogSpTab",
+    "Name": "ナッティーカタログSPタブ",
+    "RegionEventItem": 0
+  },
+  {
+    "HHABaseScore": 0,
+    "UniqueID": 334,
+    "8f225c6 u8": 0,
+    "Label": "OneRoomTsukutterReward",
+    "Name": "OneRoom_ツクッター報酬",
     "RegionEventItem": 0
   },
   {

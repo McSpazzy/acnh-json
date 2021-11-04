@@ -668,5 +668,45 @@
     "FlagsFlowAccess": 1,
     "Key": "EasterScheduleDay",
     "Name": "イースター｜イースター用のスケジュールが設定された日か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 74,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "FortuneApproach",
+    "Name": "占い結果をうけてのアプローチ中か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 75,
+    "5f77b61a u8": 1,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 1,
+    "Key": "PresentSelectOnlyChocolate",
+    "Name": "プレゼント用会話での対象はお土産チョコレートだけか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 77,
+    "5f77b61a u8": 0,
+    "8d401df7 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ExtendStayTimeVisitP",
+    "Name": "訪問中、滞在時間を延長した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 78,
+    "5f77b61a u8": 1,
+    "8d401df7 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "VisitNFtrReturnToPlayer",
+    "Name": "NPC宅訪問でプレイヤーから貰ったものをタダで返すか"
   }
 ]

@@ -80,6 +80,16 @@
     "Name": "2x0.5"
   },
   {
+    "ResSizeLimit": 4.725,
+    "MemoryUnitNum": 2,
+    "PolygonLimit": 3600,
+    "UniqueID": 42,
+    "HalfUnitSizeX": 6,
+    "HalfUnitSizeZ": 1,
+    "Label": "3_0x0_5",
+    "Name": "3x0.5"
+  },
+  {
     "ResSizeLimit": 3.54375,
     "MemoryUnitNum": 3,
     "PolygonLimit": 2700,
@@ -258,5 +268,15 @@
     "HalfUnitSizeZ": 10,
     "Label": "5_0x5_0_Rug",
     "Name": "5x5(ラグ)"
+  },
+  {
+    "ResSizeLimit": 1.575,
+    "MemoryUnitNum": 1,
+    "PolygonLimit": 1200,
+    "UniqueID": 41,
+    "HalfUnitSizeX": 1,
+    "HalfUnitSizeZ": 1,
+    "Label": "0_5x0_5_Pillar",
+    "Name": "0.5x0.5(柱)"
   }
 ]

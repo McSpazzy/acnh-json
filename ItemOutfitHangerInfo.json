@@ -28,14 +28,14 @@
     "ResName": "FtrHangerAccessoryGlass"
   },
   {
-    "ItemLayout": "Wall_1Unit",
+    "ItemLayout": "Wall_NoCol",
     "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 4,
     "Label": "HangerInfoAccessoryMouth",
     "ResName": "FtrHangerAccessoryMouth"
   },
   {
-    "ItemLayout": "Wall_1Unit",
+    "ItemLayout": "Wall_NoCol",
     "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 5,
     "Label": "HangerInfoAccessoryGlassMouth",
@@ -49,7 +49,7 @@
     "ResName": "FtrHangerCapMask"
   },
   {
-    "ItemLayout": "Wall_1Unit",
+    "ItemLayout": "Wall_NoCol",
     "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 7,
     "Label": "HangerInfoCapsFullface",
@@ -63,14 +63,14 @@
     "ResName": "FtrHangerCapOrnament"
   },
   {
-    "ItemLayout": "Wall_HalfUnit",
+    "ItemLayout": "Wall_NoCol",
     "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 9,
     "Label": "HangerInfoCaps",
     "ResName": "FtrHangerCap"
   },
   {
-    "ItemLayout": "Wall_HalfUnit",
+    "ItemLayout": "Wall_NoCol",
     "ItemSize": "1_0x1_0_Wall",
     "UniqueID": 10,
     "Label": "HangerInfoBag",

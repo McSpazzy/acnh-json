@@ -8,18 +8,18 @@
     "HousePartsType": 0,
     "UniqueID": 0,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "ノーマルないえXL"
+    "Name": "Lサイズ（よこ5マス）"
   },
   {
     "AppearanceLevel": "Invalid",
     "CustomizeSortID": 1,
-    "DefaultDoorUniqueID": 9,
-    "DefaultRoofUniqueID": 19,
+    "DefaultDoorUniqueID": 34,
+    "DefaultRoofUniqueID": 57,
     "DefaultWallUniqueID": 14,
     "HousePartsType": 1,
     "UniqueID": 1,
     "DoorBellName": "DoorBell_House_Standard1_Npc",
-    "Name": "コンパクトないえA"
+    "Name": "Sサイズ（よこ４マス）"
   },
   {
     "AppearanceLevel": "Tent",
@@ -74,7 +74,18 @@
     "HousePartsType": 0,
     "UniqueID": 7,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "ノーマルないえXS"
+    "Name": "Lサイズ（よこ5マス）"
+  },
+  {
+    "AppearanceLevel": "Level04",
+    "CustomizeSortID": 16,
+    "DefaultDoorUniqueID": 18,
+    "DefaultRoofUniqueID": 22,
+    "DefaultWallUniqueID": 17,
+    "HousePartsType": 0,
+    "UniqueID": 8,
+    "DoorBellName": "DoorBell_House_Standard2_Pl",
+    "Name": "Lサイズ（よこ5マス）"
   },
   {
     "AppearanceLevel": "Invalid",
@@ -85,7 +96,7 @@
     "HousePartsType": 1,
     "UniqueID": 9,
     "DoorBellName": "DoorBell_House_Standard2_Npc",
-    "Name": "コンパクトないえB"
+    "Name": "Sサイズ（よこ４マス）"
   },
   {
     "AppearanceLevel": "Invalid",
@@ -96,7 +107,7 @@
     "HousePartsType": 1,
     "UniqueID": 10,
     "DoorBellName": "DoorBell_House_Oriental1_Npc",
-    "Name": "コンパクトないえC"
+    "Name": "Sサイズ（よこ４マス）"
   },
   {
     "AppearanceLevel": "Invalid",
@@ -129,7 +140,7 @@
     "HousePartsType": 1,
     "UniqueID": 13,
     "DoorBellName": "DoorBell_House_Fantasy1_Npc",
-    "Name": "コンパクトないえD"
+    "Name": "Sサイズ（よこ４マス）"
   },
   {
     "AppearanceLevel": "Level01",
@@ -140,7 +151,7 @@
     "HousePartsType": 0,
     "UniqueID": 14,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "ノーマルないえS"
+    "Name": "Lサイズ（よこ5マス）"
   },
   {
     "AppearanceLevel": "Level02",
@@ -151,7 +162,7 @@
     "HousePartsType": 0,
     "UniqueID": 15,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "ノーマルないえM"
+    "Name": "Lサイズ（よこ5マス）"
   },
   {
     "AppearanceLevel": "Level03",
@@ -162,6 +173,28 @@
     "HousePartsType": 0,
     "UniqueID": 16,
     "DoorBellName": "DoorBell_House_Standard1_Pl",
-    "Name": "ノーマルないえL"
+    "Name": "Lサイズ（よこ5マス）"
+  },
+  {
+    "AppearanceLevel": "Level04",
+    "CustomizeSortID": 17,
+    "DefaultDoorUniqueID": 14,
+    "DefaultRoofUniqueID": 176,
+    "DefaultWallUniqueID": 174,
+    "HousePartsType": 0,
+    "UniqueID": 20,
+    "DoorBellName": "DoorBell_House_Oriental1_Pl",
+    "Name": "Lサイズ（よこ5マス）"
+  },
+  {
+    "AppearanceLevel": "Level04",
+    "CustomizeSortID": 18,
+    "DefaultDoorUniqueID": 0,
+    "DefaultRoofUniqueID": 212,
+    "DefaultWallUniqueID": 221,
+    "HousePartsType": 0,
+    "UniqueID": 21,
+    "DoorBellName": "DoorBell_House_Fantasy1_Pl",
+    "Name": "Lサイズ（よこ5マス）"
   }
 ]

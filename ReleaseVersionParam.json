@@ -82,5 +82,29 @@
     "UniqueID": 17,
     "Label": "Summer2nd2021",
     "Name": "1.11.0 2021夏パッチ2"
+  },
+  {
+    "ReleaseKey": 20000,
+    "UniqueID": 8,
+    "Label": "Ver2Launch",
+    "Name": "2.0.0 不定"
+  },
+  {
+    "ReleaseKey": 20000,
+    "UniqueID": 19,
+    "Label": "OneRoom",
+    "Name": "2.0.0 OneRoom"
+  },
+  {
+    "ReleaseKey": 20000,
+    "UniqueID": 20,
+    "Label": "OneRoomVer2Update",
+    "Name": "2.0.0 OneRoom＆無償"
+  },
+  {
+    "ReleaseKey": 20000,
+    "UniqueID": 21,
+    "Label": "Ver2Update",
+    "Name": "2.0.0 無償アプデ"
   }
 ]

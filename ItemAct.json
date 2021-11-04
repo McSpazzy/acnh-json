@@ -209,6 +209,17 @@
     "SwitchableOnWall": 0
   },
   {
+    "AsName": "FtrAudioTypeMusicCategory",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 82,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "AudioTypeMusicCategory",
+    "Name": "オーディオ：ミュージックカテゴリ ",
+    "SwitchableOnWall": 0
+  },
+  {
     "AsName": "FtrTriggerToLoopWaitEndOnOff",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
@@ -316,6 +327,50 @@
     "DemoType": 1,
     "Label": "WorkBench",
     "Name": "作業台",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 19,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "CookingTable",
+    "Name": "調理台：常時ON",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 86,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "CookingTableTriggerFire",
+    "Name": "調理台：トリガ（火）",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrTriggerToLoopWaitEndOnOff",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 87,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "CookingTableTriggerWater",
+    "Name": "調理台：トリガ（水）",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 88,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "CookingTableTwoWay",
+    "Name": "調理台：両面",
     "SwitchableOnWall": 0
   },
   {
@@ -459,6 +514,17 @@
     "DemoType": 0,
     "Label": "TriggerOnOffAndLoopWaitEnd",
     "Name": "トリガー：toループ終了待ちオンオフ",
+    "SwitchableOnWall": 1
+  },
+  {
+    "AsName": "FtrTriggerOnceRandom",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 77,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "TriggerOnceRandom",
+    "Name": "トリガー：ランダム",
     "SwitchableOnWall": 1
   },
   {
@@ -627,6 +693,17 @@
     "SwitchableOnWall": 1
   },
   {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 22,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "ATM",
+    "Name": "ATM",
+    "SwitchableOnWall": 0
+  },
+  {
     "AsName": "FtrInsectSing",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
@@ -696,12 +773,45 @@
     "AsName": "FtrLoopAuto",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 69,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "OneroomBox",
+    "Name": "もちこみダンボール",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
     "UniqueID": 70,
     "Collision": 1,
     "DemoType": 1,
     "Label": "StampRack",
     "Name": "スタンプ台(国際ミュージアム)",
     "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrKabetasu",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 73,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "KabetasuWall",
+    "Name": "カベタス",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 74,
+    "Collision": 1,
+    "DemoType": 1,
+    "Label": "MoneyBox",
+    "Name": "貯金箱",
+    "SwitchableOnWall": 1
   },
   {
     "AsName": "FtrLoopAuto",
@@ -715,6 +825,28 @@
     "SwitchableOnWall": 0
   },
   {
+    "AsName": "FtrHaniwa",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 78,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "Haniwa",
+    "Name": "ハニワ",
+    "SwitchableOnWall": 1
+  },
+  {
+    "AsName": "FtrTriggerToLoopOnOff",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 83,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "Theremin",
+    "Name": "テルミン",
+    "SwitchableOnWall": 0
+  },
+  {
     "AsName": "FtrTriggerToLoopOnOff",
     "CategoryName": "None",
     "8b1904b9.HashRef": "Unknown",
@@ -723,6 +855,17 @@
     "DemoType": 0,
     "Label": "HarvestKitchen",
     "Name": "フランクリンのキッチン(ハーベスト)",
+    "SwitchableOnWall": 0
+  },
+  {
+    "AsName": "FtrLoopAuto",
+    "CategoryName": "None",
+    "8b1904b9.HashRef": "Unknown",
+    "UniqueID": 85,
+    "Collision": 1,
+    "DemoType": 0,
+    "Label": "RadioRadioGymnastics",
+    "Name": "ラジオ(ラジオ体操)",
     "SwitchableOnWall": 0
   },
   {

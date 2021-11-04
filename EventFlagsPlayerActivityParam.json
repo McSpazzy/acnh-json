@@ -231,6 +231,66 @@
   },
   {
     "MaxValue": 64,
+    "MessageLabel": 154,
+    "TalkValueVillager": 15,
+    "TalkValueVisitor": 10,
+    "UniqueID": 23,
+    "FlagsFlowAccess": 0,
+    "Key": "PlantVegetableCount",
+    "Name": "野菜を植えた回数"
+  },
+  {
+    "MaxValue": 256,
+    "MessageLabel": 155,
+    "TalkValueVillager": 50,
+    "TalkValueVisitor": 20,
+    "UniqueID": 24,
+    "FlagsFlowAccess": 0,
+    "Key": "HarvestVegetableCount",
+    "Name": "野菜を収穫した数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 156,
+    "TalkValueVillager": 20,
+    "TalkValueVisitor": 10,
+    "UniqueID": 25,
+    "FlagsFlowAccess": 0,
+    "Key": "CookingCount",
+    "Name": "料理をした回数"
+  },
+  {
+    "MaxValue": 36,
+    "MessageLabel": 157,
+    "TalkValueVillager": 3,
+    "TalkValueVisitor": 0,
+    "UniqueID": 26,
+    "FlagsFlowAccess": 0,
+    "Key": "RadioExerciseCount",
+    "Name": "ラジオ体操した回数"
+  },
+  {
+    "MaxValue": 64,
+    "MessageLabel": 158,
+    "TalkValueVillager": 5,
+    "TalkValueVisitor": 3,
+    "UniqueID": 27,
+    "FlagsFlowAccess": 0,
+    "Key": "OrderCoffeeCount",
+    "Name": "コーヒーを飲んだ回数"
+  },
+  {
+    "MaxValue": 8,
+    "MessageLabel": 159,
+    "TalkValueVillager": 3,
+    "TalkValueVisitor": 0,
+    "UniqueID": 28,
+    "FlagsFlowAccess": 0,
+    "Key": "DigGyroidCount",
+    "Name": "はにわを掘り出した回数"
+  },
+  {
+    "MaxValue": 64,
     "MessageLabel": 124,
     "TalkValueVillager": 20,
     "TalkValueVisitor": 0,

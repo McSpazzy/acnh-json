@@ -1,0 +1,127 @@
+[
+  {
+    "UniqueID": 0,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ExcavatedFossil"
+  },
+  {
+    "UniqueID": 1,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ConstructRiver"
+  },
+  {
+    "UniqueID": 2,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ConstructCliff"
+  },
+  {
+    "UniqueID": 3,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ConstructRoad"
+  },
+  {
+    "UniqueID": 4,
+    "7ef334a6 u8": 0,
+    "Label": "PV_CreateMydesignNormal"
+  },
+  {
+    "UniqueID": 5,
+    "7ef334a6 u8": 0,
+    "Label": "PV_CreateMydesignPro"
+  },
+  {
+    "UniqueID": 6,
+    "7ef334a6 u8": 0,
+    "Label": "PV_WishShootingStar"
+  },
+  {
+    "UniqueID": 7,
+    "7ef334a6 u8": 0,
+    "Label": "PV_BptFortune"
+  },
+  {
+    "UniqueID": 8,
+    "7ef334a6 u8": 0,
+    "Label": "PV_Cafe_DrinkCoffee"
+  },
+  {
+    "UniqueID": 9,
+    "7ef334a6 u8": 0,
+    "Label": "PV_Cafe_TakeoutCoffee"
+  },
+  {
+    "UniqueID": 10,
+    "7ef334a6 u8": 0,
+    "Label": "PV_TkkLive_Join"
+  },
+  {
+    "UniqueID": 11,
+    "7ef334a6 u8": 0,
+    "Label": "PV_RadioGym_Join"
+  },
+  {
+    "UniqueID": 12,
+    "7ef334a6 u8": 0,
+    "Label": "PV_FillInHaniwaPiece"
+  },
+  {
+    "UniqueID": 13,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ExcavatedHaniwa"
+  },
+  {
+    "UniqueID": 14,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ChangeEquip"
+  },
+  {
+    "UniqueID": 15,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ChangeEquip_ByStick"
+  },
+  {
+    "UniqueID": 16,
+    "7ef334a6 u8": 0,
+    "Label": "PV_ChangeEquip_ByDressor"
+  },
+  {
+    "UniqueID": 17,
+    "7ef334a6 u8": 0,
+    "Label": "PV_TakePhoto"
+  },
+  {
+    "UniqueID": 18,
+    "7ef334a6 u8": 0,
+    "Label": "PV_TakePhoto_InStudio"
+  },
+  {
+    "UniqueID": 19,
+    "7ef334a6 u8": 0,
+    "Label": "PV_TalkNnpc"
+  },
+  {
+    "UniqueID": 20,
+    "7ef334a6 u8": 0,
+    "Label": "PV_TalkNnpc_All"
+  },
+  {
+    "UniqueID": 21,
+    "7ef334a6 u8": 0,
+    "Label": "PV_EnterDreamLand"
+  },
+  {
+    "UniqueID": 22,
+    "7ef334a6 u8": 0,
+    "Label": "PV_HouseCoordinate"
+  },
+  {
+    "UniqueID": 23,
+    "7ef334a6 u8": 0,
+    "Label": "PV_Goto_MysteryTour"
+  },
+  {
+    "UniqueID": 24,
+    "7ef334a6 u8": 0,
+    "Label": "PV_Goto_KappeiTour"
+  }
+]

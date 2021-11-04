@@ -1798,5 +1798,185 @@
     "UniqueID": 199,
     "Label": "199",
     "TextureResName": "FtrCmnFabricDancer01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "White",
+    "Color2": "Colorful",
+    "SortID": 200,
+    "UniqueID": 200,
+    "Label": "200",
+    "TextureResName": "FtrCmnFabricTerrazzo00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Green",
+    "Color2": "Colorful",
+    "SortID": 201,
+    "UniqueID": 201,
+    "Label": "201",
+    "TextureResName": "FtrCmnFabricTerrazzo01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Pink",
+    "Color2": "Colorful",
+    "SortID": 202,
+    "UniqueID": 202,
+    "Label": "202",
+    "TextureResName": "FtrCmnFabricStained00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Blue",
+    "Color2": "Colorful",
+    "SortID": 203,
+    "UniqueID": 203,
+    "Label": "203",
+    "TextureResName": "FtrCmnFabricStained01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Gray",
+    "Color2": "Gray",
+    "SortID": 204,
+    "UniqueID": 204,
+    "Label": "204",
+    "TextureResName": "FtrCmnFabricAbstractMono00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Beige",
+    "Color2": "Beige",
+    "SortID": 205,
+    "UniqueID": 205,
+    "Label": "205",
+    "TextureResName": "FtrCmnFabricAbstractMono01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "White",
+    "Color2": "Colorful",
+    "SortID": 206,
+    "UniqueID": 206,
+    "Label": "206",
+    "TextureResName": "FtrCmnFabricAbstractCircle00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Purple",
+    "Color2": "Pink",
+    "SortID": 207,
+    "UniqueID": 207,
+    "Label": "207",
+    "TextureResName": "FtrCmnFabricAbstractCircle01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Beige",
+    "Color2": "White",
+    "SortID": 208,
+    "UniqueID": 208,
+    "Label": "208",
+    "TextureResName": "FtrCmnFabricGabbe00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Green",
+    "Color2": "Green",
+    "SortID": 209,
+    "UniqueID": 209,
+    "Label": "209",
+    "TextureResName": "FtrCmnFabricGabbe01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "LightBlue",
+    "Color2": "Green",
+    "SortID": 210,
+    "UniqueID": 210,
+    "Label": "210",
+    "TextureResName": "FtrCmnFabricEthnic00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Red",
+    "Color2": "Yellow",
+    "SortID": 211,
+    "UniqueID": 211,
+    "Label": "211",
+    "TextureResName": "FtrCmnFabricEthnic01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Orange",
+    "Color2": "Yellow",
+    "SortID": 212,
+    "UniqueID": 212,
+    "Label": "212",
+    "TextureResName": "FtrCmnFabricRetrofloral00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Green",
+    "Color2": "Yellow",
+    "SortID": 213,
+    "UniqueID": 213,
+    "Label": "213",
+    "TextureResName": "FtrCmnFabricRetrofloral01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Beige",
+    "Color2": "Brown",
+    "SortID": 214,
+    "UniqueID": 214,
+    "Label": "214",
+    "TextureResName": "FtrCmnFabricAbstractGradation00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Green",
+    "Color2": "Blue",
+    "SortID": 215,
+    "UniqueID": 215,
+    "Label": "215",
+    "TextureResName": "FtrCmnFabricAbstractGradation01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Pink",
+    "Color2": "Pink",
+    "SortID": 216,
+    "UniqueID": 216,
+    "Label": "216",
+    "TextureResName": "FtrCmnFabricClef00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Black",
+    "Color2": "Brown",
+    "SortID": 217,
+    "UniqueID": 217,
+    "Label": "217",
+    "TextureResName": "FtrCmnFabricClef01"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "Beige",
+    "Color2": "Brown",
+    "SortID": 218,
+    "UniqueID": 218,
+    "Label": "218",
+    "TextureResName": "FtrCmnFabricNewspaper00"
+  },
+  {
+    "Category": "Omnibus",
+    "Color1": "White",
+    "Color2": "Gray",
+    "SortID": 219,
+    "UniqueID": 219,
+    "Label": "219",
+    "TextureResName": "FtrCmnFabricNewspaper01"
   }
 ]

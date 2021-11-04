@@ -1,0 +1,557 @@
+[
+  {
+    "deb48242 u16": 0,
+    "ItemID": 13200,
+    "UniqueID": 1
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4372,
+    "UniqueID": 2
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10704,
+    "UniqueID": 3
+  },
+  {
+    "deb48242 u16": 3,
+    "ItemID": 14459,
+    "UniqueID": 4
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 13915,
+    "UniqueID": 5
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3310,
+    "UniqueID": 6
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 2403,
+    "UniqueID": 7
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3708,
+    "UniqueID": 8
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9727,
+    "UniqueID": 9
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4150,
+    "UniqueID": 10
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4370,
+    "UniqueID": 11
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8846,
+    "UniqueID": 12
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8703,
+    "UniqueID": 13
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11430,
+    "UniqueID": 14
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8904,
+    "UniqueID": 15
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8754,
+    "UniqueID": 16
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10038,
+    "UniqueID": 17
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10034,
+    "UniqueID": 18
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9657,
+    "UniqueID": 19
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3095,
+    "UniqueID": 20
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9779,
+    "UniqueID": 21
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9086,
+    "UniqueID": 22
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 6902,
+    "UniqueID": 23
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8931,
+    "UniqueID": 24
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9901,
+    "UniqueID": 25
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 6044,
+    "UniqueID": 26
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5196,
+    "UniqueID": 27
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9968,
+    "UniqueID": 28
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5475,
+    "UniqueID": 29
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10722,
+    "UniqueID": 30
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10082,
+    "UniqueID": 31
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10070,
+    "UniqueID": 32
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10078,
+    "UniqueID": 33
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5617,
+    "UniqueID": 34
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4730,
+    "UniqueID": 35
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 14765,
+    "UniqueID": 36
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4724,
+    "UniqueID": 37
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 2593,
+    "UniqueID": 38
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5476,
+    "UniqueID": 39
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9715,
+    "UniqueID": 40
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9013,
+    "UniqueID": 41
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4548,
+    "UniqueID": 42
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4257,
+    "UniqueID": 43
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11440,
+    "UniqueID": 44
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8907,
+    "UniqueID": 45
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 13920,
+    "UniqueID": 46
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10875,
+    "UniqueID": 47
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 6881,
+    "UniqueID": 48
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 14287,
+    "UniqueID": 49
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10943,
+    "UniqueID": 50
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5256,
+    "UniqueID": 51
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5129,
+    "UniqueID": 52
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11043,
+    "UniqueID": 53
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10887,
+    "UniqueID": 54
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5143,
+    "UniqueID": 55
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10874,
+    "UniqueID": 56
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 154,
+    "UniqueID": 57
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11899,
+    "UniqueID": 58
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5323,
+    "UniqueID": 59
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5279,
+    "UniqueID": 60
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5330,
+    "UniqueID": 61
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3096,
+    "UniqueID": 62
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5806,
+    "UniqueID": 63
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9993,
+    "UniqueID": 64
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9913,
+    "UniqueID": 65
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 9782,
+    "UniqueID": 66
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 8937,
+    "UniqueID": 67
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11185,
+    "UniqueID": 68
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11066,
+    "UniqueID": 69
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4238,
+    "UniqueID": 70
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4459,
+    "UniqueID": 71
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4597,
+    "UniqueID": 72
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11211,
+    "UniqueID": 73
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4669,
+    "UniqueID": 74
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11189,
+    "UniqueID": 75
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11005,
+    "UniqueID": 76
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11494,
+    "UniqueID": 77
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4682,
+    "UniqueID": 79
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4677,
+    "UniqueID": 80
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 4676,
+    "UniqueID": 81
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3550,
+    "UniqueID": 82
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11024,
+    "UniqueID": 83
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 3549,
+    "UniqueID": 84
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 13018,
+    "UniqueID": 85
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10976,
+    "UniqueID": 86
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5606,
+    "UniqueID": 87
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10962,
+    "UniqueID": 88
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10098,
+    "UniqueID": 89
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 10135,
+    "UniqueID": 90
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 5803,
+    "UniqueID": 91
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 6839,
+    "UniqueID": 92
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 12877,
+    "UniqueID": 93
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 12015,
+    "UniqueID": 94
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7501,
+    "UniqueID": 95
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7508,
+    "UniqueID": 96
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7497,
+    "UniqueID": 97
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 12014,
+    "UniqueID": 98
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 11978,
+    "UniqueID": 99
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7482,
+    "UniqueID": 100
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 12009,
+    "UniqueID": 101
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7483,
+    "UniqueID": 102
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 7488,
+    "UniqueID": 103
+  },
+  {
+    "deb48242 u16": 1,
+    "ItemID": 14819,
+    "UniqueID": 104
+  },
+  {
+    "deb48242 u16": 1,
+    "ItemID": 14818,
+    "UniqueID": 105
+  },
+  {
+    "deb48242 u16": 2,
+    "ItemID": 14456,
+    "UniqueID": 106
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 14463,
+    "UniqueID": 107
+  },
+  {
+    "deb48242 u16": 4,
+    "ItemID": 14457,
+    "UniqueID": 108
+  },
+  {
+    "deb48242 u16": 5,
+    "ItemID": 14458,
+    "UniqueID": 109
+  },
+  {
+    "deb48242 u16": 3,
+    "ItemID": 14833,
+    "UniqueID": 111
+  },
+  {
+    "deb48242 u16": 2,
+    "ItemID": 14834,
+    "UniqueID": 112
+  },
+  {
+    "deb48242 u16": 0,
+    "ItemID": 278,
+    "UniqueID": 116
+  }
+]

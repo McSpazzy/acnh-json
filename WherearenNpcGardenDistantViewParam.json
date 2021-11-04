@@ -1,0 +1,26 @@
+[
+  {
+    "UniqueID": 0,
+    "ResName": ""
+  },
+  {
+    "UniqueID": 1,
+    "ResName": "FldDistantView00"
+  },
+  {
+    "UniqueID": 2,
+    "ResName": "FldDistantView01"
+  },
+  {
+    "UniqueID": 3,
+    "ResName": "FldDistantView02"
+  },
+  {
+    "UniqueID": 5,
+    "ResName": "FldDistantViewIce00"
+  },
+  {
+    "UniqueID": 6,
+    "ResName": "FldDistantViewRock00"
+  }
+]

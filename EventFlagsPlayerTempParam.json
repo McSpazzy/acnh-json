@@ -82,6 +82,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 8,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CustomerTalkReserve_Garden",
+    "Name": "OneRoom|顧客強制会話予約（庭）"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 9,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
@@ -98,6 +108,16 @@
     "FlagsFlowAccess": 2,
     "Key": "SickQuestGossip",
     "Name": "病気クエストうわさフラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 11,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CustomerTalkReserve_House",
+    "Name": "OneRoom|顧客強制会話予約（家）"
   },
   {
     "DefaultValue": 0,
@@ -168,6 +188,16 @@
     "FlagsFlowAccess": 2,
     "Key": "FtrChestCheck",
     "Name": "タンス｜このシーンでチェックした？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 19,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_OtgTalkReserve_Office",
+    "Name": "OneRoom|タクミ強制会話予約（事務所）"
   },
   {
     "DefaultValue": 0,
@@ -271,6 +301,16 @@
   },
   {
     "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 30,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MncTalkReserve_Garden",
+    "Name": "OneRoom|ニコ強制会話予約（庭）"
+  },
+  {
+    "DefaultValue": 0,
     "MaxValue": 65535,
     "UniqueID": 31,
     "3dad9135 u8": 0,
@@ -358,6 +398,16 @@
     "FlagsFlowAccess": 2,
     "Key": "GotRecipeorMaterial",
     "Name": "DIY会話|レシピか素材をもらった直後である"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 40,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_PostEditEventDone",
+    "Name": "OneRoom|エディット後イベントが行われた"
   },
   {
     "DefaultValue": 0,
@@ -478,6 +528,16 @@
     "FlagsFlowAccess": 2,
     "Key": "RcoOfficeFirstTalkNow",
     "Name": "たぬきち|このシーンで案内所建物初会話をした"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 53,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_OtgTalkReserve_Facility",
+    "Name": "OneRoom|タクミ強制会話予約（施設）"
   },
   {
     "DefaultValue": 0,
@@ -762,6 +822,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 84,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MncTalkReserve_Bridge",
+    "Name": "OneRoom|ニコ強制会話予約（桟橋）"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 85,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -852,6 +922,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 95,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_DocMainEreaFirstTalkDone",
+    "Name": "OneRoom|ロドリー|メインエリア到着強制会話済"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 96,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -868,6 +948,16 @@
     "FlagsFlowAccess": 2,
     "Key": "DocMayDayTourFirstTalkDone",
     "Name": "ロドリー|メーデーツアー到着強制会話済"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 98,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MncCheck_Bridge",
+    "Name": "OneRoom|ニコ桟橋領域監視"
   },
   {
     "DefaultValue": 0,
@@ -892,6 +982,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 101,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CameraDemoReserve",
+    "Name": "OneRoom|納品カメラデモ予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 102,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
@@ -905,7 +1005,7 @@
     "UniqueID": 103,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 0,
-    "FlagsFlowAccess": 0,
+    "FlagsFlowAccess": 1,
     "Key": "InJuneBrideStudio",
     "Name": "ジューンブライド|ジューンブライド専用ステージ内か？"
   },
@@ -922,6 +1022,16 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 105,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ResortPlannerFromSmartphone",
+    "Name": "OneRoom|スマホアプリからリゾートプランナーを起動したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 106,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
@@ -932,12 +1042,32 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 107,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "SincerityTowel",
+    "Name": "まごころぞうきん、装備中"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 108,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
     "FlagsFlowAccess": 2,
     "Key": "AirportTripListError",
     "Name": "飛行場|おでかけ先リスト画面での通信エラー発生"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 109,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_GetDrink",
+    "Name": "OneRoom|ドリンクを貰った"
   },
   {
     "DefaultValue": 0,
@@ -968,6 +1098,16 @@
     "FlagsFlowAccess": 0,
     "Key": "ShopPlayerInNextGoto",
     "Name": "ショップ|NextGotoを踏んだか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 113,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ResortPlanner_InspectHouse",
+    "Name": "OneRoom|リゾートプランナーからNPC家を視察"
   },
   {
     "DefaultValue": 0,
@@ -1092,11 +1232,581 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 126,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CameraDemoSkip",
+    "Name": "OneRoom|納品カメラデモスキップ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 127,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MncTalkReserve_House",
+    "Name": "OneRoom|ニコ強制会話予約（家）"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 130,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CallSNPCAmiibo",
+    "Name": "OneRoom|amiiboの新築営業でSNPCを呼んだ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 131,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_DoctorEventStart",
+    "Name": "OneRoom|医者イベント開始したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 132,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_LessonEventStart",
+    "Name": "OneRoom|授業イベント開始したか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 134,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_CookTalkedNow",
+    "Name": "OneRoom|料理長と初会話した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 136,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ChocolateDemoReserve",
+    "Name": "OneRoom|チョコレート勧誘デモ予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 137,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_EnterSceneByResortStudyApp",
+    "Name": "OneRoom|リゾートスタディーアプリからのシーン遷移かどうか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 138,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ReceptionFlag",
+    "Name": "OneRoom|病院の受付フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 139,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_OtgTalkReserve_FrontFacility",
+    "Name": "OneRoom|施設前(メインエリア)タクミへの強制会話予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 141,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_IsSequenceFirstKKFes",
+    "Name": "OneRoom|初回けけフェスシーケンス中か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 142,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHREAREN_IsFacilityEndDemoTakePicture",
+    "Name": "OneRoom|施設完成デモ撮影シーケンス中か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 143,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_PartyPlace",
+    "Name": "Oneroom|打ち上げデモ会場フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 144,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHREAREN_IsFacilityEndDemoCeremony",
+    "Name": "OneRoom|施設完成デモセレモニー中か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 145,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHREAREN_ResrotPlanner_IsSignIn",
+    "Name": "OneRoom|リゾプラ起動後一度でもサインインに成功したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 146,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CafeTalkSitdown",
+    "Name": "喫茶ハトの巣|座り会話制御用"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 147,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "WHREAREN_TakeOrderAfter",
+    "Name": "OneRoom|受注チュートリアルデモ直後か"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 148,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_IsPartyPlaceInFacility",
+    "Name": "OneRoom|カフェ・レストランで打ち上げパーティをするか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 149,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "PgeCoolFlag",
+    "Name": "マスター|冷ました？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 150,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "PgeAddMilkFlag",
+    "Name": "マスター|ミルク入れた？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 151,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "PgeMultiFlag",
+    "Name": "マスター|複数人で同時に飲んだ？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 152,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHREAREN_ResrotPlanner_GetPickUp",
+    "Name": "OneRoom|リゾプラ起動後一度でもピックアップとタイムラインを取得したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 153,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SpnCheckPlace",
+    "Name": "パニエルの配置位置を保存"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 154,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_SloTalkedNow",
+    "Name": "OneRoom｜島でレイジと会話した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 155,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ChmTalkedNow",
+    "Name": "OneRoom｜島でカメヤマさんと会話した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 157,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "PooCheckPlace",
+    "Name": "カットリーヌの配置位置を保存"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 158,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "KppTalkSceneFlag",
+    "Name": "かっぺい|このシーンで会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 159,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_OperationFlag",
+    "Name": "OneRoom｜施術フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 160,
     "3dad9135 u8": 0,
     "3c7fb88f u8": 1,
     "FlagsFlowAccess": 2,
     "Key": "TalkSpotSPNowAnyone",
     "Name": "今、誰かにSpotSPを聞いたか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 12,
+    "UniqueID": 162,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 1,
+    "Key": "CafeSitdownSeatIndex",
+    "Name": "喫茶ハトの巣|プレイヤーが座ってる座席番号"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 163,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MncTalkReserve_AfterCompleteDemo",
+    "Name": "OneRoom|NPC別荘の完成デモ後の会話予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 164,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RadioGymnasticsLastLeaderSpNpc",
+    "Name": "前回のラジオ体操でリーダーに選ばれたNPC"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 165,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CafeInvitingTwins",
+    "Name": "ハトの巣|まめつぶセットで呼んだ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 166,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CefeInvitingTakumiStuff",
+    "Name": "ハトの巣|タクミ・ニコ・ナッティーセットを呼んだ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 167,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ManTalkReserve_Inspect",
+    "Name": "OneRoom|ナッティー強制会話予約（視察）"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 168,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "PhotoStudioDoorClose",
+    "Name": "撮影スタジオの入場不可か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 169,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ResortPlannerFromMyPage",
+    "Name": "OneRoom|マイページからの視察か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 170,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "ShopCheckCeilingFtrNonLicense",
+    "Name": "お店｜もようがえPROライセンスなしに天井家具をチェックした"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 171,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "GstTalkHoleChat",
+    "Name": "ゆうたろう|穴ぼこ会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 172,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ClearVirtualRoom",
+    "Name": "リゾスタ：部屋クリア処理フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 173,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_MainIslandLandingDemo",
+    "Name": "OneRoom|メイン島着陸デモか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 174,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ResortPlanner_IsFollowUpdated",
+    "Name": "OneRoom|フォローリストに更新はあるか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 175,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_SeaTalkedNow",
+    "Name": "OneRoom|海NPCと会話した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 176,
+    "3dad9135 u8": 1,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CafeNpcTakeoutPrepare",
+    "Name": "ハトの巣|NPCのテイクアウトコーヒー準備中か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 177,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CommuneTalkSitDown",
+    "Name": "コミューン島|座り会話制御用"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 5,
+    "UniqueID": 178,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlGetPosterCount",
+    "Name": "フータ/博物館ポスター|このシーケンスでもらうポスターの数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 179,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "PooStylingThisScene",
+    "Name": "カットリーヌ｜施術した直後（髪型が施術後のまま）か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 181,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "XctDoneAmiiboConv",
+    "Name": "メーデー｜amiibo会話終えたか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 5,
+    "UniqueID": 182,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "OwlSellPosterCount",
+    "Name": "フータ/博物館ポスター|購入が解禁されているポスターの数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 183,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_NeedSaveAfterUserRegist",
+    "Name": "OneRoom|UserRegistの後にAutoSaveが必要か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 184,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "XctBanAmiiboConv",
+    "Name": "メーデー｜amiibo会話終えた直後か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 185,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_ResortPlannerFromNPC",
+    "Name": "OneRoom|NPCとの会話からリゾートプランナーを起動したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 186,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "DocSpnExpandEventAfterJuneBride",
+    "Name": "ロドリー｜ジューンブライド初回Ev後にコミューン拡張Evが発生してるとき会話したか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 187,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_TeacherTalkedNow",
+    "Name": "OneRoom｜先生と初会話した"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 188,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_TeacherFlag",
+    "Name": "OneRoom｜学校の先生フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 189,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_PartyEndFlag",
+    "Name": "OneRoom｜打ち上げデモ終了判定フラグ"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 191,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_NeedsInspectReply",
+    "Name": "OneRoom｜見学後に評価の送信が必要か？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 192,
+    "3dad9135 u8": 0,
+    "3c7fb88f u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MysteryTourNotInviteFlag",
+    "Name": "ミステリーツアー|勧誘会話をキャンセルした？"
   }
 ]

@@ -198,5 +198,15 @@
     "550508 u8": 0,
     "Label": "G_Beard",
     "Name": "メガネ・ひげメガネ"
+  },
+  {
+    "UniqueID": 57,
+    "b3da5c52 u8": 0,
+    "8e07b21e u8": 0,
+    "RadiusBOutdoor": 0,
+    "413012f7 u8": 0,
+    "550508 u8": 0,
+    "Label": "G_LeftBig",
+    "Name": "メガネ・片目(大)"
   }
 ]

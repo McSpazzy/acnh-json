@@ -654,9 +654,447 @@
     "Name": "ベルリーナのダンスデモ：0_BGM再開"
   },
   {
+    "PropertyID": 36,
+    "UniqueID": 122,
+    "Value": 1,
+    "Name": "ラジオ体操：1_再生"
+  },
+  {
+    "PropertyID": 36,
+    "UniqueID": 124,
+    "Value": 0,
+    "Name": "ラジオ体操：0_再生しない"
+  },
+  {
     "PropertyID": 12,
     "UniqueID": 125,
     "Value": 3,
     "Name": "ハチ刺され：3_土管に逃亡"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 126,
+    "Value": 1,
+    "Name": "商談デモ：1_開始準備"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 127,
+    "Value": 0,
+    "Name": "商談デモ：0_終了"
+  },
+  {
+    "PropertyID": 38,
+    "UniqueID": 128,
+    "Value": 1,
+    "Name": "舟歌デモ：1_往路Aパート開始"
+  },
+  {
+    "PropertyID": 38,
+    "UniqueID": 129,
+    "Value": 3,
+    "Name": "舟歌デモ：3_往路Bパート開始"
+  },
+  {
+    "PropertyID": 38,
+    "UniqueID": 130,
+    "Value": 0,
+    "Name": "舟歌デモ：0_舟歌終了"
+  },
+  {
+    "PropertyID": 41,
+    "UniqueID": 131,
+    "Value": 1,
+    "Name": "占いデモ：1_再生前待機"
+  },
+  {
+    "PropertyID": 41,
+    "UniqueID": 132,
+    "Value": 2,
+    "Name": "占いデモ：2_再生"
+  },
+  {
+    "PropertyID": 41,
+    "UniqueID": 133,
+    "Value": 3,
+    "Name": "占いデモ：3_再生後待機"
+  },
+  {
+    "PropertyID": 41,
+    "UniqueID": 134,
+    "Value": 0,
+    "Name": "占いデモ：0_停止"
+  },
+  {
+    "PropertyID": 38,
+    "UniqueID": 135,
+    "Value": 5,
+    "Name": "舟歌デモ：5_復路Aパート開始"
+  },
+  {
+    "PropertyID": 38,
+    "UniqueID": 136,
+    "Value": 7,
+    "Name": "舟歌デモ：7_復路Bパート開始"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 137,
+    "Value": 2,
+    "Name": "商談デモ：2_商談中開始"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 138,
+    "Value": 3,
+    "Name": "商談デモ：3_商談中終了"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 139,
+    "Value": 4,
+    "Name": "商談デモ：4_商談成立開始"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 140,
+    "Value": 5,
+    "Name": "商談デモ：5_商談成立終了"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 141,
+    "Value": 6,
+    "Name": "商談デモ：6_初回用商談成立開始"
+  },
+  {
+    "PropertyID": 42,
+    "UniqueID": 142,
+    "Value": 0,
+    "Name": "DALファンファーレウェアラン用：0_再生しない"
+  },
+  {
+    "PropertyID": 42,
+    "UniqueID": 143,
+    "Value": 1,
+    "Name": "DALファンファーレウェアラン用：1_行き"
+  },
+  {
+    "PropertyID": 42,
+    "UniqueID": 144,
+    "Value": 2,
+    "Name": "DALファンファーレウェアラン用：2_帰り"
+  },
+  {
+    "PropertyID": 43,
+    "UniqueID": 145,
+    "Value": 0,
+    "Name": "OneRoomセレモニー：0_再生しない"
+  },
+  {
+    "PropertyID": 43,
+    "UniqueID": 146,
+    "Value": 1,
+    "Name": "OneRoomセレモニー：1_再生"
+  },
+  {
+    "PropertyID": 44,
+    "UniqueID": 147,
+    "Value": 0,
+    "Name": "施設エディット導入デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 44,
+    "UniqueID": 148,
+    "Value": 1,
+    "Name": "施設エディット導入デモ：1_再生"
+  },
+  {
+    "PropertyID": 45,
+    "UniqueID": 149,
+    "Value": 0,
+    "Name": "OneRoom完成デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 45,
+    "UniqueID": 150,
+    "Value": 1,
+    "Name": "OneRoom完成デモ：1_別荘用再生"
+  },
+  {
+    "PropertyID": 45,
+    "UniqueID": 151,
+    "Value": 2,
+    "Name": "OneRoom完成デモ：2_施設用再生"
+  },
+  {
+    "PropertyID": 45,
+    "UniqueID": 152,
+    "Value": 3,
+    "Name": "OneRoom完成デモ：3_施設用シーン遷移して再生"
+  },
+  {
+    "PropertyID": 46,
+    "UniqueID": 153,
+    "Value": 0,
+    "Name": "授業イベント：0_再生しない"
+  },
+  {
+    "PropertyID": 46,
+    "UniqueID": 154,
+    "Value": 1,
+    "Name": "授業イベント：1_再生"
+  },
+  {
+    "PropertyID": 47,
+    "UniqueID": 155,
+    "Value": 1,
+    "Name": "占いデモタイプ：1_占い"
+  },
+  {
+    "PropertyID": 47,
+    "UniqueID": 156,
+    "Value": 2,
+    "Name": "占いデモタイプ：2_お祈りお祓い"
+  },
+  {
+    "PropertyID": 48,
+    "UniqueID": 157,
+    "Value": 0,
+    "Name": "ハトの巣：0_コーヒーデモ終了"
+  },
+  {
+    "PropertyID": 48,
+    "UniqueID": 158,
+    "Value": 1,
+    "Name": "ハトの巣：1_コーヒーデモ開始"
+  },
+  {
+    "PropertyID": 49,
+    "UniqueID": 159,
+    "Value": 0,
+    "Name": "受注チュートリアルカメラデモ：0_再生"
+  },
+  {
+    "PropertyID": 49,
+    "UniqueID": 160,
+    "Value": 1,
+    "Name": "受注チュートリアルカメラデモ：1_再生待機"
+  },
+  {
+    "PropertyID": 50,
+    "UniqueID": 161,
+    "Value": 1,
+    "Name": "コミューン島：1_カットリーヌデモ開始"
+  },
+  {
+    "PropertyID": 50,
+    "UniqueID": 162,
+    "Value": 0,
+    "Name": "コミューン島：0_カットリーヌデモ停止"
+  },
+  {
+    "PropertyID": 51,
+    "UniqueID": 163,
+    "Value": 0,
+    "Name": "打ち上げデモ：0_再生しない"
+  },
+  {
+    "PropertyID": 51,
+    "UniqueID": 164,
+    "Value": 1,
+    "Name": "打ち上げデモ：1_再生準備"
+  },
+  {
+    "PropertyID": 52,
+    "UniqueID": 165,
+    "Value": 0,
+    "Name": "タクミの体調不良：0_再生しない"
+  },
+  {
+    "PropertyID": 52,
+    "UniqueID": 166,
+    "Value": 1,
+    "Name": "タクミの体調不良：1_再生準備"
+  },
+  {
+    "PropertyID": 53,
+    "UniqueID": 167,
+    "Value": 0,
+    "Name": "シェアハウス相談デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 53,
+    "UniqueID": 168,
+    "Value": 1,
+    "Name": "シェアハウス相談デモ：1_再生"
+  },
+  {
+    "PropertyID": 54,
+    "UniqueID": 169,
+    "Value": 0,
+    "Name": "タクミと飛行場で出会うデモ：0_再生しない"
+  },
+  {
+    "PropertyID": 54,
+    "UniqueID": 170,
+    "Value": 1,
+    "Name": "タクミと飛行場で出会うデモ：1_再生準備"
+  },
+  {
+    "PropertyID": 55,
+    "UniqueID": 171,
+    "Value": 0,
+    "Name": "環境音デモ：0_無音を解除"
+  },
+  {
+    "PropertyID": 55,
+    "UniqueID": 172,
+    "Value": 1,
+    "Name": "環境音デモ：1_無音"
+  },
+  {
+    "PropertyID": 55,
+    "UniqueID": 173,
+    "Value": 2,
+    "Name": "環境音デモ：2_BGM開始までのタイミング調整"
+  },
+  {
+    "PropertyID": 56,
+    "UniqueID": 174,
+    "Value": 0,
+    "Name": "ジューンブライド会話デモ前：0_フィールドBGM再生"
+  },
+  {
+    "PropertyID": 56,
+    "UniqueID": 175,
+    "Value": 1,
+    "Name": "ジューンブライド会話デモ前：1_フィールドBGM停止"
+  },
+  {
+    "PropertyID": 57,
+    "UniqueID": 176,
+    "Value": 0,
+    "Name": "リメイクデモ：0_リメイク終了"
+  },
+  {
+    "PropertyID": 57,
+    "UniqueID": 177,
+    "Value": 1,
+    "Name": "リメイクデモ：1_リメイク開始"
+  },
+  {
+    "PropertyID": 58,
+    "UniqueID": 178,
+    "Value": 0,
+    "Name": "ハトの巣amiibo呼び出しデモ：0_呼び出し完了"
+  },
+  {
+    "PropertyID": 58,
+    "UniqueID": 179,
+    "Value": 1,
+    "Name": "ハトの巣amiibo呼び出しデモ：1_呼び出し中"
+  },
+  {
+    "PropertyID": 60,
+    "UniqueID": 180,
+    "Value": 0,
+    "Name": "写真撮影の冒頭会話デモ：0_会話終了"
+  },
+  {
+    "PropertyID": 60,
+    "UniqueID": 181,
+    "Value": 1,
+    "Name": "写真撮影の冒頭会話デモ：1_会話中"
+  },
+  {
+    "PropertyID": 37,
+    "UniqueID": 182,
+    "Value": 7,
+    "Name": "商談デモ：7_シェアハウス"
+  },
+  {
+    "PropertyID": 61,
+    "UniqueID": 183,
+    "Value": 0,
+    "Name": "施設エディット完成前：0_遷移なし"
+  },
+  {
+    "PropertyID": 61,
+    "UniqueID": 184,
+    "Value": 1,
+    "Name": "施設エディット完成前：1_遷移あり"
+  },
+  {
+    "PropertyID": 54,
+    "UniqueID": 185,
+    "Value": 2,
+    "Name": "タクミと飛行場で出会うデモ：2_再生"
+  },
+  {
+    "PropertyID": 51,
+    "UniqueID": 186,
+    "Value": 2,
+    "Name": "打ち上げデモ：2_再生"
+  },
+  {
+    "PropertyID": 62,
+    "UniqueID": 187,
+    "Value": 0,
+    "Name": "来客デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 62,
+    "UniqueID": 188,
+    "Value": 1,
+    "Name": "来客デモ：1_再生準備"
+  },
+  {
+    "PropertyID": 62,
+    "UniqueID": 189,
+    "Value": 2,
+    "Name": "来客デモ：2_再生"
+  },
+  {
+    "PropertyID": 63,
+    "UniqueID": 190,
+    "Value": 0,
+    "Name": "来客入店デモ：0_再生しない"
+  },
+  {
+    "PropertyID": 63,
+    "UniqueID": 191,
+    "Value": 1,
+    "Name": "来客入店デモ：1_再生準備"
+  },
+  {
+    "PropertyID": 63,
+    "UniqueID": 192,
+    "Value": 2,
+    "Name": "来客入店デモ：2_再生"
+  },
+  {
+    "PropertyID": 52,
+    "UniqueID": 193,
+    "Value": 2,
+    "Name": "タクミの体調不良：2_再生"
+  },
+  {
+    "PropertyID": 64,
+    "UniqueID": 194,
+    "Value": 0,
+    "Name": "シェアハウス解散：0_再生しない"
+  },
+  {
+    "PropertyID": 64,
+    "UniqueID": 195,
+    "Value": 1,
+    "Name": "シェアハウス解散：1_屋外解散時用のウェイト"
+  },
+  {
+    "PropertyID": 64,
+    "UniqueID": 196,
+    "Value": 2,
+    "Name": "シェアハウス解散：2_再生"
   }
 ]

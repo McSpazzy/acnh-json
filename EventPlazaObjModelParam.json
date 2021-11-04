@@ -194,6 +194,18 @@
   {
     "DemoDistance": 15.0,
     "a9c1118b.HashRef": "Wind",
+    "RoofMaterial": 5,
+    "UniqueID": 21,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjRazyStallVgt",
+    "e2760d00 u8": 0,
+    "UseCollision": 1
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "Wind",
     "RoofMaterial": 0,
     "UniqueID": 22,
     "FlowEntryName": "",
@@ -285,6 +297,18 @@
     "NearCulling": 0,
     "ResourceName": "EvtobjCarnivalGarland",
     "e2760d00 u8": 1,
+    "UseCollision": 0
+  },
+  {
+    "DemoDistance": 15.0,
+    "a9c1118b.HashRef": "RadioGymnastics",
+    "RoofMaterial": 0,
+    "UniqueID": 30,
+    "FlowEntryName": "",
+    "FlowFileName": "",
+    "NearCulling": 0,
+    "ResourceName": "EvtobjRadioPosition",
+    "e2760d00 u8": 0,
     "UseCollision": 0
   }
 ]

@@ -704,6 +704,22 @@
     "StaticField": 0
   },
   {
+    "FactoryType": "WherearenMainIsland",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "WherearenMainIsland",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenNpcGarden",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "WherearenNpcGarden",
+    "StaticField": 0
+  },
+  {
     "FactoryType": "Default",
     "PhotoStudioRoomNo": "Room0",
     "RoomType": "Invalid",
@@ -720,6 +736,22 @@
     "StaticField": 0
   },
   {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenNpcHouse0_0",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenNpcHouse0_1",
+    "StaticField": 0
+  },
+  {
     "FactoryType": "Default",
     "PhotoStudioRoomNo": "Room0",
     "RoomType": "Invalid",
@@ -732,7 +764,159 @@
     "PhotoStudioRoomNo": "Room0",
     "RoomType": "Invalid",
     "ItemLayer": 3,
+    "StageName": "WherearenOffice",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenVirtualRoom",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "Default",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
     "StageName": "IdrDream",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenCafe",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenHospital",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenHospital_1",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenHospital_2",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenRestaurant",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenRestaurant_1",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenSchool",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenTailor",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenMainIsland",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "WherearenGrowUp",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "Default",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "WherearenOffice_1",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "Default",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 63,
+    "StageName": "IdrMuseumCafe",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenCafe_1",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "WherearenRoom",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 255,
+    "StageName": "WherearenRestaurant_2",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "SeaDemo",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 0,
+    "StageName": "SeaDemoToKappeiIsland",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "SeaDemo",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 0,
+    "StageName": "SeaDemoToMainField",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "MysteryTourIsland",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "KappeiIsland",
+    "StaticField": 0
+  },
+  {
+    "FactoryType": "Default",
+    "PhotoStudioRoomNo": "Room0",
+    "RoomType": "Invalid",
+    "ItemLayer": 3,
+    "StageName": "IdrMuseumEnt03",
     "StaticField": 0
   }
 ]

@@ -268,5 +268,68 @@
     "StructureInfoType": "Facility",
     "Door0": 0,
     "UniqueID": 29
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 37,
+    "UniqueID": 32
+  },
+  {
+    "HousePartsType": "Npc",
+    "ModelType": "House",
+    "fec3548b.HashRef": "WherearenNpcGarden",
+    "StructureInfoHouseType": "WherearenNpc",
+    "StructureInfoType": "House",
+    "Door0": 38,
+    "UniqueID": 33
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 42,
+    "UniqueID": 37
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 43,
+    "UniqueID": 38
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 44,
+    "UniqueID": 39
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 45,
+    "UniqueID": 40
+  },
+  {
+    "HousePartsType": "Player",
+    "ModelType": "WherearenFacility",
+    "fec3548b.HashRef": "WherearenMainIsland",
+    "StructureInfoHouseType": "Player",
+    "StructureInfoType": "Facility",
+    "Door0": 46,
+    "UniqueID": 41
   }
 ]

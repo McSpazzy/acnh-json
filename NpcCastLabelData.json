@@ -199,6 +199,12 @@
   },
   {
     "AIFlowEntryName": "",
+    "AIFlowName": "AI_NPC_Outdoor/AI_NPC_MuseumCafeCustomer",
+    "AppearStage": 0,
+    "CastType": 0
+  },
+  {
+    "AIFlowEntryName": "",
     "AIFlowName": "AI_NPC_Outdoor/AI_NPC_Indoor",
     "AppearStage": 0,
     "CastType": 0

@@ -199,9 +199,27 @@
   },
   {
     "AITagCategory": "Purpose",
+    "UniqueID": 142,
+    "Label": "Doctor",
+    "Name": "医者"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 143,
+    "Label": "Nurse",
+    "Name": "受付"
+  },
+  {
+    "AITagCategory": "Purpose",
     "UniqueID": 144,
     "Label": "Halloween",
     "Name": "ハロウィン"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 145,
+    "Label": "Student",
+    "Name": "生徒"
   },
   {
     "AITagCategory": "Purpose",
@@ -223,8 +241,68 @@
   },
   {
     "AITagCategory": "Purpose",
+    "UniqueID": 149,
+    "Label": "Chef",
+    "Name": "調理師"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 150,
+    "Label": "Restaurant",
+    "Name": "レストラン店員"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 151,
+    "Label": "Cafe",
+    "Name": "カフェ店員"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 152,
+    "Label": "Boutique",
+    "Name": "服屋店員"
+  },
+  {
+    "AITagCategory": "Purpose",
     "UniqueID": 153,
     "Label": "Carnival",
     "Name": "カーニバル"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 154,
+    "Label": "Patient",
+    "Name": "患者"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 155,
+    "Label": "Float",
+    "Name": "海"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 156,
+    "Label": "Fes",
+    "Name": "けけフェス"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 157,
+    "Label": "Fes_First",
+    "Name": "けけフェス_初回"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 158,
+    "Label": "Hula",
+    "Name": "フラダンス"
+  },
+  {
+    "AITagCategory": "Purpose",
+    "UniqueID": 159,
+    "Label": "Teacher",
+    "Name": "先生"
   }
 ]

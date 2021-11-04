@@ -12,6 +12,18 @@
     "ResName": "LeafDesign"
   },
   {
+    "UniqueID": 772,
+    "Label": "Dishes",
+    "Name": "料理：食べ物",
+    "ResName": "Dishes"
+  },
+  {
+    "UniqueID": 773,
+    "Label": "Drink",
+    "Name": "料理：飲み物",
+    "ResName": "Drink"
+  },
+  {
     "UniqueID": 185,
     "Label": "Wall",
     "Name": "壁紙",
@@ -28,6 +40,12 @@
     "Label": "Carpet",
     "Name": "ラグ",
     "ResName": "Carpet"
+  },
+  {
+    "UniqueID": 781,
+    "Label": "WallHighSeries",
+    "Name": "カベタスシリーズ",
+    "ResName": "WallHighSeries"
   },
   {
     "UniqueID": 190,
@@ -94,6 +112,12 @@
     "Label": "Umbrella",
     "Name": "装備品：かさ",
     "ResName": "Umbrella"
+  },
+  {
+    "UniqueID": 771,
+    "Label": "HandBag",
+    "Name": "手持ちカバン",
+    "ResName": "HandBag"
   },
   {
     "UniqueID": 201,
@@ -226,6 +250,12 @@
     "Label": "Helmet",
     "Name": "たぬき開発ヘルメット",
     "ResName": "Helmet"
+  },
+  {
+    "UniqueID": 725,
+    "Label": "FixedLadder",
+    "Name": "設置ハシゴ",
+    "ResName": "FixedLadder"
   },
   {
     "UniqueID": 557,
@@ -384,10 +414,88 @@
     "ResName": "Chitoseame"
   },
   {
+    "UniqueID": 364,
+    "Label": "Coffee",
+    "Name": "テイクアウトコーヒー",
+    "ResName": "Coffee"
+  },
+  {
+    "UniqueID": 756,
+    "Label": "Dumbbell",
+    "Name": "ダンベル",
+    "ResName": "Dumbbell"
+  },
+  {
+    "UniqueID": 757,
+    "Label": "Protein",
+    "Name": "プロテイン",
+    "ResName": "Protein"
+  },
+  {
     "UniqueID": 758,
     "Label": "Lantern",
     "Name": "てもちランタン",
     "ResName": "Lantern"
+  },
+  {
+    "UniqueID": 759,
+    "Label": "Sensu",
+    "Name": "せんす",
+    "ResName": "Sensu"
+  },
+  {
+    "UniqueID": 369,
+    "Label": "IceCream",
+    "Name": "アイスクリーム",
+    "ResName": "IceCream"
+  },
+  {
+    "UniqueID": 368,
+    "Label": "SoftCream",
+    "Name": "ソフトクリーム",
+    "ResName": "SoftCream"
+  },
+  {
+    "UniqueID": 762,
+    "Label": "CannedDrink",
+    "Name": "かんいんりょう",
+    "ResName": "CannedDrink"
+  },
+  {
+    "UniqueID": 763,
+    "Label": "BookPlayer",
+    "Name": "ほん",
+    "ResName": "BookPlayer"
+  },
+  {
+    "UniqueID": 764,
+    "Label": "Magazine",
+    "Name": "ざっし",
+    "ResName": "Magazine"
+  },
+  {
+    "UniqueID": 765,
+    "Label": "Donut",
+    "Name": "ドーナツ",
+    "ResName": "Donut"
+  },
+  {
+    "UniqueID": 767,
+    "Label": "Duster",
+    "Name": "はたき",
+    "ResName": "Duster"
+  },
+  {
+    "UniqueID": 768,
+    "Label": "Branch",
+    "Name": "ほどよいえだ",
+    "ResName": "Branch"
+  },
+  {
+    "UniqueID": 769,
+    "Label": "Foxtail",
+    "Name": "ねこじゃらし",
+    "ResName": "Foxtail"
   },
   {
     "UniqueID": 188,
@@ -408,10 +516,22 @@
     "ResName": "FossilJ"
   },
   {
+    "UniqueID": 187,
+    "Label": "Haniwa",
+    "Name": "はにわ",
+    "ResName": "Haniwa"
+  },
+  {
     "UniqueID": 213,
     "Label": "SeedPitfall",
     "Name": "おとしあなのタネ",
     "ResName": "SeedPitfall"
+  },
+  {
+    "UniqueID": 779,
+    "Label": "HaniwaPiece",
+    "Name": "はにわのかけら",
+    "ResName": "HaniwaPiece"
   },
   {
     "UniqueID": 605,
@@ -430,6 +550,12 @@
     "Label": "SmartphoneCaseComp",
     "Name": "ポケットキャンプスマホ",
     "ResName": "SmartphoneCaseComp"
+  },
+  {
+    "UniqueID": 776,
+    "Label": "SmartphoneCaseOtg",
+    "Name": "タクミライフのスマホケース",
+    "ResName": "SmartphoneCaseOtg"
   },
   {
     "UniqueID": 214,
@@ -702,6 +828,12 @@
     "ResName": "OtoshidamaOpenKr"
   },
   {
+    "UniqueID": 739,
+    "Label": "OtoshidamaOpenJp",
+    "Name": "おとしだま：包む前",
+    "ResName": "OtoshidamaOpenJp"
+  },
+  {
     "UniqueID": 740,
     "Label": "OtoshidamaSealCh",
     "Name": "しゅんせつのおとしだま：包んだ後",
@@ -712,6 +844,18 @@
     "Label": "OtoshidamaSealKr",
     "Name": "ソルラルのおとしだま：包んだ後",
     "ResName": "OtoshidamaSealKr"
+  },
+  {
+    "UniqueID": 742,
+    "Label": "OtoshidamaSealJp",
+    "Name": "おとしだま：包んだ後",
+    "ResName": "OtoshidamaSealJp"
+  },
+  {
+    "UniqueID": 778,
+    "Label": "OneroomCardboard",
+    "Name": "ダンボール（タクミライフ）",
+    "ResName": "OneroomCardboard"
   },
   {
     "UniqueID": 359,
@@ -912,6 +1056,12 @@
     "ResName": "BdayCupcake"
   },
   {
+    "UniqueID": 777,
+    "Label": "SouvenirChocolate",
+    "Name": "お土産チョコレート",
+    "ResName": "SouvenirChocolate"
+  },
+  {
     "UniqueID": 602,
     "Label": "BottleRecipe",
     "Name": "メッセージボトル",
@@ -958,6 +1108,36 @@
     "Label": "MyDesignPro",
     "Name": "マイデザインPRO",
     "ResName": "MyDesignPro"
+  },
+  {
+    "UniqueID": 745,
+    "Label": "CameraAppPro",
+    "Name": "カメラアプリPRO",
+    "ResName": "CameraAppPro"
+  },
+  {
+    "UniqueID": 750,
+    "Label": "PaperCookingRecipe",
+    "Name": "クッキングレシピ",
+    "ResName": "PaperCookingRecipe"
+  },
+  {
+    "UniqueID": 751,
+    "Label": "DIYRecipePlus",
+    "Name": "DIYレシピ＋",
+    "ResName": "DIYRecipePlus"
+  },
+  {
+    "UniqueID": 752,
+    "Label": "LifeSupport",
+    "Name": "徹底ライフサポート",
+    "ResName": "LifeSupport"
+  },
+  {
+    "UniqueID": 753,
+    "Label": "BottleRecipeCooking",
+    "Name": "メッセージボトル：料理",
+    "ResName": "BottleRecipeCooking"
   },
   {
     "UniqueID": 604,
@@ -2442,6 +2622,18 @@
     "ResName": "DIYBambooSpring"
   },
   {
+    "UniqueID": 723,
+    "Label": "PltVine",
+    "Name": "ツル",
+    "ResName": "PltVine"
+  },
+  {
+    "UniqueID": 724,
+    "Label": "PltWeedLight",
+    "Name": "ヒカリゴケ",
+    "ResName": "PltWeedLight"
+  },
+  {
     "UniqueID": 550,
     "Label": "SeedPaperbag0",
     "Name": "あかい種袋",
@@ -3216,6 +3408,66 @@
     "ResName": "PltSquashWhite"
   },
   {
+    "UniqueID": 703,
+    "Label": "PltWheat",
+    "Name": "こむぎの木",
+    "ResName": "PltWheat"
+  },
+  {
+    "UniqueID": 705,
+    "Label": "PltSugarCane",
+    "Name": "さとうきびの木",
+    "ResName": "PltSugarCane"
+  },
+  {
+    "UniqueID": 707,
+    "Label": "PltPotato",
+    "Name": "じゃがいもの木",
+    "ResName": "PltPotato"
+  },
+  {
+    "UniqueID": 709,
+    "Label": "PltTomato",
+    "Name": "トマトの木",
+    "ResName": "PltTomato"
+  },
+  {
+    "UniqueID": 711,
+    "Label": "PltCarrot",
+    "Name": "にんじんの木",
+    "ResName": "PltCarrot"
+  },
+  {
+    "UniqueID": 712,
+    "Label": "Wheat",
+    "Name": "こむぎ",
+    "ResName": "Wheat"
+  },
+  {
+    "UniqueID": 713,
+    "Label": "SugarCane",
+    "Name": "さとうきび",
+    "ResName": "SugarCane"
+  },
+  {
+    "UniqueID": 714,
+    "Label": "Potato",
+    "Name": "じゃがいも",
+    "ResName": "Potato"
+  },
+  {
+    "UniqueID": 716,
+    "Label": "Tomato",
+    "Name": "トマト",
+    "ResName": "Tomato"
+  },
+  {
+    "UniqueID": 715,
+    "Label": "Carrot",
+    "Name": "にんじん",
+    "ResName": "Carrot"
+  },
+  {
     "UniqueID": 549,
     "Label": "Weed",
     "Name": "ざっそう",
@@ -3286,6 +3538,18 @@
     "Label": "PltHolly",
     "Name": "ヒイラギのかぶ",
     "ResName": "PltHolly"
+  },
+  {
+    "UniqueID": 726,
+    "Label": "PltBushPlumeriaPink",
+    "Name": "ピンクのプルメリアのかぶ",
+    "ResName": "PltBushPlumeriaPink"
+  },
+  {
+    "UniqueID": 780,
+    "Label": "PltBushPlumeriaWhite",
+    "Name": "しろいプルメリアのかぶ",
+    "ResName": "PltBushPlumeriaWhite"
   },
   {
     "UniqueID": 365,
@@ -3400,5 +3664,29 @@
     "Label": "FeatherRainbow",
     "Name": "にじいろのはね",
     "ResName": "FeatherRainbow"
+  },
+  {
+    "UniqueID": 273,
+    "Label": "Flour",
+    "Name": "小麦粉",
+    "ResName": "FlourWheat"
+  },
+  {
+    "UniqueID": 274,
+    "Label": "Sugar",
+    "Name": "砂糖",
+    "ResName": "FlourSugar"
+  },
+  {
+    "UniqueID": 774,
+    "Label": "FlourWheatwhole",
+    "Name": "全粒粉",
+    "ResName": "FlourWheatwhole"
+  },
+  {
+    "UniqueID": 775,
+    "Label": "FlourSugarbrown",
+    "Name": "黒糖",
+    "ResName": "FlourSugarbrown"
   }
 ]

@@ -692,7 +692,7 @@
     "DefaultValue": 0,
     "FlagsFlowAccess": 2,
     "Key": "HalloweenDIYGetItem",
-    "MaxValue": 2,
+    "MaxValue": 5,
     "Name": "DIYしている時の報酬アイテムは？"
   },
   {
@@ -1858,5 +1858,125 @@
     "Key": "EasterCannotGetNnpcIsRecipeFlag",
     "MaxValue": 1,
     "Name": "イースター|このNPCから受け取り損ねたのはレシピか"
+  },
+  {
+    "UniqueID": 160,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayReserveCoordinateHouseInterior",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜今日NPCの家の内装の提案をしたか？"
+  },
+  {
+    "UniqueID": 161,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayReserveCoordinateHouseExterior",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜今日NPCの家の外観の提案をしたか？"
+  },
+  {
+    "UniqueID": 162,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayCompleteCoordinateHouseInterior",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜今日NPCの家に提案した内装が反映されたか？"
+  },
+  {
+    "UniqueID": 163,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayCompleteCoordinateHouseExterior",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜今日NPCの家に提案した外観が反映されたか？"
+  },
+  {
+    "UniqueID": 164,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "InteriorCoordinator",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜現在の内装を提案した"
+  },
+  {
+    "UniqueID": 165,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ExteriorCoordinator",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜現在の外観を提案した"
+  },
+  {
+    "UniqueID": 166,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 1,
+    "bed25a86 u8": 1,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayHeardReactTalkAboutCoordinateHouse",
+    "MaxValue": 1,
+    "Name": "NPC家コーデ｜今日、コーディネート提案に関するリアクション会話聞いた"
+  },
+  {
+    "UniqueID": 167,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_VisitWherearenWithPlayer",
+    "MaxValue": 1,
+    "Name": "OneRoom|おみやげチョコレートを受け取ってウェアラン諸島に行ったことがあるか？"
+  },
+  {
+    "UniqueID": 168,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TalkProgressMuseumBuiltCafe",
+    "MaxValue": 1,
+    "Name": "博物館（カフェ）への拡張に関するFreeH_Progressを聞いたか？"
+  },
+  {
+    "UniqueID": 169,
+    "5f77b61a u8": 0,
+    "5140e4b4 u8": 0,
+    "bed25a86 u8": 0,
+    "8d401df7 u8": 0,
+    "DefaultValue": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WHEREAREN_GetChocolate",
+    "MaxValue": 1,
+    "Name": "OneRoom|おみやげチョコレートを受け取ったことがあるか？"
   }
 ]

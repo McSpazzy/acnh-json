@@ -1126,5 +1126,61 @@
   {
     "Color": "#FFAE00",
     "UniqueID": 365
+  },
+  {
+    "Color": "#E5FFFF",
+    "UniqueID": 369
+  },
+  {
+    "Color": "#2A1615",
+    "UniqueID": 372
+  },
+  {
+    "Color": "#27211E",
+    "UniqueID": 373
+  },
+  {
+    "Color": "#FFFADF",
+    "UniqueID": 374
+  },
+  {
+    "Color": "#FFFFFF",
+    "UniqueID": 375
+  },
+  {
+    "Color": "#FFF548",
+    "UniqueID": 376
+  },
+  {
+    "Color": "#90FFFF",
+    "UniqueID": 377
+  },
+  {
+    "Color": "#D3FB76",
+    "UniqueID": 378
+  },
+  {
+    "Color": "#FFFFFF",
+    "UniqueID": 379
+  },
+  {
+    "Color": "#FFFFFF",
+    "UniqueID": 380
+  },
+  {
+    "Color": "#FFF1C3",
+    "UniqueID": 381
+  },
+  {
+    "Color": "#FFF1C3",
+    "UniqueID": 382
+  },
+  {
+    "Color": "#F8DDA4",
+    "UniqueID": 383
+  },
+  {
+    "Color": "#15648D",
+    "UniqueID": 384
   }
 ]

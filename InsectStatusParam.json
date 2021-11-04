@@ -546,7 +546,7 @@
     "Kind": "CastOffSkin",
     "WaitScale": 1.0,
     "ItemID": 641,
-    "OpenAchievementCount": 50,
+    "OpenAchievementCount": 20,
     "ToyItemID": 7095,
     "UniqueID": 24,
     "AppearFg": 0,

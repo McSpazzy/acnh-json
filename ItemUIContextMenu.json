@@ -120,6 +120,14 @@
     "Name": "エサをまく"
   },
   {
+    "Priority": 50,
+    "UniqueID": 106,
+    "AutoDisappear": 0,
+    "Label": "ReleaseNpcGarden",
+    "MSLabel": "0154",
+    "Name": "庭に放す"
+  },
+  {
     "Priority": 55,
     "UniqueID": 5,
     "AutoDisappear": 0,
@@ -133,7 +141,7 @@
     "AutoDisappear": 0,
     "Label": "ReplaceWall",
     "MSLabel": "0140",
-    "Name": "かべにはる"
+    "Name": "かべに張る"
   },
   {
     "Priority": 90,
@@ -141,7 +149,7 @@
     "AutoDisappear": 0,
     "Label": "ReplaceFloor",
     "MSLabel": "0141",
-    "Name": "ゆかにはる"
+    "Name": "ゆかに張る"
   },
   {
     "Priority": 91,
@@ -150,6 +158,14 @@
     "Label": "RotateReplaceFloor",
     "MSLabel": "0143",
     "Name": "ヨコむき"
+  },
+  {
+    "Priority": 91,
+    "UniqueID": 107,
+    "AutoDisappear": 0,
+    "Label": "ReplaceAccentWall",
+    "MSLabel": "0155",
+    "Name": "アクセントにする"
   },
   {
     "Priority": 92,
@@ -190,6 +206,38 @@
     "Label": "PutDoorFtr",
     "MSLabel": "0145",
     "Name": "ドアに飾る"
+  },
+  {
+    "Priority": 103,
+    "UniqueID": 94,
+    "AutoDisappear": 1,
+    "Label": "PutCeilingFtr",
+    "MSLabel": "0198",
+    "Name": "天井に飾る"
+  },
+  {
+    "Priority": 104,
+    "UniqueID": 102,
+    "AutoDisappear": 1,
+    "Label": "HangLadder",
+    "MSLabel": "0152",
+    "Name": "ガケに設置する"
+  },
+  {
+    "Priority": 105,
+    "UniqueID": 109,
+    "AutoDisappear": 1,
+    "Label": "HangVine",
+    "MSLabel": "0199_02",
+    "Name": "ガケに引っかける"
+  },
+  {
+    "Priority": 106,
+    "UniqueID": 108,
+    "AutoDisappear": 1,
+    "Label": "HangVineOne",
+    "MSLabel": "0199_03",
+    "Name": "1コ引っかける"
   },
   {
     "Priority": 110,
@@ -272,6 +320,14 @@
     "Name": "10カブ食べる"
   },
   {
+    "Priority": 300,
+    "UniqueID": 104,
+    "AutoDisappear": 0,
+    "Label": "Drink",
+    "MSLabel": "0133_01",
+    "Name": "飲む"
+  },
+  {
     "Priority": 750,
     "UniqueID": 17,
     "AutoDisappear": 1,
@@ -294,6 +350,14 @@
     "Label": "ReleaseWeed",
     "MSLabel": "0199",
     "Name": "戻す"
+  },
+  {
+    "Priority": 750,
+    "UniqueID": 105,
+    "AutoDisappear": 0,
+    "Label": "TakeBellMoneyBox",
+    "MSLabel": "0199_01",
+    "Name": "中身を出す"
   },
   {
     "Priority": 760,

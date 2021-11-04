@@ -106,5 +106,59 @@
     "EventFlowEntryName": "ErrorRiverMake_ExistStructure",
     "Label": "RiverExistStructure",
     "Name": "川造成：建物があります。"
+  },
+  {
+    "UniqueID": 31,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistBridge",
+    "Label": "CliffBreakExistLadder",
+    "Name": "崖造成(Break)：崖にハシゴがあります。"
+  },
+  {
+    "UniqueID": 32,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistVine",
+    "Label": "CliffBreakExistVine",
+    "Name": "崖造成(Break)：崖にツルがあります。"
+  },
+  {
+    "UniqueID": 33,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistNearBridge",
+    "Label": "CliffBreakExistSlantLadder",
+    "Name": "崖造成(Break)：崖に斜めハシゴがあります。"
+  },
+  {
+    "UniqueID": 34,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorCliffMakeBreak_ExistNearVine",
+    "Label": "CliffBreakExistSlantVine",
+    "Name": "崖造成(Break)：崖に斜めツルがあります。"
+  },
+  {
+    "UniqueID": 35,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorRiverMake_ExistBridge",
+    "Label": "RiverExistLadder",
+    "Name": "川造成：ハシゴを滝にしようとしました。"
+  },
+  {
+    "UniqueID": 36,
+    "AsCommand": "PlayerToolNG",
+    "CliffCreate": 0,
+    "b3be609 u8": 0,
+    "EventFlowEntryName": "ErrorRiverMake_ExistVine",
+    "Label": "RiverExistVine",
+    "Name": "川造成：ツルを滝にしようとしました。"
   }
 ]

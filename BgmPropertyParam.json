@@ -118,5 +118,109 @@
   {
     "UniqueID": 35,
     "Label": "CarnivalDanceDemoState"
+  },
+  {
+    "UniqueID": 36,
+    "Label": "RadioExerciseState_v20000"
+  },
+  {
+    "UniqueID": 37,
+    "Label": "OrderDemoState_v20000"
+  },
+  {
+    "UniqueID": 38,
+    "Label": "KappeiSong_State_v20000"
+  },
+  {
+    "UniqueID": 41,
+    "Label": "FortuneDemoState_v20000"
+  },
+  {
+    "UniqueID": 42,
+    "Label": "DALFanfareWherearen_v20000"
+  },
+  {
+    "UniqueID": 43,
+    "Label": "CeremonyWherearenState_v20000"
+  },
+  {
+    "UniqueID": 44,
+    "Label": "IntroduceEditFacilityState_v20000"
+  },
+  {
+    "UniqueID": 45,
+    "Label": "WherearenCompleteDemoState_v20000"
+  },
+  {
+    "UniqueID": 46,
+    "Label": "SchoolEvent_v20000"
+  },
+  {
+    "UniqueID": 47,
+    "Label": "FortuneDemoType_v20000"
+  },
+  {
+    "UniqueID": 48,
+    "Label": "CoffeeDemoType_v20000"
+  },
+  {
+    "UniqueID": 49,
+    "Label": "TakeOrderCameraDemoState_v20000"
+  },
+  {
+    "UniqueID": 50,
+    "Label": "HairStylingDemoState_v20000"
+  },
+  {
+    "UniqueID": 51,
+    "Label": "PartyDemoBgmState_v20000"
+  },
+  {
+    "UniqueID": 52,
+    "Label": "SickDemoBgmState_v20000"
+  },
+  {
+    "UniqueID": 53,
+    "Label": "ShareHouseConsultantDemoBgmState_v20000"
+  },
+  {
+    "UniqueID": 54,
+    "Label": "WhereranIntroductionDemoBgmState_v20000"
+  },
+  {
+    "UniqueID": 55,
+    "Label": "EnvSoundDemoState_v20000"
+  },
+  {
+    "UniqueID": 56,
+    "Label": "JuneBridePreTalkDemoState_v20000"
+  },
+  {
+    "UniqueID": 57,
+    "Label": "RemakeDemoState_v20000"
+  },
+  {
+    "UniqueID": 58,
+    "Label": "CafeAmiiboDemoState_v20000"
+  },
+  {
+    "UniqueID": 60,
+    "Label": "PhotographyIntroDemoState_v20000"
+  },
+  {
+    "UniqueID": 61,
+    "Label": "EditFacilityPreEnd_v20000"
+  },
+  {
+    "UniqueID": 62,
+    "Label": "OneRoomVisitorDemoState_v20000"
+  },
+  {
+    "UniqueID": 63,
+    "Label": "VisitorEnteringDemoState_v20000"
+  },
+  {
+    "UniqueID": 64,
+    "Label": "OneRoomShareHouseEndDemoState_v20000"
   }
 ]

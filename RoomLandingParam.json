@@ -1,6 +1,7 @@
 [
   {
     "Floorboards": 6,
+    "981286fd u16": 0,
     "UISortID": 0,
     "UniqueID": 0,
     "LandingName": "木/茶色",
@@ -8,9 +9,50 @@
   },
   {
     "Floorboards": 6,
+    "981286fd u16": 1,
     "UISortID": 1,
     "UniqueID": 1,
     "LandingName": "木/こげ茶",
     "ResourceName": "RoomTexStairsWood01"
+  },
+  {
+    "Floorboards": 17,
+    "981286fd u16": 2,
+    "UISortID": 2,
+    "UniqueID": 7,
+    "LandingName": "タイル/白",
+    "ResourceName": "RoomTexStairsTile00"
+  },
+  {
+    "Floorboards": 3,
+    "981286fd u16": 3,
+    "UISortID": 3,
+    "UniqueID": 10,
+    "LandingName": "レンガ/赤",
+    "ResourceName": "RoomTexStairsBrick00"
+  },
+  {
+    "Floorboards": 23,
+    "981286fd u16": 4,
+    "UISortID": 4,
+    "UniqueID": 11,
+    "LandingName": "じゅうたん/赤",
+    "ResourceName": "RoomTexStairsCarpet00"
+  },
+  {
+    "Floorboards": 3,
+    "981286fd u16": 5,
+    "UISortID": 5,
+    "UniqueID": 12,
+    "LandingName": "コンクリート/素",
+    "ResourceName": "RoomTexStairsConcrete00"
+  },
+  {
+    "Floorboards": 3,
+    "981286fd u16": 6,
+    "UISortID": 6,
+    "UniqueID": 13,
+    "LandingName": "石/荒い",
+    "ResourceName": "RoomTexStairsStone00"
   }
 ]

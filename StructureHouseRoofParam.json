@@ -1,20 +1,22 @@
 [
   {
     "HouseColor": "Red",
-    "CustomizeSortID": 1000,
+    "CustomizeSortID": 1001,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 0,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardA"
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 1010,
+    "CustomizeSortID": 1007,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 3,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardB"
   },
   {
@@ -24,6 +26,7 @@
     "Material": 5,
     "UniqueID": 4,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
@@ -33,33 +36,37 @@
     "Material": 5,
     "UniqueID": 5,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4000,
+    "CustomizeSortID": 4002,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 6,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3000,
+    "CustomizeSortID": 3007,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 7,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2000,
+    "CustomizeSortID": 2001,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 8,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileA"
   },
   {
@@ -69,6 +76,7 @@
     "Material": 6,
     "UniqueID": 9,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
@@ -78,60 +86,67 @@
     "Material": 2,
     "UniqueID": 10,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardA"
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 2,
+    "CustomizeSortID": 7,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 11,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardB"
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 3,
+    "CustomizeSortID": 2,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 12,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardC"
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 4,
+    "CustomizeSortID": 3,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 13,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardD"
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 5,
+    "CustomizeSortID": 4,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 14,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardE"
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 6,
+    "CustomizeSortID": 5,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 15,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardF"
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 7,
+    "CustomizeSortID": 6,
     "HouseShapeUniqueID": 7,
     "Material": 2,
     "UniqueID": 16,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardG"
   },
   {
@@ -141,6 +156,7 @@
     "Material": 2,
     "UniqueID": 17,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA00StandardH"
   },
   {
@@ -150,123 +166,147 @@
     "Material": 6,
     "UniqueID": 18,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 401,
+    "CustomizeSortID": 404,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 19,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNASlateA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 411,
+    "CustomizeSortID": 414,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 20,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNAMetalA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 421,
+    "CustomizeSortID": 422,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 21,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNATileA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4040,
+    "CustomizeSortID": 303,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 22,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 4005,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 23,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedB"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4030,
+    "CustomizeSortID": 4001,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 24,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedC"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4020,
+    "CustomizeSortID": 4003,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 25,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedD"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4050,
+    "CustomizeSortID": 4006,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 26,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 522,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 27,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 532,
+    "HouseShapeUniqueID": 9,
+    "Material": 6,
+    "UniqueID": 28,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedA"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 501,
     "HouseShapeUniqueID": 9,
     "Material": 2,
-    "UniqueID": 27,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileA"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 531,
-    "HouseShapeUniqueID": 9,
-    "Material": 6,
-    "UniqueID": 28,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedA"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 521,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
     "UniqueID": 29,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBWoodpanelA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 601,
+    "CustomizeSortID": 608,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 30,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCJapaneseA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 621,
+    "CustomizeSortID": 622,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 31,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCThatchedA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 611,
+    "CustomizeSortID": 612,
     "HouseShapeUniqueID": 10,
     "Material": 2,
     "UniqueID": 32,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCStoneweightA"
   },
   {
@@ -276,6 +316,7 @@
     "Material": 6,
     "UniqueID": 33,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
@@ -285,33 +326,37 @@
     "Material": 6,
     "UniqueID": 34,
     "Dummy": 1,
+    "a241524a u8": 0,
     "ModelName": ""
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 701,
+    "CustomizeSortID": 716,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 35,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDStoneA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 711,
+    "CustomizeSortID": 722,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 36,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 721,
+    "CustomizeSortID": 703,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 37,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDWoodA"
   },
   {
@@ -321,6 +366,7 @@
     "Material": 6,
     "UniqueID": 38,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardA"
   },
   {
@@ -330,15 +376,17 @@
     "Material": 6,
     "UniqueID": 39,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardA"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 422,
+    "CustomizeSortID": 421,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 40,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNATileB"
   },
   {
@@ -348,51 +396,57 @@
     "Material": 6,
     "UniqueID": 41,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNATileC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 424,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 42,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNATileD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 425,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 43,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNATileE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 426,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 44,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNATileF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 427,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 45,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNATileG"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 428,
     "HouseShapeUniqueID": 1,
     "Material": 6,
+    "UniqueID": 42,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNATileD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 426,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
+    "UniqueID": 43,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNATileE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 424,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
+    "UniqueID": 44,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNATileF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 425,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
+    "UniqueID": 45,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNATileG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 427,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
     "UniqueID": 46,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNATileH"
   },
   {
@@ -402,42 +456,47 @@
     "Material": 6,
     "UniqueID": 47,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardA"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 412,
-    "HouseShapeUniqueID": 1,
-    "Material": 3,
-    "UniqueID": 48,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNAMetalB"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 413,
     "HouseShapeUniqueID": 1,
     "Material": 3,
-    "UniqueID": 49,
+    "UniqueID": 48,
     "Dummy": 0,
-    "ModelName": "HouseRoofNAMetalC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 414,
-    "HouseShapeUniqueID": 1,
-    "Material": 3,
-    "UniqueID": 50,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNAMetalD"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNAMetalB"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 415,
     "HouseShapeUniqueID": 1,
     "Material": 3,
+    "UniqueID": 49,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNAMetalC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 411,
+    "HouseShapeUniqueID": 1,
+    "Material": 3,
+    "UniqueID": 50,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNAMetalD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 412,
+    "HouseShapeUniqueID": 1,
+    "Material": 3,
     "UniqueID": 51,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNAMetalE"
   },
   {
@@ -447,267 +506,297 @@
     "Material": 3,
     "UniqueID": 52,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNAMetalF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 417,
-    "HouseShapeUniqueID": 1,
-    "Material": 3,
-    "UniqueID": 53,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNAMetalG"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 418,
     "HouseShapeUniqueID": 1,
     "Material": 3,
-    "UniqueID": 54,
+    "UniqueID": 53,
     "Dummy": 0,
-    "ModelName": "HouseRoofNAMetalH"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNAMetalG"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 402,
+    "CustomizeSortID": 419,
     "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 55,
+    "Material": 3,
+    "UniqueID": 54,
     "Dummy": 0,
-    "ModelName": "HouseRoofNASlateB"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNAMetalH"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 403,
     "HouseShapeUniqueID": 1,
     "Material": 6,
+    "UniqueID": 55,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNASlateB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 402,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
     "UniqueID": 56,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNASlateC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 404,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 57,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNASlateD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 405,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 58,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNASlateE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 406,
-    "HouseShapeUniqueID": 1,
-    "Material": 6,
-    "UniqueID": 59,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNASlateF"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 407,
     "HouseShapeUniqueID": 1,
     "Material": 6,
-    "UniqueID": 60,
+    "UniqueID": 57,
     "Dummy": 0,
-    "ModelName": "HouseRoofNASlateG"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNASlateD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 401,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
+    "UniqueID": 58,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNASlateE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 405,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
+    "UniqueID": 59,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNASlateF"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 408,
     "HouseShapeUniqueID": 1,
     "Material": 6,
+    "UniqueID": 60,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNASlateG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 409,
+    "HouseShapeUniqueID": 1,
+    "Material": 6,
     "UniqueID": 61,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNASlateH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 502,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 62,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 503,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 63,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 504,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 64,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 505,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 65,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 506,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 66,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 507,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 67,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileG"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 508,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 68,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodtileH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 522,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 69,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 523,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 70,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 524,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 71,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 525,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 72,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 526,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 73,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 527,
-    "HouseShapeUniqueID": 9,
-    "Material": 2,
-    "UniqueID": 74,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBWoodpanelG"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 528,
     "HouseShapeUniqueID": 9,
     "Material": 2,
+    "UniqueID": 62,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 521,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 63,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 525,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 64,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 524,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 65,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 523,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 66,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 526,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 67,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 530,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 68,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodtileH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 507,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 69,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 506,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 70,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 504,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 71,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 503,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 72,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 502,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 73,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 505,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
+    "UniqueID": 74,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBWoodpanelG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 508,
+    "HouseShapeUniqueID": 9,
+    "Material": 2,
     "UniqueID": 75,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBWoodpanelH"
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 12,
+    "CustomizeSortID": 17,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 76,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardB"
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 13,
+    "CustomizeSortID": 12,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 77,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardC"
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 14,
+    "CustomizeSortID": 13,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 78,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardD"
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 15,
+    "CustomizeSortID": 14,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 79,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardE"
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 16,
+    "CustomizeSortID": 15,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 80,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardF"
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 17,
+    "CustomizeSortID": 16,
     "HouseShapeUniqueID": 14,
     "Material": 6,
     "UniqueID": 81,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardG"
   },
   {
@@ -717,60 +806,67 @@
     "Material": 6,
     "UniqueID": 82,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA01StandardH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 532,
-    "HouseShapeUniqueID": 9,
-    "Material": 6,
-    "UniqueID": 83,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedB"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 533,
     "HouseShapeUniqueID": 9,
     "Material": 6,
-    "UniqueID": 84,
+    "UniqueID": 83,
     "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 534,
-    "HouseShapeUniqueID": 9,
-    "Material": 6,
-    "UniqueID": 85,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 535,
-    "HouseShapeUniqueID": 9,
-    "Material": 6,
-    "UniqueID": 86,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedE"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedB"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 536,
     "HouseShapeUniqueID": 9,
     "Material": 6,
-    "UniqueID": 87,
+    "UniqueID": 84,
     "Dummy": 0,
-    "ModelName": "HouseRoofNBThatchedF"
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 535,
+    "HouseShapeUniqueID": 9,
+    "Material": 6,
+    "UniqueID": 85,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedD"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 537,
     "HouseShapeUniqueID": 9,
     "Material": 6,
+    "UniqueID": 86,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 534,
+    "HouseShapeUniqueID": 9,
+    "Material": 6,
+    "UniqueID": 87,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNBThatchedF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 531,
+    "HouseShapeUniqueID": 9,
+    "Material": 6,
     "UniqueID": 88,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBThatchedG"
   },
   {
@@ -780,6 +876,7 @@
     "Material": 6,
     "UniqueID": 89,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBThatchedH"
   },
   {
@@ -789,96 +886,107 @@
     "Material": 6,
     "UniqueID": 90,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCJapaneseB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 601,
+    "HouseShapeUniqueID": 10,
+    "Material": 6,
+    "UniqueID": 91,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCJapaneseC"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 603,
     "HouseShapeUniqueID": 10,
     "Material": 6,
-    "UniqueID": 91,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCJapaneseC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 604,
-    "HouseShapeUniqueID": 10,
-    "Material": 6,
     "UniqueID": 92,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCJapaneseD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 605,
-    "HouseShapeUniqueID": 10,
-    "Material": 6,
-    "UniqueID": 93,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCJapaneseE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 606,
-    "HouseShapeUniqueID": 10,
-    "Material": 6,
-    "UniqueID": 94,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCJapaneseF"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 607,
     "HouseShapeUniqueID": 10,
     "Material": 6,
+    "UniqueID": 93,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCJapaneseE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 605,
+    "HouseShapeUniqueID": 10,
+    "Material": 6,
+    "UniqueID": 94,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCJapaneseF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 604,
+    "HouseShapeUniqueID": 10,
+    "Material": 6,
     "UniqueID": 95,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCJapaneseG"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 608,
+    "CustomizeSortID": 606,
     "HouseShapeUniqueID": 10,
     "Material": 6,
     "UniqueID": 96,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCJapaneseH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 612,
-    "HouseShapeUniqueID": 10,
-    "Material": 2,
-    "UniqueID": 97,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCStoneweightB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 613,
-    "HouseShapeUniqueID": 10,
-    "Material": 2,
-    "UniqueID": 98,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCStoneweightC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 614,
-    "HouseShapeUniqueID": 10,
-    "Material": 2,
-    "UniqueID": 99,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCStoneweightD"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 615,
     "HouseShapeUniqueID": 10,
     "Material": 2,
+    "UniqueID": 97,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCStoneweightB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 611,
+    "HouseShapeUniqueID": 10,
+    "Material": 2,
+    "UniqueID": 98,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCStoneweightC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 613,
+    "HouseShapeUniqueID": 10,
+    "Material": 2,
+    "UniqueID": 99,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCStoneweightD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 614,
+    "HouseShapeUniqueID": 10,
+    "Material": 2,
     "UniqueID": 100,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCStoneweightE"
   },
   {
@@ -888,159 +996,177 @@
     "Material": 2,
     "UniqueID": 101,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCStoneweightF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 722,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 102,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 723,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 103,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 724,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 104,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 725,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 105,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 726,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 106,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 727,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 107,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodG"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 728,
-    "HouseShapeUniqueID": 13,
-    "Material": 2,
-    "UniqueID": 108,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDWoodH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 702,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 109,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 703,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 110,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneC"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 704,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 111,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneD"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 705,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 112,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneE"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 706,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 113,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneF"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 707,
-    "HouseShapeUniqueID": 13,
-    "Material": 6,
-    "UniqueID": 114,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNDStoneG"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 708,
     "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 102,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 707,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 103,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 709,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 104,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 705,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 105,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 701,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 106,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 702,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 107,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 710,
+    "HouseShapeUniqueID": 13,
+    "Material": 2,
+    "UniqueID": 108,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDWoodH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 715,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 109,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 712,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 110,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 713,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 111,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 714,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 112,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 711,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 113,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 717,
+    "HouseShapeUniqueID": 13,
+    "Material": 6,
+    "UniqueID": 114,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNDStoneG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 718,
+    "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 115,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDStoneH"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 622,
-    "HouseShapeUniqueID": 10,
-    "Material": 6,
-    "UniqueID": 116,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCThatchedB"
-  },
-  {
-    "HouseColor": "Invalid",
-    "CustomizeSortID": 623,
-    "HouseShapeUniqueID": 10,
-    "Material": 6,
-    "UniqueID": 117,
-    "Dummy": 0,
-    "ModelName": "HouseRoofNCThatchedC"
   },
   {
     "HouseColor": "Invalid",
     "CustomizeSortID": 624,
     "HouseShapeUniqueID": 10,
     "Material": 6,
+    "UniqueID": 116,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCThatchedB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 621,
+    "HouseShapeUniqueID": 10,
+    "Material": 6,
+    "UniqueID": 117,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofNCThatchedC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 623,
+    "HouseShapeUniqueID": 10,
+    "Material": 6,
     "UniqueID": 118,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCThatchedD"
   },
   {
@@ -1050,6 +1176,7 @@
     "Material": 6,
     "UniqueID": 119,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCThatchedE"
   },
   {
@@ -1059,105 +1186,117 @@
     "Material": 6,
     "UniqueID": 120,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNCThatchedF"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 712,
+    "CustomizeSortID": 721,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 121,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedB"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 713,
+    "CustomizeSortID": 726,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 122,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedC"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 714,
+    "CustomizeSortID": 723,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 123,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedD"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 715,
+    "CustomizeSortID": 725,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 124,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedE"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 716,
+    "CustomizeSortID": 724,
     "HouseShapeUniqueID": 13,
     "Material": 6,
     "UniqueID": 125,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDThatchedF"
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 22,
+    "CustomizeSortID": 27,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 126,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardB"
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 23,
+    "CustomizeSortID": 22,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 127,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardC"
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 24,
+    "CustomizeSortID": 23,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 128,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardD"
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 25,
+    "CustomizeSortID": 24,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 129,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardE"
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 26,
+    "CustomizeSortID": 25,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 130,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardF"
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 27,
+    "CustomizeSortID": 26,
     "HouseShapeUniqueID": 15,
     "Material": 6,
     "UniqueID": 131,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardG"
   },
   {
@@ -1167,60 +1306,67 @@
     "Material": 6,
     "UniqueID": 132,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA02StandardH"
   },
   {
     "HouseColor": "Pink",
-    "CustomizeSortID": 32,
+    "CustomizeSortID": 37,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 133,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardB"
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 33,
+    "CustomizeSortID": 32,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 134,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardC"
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 34,
+    "CustomizeSortID": 33,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 135,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardD"
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 35,
+    "CustomizeSortID": 34,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 136,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardE"
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 36,
+    "CustomizeSortID": 35,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 137,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardF"
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 37,
+    "CustomizeSortID": 36,
     "HouseShapeUniqueID": 16,
     "Material": 6,
     "UniqueID": 138,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardG"
   },
   {
@@ -1230,267 +1376,1007 @@
     "Material": 6,
     "UniqueID": 139,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA03StandardH"
   },
   {
     "HouseColor": "Yellow",
-    "CustomizeSortID": 1020,
+    "CustomizeSortID": 1002,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 147,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardC"
   },
   {
     "HouseColor": "Green",
-    "CustomizeSortID": 1030,
+    "CustomizeSortID": 1003,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 148,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardD"
   },
   {
     "HouseColor": "LightBlue",
-    "CustomizeSortID": 1040,
+    "CustomizeSortID": 1004,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 149,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardE"
   },
   {
     "HouseColor": "Blue",
-    "CustomizeSortID": 1050,
+    "CustomizeSortID": 1005,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 150,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardF"
   },
   {
     "HouseColor": "Purple",
-    "CustomizeSortID": 1060,
+    "CustomizeSortID": 1006,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 151,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardG"
   },
   {
     "HouseColor": "Black",
-    "CustomizeSortID": 1070,
+    "CustomizeSortID": 1008,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 152,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StandardH"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3010,
+    "CustomizeSortID": 3006,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 153,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneB"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3030,
+    "CustomizeSortID": 3002,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 154,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneC"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3020,
+    "CustomizeSortID": 3001,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 155,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneD"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3050,
+    "CustomizeSortID": 3004,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 156,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneE"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3040,
+    "CustomizeSortID": 3003,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 157,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneF"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3060,
+    "CustomizeSortID": 3005,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 158,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneG"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 3070,
+    "CustomizeSortID": 3008,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 159,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04StoneH"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2010,
+    "CustomizeSortID": 2005,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 160,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileB"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2020,
+    "CustomizeSortID": 2002,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 161,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileC"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2030,
+    "CustomizeSortID": 2003,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 162,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileD"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2040,
+    "CustomizeSortID": 2004,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 163,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileE"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2050,
+    "CustomizeSortID": 2007,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 164,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileF"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2060,
+    "CustomizeSortID": 2006,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 165,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileG"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 2070,
+    "CustomizeSortID": 2008,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 166,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04WesterntileH"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4010,
+    "CustomizeSortID": 4007,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 167,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedF"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4060,
+    "CustomizeSortID": 4004,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 168,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedG"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 4070,
+    "CustomizeSortID": 4008,
     "HouseShapeUniqueID": 0,
     "Material": 6,
     "UniqueID": 169,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofPA04ThatchedH"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 419,
+    "CustomizeSortID": 417,
     "HouseShapeUniqueID": 1,
     "Material": 3,
     "UniqueID": 170,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNAMetalI"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 509,
+    "CustomizeSortID": 529,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 171,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBWoodtileI"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 510,
+    "CustomizeSortID": 527,
     "HouseShapeUniqueID": 9,
     "Material": 2,
     "UniqueID": 172,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNBWoodtileJ"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 409,
+    "CustomizeSortID": 406,
     "HouseShapeUniqueID": 1,
     "Material": 6,
     "UniqueID": 173,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNASlateI"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 729,
+    "CustomizeSortID": 706,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 174,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDWoodI"
   },
   {
     "HouseColor": "Invalid",
-    "CustomizeSortID": 730,
+    "CustomizeSortID": 704,
     "HouseShapeUniqueID": 13,
     "Material": 2,
     "UniqueID": 175,
     "Dummy": 0,
+    "a241524a u8": 0,
     "ModelName": "HouseRoofNDWoodJ"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 125,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 176,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 318,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 177,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 327,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 178,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 112,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 179,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 103,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 180,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 115,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 181,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 114,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 182,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 111,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 183,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 113,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 184,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 117,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 185,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 116,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 186,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 118,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 187,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04OrientalH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 301,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 188,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 302,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 189,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 307,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 190,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 304,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 191,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 305,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 192,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 306,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 193,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 308,
+    "HouseShapeUniqueID": 8,
+    "Material": 6,
+    "UniqueID": 194,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04SlateH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 108,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 195,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 102,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 196,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 107,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 197,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 104,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 198,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 106,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 199,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 101,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 200,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 105,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 201,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04ThatchedH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 126,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 202,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 121,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 203,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 122,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 204,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 123,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 205,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 124,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 206,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 127,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 207,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 128,
+    "HouseShapeUniqueID": 20,
+    "Material": 6,
+    "UniqueID": 208,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPC04JapaneseH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 206,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 212,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 216,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 213,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 222,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 214,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedA"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 312,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 215,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 317,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 216,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 311,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 217,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 315,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 218,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 313,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 219,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 314,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 220,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 316,
+    "HouseShapeUniqueID": 8,
+    "Material": 2,
+    "UniqueID": 221,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04WoodpanelH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 324,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 222,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 323,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 223,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 325,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 224,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 321,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 225,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 322,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 226,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 326,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 227,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 328,
+    "HouseShapeUniqueID": 8,
+    "Material": 3,
+    "UniqueID": 228,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPB04MetalH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 221,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 229,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 226,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 230,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 225,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 231,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 227,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 232,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 228,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 233,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 223,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 234,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 224,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 235,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04ThatchedH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 207,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 236,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 205,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 237,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 204,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 238,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 202,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 239,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 201,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 240,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 203,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 241,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 208,
+    "HouseShapeUniqueID": 21,
+    "Material": 2,
+    "UniqueID": 243,
+    "Dummy": 0,
+    "a241524a u8": 0,
+    "ModelName": "HouseRoofPD04WoodH"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 215,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 244,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneB"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 212,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 245,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneC"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 213,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 246,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneD"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 214,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 247,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneE"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 211,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 248,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneF"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 217,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 249,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneG"
+  },
+  {
+    "HouseColor": "Invalid",
+    "CustomizeSortID": 218,
+    "HouseShapeUniqueID": 21,
+    "Material": 6,
+    "UniqueID": 250,
+    "Dummy": 0,
+    "a241524a u8": 1,
+    "ModelName": "HouseRoofPD04StoneH"
   }
 ]

@@ -1,0 +1,2802 @@
+[
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1000,
+    "UniqueID": 1,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NewBuildCount",
+    "Name": "新築完成数カウント",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 7,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_MargeCatalog_DIY",
+    "Name": "カタログマージ(DIYアイテム)アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 15,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Kabetasu",
+    "Name": "カベタスアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 18,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_ShareHouse",
+    "Name": "シェアハウスアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 19,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Extension",
+    "Name": "増築アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 21,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Faclility_School",
+    "Name": "施設：学校アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 22,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Faclility_Cafe",
+    "Name": "施設：カフェアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 23,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Faclility_Restaurant",
+    "Name": "施設：レストランアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 24,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Faclility_Hospital",
+    "Name": "施設：病院アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 25,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Faclility_Tailor",
+    "Name": "施設：服屋アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 26,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Exchange",
+    "Name": "事務所：両替機アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 27,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Donation",
+    "Name": "事務所：募金箱アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 28,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_InGameSNS",
+    "Name": "ゲーム内SNSアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 30,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TimeCard_AtWork",
+    "Name": "業務中|タイムカード",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1000,
+    "UniqueID": 31,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "GetDrinkCount",
+    "Name": "差し入れカウント",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1000,
+    "UniqueID": 33,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "TodayCompleteCount",
+    "Name": "今日の完了数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 34,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "ManTalkToday",
+    "Name": "ナッティー|本日話したか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 35,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IslandCreator_GuideDone",
+    "Name": "島クリエイターのウェアラン用ガイドを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 38,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncMovetoBridge",
+    "Name": "ニコ|桟橋へ配置移動",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 43,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBridgeTalkToday",
+    "Name": "ニコ|本日桟橋到着フローを通った？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 44,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_00",
+    "Name": "NPC解禁：最初のお客",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 45,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_01",
+    "Name": "NPC解禁：初期開放",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 46,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_02",
+    "Name": "NPC解禁：庭お題解禁",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 47,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_03",
+    "Name": "NPC解禁：学校作成後",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 48,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_04",
+    "Name": "NPC解禁：レストラン作成後",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 49,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_05",
+    "Name": "NPC解禁：カフェ作成後",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 50,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_06",
+    "Name": "NPC解禁：病院作成後",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 51,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_07",
+    "Name": "NPC解禁：服屋作成後",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 52,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_08",
+    "Name": "NPC解禁：まごころ雑巾解禁直前",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 53,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_09",
+    "Name": "NPC解禁：抽選対象外",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 200,
+    "UniqueID": 54,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "PokiRate",
+    "Name": "ポキの両替レート",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 55,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "TutorialDone",
+    "Name": "初訪問時チュートリアル完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 56,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Amiibo",
+    "Name": "事務所：amiiboアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 59,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteAppearanceSchool",
+    "Name": "施設：学校の外観が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 60,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteAppearanceCafe",
+    "Name": "施設：カフェの外観が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 61,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteAppearanceRestaurant",
+    "Name": "施設：レストランの外観が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 62,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteAppearanceHospital",
+    "Name": "施設：病院の外観が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 63,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteAppearanceTailor",
+    "Name": "施設：服屋の外観が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 64,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_ThemeFreeEdit",
+    "Name": "お題なし受注アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 65,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_MargeCatalog_General",
+    "Name": "カタログマージ(一般)アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 66,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqUniformTutorialOngoing",
+    "Name": "制服着用イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 67,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstEditOngoing",
+    "Name": "初めてのエディットが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 68,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqHouseEditTutorialDone",
+    "Name": "室内エディットチュートリアルが完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 70,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "OtgGetStartingSalary",
+    "Name": "タクミ|初任給を受け取った",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 71,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_HousePhoto",
+    "Name": "施工事例用写真の撮影アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 72,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqTakeOrderTutorialOngoing",
+    "Name": "受注チュートリアルが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 74,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_MncBridgeBoat",
+    "Name": "ニコの桟橋機能アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 76,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncSetHiddenInEditHouse",
+    "Name": "ニコ|エディット中に屋内で非表示待機させる",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 77,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutGardenInteriorMode",
+    "Name": "インテリアモード（庭）の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 79,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqHousePhotoTutorialDone",
+    "Name": "撮影チュートリアルが完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 80,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncGenerateInOfficeTemp",
+    "Name": "ニコ|事務所内への生成を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 81,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstVistCustomerOngoing",
+    "Name": "初再訪イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 82,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "InCompleteDemo",
+    "Name": "完成デモ中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 87,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "ProposeNPCHouse",
+    "Name": "営業時に提案をすることにした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 88,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Prohibit_SuspendEdit",
+    "Name": "エディットの中止を禁止",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 89,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirrstCustomerPhotoDone",
+    "Name": "初再訪イベントで写真撮影を終えた",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 90,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqSchoolEditOngoing",
+    "Name": "学校作成イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 91,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgTalkAboutSoloWork",
+    "Name": "休憩のすすめイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 92,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqKabetasuEventReady",
+    "Name": "カベタス解禁イベントが発生する状況か",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 93,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqGetRecipeKabetasu",
+    "Name": "カベタス解禁イベントが完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 94,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ManGenerateInFieldTemp",
+    "Name": "ナッティー|メインエリアへの生成を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 6,
+    "UniqueID": 97,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "CoordinatorGrade",
+    "Name": "コーディネーターグレード",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 200,
+    "UniqueID": 98,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "CoordinatorRank",
+    "Name": "コーディネーターランク",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 256,
+    "UniqueID": 99,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "VisitTotal",
+    "Name": "累計訪問回数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 100,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "VisitToday",
+    "Name": "本日訪問したか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 256,
+    "UniqueID": 101,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ShareHouseDoneCount",
+    "Name": "シェアハウス完了回数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 102,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "UseKabetasuDone",
+    "Name": "カベタスを使って家or施設を完成",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 103,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqParty1Done",
+    "Name": "10件打ち上げイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 104,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqParty2Done",
+    "Name": "20件打ち上げイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 105,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqParty3Done",
+    "Name": "30件打ち上げイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 106,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqRestaurantEditOngoing",
+    "Name": "レストラン（カフェ）作成イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 107,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqHospitalEditOngoing",
+    "Name": "病院作成イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 108,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqTailorEditOngoing",
+    "Name": "服屋作成イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 109,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ChoiceRestaurant",
+    "Name": "カフェ、レストランの新築でレストランを選んだ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 111,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_CreateRoad",
+    "Name": "道造成モードアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 114,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutCreateRoad",
+    "Name": "道造成モードの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 115,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqDIYCatalogOngoing",
+    "Name": "DIYアイテム解禁イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 116,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncCannotGetRecipe",
+    "Name": "ニコ|DIYレシピイベントでレシピを受け取り損ねた",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 117,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncTalkDIYCatalog",
+    "Name": "ニコのDIYイベントでニコと話した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 118,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteDemoStartSpot",
+    "Name": "完成デモの開始場所",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 119,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "IsParty",
+    "Name": "打ち上げパーティ中か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 120,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqEventReserveInOffice",
+    "Name": "事務所入場時にイベントを発生させる",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 121,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Prohibit_NewOrder",
+    "Name": "新規受注を禁止",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 124,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqExchangeMachineEventReady",
+    "Name": "両替機（ポキATM）解禁イベントの発生条件を満たした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 125,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqResortStudyEventReady",
+    "Name": "リゾートスタディー解禁イベントの発生条件を満たした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 126,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "GenerateSecondCustomer",
+    "Name": "2番目の依頼主を事務所内に生成するか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 65535,
+    "UniqueID": 127,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "ShopFtrUseTotal_High",
+    "Name": "売店での累計家具購入額上位ビット",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 65535,
+    "UniqueID": 128,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "ShopFtrUseTotal_Low",
+    "Name": "売店での累計家具購入額下位ビット",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 129,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqShareHouseOngoing",
+    "Name": "シェアハウス解禁イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 130,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_ManCatalogShop",
+    "Name": "ナッティーカタログ販売アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 131,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqManTalkAboutCatalogShop",
+    "Name": "ナッティーカタログの説明を見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 132,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqManTalkAboutChocolate",
+    "Name": "お土産チョコレートの説明を見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 133,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "IsMncChangeStageForPhotoMode",
+    "Name": "撮影モード用にニコが配置位置を変更したかどうか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 134,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ResortPlannerFromInspect",
+    "Name": "視察先からリゾートプランナーを起動したか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 135,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "ResortPlannerCancel",
+    "Name": "リゾートプランナーを開いてキャンセルしたか？（ニコ）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 137,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstVisitCustomerArrivalTalk",
+    "Name": "初再訪イベントで別荘到着時の会話を見た",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 138,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "EditHouseBreakReturn",
+    "Name": "エディットを中断して帰って来た（ニコ）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 139,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "VisitHouseReturn",
+    "Name": "訪問して帰って来た",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 141,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgSickDone",
+    "Name": "タクミ体調不良イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 142,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncRecipeDone",
+    "Name": "ニコのレシピイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 143,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqKKRaveStageDone",
+    "Name": "けけフェス：イベント会場完成イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 144,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqKKRave1stDone",
+    "Name": "けけフェス：初回イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 4,
+    "UniqueID": 145,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "SNPCAppearCtrl",
+    "Name": "メインエリアのSNPC出現制御フラグ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 146,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Extension_Cafe",
+    "Name": "施設：カフェ増築アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 147,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Extension_Restaurant",
+    "Name": "施設：レストラン増築アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 148,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Extension_Hospital",
+    "Name": "施設：病院増築アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 149,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteExtensionCafe",
+    "Name": "施設：カフェの増築が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 150,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteExtensionRestaurant",
+    "Name": "施設：レストランの増築が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 151,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteExtensionHospital",
+    "Name": "施設：病院の増築が完成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 152,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Insect",
+    "Name": "ムシ配置アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 153,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_FlowerCatalog",
+    "Name": "花の交配種カタログ解禁アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 154,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_01",
+    "Name": "柱・間仕切りカタログ解禁アンロック１",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 155,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_02",
+    "Name": "柱・間仕切りカタログ解禁アンロック２",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 156,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NnpcSetHiddenInOffice",
+    "Name": "事務所内の一般NPCを非表示にする",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 157,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncEventLesson01",
+    "Name": "ウェアラン訪問処理（日跨ぎ）でニコのレッスンイベント１を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 158,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncEventLesson02",
+    "Name": "ウェアラン訪問処理（日跨ぎ）でニコのレッスンイベント２を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 65535,
+    "UniqueID": 159,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "HospitalDonation",
+    "Name": "病院の募金額",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 161,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SetManOfficeChair",
+    "Name": "ナッティー用の椅子が配置されたか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 162,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "BoaHospitalEvent",
+    "Name": "病院にカブリバを出す",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 163,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "GetCookingFtrToday",
+    "Name": "レストラン｜今日、料理家具をもらった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 164,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "GetCookingRecipeToday",
+    "Name": "レストラン｜今日、料理レシピをもらった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 165,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "GetMedicalEquipToday",
+    "Name": "病院｜今日、医療装備をもらった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 166,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "BoaGetTurnipToday",
+    "Name": "病院｜今日、カブをもらった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 170,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "KKFesIsAnnounce",
+    "Name": "本日けけフェスの告知を見たか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 171,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "FirstKKFesStep",
+    "Name": "初回けけフェス状態",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 172,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "IsFirstKKFesDay",
+    "Name": "初回けけフェス当日か?",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 173,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "BridgeFromGrowUp",
+    "Name": "訪問処理（日跨ぎ）によって桟橋移動した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 174,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "RequestEndShareHouseDemo",
+    "Name": "シェアハウス解散デモを予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 175,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CookGiveItemFailed",
+    "Name": "レストラン｜料理家具を受け取れなかった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 176,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "TraineeGiveItemFailed",
+    "Name": "レストラン｜料理レシピを受け取れなかった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 177,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IsFacilityEditStartDemo",
+    "Name": "施設作成デモが発生しているか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 178,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NeedNoticeHouseDesign",
+    "Name": "OneRoom序盤に自宅リフォーム未解禁だった？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 180,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncGardenEditTalk",
+    "Name": "ニコから庭エディットの案内を聞いた",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 181,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "ChocolateDemoEnd",
+    "Name": "チョコレート勧誘デモが終わった直後か",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 182,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxStone",
+    "Name": "ニコ素材BOX保存用フラグ：いし",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 183,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_MessageBottle",
+    "Name": "メッセージボトル漂着アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 185,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxIron",
+    "Name": "ニコ素材BOX保存用フラグ：てっこうせき",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 186,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxWoodSoft",
+    "Name": "ニコ素材BOX保存用フラグ：やわらかいもくざい",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 187,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxWoodNormal",
+    "Name": "ニコ素材BOX保存用フラグ：もくざい",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 188,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxClay",
+    "Name": "ニコ素材BOX保存用フラグ：ねんど",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 189,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncDIYRecipeOngoing",
+    "Name": "ニコのDIYレシピイベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 190,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IsFacilityEditEndIndoorDemo",
+    "Name": "施設完成デモ(内装)が発生中か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 194,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqIntimateDustCloth",
+    "Name": "雑巾を使うナッティーのイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 50,
+    "UniqueID": 195,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventTeacherPosX",
+    "Name": "授業イベント用の先生の配置位置(X)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 50,
+    "UniqueID": 196,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventTeacherPosZ",
+    "Name": "授業イベント用の先生の配置位置(Z)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2047,
+    "UniqueID": 197,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventPlayerPosX",
+    "Name": "授業イベント用のプレイヤーの配置位置(X)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2047,
+    "UniqueID": 198,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventPlayerPosZ",
+    "Name": "授業イベント用のプレイヤーの配置位置(Z)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 360,
+    "UniqueID": 199,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventTeacherAngle",
+    "Name": "授業イベント用の先生の向き",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 360,
+    "UniqueID": 200,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventPlayerAngle",
+    "Name": "授業イベント用のプレイヤーの向き",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 201,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventIsPlayerSitChair",
+    "Name": "授業イベントでプレイヤーが座るかどうか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 202,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_MncBox",
+    "Name": "事務所：素材ボックスアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 203,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncGardenThemeTalk",
+    "Name": "庭お題の初回会話を見た",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 204,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqAvailableAmiiboDone",
+    "Name": "amiibo読取機解禁イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 205,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IsChocolateDemoRun",
+    "Name": "チョコレート勧誘デモ：走り抜ける状態か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 206,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxRemovePresent",
+    "Name": "ニコ素材BOX：アイテムを渡した日か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 207,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgSickOngoing",
+    "Name": "タクミの体調不良イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 208,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_ManDeferredPayment",
+    "Name": "ナッティー後払いアンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 209,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SetDustClothPosInOffice",
+    "Name": "雑巾を使うイベントのキャラクタ配置にする",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 210,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "BoaTalkedWherearen",
+    "Name": "カブリバ｜島で会話した事ある",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 211,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "BoaTalkToday",
+    "Name": "カブリバ｜本日、会話した？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 212,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "OtgWithoutMakeup",
+    "Name": "タクミ｜すっぴんにする",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 16,
+    "UniqueID": 214,
+    "5140e4b4 u8": 4,
+    "FlagsFlowAccess": 2,
+    "Key": "ChocolateNpcWherearenIndex",
+    "Name": "チョコレート勧誘デモ：勧誘したNPCの格納されている位置",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 215,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NpcGeneratePreDustClothTemp",
+    "Name": "まごころ雑巾前振りイベント用の配置予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 234,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FirstOfficeChestFlag",
+    "Name": "初めて事務所ロッカーにアクセスした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 235,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqTakeOrderTutorialDone",
+    "Name": "受注チュートリアルが完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 239,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "AfterFirstKKFesCount",
+    "Name": "初回けけフェス後の新築完成数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2048,
+    "UniqueID": 240,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "RestaurantTraineeRecipeIndex",
+    "Name": "料理人見習いの料理レシピIndex",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 241,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgTalkTakeOrderTutorial",
+    "Name": "受注チュートリアルでタクミの話を聞いた",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 10,
+    "UniqueID": 243,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "ShopFtrHighRankCancel",
+    "Name": "売店でランク5商品禁止日数カウンター",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 50000,
+    "UniqueID": 245,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "DailyExchangePoki",
+    "Name": "1日に両替したポキ金額",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 246,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstVisitCustomerMncTalk",
+    "Name": "初再訪イベントでニコと話した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 50000,
+    "UniqueID": 248,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "DailyExchangeBell",
+    "Name": "1日に両替したベル金額",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 249,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgSickFinish",
+    "Name": "タクミの体調不良イベントが完了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 250,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutChangeBridge",
+    "Name": "橋・坂の外観変更の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 251,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqLocationTutorialDone",
+    "Name": "土地選択の説明を見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 252,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqKKFesStartBuildStageDone",
+    "Name": "けけフェス：イベント会場設営開始イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 253,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "KKFesPrePare",
+    "Name": "初回ケケフェス準備段階",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 254,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "mncLongTimeNoSee",
+    "Name": "ニコ久々会話フラグ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 255,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_WorkingTable",
+    "Name": "事務所：作業台アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 256,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FacilityPreEditTalkDone",
+    "Name": "施設の初回エディット開始時の説明を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 257,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WhichBuildRestaurantCafe",
+    "Name": "レストラン(1)orカフェ(0)どちらの新築？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 258,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncLessonDone",
+    "Name": "ニコの授業イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 260,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqRestaurantEdit2Ongoing",
+    "Name": "残りの飲食店を作るイベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 261,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqEnvSoundOngoing",
+    "Name": "環境音解禁イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 262,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RcoGenerateInOfficeTemp",
+    "Name": "たぬきち|事務所内への生成を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 263,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncEntryOfficeReserve",
+    "Name": "ニコ|事務所内イベントでの途中入場を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 264,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqPartyPatternedDone",
+    "Name": "定型打ち上げイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 65535,
+    "UniqueID": 265,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "HospitalDonationHigh",
+    "Name": "病院の募金額(上位)",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 266,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteHospitalDonation",
+    "Name": "病院募金の目標額を達成した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 100,
+    "UniqueID": 268,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RainbowProbability",
+    "Name": "虹発生確率",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 269,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RainbowNum",
+    "Name": "虹発生状況",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 272,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_NPC_10",
+    "Name": "NPC解禁：カベタス解禁直前",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 273,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "MoonKKFesUnlockRestDays",
+    "Name": "初回KKフェス後の月齢フェス解禁残り日数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 274,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxWoodHard",
+    "Name": "ニコ素材BOX保存用フラグ：かたいもくざい",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 275,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "IsOrderedNewNpcHouse",
+    "Name": "NPC別荘の新築依頼を受けたか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 277,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqPartyFDone",
+    "Name": "F昇格打ち上げイベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 2,
+    "UniqueID": 278,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "RainbowReserve",
+    "Name": "虹予約状況",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 279,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "IsFParty",
+    "Name": "F昇格打ち上げイベント中か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 280,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "HgcCongratsWherearenTailor",
+    "Name": "ことの｜服屋完成のお祝い聞いたか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 281,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IsGetPartyItem40",
+    "Name": "40件目の打ち上げデモ報酬をもらったか？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 283,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "ReturnWithOtg",
+    "Name": "タクミと一緒に訪問帰還した（タクミ/ニコ別荘）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 284,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqCeilingEventReady",
+    "Name": "天井家具解禁イベントが発生する状況か",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 286,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CompleteHospitalDonation_Today",
+    "Name": "病院募金の目標額を達成した（当日）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 287,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "RoomSketchPaste",
+    "Name": "ルームスケッチのペーストを行った",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 360,
+    "UniqueID": 288,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SchoolEventDeskAngle",
+    "Name": "授業イベント用の教卓の向き",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 7,
+    "UniqueID": 289,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WorkModeNewItemGrade",
+    "Name": "お仕事コーデ｜newアイテムを表示したグレード",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 290,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "WorkModeNewItemLook",
+    "Name": "お仕事コーデ｜newアイテムを見たか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 291,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFacilityIntroOngoing",
+    "Name": "施設の導入イベントが進行中",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 292,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutWorkMode",
+    "Name": "お仕事コーデ選択画面の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 293,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutHouseOrderCatalog",
+    "Name": "オーダーカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 294,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutIslandMap",
+    "Name": "諸島マップの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 295,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutFenceAndRoad",
+    "Name": "柵＆道造成の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 296,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutHouseCastUI",
+    "Name": "別荘キャストUIの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 297,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutPhotoRegistration",
+    "Name": "初写真登録の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 298,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutFacilityOrderCatalog",
+    "Name": "施設オーダーカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 299,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutInteriorModePlus_RoomSize",
+    "Name": "インテリアモード＋部屋サイズの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 300,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutFacilityRoleCastUI",
+    "Name": "役職専用キャストUIの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 301,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutOrderCatalog_CrossWall",
+    "Name": "しきりかべ解禁後のカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 302,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutOrderCatalog_RareFlower",
+    "Name": "レア花解禁後のカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 303,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutAmibo_FullOpen",
+    "Name": "amiiboで全要素解禁の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 304,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutAmibo_NpcMode",
+    "Name": "Amibo解禁後のNPC移動モード初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 305,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutAmibo_FacilityRoleCastUI",
+    "Name": "Amibo解禁後の施設キャストUI初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 306,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutMagokoroRag1",
+    "Name": "まごころ雑巾の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 307,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutMagokoroRag2",
+    "Name": "まごころ雑巾追加1回目の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 308,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutMagokoroRag3",
+    "Name": "まごころ雑巾追加2回目の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 309,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutOrderCatalog_MainIslandCatalog",
+    "Name": "本島カタログ解禁後のカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 310,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutOrderCatalog_Diy",
+    "Name": "DIY家具解禁後のカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 311,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutOrderCatalog_Counter",
+    "Name": "カウンター授業後にカタログ開いたときのの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 312,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutInsectEdit",
+    "Name": "ムシエディットの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 313,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutCameraLstOff",
+    "Name": "カメラアプリでLstでキャラ非表示機能の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 315,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Item_Event_After_Facility_School",
+    "Name": "アイテム解禁：学校完成後アンロック",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 316,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "IsDoneOrderPostUnlockCeiling",
+    "Name": "天井家具解禁後OneRoom依頼を行ったか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 317,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutInteriorModePro",
+    "Name": "もようがえライセンス説明の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 319,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "OtgTalkEntranceRestaurant",
+    "Name": "タクミ｜事務所入場会話で飲食店の話を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 320,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncBoxEventReady",
+    "Name": "素材ボックス解禁イベントの発生条件を満たした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 321,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqOtgTalkAboutChocolate",
+    "Name": "お土産チョコレート啓蒙イベントを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 322,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 2,
+    "Key": "ManDustCloth",
+    "Name": "ナッティー｜バンダナを装備させる",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 323,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqMncGardenInsectTalk",
+    "Name": "ムシ配置の啓蒙会話を見た",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 324,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstVisitCustomerHowToGo",
+    "Name": "初再訪イベントで訪問先選択の説明を聞いた",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 325,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FirstOfficeStoreroomFlag",
+    "Name": "初めて事務所のキャビネットにアクセスした",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 326,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "HasOpenedOfficeDoor",
+    "Name": "事務所ドアを開けたことがあるか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 332,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_Brick",
+    "Name": "柱・間仕切りカタログ解禁（レンガ）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 333,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_Concrete",
+    "Name": "柱・間仕切りカタログ解禁（コンクリート）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 334,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_Steel",
+    "Name": "柱・間仕切りカタログ解禁（スチール）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 335,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_Plain",
+    "Name": "柱・間仕切りカタログ解禁（シンプル）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 336,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_PillarCatalog_Marble",
+    "Name": "柱・間仕切りカタログ解禁（だいりせき）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 6,
+    "UniqueID": 337,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxProgress",
+    "Name": "ニコの素材BOXクリア進捗",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 338,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "ManSetAfterTalkEnvSound",
+    "Name": "ナッティー|環境音解禁後の会話を予約",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 339,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxReadMemo",
+    "Name": "ニコの素材BOX内のメモを読んだ？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 340,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxBranch",
+    "Name": "ニコ素材BOX保存用フラグ：きのえだ",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 341,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncBoxGold",
+    "Name": "ニコ素材BOX保存用フラグ：きんこうせき",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 342,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 1,
+    "Key": "IsBuiltAllNpcHouse",
+    "Name": "全NPCが諸島民になったかどうか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 343,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutWarehouse",
+    "Name": "事務所２F倉庫の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 344,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "OtgTalkTodayJustBeforeTailor",
+    "Name": "タクミ｜この日服屋作成直前の会話を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 345,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "FirstHouseAppearanceUI",
+    "Name": "家外観選択画面にはじめてはいった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 346,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutMyHomeParts",
+    "Name": "P自宅用の外観パーツが追加された初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 347,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutHouseShape",
+    "Name": "家の形状が選べるようになった初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 348,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutManCatalog",
+    "Name": "ナッティーカタログの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 99,
+    "UniqueID": 349,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "ApproachSelectMissedCount",
+    "Name": "アプローチNPC抽選で連続で外し続けた回数",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 350,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "OtgTalkAfterParty2",
+    "Name": "タクミ｜20件打ち上げ後の会話を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 351,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "IsAfterFirstKKFesDay",
+    "Name": "初回けけフェスの翌日以降か？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 352,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "PutAmiiboDeviceInOffice",
+    "Name": "事務所にamiibo読取機を設置",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 353,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "GetPlumeriaToday",
+    "Name": "学校｜今日、プルメリアを受け取った",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 354,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "TeacherGiveItemFailed",
+    "Name": "学校｜プルメリアを受け取れなかった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 355,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutFenceOnly",
+    "Name": "柵＆道モードで道がない状態の初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 356,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutRoadOnly",
+    "Name": "道が追加された状態でモードの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 359,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Party1",
+    "Name": "打ち上げ装備品解禁１",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 360,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "Unlock_Party2",
+    "Name": "打ち上げ装備品解禁２",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 362,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ReceptionTalkAboutHospital",
+    "Name": "受付から病院の説明を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 363,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqSameLocationRemindDone",
+    "Name": "同じ土地を選択できる旨の再説明を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 364,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeAboutMagokoroMyDesign",
+    "Name": "まごころのマイデザインの初回ダイアログを見た？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 365,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "TeacherTalkedNow",
+    "Name": "先生と初会話した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 366,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "DoctorEventStart",
+    "Name": "医者イベント開始したか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 367,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CookTalkedNow",
+    "Name": "料理長と初会話した",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 368,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "BoaGiveTurnipFailed",
+    "Name": "病院｜カブを受け取れなかった",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 369,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 0,
+    "Key": "IsFirstKKFesForceEnd",
+    "Name": "初回フェスの本島ライブ由来による終了",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 370,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "SeqFirstSelectExtentionDone",
+    "Name": "商談で階数選択の初回説明を聞いた？",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 372,
+    "5140e4b4 u8": 3,
+    "FlagsFlowAccess": 1,
+    "Key": "IsDisableOtgWorkMotion",
+    "Name": "タクミちゃんの仕事モーションが禁止されていたかどうか",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 373,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "MncGenerateInOfficeRestaurantEdit2",
+    "Name": "ニコ|事務所内への生成を予約（残りの飲食店用）",
+    "SendPlayReport": 1
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 374,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "HospitalReceptionFlag",
+    "Name": "病院｜受付フラグ",
+    "SendPlayReport": 1
+  }
+]

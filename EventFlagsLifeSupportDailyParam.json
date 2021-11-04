@@ -18,6 +18,7 @@
     "Key": "SellWeed",
     "Name": "村清掃活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 2
   },
@@ -40,6 +41,7 @@
     "Key": "WaterPlant",
     "Name": "水やり活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 2
   },
@@ -62,6 +64,7 @@
     "Key": "JudgeFossil",
     "Name": "化石発掘調査活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 3
   },
@@ -84,6 +87,7 @@
     "Key": "CatchFish",
     "Name": "釣り促進活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -106,6 +110,7 @@
     "Key": "CatchInsect",
     "Name": "ムシとり促進活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -128,6 +133,7 @@
     "Key": "StrikeRock",
     "Name": "毎日コツコツ活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 3
   },
@@ -150,6 +156,7 @@
     "Key": "PlantFlowerSeed",
     "Name": "花の種まき活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -172,6 +179,7 @@
     "Key": "SellShell",
     "Name": "潮干狩り活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -194,6 +202,7 @@
     "Key": "CutTree",
     "Name": "木材産出活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 3
   },
@@ -216,6 +225,7 @@
     "Key": "SellFruit",
     "Name": "フルーツ出荷活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 2
   },
@@ -238,6 +248,7 @@
     "Key": "PlantFruit",
     "Name": "フルーツ栽培活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 2
   },
@@ -260,6 +271,7 @@
     "Key": "PlantTreeSeedling",
     "Name": "植樹活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -282,6 +294,7 @@
     "Key": "PlantBambooShoot",
     "Name": "竹栽培活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 1
   },
@@ -304,6 +317,7 @@
     "Key": "TalkVillager",
     "Name": "村のあいさつ活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -326,6 +340,7 @@
     "Key": "HewDownTree",
     "Name": "開拓活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 1
   },
@@ -348,6 +363,7 @@
     "Key": "DIYItem",
     "Name": "DIY活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -370,6 +386,7 @@
     "Key": "CatchAgehacho",
     "Name": "アゲハチョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -392,6 +409,7 @@
     "Key": "CatchSame",
     "Name": "サメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -414,6 +432,7 @@
     "Key": "SellItem",
     "Name": "リサイクル活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -436,6 +455,7 @@
     "Key": "GatherMushroom",
     "Name": "きのこ採集活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 3
   },
@@ -458,6 +478,7 @@
     "Key": "ShootDownBalloon",
     "Name": "風船撃ち落し活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -480,6 +501,7 @@
     "Key": "BuildSnowman",
     "Name": "ゆきだるま作り活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -502,6 +524,7 @@
     "Key": "AchieveQuest",
     "Name": "思いやり活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -519,11 +542,12 @@
     "CanSelectEDay": 0,
     "CancelEDay": 0,
     "CountOtherVillage": 1,
-    "FlagsFlowAccess": 0,
+    "FlagsFlowAccess": 2,
     "IsEDay": 0,
     "Key": "BuyItem",
     "Name": "お買い物促進活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -546,6 +570,7 @@
     "Key": "PayPoint",
     "Name": "村活ポイント還元活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -568,6 +593,7 @@
     "Key": "CatchSnowCrystal",
     "Name": "ゆきのけっしょうゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -590,6 +616,7 @@
     "Key": "CatchAosujiageha",
     "Name": "アオスジアゲハゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -612,6 +639,7 @@
     "Key": "CatchAkaeritoribaneageha",
     "Name": "アカエリトリバネアゲハゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -634,6 +662,7 @@
     "Key": "CatchAkiakane",
     "Name": "アキアカネゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -656,6 +685,7 @@
     "Key": "CatchAburazemi",
     "Name": "アブラゼミゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -678,6 +708,7 @@
     "Key": "CatchAmenbo",
     "Name": "アメンボゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -700,6 +731,7 @@
     "Key": "CatchAri",
     "Name": "アリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -722,6 +754,7 @@
     "Key": "CatchArekisandoratoribaneageha",
     "Name": "アレキサンドラトリバネアゲハゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -744,6 +777,7 @@
     "Key": "CatchInago",
     "Name": "イナゴゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -766,6 +800,7 @@
     "Key": "CatchOugononikuwagata",
     "Name": "オウゴンオニクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -788,6 +823,7 @@
     "Key": "CatchOhkabamadara",
     "Name": "オオカバマダラゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -810,6 +846,7 @@
     "Key": "CatchOhkuwagata",
     "Name": "オオクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -832,6 +869,7 @@
     "Key": "CatchOhgomamadara",
     "Name": "オオゴママダラゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -854,6 +892,7 @@
     "Key": "CatchOhsenchikogane",
     "Name": "オオセンチコガネゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -876,6 +915,7 @@
     "Key": "CatchOhmurasaki",
     "Name": "オオムラサキゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -898,6 +938,7 @@
     "Key": "CatchOkera",
     "Name": "オケラゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -920,6 +961,7 @@
     "Key": "CatchOniyanma",
     "Name": "オニヤンマゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -942,6 +984,7 @@
     "Key": "CatchKa",
     "Name": "カゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -964,6 +1007,7 @@
     "Key": "CatchGa",
     "Name": "ガゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -986,6 +1030,7 @@
     "Key": "CatchKatatsumuri",
     "Name": "カタツムリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1008,6 +1053,7 @@
     "Key": "CatchKanabun",
     "Name": "カナブンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1030,6 +1076,7 @@
     "Key": "CatchKabutomushi",
     "Name": "カブトムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1052,6 +1099,7 @@
     "Key": "CatchKamakiri",
     "Name": "カマキリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1074,6 +1122,7 @@
     "Key": "CatchKamemushi",
     "Name": "カメムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1096,6 +1145,7 @@
     "Key": "CatchKarasuageha",
     "Name": "カラスアゲハゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1118,6 +1168,7 @@
     "Key": "CatchGirafanokogirikuwagata",
     "Name": "ギラファノコギリクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1140,6 +1191,7 @@
     "Key": "CatchKirigirisu",
     "Name": "キリギリスゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1162,6 +1214,7 @@
     "Key": "CatchGinyanma",
     "Name": "ギンヤンマゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1184,6 +1237,7 @@
     "Key": "CatchKumazemi",
     "Name": "クマゼミゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1206,6 +1260,7 @@
     "Key": "CatchKumo",
     "Name": "クモゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1228,6 +1283,7 @@
     "Key": "CatchGengorou",
     "Name": "ゲンゴロウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1250,6 +1306,7 @@
     "Key": "CatchKohkasasuohkabuto",
     "Name": "コーカサスオオカブトゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1272,6 +1329,7 @@
     "Key": "CatchKohrogi",
     "Name": "コオロギゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1294,6 +1352,7 @@
     "Key": "CatchKonohamushi",
     "Name": "コノハムシゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1316,6 +1375,7 @@
     "Key": "CatchGomadarakamikiri",
     "Name": "ゴマダラカミキリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1338,6 +1398,7 @@
     "Key": "CatchGoraiasuohtsunohanamuguri",
     "Name": "ゴライアスオオツノハナムグリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1360,6 +1421,7 @@
     "Key": "CatchSasori",
     "Name": "サソリゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1382,6 +1444,7 @@
     "Key": "CatchShoryobatta",
     "Name": "ショウリョウバッタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1404,6 +1467,7 @@
     "Key": "CatchJinmenkamemushi",
     "Name": "ジンメンカメムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1426,6 +1490,7 @@
     "Key": "CatchSuzumushi",
     "Name": "スズムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1448,6 +1513,7 @@
     "Key": "CatchSeminonukegara",
     "Name": "セミのぬけがらゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1470,6 +1536,7 @@
     "Key": "CatchZoukabuto",
     "Name": "ゾウカブトゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1492,6 +1559,7 @@
     "Key": "CatchTamamushi",
     "Name": "タマムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1514,6 +1582,7 @@
     "Key": "CatchTaranchura",
     "Name": "タランチュラゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1536,6 +1605,7 @@
     "Key": "CatchDangomushi",
     "Name": "ダンゴムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1558,6 +1628,7 @@
     "Key": "CatchTsukutsukuhousi",
     "Name": "ツクツクホウシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1580,6 +1651,7 @@
     "Key": "CatchTentoumushi",
     "Name": "テントウムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1602,6 +1674,7 @@
     "Key": "CatchTonosamabatta",
     "Name": "トノサマバッタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1624,6 +1697,7 @@
     "Key": "CatchNanafushi",
     "Name": "ナナフシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1646,6 +1720,7 @@
     "Key": "CatchNijiirokuwagata",
     "Name": "ニジイロクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1668,6 +1743,7 @@
     "Key": "CatchNishikiohtsubamega",
     "Name": "ニシキオオツバメガゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1690,6 +1766,7 @@
     "Key": "CatchNokogirikuwagata",
     "Name": "ノコギリクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1712,6 +1789,7 @@
     "Key": "CatchNomi",
     "Name": "ノミゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1734,6 +1812,7 @@
     "Key": "CatchBaiorinmushi",
     "Name": "バイオリンムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1756,6 +1835,7 @@
     "Key": "CatchHae",
     "Name": "ハエゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1778,6 +1858,7 @@
     "Key": "CatchHachi",
     "Name": "ハチゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1800,6 +1881,7 @@
     "Key": "CatchHanakamakiri",
     "Name": "ハナカマキリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1822,6 +1904,7 @@
     "Key": "CatchHanmyou",
     "Name": "ハンミョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1844,6 +1927,7 @@
     "Key": "CatchHigurashi",
     "Name": "ヒグラシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1866,6 +1950,7 @@
     "Key": "CatchFunamushi",
     "Name": "フナムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1888,6 +1973,7 @@
     "Key": "CatchPurachinakogane",
     "Name": "プラチナコガネゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1910,6 +1996,7 @@
     "Key": "CatchFunkorogashi",
     "Name": "フンコロガシゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1932,6 +2019,7 @@
     "Key": "CatchHerakuresuohkabuto",
     "Name": "ヘラクレスオオカブトゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1954,6 +2042,7 @@
     "Key": "CatchHousekizoumushi",
     "Name": "ホウセキゾウムシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1976,6 +2065,7 @@
     "Key": "CatchHosoakakuwagata",
     "Name": "ホソアカクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -1998,6 +2088,7 @@
     "Key": "CatchHotaru",
     "Name": "ホタルゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2020,6 +2111,7 @@
     "Key": "CatchMiirotateha",
     "Name": "ミイロタテハゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2042,6 +2134,7 @@
     "Key": "CatchMitsubachi",
     "Name": "ミツバチゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2064,6 +2157,7 @@
     "Key": "CatchMinomushi",
     "Name": "ミノムシゲット活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2086,6 +2180,7 @@
     "Key": "CatchMiyamakuwagata",
     "Name": "ミヤマクワガタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2108,6 +2203,7 @@
     "Key": "CatchMinminzemi",
     "Name": "ミンミンゼミゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2130,6 +2226,7 @@
     "Key": "CatchMukade",
     "Name": "ムカデゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2152,6 +2249,7 @@
     "Key": "CatchMorufuocho",
     "Name": "モルフォチョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2174,6 +2272,7 @@
     "Key": "CatchMonkicho",
     "Name": "モンキチョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2196,6 +2295,7 @@
     "Key": "CatchMonshirocho",
     "Name": "モンシロチョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2218,6 +2318,7 @@
     "Key": "CatchYadokari",
     "Name": "ヤドカリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2240,6 +2341,7 @@
     "Key": "CatchYonagunisan",
     "Name": "ヨナグニサンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2262,6 +2364,7 @@
     "Key": "CatchRuriboshikamikiri",
     "Name": "ルリボシカミキリゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2284,6 +2387,7 @@
     "Key": "CatchAji",
     "Name": "アジゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2306,6 +2410,7 @@
     "Key": "CatchAyu",
     "Name": "アユゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2328,6 +2433,7 @@
     "Key": "CatchArowana",
     "Name": "アロワナゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2350,6 +2456,7 @@
     "Key": "CatchAntyobi",
     "Name": "アンチョビゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2372,6 +2479,7 @@
     "Key": "CatchYellowparch",
     "Name": "イエローパーチゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2394,6 +2502,7 @@
     "Key": "CatchIka",
     "Name": "イカゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2416,6 +2525,7 @@
     "Key": "CatchIshidai",
     "Name": "イシダイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2438,6 +2548,7 @@
     "Key": "CatchItou",
     "Name": "イトウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2460,6 +2571,7 @@
     "Key": "CatchUgui",
     "Name": "ウグイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2482,6 +2594,7 @@
     "Key": "CatchUtsubo",
     "Name": "ウツボゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2504,6 +2617,7 @@
     "Key": "CatchEi",
     "Name": "エイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2526,6 +2640,7 @@
     "Key": "CatchAngelfish",
     "Name": "エンゼルフィッシュゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2548,6 +2663,7 @@
     "Key": "CatchEndorikerii",
     "Name": "エンドリケリーゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2570,6 +2686,7 @@
     "Key": "CatchOikawa",
     "Name": "オイカワゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2592,6 +2709,7 @@
     "Key": "CatchOoiwana",
     "Name": "オオイワナゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2614,6 +2732,7 @@
     "Key": "CatchOtamajakusi",
     "Name": "オタマジャクシゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2636,6 +2755,7 @@
     "Key": "CatchGar",
     "Name": "ガーゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2658,6 +2778,7 @@
     "Key": "CatchKaeru",
     "Name": "カエルゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2680,6 +2801,7 @@
     "Key": "CatchKajiki",
     "Name": "カジキゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2702,6 +2824,7 @@
     "Key": "CatchKamitsukigame",
     "Name": "カミツキガメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2724,6 +2847,7 @@
     "Key": "CatchKarei",
     "Name": "カレイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2746,6 +2870,7 @@
     "Key": "CatchKingyo",
     "Name": "キンギョゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2768,6 +2893,7 @@
     "Key": "CatchKingsalmon",
     "Name": "キングサーモンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2790,6 +2916,7 @@
     "Key": "CatchGuppi",
     "Name": "グッピーゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2812,6 +2939,7 @@
     "Key": "CatchKumanomi",
     "Name": "クマノミゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2834,6 +2962,7 @@
     "Key": "CatchKurione",
     "Name": "クリオネゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2856,6 +2985,7 @@
     "Key": "CatchKoi",
     "Name": "コイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2878,6 +3008,7 @@
     "Key": "CatchGoldenTorauto",
     "Name": "ゴールデントラウトゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2900,6 +3031,7 @@
     "Key": "CatchKobanzame",
     "Name": "コバンザメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2922,6 +3054,7 @@
     "Key": "CatchSake",
     "Name": "サケゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2944,6 +3077,7 @@
     "Key": "CatchZarigani",
     "Name": "ザリガニゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2966,6 +3100,7 @@
     "Key": "CatchShiira",
     "Name": "シイラゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -2988,6 +3123,7 @@
     "Key": "CatchSirakansu",
     "Name": "シーラカンスゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3010,6 +3146,7 @@
     "Key": "CatchSyanhaigani",
     "Name": "シャンハイガニゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3032,6 +3169,7 @@
     "Key": "CatchShumokuzame",
     "Name": "シュモクザメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3054,6 +3192,7 @@
     "Key": "CatchJinbeezame",
     "Name": "ジンベエザメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3076,6 +3215,7 @@
     "Key": "CatchSuzuki",
     "Name": "スズキゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3098,6 +3238,7 @@
     "Key": "CatchSuppon",
     "Name": "スッポンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3120,6 +3261,7 @@
     "Key": "CatchTai",
     "Name": "タイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3142,6 +3284,7 @@
     "Key": "CatchTatsunootoshigo",
     "Name": "タツノオトシゴゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3164,6 +3307,7 @@
     "Key": "CatchTanago",
     "Name": "タナゴゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3186,6 +3330,7 @@
     "Key": "CatchTyouzame",
     "Name": "チョウザメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3208,6 +3353,7 @@
     "Key": "CatchChouchouuo",
     "Name": "チョウチョウウオゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3230,6 +3376,7 @@
     "Key": "CatchChouchinankou",
     "Name": "チョウチンアンコウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3252,6 +3399,7 @@
     "Key": "CatchThirapia",
     "Name": "ティラピアゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3274,6 +3422,7 @@
     "Key": "CatchDemekin",
     "Name": "デメキンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3296,6 +3445,7 @@
     "Key": "CatchDemenigisu",
     "Name": "デメニギスゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3318,6 +3468,7 @@
     "Key": "CatchDokutaafish",
     "Name": "ドクターフィッシュゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3340,6 +3491,7 @@
     "Key": "CatchDojou",
     "Name": "ドジョウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3362,6 +3514,7 @@
     "Key": "CatchDolado",
     "Name": "ドラドゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3384,6 +3537,7 @@
     "Key": "CatchDonko",
     "Name": "ドンコゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3406,6 +3560,7 @@
     "Key": "CatchNaporeonfish",
     "Name": "ナポレオンフィッシュゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3428,6 +3583,7 @@
     "Key": "CatchNamazu",
     "Name": "ナマズゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3450,6 +3606,7 @@
     "Key": "CatchNanyouhagi",
     "Name": "ナンヨウハギゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3472,6 +3629,7 @@
     "Key": "CatchNishikigoi",
     "Name": "ニシキゴイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3494,6 +3652,7 @@
     "Key": "CatchNeontetora",
     "Name": "ネオンテトラゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3516,6 +3675,7 @@
     "Key": "CatchNokogirizame",
     "Name": "ノコギリザメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3538,6 +3698,7 @@
     "Key": "CatchPaiku",
     "Name": "パイクゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3560,6 +3721,7 @@
     "Key": "CatchHanahigeutubo",
     "Name": "ハナヒゲウツボゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3582,6 +3744,7 @@
     "Key": "CatchHarisenbon",
     "Name": "ハリセンボンゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3604,6 +3767,7 @@
     "Key": "CatchPirania",
     "Name": "ピラニアゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3626,6 +3790,7 @@
     "Key": "CatchHirame",
     "Name": "ヒラメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3648,6 +3813,7 @@
     "Key": "CatchPiraruku",
     "Name": "ピラルクゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3670,6 +3836,7 @@
     "Key": "CatchFugu",
     "Name": "フグゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3692,6 +3859,7 @@
     "Key": "CatchFuna",
     "Name": "フナゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3714,6 +3882,7 @@
     "Key": "CatchBlackbass",
     "Name": "ブラックバスゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3736,6 +3905,7 @@
     "Key": "CatchBlueguill",
     "Name": "ブルーギルゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3758,6 +3928,7 @@
     "Key": "CatchBeta",
     "Name": "ベタゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3780,6 +3951,7 @@
     "Key": "CatchMaguro",
     "Name": "マグロゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3802,6 +3974,7 @@
     "Key": "CatchManbou",
     "Name": "マンボウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3824,6 +3997,7 @@
     "Key": "CatchMinokasago",
     "Name": "ミノカサゴゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3846,6 +4020,7 @@
     "Key": "CatchMedaka",
     "Name": "メダカゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3868,6 +4043,7 @@
     "Key": "CatchYamame",
     "Name": "ヤマメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3890,6 +4066,7 @@
     "Key": "CatchRaigyo",
     "Name": "ライギョゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3912,6 +4089,7 @@
     "Key": "CatchRyuuguunotukai",
     "Name": "リュウグウノツカイゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3934,6 +4112,7 @@
     "Key": "CatchRainbowfish",
     "Name": "レインボーフィッシュゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3956,6 +4135,7 @@
     "Key": "CatchRouninaji",
     "Name": "ロウニンアジゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -3978,6 +4158,7 @@
     "Key": "CatchWakasagi",
     "Name": "ワカサギゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -4000,6 +4181,7 @@
     "Key": "CatchItotonbo",
     "Name": "イトトンボゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -4022,6 +4204,7 @@
     "Key": "CatchTagame",
     "Name": "タガメゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -4044,6 +4227,7 @@
     "Key": "RemakeFurniture",
     "Name": "リメイク活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -4066,6 +4250,7 @@
     "Key": "UseCloset",
     "Name": "クローゼットでお着替え活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4088,6 +4273,7 @@
     "Key": "SellTodaysFurniture",
     "Name": "高額買取品を売る活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4110,6 +4296,7 @@
     "Key": "CatchRanchu",
     "Name": "ランチュウゲット活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
     "SpecialSelect": 0,
     "Weighting": 3
   },
@@ -4132,6 +4319,7 @@
     "Key": "TakePicture",
     "Name": "カメラで写真を撮る活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4154,6 +4342,7 @@
     "Key": "EDPlantCosmos",
     "Name": "コスモスの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4176,6 +4365,7 @@
     "Key": "EDReplantTree",
     "Name": "フルーツを食べて、木を植え替える活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 1,
     "Weighting": 1
   },
@@ -4198,6 +4388,7 @@
     "Key": "EDPlantPalm",
     "Name": "海岸にヤシの実を植える活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4220,6 +4411,7 @@
     "Key": "EDPlantCosmosSP",
     "Name": "コスモスの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4242,6 +4434,7 @@
     "Key": "EDDIYFence",
     "Name": "花壇用の柵をつくる活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4264,6 +4457,7 @@
     "Key": "EDDIYCorolla",
     "Name": "花を摘んで花冠をつくる活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4286,6 +4480,7 @@
     "Key": "EDDIYFlowerWreath",
     "Name": "花を摘んでリースをつくる活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4308,6 +4503,7 @@
     "Key": "EDSendFlower",
     "Name": "誰かに花を贈る活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4330,6 +4526,7 @@
     "Key": "EDDecorateFlower",
     "Name": "一輪の花を飾る活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4352,6 +4549,7 @@
     "Key": "EDWearFlower",
     "Name": "花飾りを身につける活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 1
   },
@@ -4374,6 +4572,7 @@
     "Key": "EDPlantRose",
     "Name": "バラの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4396,6 +4595,7 @@
     "Key": "EDPlantTulip",
     "Name": "チューリップの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4418,6 +4618,7 @@
     "Key": "EDPlantHyacinth",
     "Name": "ヒヤシンスの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4440,6 +4641,7 @@
     "Key": "EDPlantAnemones",
     "Name": "アネモネの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4462,6 +4664,7 @@
     "Key": "EDPlantPansy",
     "Name": "パンジーの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4484,6 +4687,7 @@
     "Key": "EDPlantYuri",
     "Name": "ユリの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4506,6 +4710,7 @@
     "Key": "EDPlantMum",
     "Name": "キクの種を植える活動（流通済み）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 2
   },
@@ -4528,6 +4733,7 @@
     "Key": "EDPlantRoseSP",
     "Name": "バラの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4550,6 +4756,7 @@
     "Key": "EDPlantTulipSP",
     "Name": "チューリップの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4572,6 +4779,7 @@
     "Key": "EDPlantHyacinthSP",
     "Name": "ヒヤシンスの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4594,6 +4802,7 @@
     "Key": "EDPlantAnemonesSP",
     "Name": "アネモネの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4616,6 +4825,7 @@
     "Key": "EDPlantPansySP",
     "Name": "パンジーの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4638,6 +4848,7 @@
     "Key": "EDPlantYuriSP",
     "Name": "ユリの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4660,6 +4871,7 @@
     "Key": "EDPlantMumSP",
     "Name": "キクの種を植える活動（流通外）",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4682,6 +4894,7 @@
     "Key": "EDPlantShrub",
     "Name": "低木の苗を植える活動",
     "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 4
   },
@@ -4704,6 +4917,122 @@
     "Key": "CatchSeafood",
     "Name": "海の幸GET促進活動",
     "NetPlaySelect": 1,
+    "90caffc6 u8": 0,
+    "SpecialSelect": 0,
+    "Weighting": 3
+  },
+  {
+    "b5761610.HashRef": "Num",
+    "WaitFrame": 60,
+    "AppearValue": 10,
+    "GenreID": 32,
+    "ItemNameUniqueID": 65534,
+    "MaxValue": 8,
+    "MsID": 32,
+    "Reward": 200,
+    "UniqueID": 223,
+    "BonusFive": 1,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 1,
+    "FlagsFlowAccess": 0,
+    "IsEDay": 0,
+    "Key": "WaterVegetable",
+    "Name": "野菜に水やり活動",
+    "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
+    "SpecialSelect": 1,
+    "Weighting": 4
+  },
+  {
+    "b5761610.HashRef": "Num",
+    "WaitFrame": 0,
+    "AppearValue": 0,
+    "GenreID": 31,
+    "ItemNameUniqueID": 65534,
+    "MaxValue": 2,
+    "MsID": 31,
+    "Reward": 150,
+    "UniqueID": 224,
+    "BonusFive": 1,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 0,
+    "FlagsFlowAccess": 0,
+    "IsEDay": 0,
+    "Key": "PlantVegetable",
+    "Name": "野菜を植える活動",
+    "NetPlaySelect": 1,
+    "90caffc6 u8": 1,
+    "SpecialSelect": 0,
+    "Weighting": 4
+  },
+  {
+    "b5761610.HashRef": "Num",
+    "WaitFrame": 0,
+    "AppearValue": 1,
+    "GenreID": 33,
+    "ItemNameUniqueID": 65534,
+    "MaxValue": 1,
+    "MsID": 33,
+    "Reward": 150,
+    "UniqueID": 225,
+    "BonusFive": 0,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 0,
+    "FlagsFlowAccess": 0,
+    "IsEDay": 0,
+    "Key": "GotoCafe",
+    "Name": "喫茶店を利用しよう活動",
+    "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
+    "SpecialSelect": 0,
+    "Weighting": 3
+  },
+  {
+    "b5761610.HashRef": "Num",
+    "WaitFrame": 0,
+    "AppearValue": 1,
+    "GenreID": 34,
+    "ItemNameUniqueID": 65534,
+    "MaxValue": 1,
+    "MsID": 34,
+    "Reward": 150,
+    "UniqueID": 226,
+    "BonusFive": 0,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 1,
+    "FlagsFlowAccess": 2,
+    "IsEDay": 0,
+    "Key": "DoCooking",
+    "Name": "料理をしよう活動",
+    "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
+    "SpecialSelect": 0,
+    "Weighting": 3
+  },
+  {
+    "b5761610.HashRef": "Num",
+    "WaitFrame": 0,
+    "AppearValue": 1,
+    "GenreID": 35,
+    "ItemNameUniqueID": 65534,
+    "MaxValue": 1,
+    "MsID": 35,
+    "Reward": 150,
+    "UniqueID": 227,
+    "BonusFive": 0,
+    "CanSelectEDay": 0,
+    "CancelEDay": 0,
+    "CountOtherVillage": 1,
+    "FlagsFlowAccess": 0,
+    "IsEDay": 0,
+    "Key": "DoRadioGymnastics",
+    "Name": "ラジオ体操をしよう活動",
+    "NetPlaySelect": 0,
+    "90caffc6 u8": 0,
     "SpecialSelect": 0,
     "Weighting": 3
   }

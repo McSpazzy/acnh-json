@@ -439,5 +439,26 @@
     "ModelName": "StrcStudioA00",
     "UseChimneySmoke": 0,
     "UseMyDesign": 0
+  },
+  {
+    "Door0Angle": 0,
+    "85a0fa49.HashRef": "MuseumLevel2",
+    "FacilityModelVariation": "A",
+    "FloorHeight": 30.0,
+    "Door0": 47,
+    "DoorMaterial": 1,
+    "9c2d6dc6 u16": 23,
+    "RoofMaterial": 6,
+    "StructureInfoUniqueID": 21,
+    "UniqueID": 56,
+    "Construction": 0,
+    "GrowLevel": 4,
+    "HasDoorEigyoLight": 0,
+    "HasEigyoLight": 1,
+    "HasNightLight": 0,
+    "IsUseXlink": 0,
+    "ModelName": "StrcMuseumA02",
+    "UseChimneySmoke": 0,
+    "UseMyDesign": 0
   }
 ]

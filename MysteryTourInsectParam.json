@@ -42,5 +42,13 @@
   {
     "UniqueID": 11,
     "TargetInsect": 0
+  },
+  {
+    "UniqueID": 12,
+    "TargetInsect": 255
+  },
+  {
+    "UniqueID": 13,
+    "TargetInsect": 255
   }
 ]

@@ -199,7 +199,7 @@
   },
   {
     "DefaultValue": 0,
-    "MaxValue": 3,
+    "MaxValue": 4,
     "UniqueID": 25,
     "5140e4b4 u8": 0,
     "FlagsFlowAccess": 1,
@@ -478,11 +478,74 @@
   },
   {
     "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 69,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "CoordinateDIYStatus",
+    "Name": "OneRoom | 家コーディネートの作業台の状態"
+  },
+  {
+    "DefaultValue": 0,
     "MaxValue": 36,
     "UniqueID": 70,
     "5140e4b4 u8": 0,
     "FlagsFlowAccess": 0,
     "Key": "WearItemLayer1LayoutLimit",
     "Name": "成長処理家具入替時の装備品の二層目配置候補上限数"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 71,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 2,
+    "Key": "CookingInDIYSchedule",
+    "Name": "DIY予定の時間に料理をするか"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3000,
+    "UniqueID": 72,
+    "5140e4b4 u8": 1,
+    "FlagsFlowAccess": 0,
+    "Key": "MuseumCafeExitTime",
+    "Name": "喫茶ハトの巣|ランダム来店撤収時刻"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 73,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "HouseReset",
+    "Name": "案内所で自宅リセットされた"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 74,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 2,
+    "Key": "ReserveDIYStatus",
+    "Name": "家コーディネートの作業台の状態予約"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 75,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "AudioShuffleState",
+    "Name": "編集された部屋のオーディオのシャッフル設定"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 3,
+    "UniqueID": 76,
+    "5140e4b4 u8": 0,
+    "FlagsFlowAccess": 0,
+    "Key": "IslandKitchenStandPos",
+    "Name": "調理行動時アイランドキッチンの正面側に立つか"
   }
 ]

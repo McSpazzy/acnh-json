@@ -1,0 +1,155 @@
+[
+  {
+    "5fc0d92d string": "BassDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14080,
+    "UniqueID": 8,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "BassDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14081,
+    "UniqueID": 9,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "BassDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14082,
+    "UniqueID": 10,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "BassDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14083,
+    "UniqueID": 11,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "SnareDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14086,
+    "UniqueID": 14,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "SnareDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14087,
+    "UniqueID": 15,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "SnareDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14088,
+    "UniqueID": 16,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "SnareDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14089,
+    "UniqueID": 17,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d string": "SnareDrum",
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14090,
+    "UniqueID": 18,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -0.06661921,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14092,
+    "UniqueID": 20,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -0.06661921,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14093,
+    "UniqueID": 21,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -0.06661921,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14094,
+    "UniqueID": 22,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -0.06661921,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14095,
+    "UniqueID": 23,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -7.879856,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14098,
+    "UniqueID": 26,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -7.879856,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14099,
+    "UniqueID": 27,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -7.879856,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14100,
+    "UniqueID": 28,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  },
+  {
+    "5fc0d92d f32": -7.879856,
+    "9ad7622 f32": 1.0,
+    "RefItemUniqueID": 14101,
+    "UniqueID": 29,
+    "eaaf51c9 u8": 77,
+    "afad124b u8": 60,
+    "9b88ebfe u16": 40
+  }
+]

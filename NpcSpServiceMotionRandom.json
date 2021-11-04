@@ -928,5 +928,255 @@
     "SelectRate": 80,
     "StartHour": 0,
     "Type": 0
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 108,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "man",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 10
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 109,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "mnc",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 110,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "mnc",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 111,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 7,
+    "Label": "doc",
+    "SelectRate": 50,
+    "StartHour": 22,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 112,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "doc",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 113,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "doc",
+    "SelectRate": 20,
+    "StartHour": 22,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 114,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "doc",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 115,
+    "ASCommand": "NpcSpLookUp",
+    "EndHour": 24,
+    "Label": "mnc",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 11
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 116,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 117,
+    "ASCommand": "SkkCoinPlay",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 118,
+    "ASCommand": "NpcSpArrangeShort",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 119,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 120,
+    "ASCommand": "NpcSpCoolWait",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 121,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "skk",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 122,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 123,
+    "ASCommand": "NpcSpHghApron",
+    "EndHour": 24,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 124,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 7,
+    "Label": "slo",
+    "SelectRate": 50,
+    "StartHour": 21,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 125,
+    "ASCommand": "MaReSleepy",
+    "EndHour": 24,
+    "Label": "ttl",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 126,
+    "ASCommand": "NpcSpLookUp",
+    "EndHour": 24,
+    "Label": "bpt",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": 0
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 130,
+    "ASCommand": "NpcSpScratchFace",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 131,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 132,
+    "ASCommand": "NpcSpArrangeHigh",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 80,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 10,
+    "UniqueID": 133,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "fox",
+    "SelectRate": 10,
+    "StartHour": 0,
+    "Type": 12
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 134,
+    "ASCommand": "NpcSpScratchTummy",
+    "EndHour": 24,
+    "Label": "alp",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 0
+  },
+  {
+    "SelectSecond": 15,
+    "UniqueID": 135,
+    "ASCommand": "NpcSpStretch",
+    "EndHour": 24,
+    "Label": "alw",
+    "SelectRate": 50,
+    "StartHour": 0,
+    "Type": 0
   }
 ]

@@ -98,5 +98,89 @@
   {
     "MysteryTourFieldOutside": "NoRiver",
     "UniqueID": 26
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 28
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 29
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 30
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 31
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 32
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 33
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 34
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 35
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 36
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 37
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 38
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 39
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 40
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 41
+  },
+  {
+    "MysteryTourFieldOutside": "NoRiver",
+    "UniqueID": 42
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 43
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 44
+  },
+  {
+    "MysteryTourFieldOutside": "NoRiver",
+    "UniqueID": 45
+  },
+  {
+    "MysteryTourFieldOutside": "NoRiver",
+    "UniqueID": 46
+  },
+  {
+    "MysteryTourFieldOutside": "WestRiver",
+    "UniqueID": 47
+  },
+  {
+    "MysteryTourFieldOutside": "EastRiver",
+    "UniqueID": 48
   }
 ]

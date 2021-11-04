@@ -1,0 +1,18 @@
+[
+  {
+    "UniqueID": 0,
+    "ResName": "FldEnvMap"
+  },
+  {
+    "UniqueID": 1,
+    "ResName": "FldEnvMapIce"
+  },
+  {
+    "UniqueID": 2,
+    "ResName": "FldEnvMapStone"
+  },
+  {
+    "UniqueID": 3,
+    "ResName": "FldEnvMapSand"
+  }
+]

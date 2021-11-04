@@ -160,5 +160,14 @@
     "BeforeDays": 14,
     "EventLabelShort": "Carnival",
     "Timezone": 0
+  },
+  {
+    "SelectRate": 1.0,
+    "Frames": 720,
+    "MusicNo": 219,
+    "UniqueID": 20,
+    "BeforeDays": 0,
+    "EventLabelShort": "EventNone",
+    "Timezone": 0
   }
 ]

@@ -110,5 +110,89 @@
   {
     "UniqueID": 50,
     "Name": "専用EF_カーニバル初回会話_SE"
+  },
+  {
+    "UniqueID": 51,
+    "Name": "専用EF_商談デモでSEを下げる_SE"
+  },
+  {
+    "UniqueID": 52,
+    "Name": "EF_ゲーム内BGMを消す(フェード時間0)_BGM"
+  },
+  {
+    "UniqueID": 53,
+    "Name": "専用EF_イベント00環境音を下げる_SE"
+  },
+  {
+    "UniqueID": 54,
+    "Name": "専用EF_商談に行く前の会話_SE"
+  },
+  {
+    "UniqueID": 55,
+    "Name": "Demo_けけフェスデモ_SE"
+  },
+  {
+    "UniqueID": 56,
+    "Name": "専用EF_かっぺい船歌_SE"
+  },
+  {
+    "UniqueID": 57,
+    "Name": "専用EF_完成デモ_SE"
+  },
+  {
+    "UniqueID": 58,
+    "Name": "専用EF_施設の前で滝の音量を下げる_SE"
+  },
+  {
+    "UniqueID": 59,
+    "Name": "専用EF_ウェアラン日またぎ処理後のつなぎ_ALL"
+  },
+  {
+    "UniqueID": 60,
+    "Name": "専用EF_エディット完了後のファンファーレ_SE"
+  },
+  {
+    "UniqueID": 61,
+    "Name": "専用EF_カフェでコーヒーを飲む_SE"
+  },
+  {
+    "UniqueID": 62,
+    "Name": "専用EF_漫符がんばりますをミュート_SE"
+  },
+  {
+    "UniqueID": 63,
+    "Name": "専用EF_マップUIでけけフェスをミュート_BGM"
+  },
+  {
+    "UniqueID": 64,
+    "Name": "専用EF_シェアハウス解散_SE"
+  },
+  {
+    "UniqueID": 65,
+    "Name": "UI_全画面_ALL"
+  },
+  {
+    "UniqueID": 66,
+    "Name": "専用EF_カットリーヌに集中させる_SE"
+  },
+  {
+    "UniqueID": 67,
+    "Name": "専用EF_カットリーヌ施術中_SE"
+  },
+  {
+    "UniqueID": 68,
+    "Name": "専用EF_シェアハウス相手探し中の商談会話_SE"
+  },
+  {
+    "UniqueID": 69,
+    "Name": "専用EF_コミューン島拡張時会話_SE"
+  },
+  {
+    "UniqueID": 70,
+    "Name": "Demo_機内視点_SE"
+  },
+  {
+    "UniqueID": 71,
+    "Name": "専用EF_案内所でOBJの音量をさげる_SE"
   }
 ]

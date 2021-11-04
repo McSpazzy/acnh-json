@@ -50,6 +50,22 @@
   {
     "DefaultValue": 0,
     "MaxValue": 1,
+    "UniqueID": 9,
+    "FlagsFlowAccess": 2,
+    "Key": "PgeVisitorTalkFlag",
+    "Name": "マスター|おでかけ先のマスターと会話した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 10,
+    "FlagsFlowAccess": 2,
+    "Key": "PgeVisitorCoffeeFlag",
+    "Name": "マスター|おでかけ先でコーヒー注文した？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
     "UniqueID": 11,
     "FlagsFlowAccess": 2,
     "Key": "DC_ChmTalkFirst_EvQuestFinish",
@@ -718,5 +734,21 @@
     "FlagsFlowAccess": 2,
     "Key": "OwlStampGotArtReward",
     "Name": "フータ/国際ミュージアム|美術品報酬を貰った"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 113,
+    "FlagsFlowAccess": 2,
+    "Key": "NoticeATMOtherIsland",
+    "Name": "ATM｜よその島でATM使ったときの注意見たか？"
+  },
+  {
+    "DefaultValue": 0,
+    "MaxValue": 1,
+    "UniqueID": 114,
+    "FlagsFlowAccess": 2,
+    "Key": "KppTalkFlag",
+    "Name": "かっぺい/おでかけ先の島で会話した？"
   }
 ]

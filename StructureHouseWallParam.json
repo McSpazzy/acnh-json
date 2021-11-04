@@ -1,7 +1,7 @@
 [
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1000,
+    "CustomizeSortID": 3003,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 0,
@@ -12,7 +12,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1010,
+    "CustomizeSortID": 3002,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 5,
@@ -23,7 +23,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1020,
+    "CustomizeSortID": 3005,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 6,
@@ -56,7 +56,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2000,
+    "CustomizeSortID": 4007,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 9,
@@ -67,7 +67,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3000,
+    "CustomizeSortID": 2006,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 10,
@@ -111,7 +111,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 10,
+    "CustomizeSortID": 28,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 14,
@@ -122,7 +122,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 21,
+    "CustomizeSortID": 35,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 15,
@@ -133,7 +133,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 31,
+    "CustomizeSortID": 11,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 16,
@@ -144,7 +144,18 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4000,
+    "CustomizeSortID": 216,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 17,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 1007,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 19,
@@ -155,7 +166,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2020,
+    "CustomizeSortID": 4005,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 20,
@@ -166,7 +177,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2010,
+    "CustomizeSortID": 4001,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 21,
@@ -177,7 +188,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2060,
+    "CustomizeSortID": 4004,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 22,
@@ -188,7 +199,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2040,
+    "CustomizeSortID": 4003,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 23,
@@ -199,7 +210,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 51,
+    "CustomizeSortID": 57,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 24,
@@ -210,7 +221,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 61,
+    "CustomizeSortID": 74,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 25,
@@ -221,7 +232,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 71,
+    "CustomizeSortID": 64,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 26,
@@ -232,7 +243,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 81,
+    "CustomizeSortID": 86,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 27,
@@ -254,7 +265,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 101,
+    "CustomizeSortID": 106,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 29,
@@ -287,7 +298,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 111,
+    "CustomizeSortID": 117,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 32,
@@ -298,7 +309,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 121,
+    "CustomizeSortID": 123,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 33,
@@ -309,7 +320,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 131,
+    "CustomizeSortID": 137,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 34,
@@ -353,7 +364,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 32,
+    "CustomizeSortID": 16,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 42,
@@ -364,7 +375,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 33,
+    "CustomizeSortID": 15,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 43,
@@ -375,7 +386,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 34,
+    "CustomizeSortID": 12,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 44,
@@ -386,7 +397,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 35,
+    "CustomizeSortID": 14,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 45,
@@ -397,7 +408,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 36,
+    "CustomizeSortID": 13,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 46,
@@ -408,7 +419,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 37,
+    "CustomizeSortID": 17,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 47,
@@ -419,7 +430,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 38,
+    "CustomizeSortID": 18,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 48,
@@ -430,7 +441,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 22,
+    "CustomizeSortID": 37,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 57,
@@ -441,7 +452,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 23,
+    "CustomizeSortID": 36,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 58,
@@ -452,7 +463,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 24,
+    "CustomizeSortID": 34,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 59,
@@ -463,7 +474,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 25,
+    "CustomizeSortID": 32,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 60,
@@ -474,7 +485,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 26,
+    "CustomizeSortID": 31,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 61,
@@ -485,7 +496,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 27,
+    "CustomizeSortID": 33,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 62,
@@ -496,7 +507,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 28,
+    "CustomizeSortID": 38,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 63,
@@ -518,7 +529,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 11,
+    "CustomizeSortID": 30,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 65,
@@ -529,7 +540,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 12,
+    "CustomizeSortID": 27,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 66,
@@ -540,7 +551,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 13,
+    "CustomizeSortID": 21,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 67,
@@ -551,7 +562,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 14,
+    "CustomizeSortID": 22,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 68,
@@ -562,7 +573,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 15,
+    "CustomizeSortID": 29,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 69,
@@ -573,7 +584,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 16,
+    "CustomizeSortID": 25,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 70,
@@ -584,7 +595,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 17,
+    "CustomizeSortID": 26,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 71,
@@ -595,7 +606,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 52,
+    "CustomizeSortID": 56,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 72,
@@ -606,7 +617,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 53,
+    "CustomizeSortID": 58,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 73,
@@ -617,7 +628,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 54,
+    "CustomizeSortID": 51,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 74,
@@ -628,7 +639,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 55,
+    "CustomizeSortID": 54,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 75,
@@ -639,7 +650,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 56,
+    "CustomizeSortID": 55,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 76,
@@ -650,7 +661,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 57,
+    "CustomizeSortID": 52,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 77,
@@ -661,7 +672,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 58,
+    "CustomizeSortID": 53,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 78,
@@ -672,7 +683,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 72,
+    "CustomizeSortID": 65,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 79,
@@ -683,7 +694,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 73,
+    "CustomizeSortID": 63,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 80,
@@ -694,7 +705,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 74,
+    "CustomizeSortID": 62,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 81,
@@ -705,7 +716,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 75,
+    "CustomizeSortID": 66,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 82,
@@ -716,7 +727,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 76,
+    "CustomizeSortID": 61,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 83,
@@ -727,7 +738,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 77,
+    "CustomizeSortID": 67,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 84,
@@ -738,7 +749,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 78,
+    "CustomizeSortID": 68,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 85,
@@ -749,7 +760,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 62,
+    "CustomizeSortID": 76,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 86,
@@ -760,7 +771,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 63,
+    "CustomizeSortID": 75,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 87,
@@ -771,7 +782,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 64,
+    "CustomizeSortID": 72,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 88,
@@ -782,7 +793,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 65,
+    "CustomizeSortID": 71,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 89,
@@ -793,7 +804,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 66,
+    "CustomizeSortID": 77,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 90,
@@ -804,7 +815,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 67,
+    "CustomizeSortID": 73,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 91,
@@ -815,7 +826,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 68,
+    "CustomizeSortID": 78,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 9,
     "UniqueID": 92,
@@ -826,7 +837,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 92,
+    "CustomizeSortID": 93,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 100,
@@ -837,7 +848,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 93,
+    "CustomizeSortID": 92,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 101,
@@ -848,7 +859,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 94,
+    "CustomizeSortID": 96,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 102,
@@ -859,7 +870,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 95,
+    "CustomizeSortID": 97,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 103,
@@ -870,7 +881,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 96,
+    "CustomizeSortID": 95,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 104,
@@ -881,7 +892,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 97,
+    "CustomizeSortID": 94,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 105,
@@ -903,7 +914,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 82,
+    "CustomizeSortID": 88,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 107,
@@ -925,7 +936,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 84,
+    "CustomizeSortID": 81,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 109,
@@ -936,7 +947,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 85,
+    "CustomizeSortID": 84,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 110,
@@ -947,7 +958,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 86,
+    "CustomizeSortID": 87,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 111,
@@ -958,7 +969,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 87,
+    "CustomizeSortID": 85,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 112,
@@ -969,7 +980,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 88,
+    "CustomizeSortID": 82,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 113,
@@ -980,7 +991,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 102,
+    "CustomizeSortID": 105,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 114,
@@ -991,7 +1002,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 103,
+    "CustomizeSortID": 101,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 115,
@@ -1002,7 +1013,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 104,
+    "CustomizeSortID": 103,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 116,
@@ -1013,7 +1024,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 105,
+    "CustomizeSortID": 102,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 117,
@@ -1024,7 +1035,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 106,
+    "CustomizeSortID": 104,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 10,
     "UniqueID": 118,
@@ -1057,7 +1068,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 122,
+    "CustomizeSortID": 128,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 121,
@@ -1068,7 +1079,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 123,
+    "CustomizeSortID": 127,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 122,
@@ -1079,7 +1090,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 124,
+    "CustomizeSortID": 121,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 123,
@@ -1090,7 +1101,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 125,
+    "CustomizeSortID": 126,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 124,
@@ -1101,7 +1112,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 126,
+    "CustomizeSortID": 125,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 125,
@@ -1112,7 +1123,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 127,
+    "CustomizeSortID": 124,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 126,
@@ -1123,7 +1134,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 128,
+    "CustomizeSortID": 122,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 127,
@@ -1134,7 +1145,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 112,
+    "CustomizeSortID": 116,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 128,
@@ -1145,7 +1156,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 113,
+    "CustomizeSortID": 112,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 129,
@@ -1156,7 +1167,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 114,
+    "CustomizeSortID": 115,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 130,
@@ -1167,7 +1178,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 115,
+    "CustomizeSortID": 118,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 131,
@@ -1178,7 +1189,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 116,
+    "CustomizeSortID": 113,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 132,
@@ -1189,7 +1200,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 117,
+    "CustomizeSortID": 111,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 133,
@@ -1200,7 +1211,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 118,
+    "CustomizeSortID": 114,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 134,
@@ -1233,7 +1244,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 134,
+    "CustomizeSortID": 136,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 137,
@@ -1244,7 +1255,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 135,
+    "CustomizeSortID": 131,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 138,
@@ -1255,7 +1266,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 136,
+    "CustomizeSortID": 134,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 139,
@@ -1266,7 +1277,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 137,
+    "CustomizeSortID": 135,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 13,
     "UniqueID": 140,
@@ -1288,7 +1299,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2030,
+    "CustomizeSortID": 4002,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 142,
@@ -1299,7 +1310,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2050,
+    "CustomizeSortID": 4006,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 143,
@@ -1310,7 +1321,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 2070,
+    "CustomizeSortID": 4008,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 144,
@@ -1321,7 +1332,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3010,
+    "CustomizeSortID": 2007,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 145,
@@ -1332,7 +1343,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3020,
+    "CustomizeSortID": 2005,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 146,
@@ -1343,7 +1354,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3030,
+    "CustomizeSortID": 2001,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 147,
@@ -1354,7 +1365,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3040,
+    "CustomizeSortID": 2002,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 148,
@@ -1365,7 +1376,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3060,
+    "CustomizeSortID": 2004,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 149,
@@ -1376,7 +1387,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3050,
+    "CustomizeSortID": 2003,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 150,
@@ -1387,7 +1398,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 3070,
+    "CustomizeSortID": 2008,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 151,
@@ -1398,7 +1409,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4020,
+    "CustomizeSortID": 1006,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 152,
@@ -1409,7 +1420,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4030,
+    "CustomizeSortID": 1003,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 153,
@@ -1420,7 +1431,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4040,
+    "CustomizeSortID": 1001,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 154,
@@ -1431,7 +1442,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4050,
+    "CustomizeSortID": 1004,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 155,
@@ -1442,7 +1453,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4040,
+    "CustomizeSortID": 1002,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 156,
@@ -1453,7 +1464,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4010,
+    "CustomizeSortID": 1005,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 157,
@@ -1464,7 +1475,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 4070,
+    "CustomizeSortID": 1008,
     "9c2d6dc6 u16": 6,
     "HouseShapeUniqueID": 0,
     "UniqueID": 158,
@@ -1475,7 +1486,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1030,
+    "CustomizeSortID": 3007,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 159,
@@ -1486,7 +1497,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1060,
+    "CustomizeSortID": 3004,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 160,
@@ -1497,7 +1508,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1050,
+    "CustomizeSortID": 3006,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 161,
@@ -1508,7 +1519,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1040,
+    "CustomizeSortID": 3001,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 162,
@@ -1519,7 +1530,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 1070,
+    "CustomizeSortID": 3008,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 0,
     "UniqueID": 163,
@@ -1530,7 +1541,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 41,
+    "CustomizeSortID": 47,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 164,
@@ -1541,7 +1552,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 42,
+    "CustomizeSortID": 46,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 165,
@@ -1552,7 +1563,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 43,
+    "CustomizeSortID": 41,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 166,
@@ -1563,7 +1574,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 44,
+    "CustomizeSortID": 45,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 167,
@@ -1574,7 +1585,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 45,
+    "CustomizeSortID": 44,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 168,
@@ -1585,7 +1596,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 46,
+    "CustomizeSortID": 42,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 169,
@@ -1596,7 +1607,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 47,
+    "CustomizeSortID": 43,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 170,
@@ -1618,7 +1629,7 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 18,
+    "CustomizeSortID": 23,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 172,
@@ -1629,12 +1640,793 @@
   },
   {
     "HouseDoorStep": "Normal",
-    "CustomizeSortID": 19,
+    "CustomizeSortID": 24,
     "9c2d6dc6 u16": 3,
     "HouseShapeUniqueID": 1,
     "UniqueID": 173,
     "LightParamName": "HouseWallNAWoodsidingA",
     "ModelName": "HouseWallNAWoodsidingJ",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 302,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 174,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseA",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 224,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 175,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 201,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 176,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 311,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 177,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalA",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 325,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 178,
+    "LightParamName": "HouseWallPC04StoneA",
+    "ModelName": "HouseWallPC04StoneA",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 215,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 179,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 213,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 180,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 211,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 181,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 214,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 182,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 212,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 183,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 217,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 184,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 218,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 185,
+    "LightParamName": "HouseWallPB04WoodsidngA",
+    "ModelName": "HouseWallPB04WoodsidngH",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 312,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 186,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalB",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 318,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 187,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalC",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 315,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 188,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalD",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 316,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 189,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalE",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 314,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 190,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalF",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 313,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 191,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalG",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 319,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 192,
+    "LightParamName": "HouseWallPC04OrientalA",
+    "ModelName": "HouseWallPC04OrientalH",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 226,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 193,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 225,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 194,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 222,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 195,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 221,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 196,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 227,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 197,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 223,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 198,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 228,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 199,
+    "LightParamName": "HouseWallPB04LogA",
+    "ModelName": "HouseWallPB04LogH",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 326,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 200,
+    "LightParamName": "HouseWallPC04StoneB",
+    "ModelName": "HouseWallPC04StoneB",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 321,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 201,
+    "LightParamName": "HouseWallPC04StoneC",
+    "ModelName": "HouseWallPC04StoneC",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 324,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 202,
+    "LightParamName": "HouseWallPC04StoneD",
+    "ModelName": "HouseWallPC04StoneD",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 323,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 203,
+    "LightParamName": "HouseWallPC04StoneE",
+    "ModelName": "HouseWallPC04StoneE",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 322,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 204,
+    "LightParamName": "HouseWallPC04StoneF",
+    "ModelName": "HouseWallPC04StoneF",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 328,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 205,
+    "LightParamName": "HouseWallPC04StoneG",
+    "ModelName": "HouseWallPC04StoneG",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 327,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 206,
+    "LightParamName": "HouseWallPC04StoneH",
+    "ModelName": "HouseWallPC04StoneH",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 208,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 207,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 207,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 208,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 202,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 209,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 205,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 210,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 206,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 211,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 204,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 212,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 203,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 8,
+    "UniqueID": 213,
+    "LightParamName": "HouseWallPB04BrickA",
+    "ModelName": "HouseWallPB04BrickH",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 304,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 214,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseB",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 303,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 215,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseC",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 301,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 216,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseD",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 305,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 217,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseE",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 307,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 218,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseF",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 306,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 219,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseG",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 308,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 20,
+    "UniqueID": 220,
+    "LightParamName": "HouseWallPC04JapaneseA",
+    "ModelName": "HouseWallPC04JapaneseH",
+    "UseCurtain": 0,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 427,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 221,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 407,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 222,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 412,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 223,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilA",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 422,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 224,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 424,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 225,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 426,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 226,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 421,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 227,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 423,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 228,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 425,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 229,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 428,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 230,
+    "LightParamName": "HouseWallPD04WoodA",
+    "ModelName": "HouseWallPD04WoodH",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 406,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 231,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 402,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 232,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 405,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 233,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 408,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 234,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 403,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 235,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 401,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 236,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 404,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 237,
+    "LightParamName": "HouseWallPD04StuccoA",
+    "ModelName": "HouseWallPD04StuccoH",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 417,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 238,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilB",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 416,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 239,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilC",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 411,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 240,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilD",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 415,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 241,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilE",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 414,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 242,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilF",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 413,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 243,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilG",
+    "UseCurtain": 1,
+    "UseExteriorLight": 1
+  },
+  {
+    "HouseDoorStep": "Normal",
+    "CustomizeSortID": 418,
+    "9c2d6dc6 u16": 3,
+    "HouseShapeUniqueID": 21,
+    "UniqueID": 244,
+    "LightParamName": "HouseWallPD04SoilA",
+    "ModelName": "HouseWallPD04SoilH",
     "UseCurtain": 1,
     "UseExteriorLight": 1
   }

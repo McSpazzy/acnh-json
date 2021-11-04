@@ -157,6 +157,13 @@
     "ArtObjNum": 0,
     "DecorationObjNum": 0,
     "FossilObjNum": 0,
+    "UniqueID": 28,
+    "ResourceName": "IdrMuseumCafe00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
     "UniqueID": 29,
     "ResourceName": "IdrMuseumEnt02"
   },
@@ -164,7 +171,28 @@
     "ArtObjNum": 0,
     "DecorationObjNum": 0,
     "FossilObjNum": 0,
+    "UniqueID": 30,
+    "ResourceName": "IdrMuseumEnt03"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 34,
+    "ResourceName": "IdrWherearenOffice00_0"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
     "UniqueID": 35,
     "ResourceName": "IdrDream00"
+  },
+  {
+    "ArtObjNum": 0,
+    "DecorationObjNum": 0,
+    "FossilObjNum": 0,
+    "UniqueID": 36,
+    "ResourceName": "IdrWherearenOffice00_1"
   }
 ]

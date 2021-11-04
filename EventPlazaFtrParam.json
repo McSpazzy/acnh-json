@@ -222,5 +222,26 @@
     "ItemNameUniqueID": 13837,
     "UniqueID": 44,
     "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 14815,
+    "UniqueID": 45,
+    "cb7385a8 u32": 1
+  },
+  {
+    "EventFtrDirection": "N",
+    "EventFtrSwitch": "OFF",
+    "ItemNameUniqueID": 787,
+    "UniqueID": 46,
+    "cb7385a8 u32": 0
+  },
+  {
+    "EventFtrDirection": "S",
+    "EventFtrSwitch": "ON",
+    "ItemNameUniqueID": 14827,
+    "UniqueID": 47,
+    "cb7385a8 u32": 0
   }
 ]

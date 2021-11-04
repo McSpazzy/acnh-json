@@ -317,5 +317,38 @@
     "IsWant": 0,
     "Special": 0,
     "1b525407 u32": 0
+  },
+  {
+    "UniqueID": 30,
+    "ItemID": 3039,
+    "HarvestFishExchangeIngredients": 1,
+    "IsAppearNorth": 1,
+    "IsAppearSouth": 1,
+    "IsGive": 1,
+    "IsWant": 0,
+    "Special": 0,
+    "1b525407 u32": 0
+  },
+  {
+    "UniqueID": 31,
+    "ItemID": 3044,
+    "HarvestFishExchangeIngredients": 1,
+    "IsAppearNorth": 1,
+    "IsAppearSouth": 1,
+    "IsGive": 1,
+    "IsWant": 0,
+    "Special": 0,
+    "1b525407 u32": 0
+  },
+  {
+    "UniqueID": 32,
+    "ItemID": 13994,
+    "HarvestFishExchangeIngredients": 1,
+    "IsAppearNorth": 1,
+    "IsAppearSouth": 1,
+    "IsGive": 1,
+    "IsWant": 0,
+    "Special": 0,
+    "1b525407 u32": 0
   }
 ]

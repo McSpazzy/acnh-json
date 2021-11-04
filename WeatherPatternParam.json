@@ -162,5 +162,13 @@
   {
     "UniqueID": 40,
     "Label": "Rain07"
+  },
+  {
+    "UniqueID": 41,
+    "Label": "Fine08"
+  },
+  {
+    "UniqueID": 42,
+    "Label": "Fine09"
   }
 ]

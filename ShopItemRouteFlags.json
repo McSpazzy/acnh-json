@@ -155,7 +155,7 @@
   },
   {
     "FlagLand": -1,
-    "FlagPlayer": 140,
+    "FlagPlayer": 1620,
     "ShopType": "Label1",
     "AttrCollectBit": 1,
     "ItemFrom": "MileExchangeReaction"
@@ -166,5 +166,117 @@
     "ShopType": "Label1",
     "AttrCollectBit": 1,
     "ItemFrom": "MileExchange_MydesignShowcase"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1445,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeDIYRecipePlus"
+  },
+  {
+    "FlagLand": 59,
+    "FlagPlayer": 320,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeOfficePlus"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1463,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeFenceRemake"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1445,
+    "ShopType": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "ShopCookingRecipeBook1"
+  },
+  {
+    "FlagLand": 380,
+    "FlagPlayer": 1445,
+    "ShopType": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Harvest_CookingRecipeBook"
+  },
+  {
+    "FlagLand": 2,
+    "FlagPlayer": -1,
+    "ShopType": "Label1",
+    "AttrCollectBit": 0,
+    "ItemFrom": "MileExchangeFtrAfterED"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1596,
+    "ShopType": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableRecipeFIXLadder"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1597,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeInteriorPRO"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1600,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeHairStylev200"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1599,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeReactionv200"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1602,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeTipsApp"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1621,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeHairStylev160"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1622,
+    "ShopType": "Label1",
+    "AttrCollectBit": 1,
+    "ItemFrom": "MileExchangeBridgeSlopePlus"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1673,
+    "ShopType": "Label1",
+    "AttrCollectBit": 0,
+    "ItemFrom": "MileExchangeATM"
+  },
+  {
+    "FlagLand": -1,
+    "FlagPlayer": 1674,
+    "ShopType": "Label1",
+    "AttrCollectBit": 0,
+    "ItemFrom": "MileExchangeStoreRoom"
+  },
+  {
+    "FlagLand": 541,
+    "FlagPlayer": -1,
+    "ShopType": "Shop",
+    "AttrCollectBit": 0,
+    "ItemFrom": "Shop_EnableRecipePitfallSeed"
   }
 ]

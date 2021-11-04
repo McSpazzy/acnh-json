@@ -1,0 +1,57 @@
+[
+  {
+    "d0609acc string": "School",
+    "699b4124 string": "None",
+    "78e62b5d string": "None",
+    "SortID": 0,
+    "UniqueID": 0,
+    "e1c21e03 u16": 2,
+    "1dd11bc9 u16": 2,
+    "b04ac9ec u8": 0,
+    "cc2bec37 string": ""
+  },
+  {
+    "d0609acc string": "Hospital",
+    "699b4124 string": "Hospital_1",
+    "78e62b5d string": "Hospital_2",
+    "SortID": 1,
+    "UniqueID": 1,
+    "e1c21e03 u16": 5,
+    "1dd11bc9 u16": 8,
+    "b04ac9ec u8": 0,
+    "cc2bec37 string": "\u0001"
+  },
+  {
+    "d0609acc string": "Restaurant",
+    "699b4124 string": "Restaurant_1",
+    "78e62b5d string": "Restaurant_2",
+    "SortID": 2,
+    "UniqueID": 2,
+    "e1c21e03 u16": 4,
+    "1dd11bc9 u16": 10,
+    "b04ac9ec u8": 0,
+    "cc2bec37 string": "\u0001"
+  },
+  {
+    "d0609acc string": "Cafe",
+    "699b4124 string": "Cafe_1",
+    "78e62b5d string": "None",
+    "SortID": 3,
+    "UniqueID": 3,
+    "e1c21e03 u16": 3,
+    "1dd11bc9 u16": 9,
+    "b04ac9ec u8": 1,
+    "cc2bec37 string": ""
+  },
+  {
+    "d0609acc string": "Tailor",
+    "699b4124 string": "None",
+    "78e62b5d string": "None",
+    "SortID": 4,
+    "UniqueID": 4,
+    "e1c21e03 u16": 6,
+    "1dd11bc9 u16": 6,
+    "b04ac9ec u8": 0,
+    "cc2bec37 string": ""
+  }
+]

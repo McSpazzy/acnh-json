@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "SortID": 0,
+    "UniqueID": 0,
+    "Name": "Silence",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 1,
+    "UniqueID": 13,
+    "Name": "Echo",
+    "53d9c19f u8": 1,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 2,
+    "UniqueID": 2,
+    "Name": "Sea",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 3,
+    "UniqueID": 3,
+    "Name": "InWater",
+    "53d9c19f u8": 1,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 4,
+    "UniqueID": 5,
+    "Name": "Plateau",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 5,
+    "UniqueID": 28,
+    "Name": "Forest",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 6,
+    "UniqueID": 6,
+    "Name": "Jungle",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 7,
+    "UniqueID": 16,
+    "Name": "Cave",
+    "53d9c19f u8": 1,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 8,
+    "UniqueID": 4,
+    "Name": "Wind",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 9,
+    "UniqueID": 1,
+    "Name": "Rain",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 10,
+    "UniqueID": 14,
+    "Name": "Storm",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 11,
+    "UniqueID": 17,
+    "Name": "Earthquake",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 12,
+    "UniqueID": 20,
+    "Name": "Country",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 13,
+    "UniqueID": 9,
+    "Name": "City",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 14,
+    "UniqueID": 7,
+    "Name": "Crowd",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 15,
+    "UniqueID": 8,
+    "Name": "Cheers",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 16,
+    "UniqueID": 10,
+    "Name": "Train",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 17,
+    "UniqueID": 11,
+    "Name": "Construction",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 18,
+    "UniqueID": 21,
+    "Name": "Factory",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 19,
+    "UniqueID": 29,
+    "Name": "Duct",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 20,
+    "UniqueID": 12,
+    "Name": "Space",
+    "53d9c19f u8": 1,
+    "947670d3 string": "\u0001"
+  },
+  {
+    "SortID": 21,
+    "UniqueID": 26,
+    "Name": "Cyber",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0003"
+  },
+  {
+    "SortID": 22,
+    "UniqueID": 27,
+    "Name": "Healing",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  },
+  {
+    "SortID": 23,
+    "UniqueID": 18,
+    "Name": "Squeak",
+    "53d9c19f u8": 0,
+    "947670d3 string": "\u0002"
+  }
+]

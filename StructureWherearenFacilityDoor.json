@@ -1,0 +1,359 @@
+[
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 32,
+    "UniqueID": 0,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenOfficeA"
+  },
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 1,
+    "3440cdd7 u8": 1,
+    "ModelName": "StrcDoorWherearenSchoolLock"
+  },
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 2,
+    "3440cdd7 u8": 1,
+    "ModelName": "StrcDoorWherearenHospitalLock"
+  },
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 3,
+    "3440cdd7 u8": 1,
+    "ModelName": "StrcDoorWherearenRestaurantLock"
+  },
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 4,
+    "3440cdd7 u8": 1,
+    "ModelName": "StrcDoorWherearenCafeLock"
+  },
+  {
+    "CustomizeSortID": 0,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 5,
+    "3440cdd7 u8": 1,
+    "ModelName": "StrcDoorWherearenTailorLock"
+  },
+  {
+    "CustomizeSortID": 15,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 6,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolA"
+  },
+  {
+    "CustomizeSortID": 24,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 7,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalA"
+  },
+  {
+    "CustomizeSortID": 32,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 8,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantA"
+  },
+  {
+    "CustomizeSortID": 44,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 9,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeA"
+  },
+  {
+    "CustomizeSortID": 58,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 10,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorA"
+  },
+  {
+    "CustomizeSortID": 59,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 11,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorB"
+  },
+  {
+    "CustomizeSortID": 54,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 12,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorC"
+  },
+  {
+    "CustomizeSortID": 56,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 13,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorD"
+  },
+  {
+    "CustomizeSortID": 57,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 14,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorE"
+  },
+  {
+    "CustomizeSortID": 55,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 15,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorF"
+  },
+  {
+    "CustomizeSortID": 52,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 16,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorG"
+  },
+  {
+    "CustomizeSortID": 53,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 17,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorH"
+  },
+  {
+    "CustomizeSortID": 51,
+    "StructureInfoUniqueID": 41,
+    "UniqueID": 18,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenTailorI"
+  },
+  {
+    "CustomizeSortID": 42,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 19,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeB"
+  },
+  {
+    "CustomizeSortID": 41,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 20,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeC"
+  },
+  {
+    "CustomizeSortID": 45,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 21,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeD"
+  },
+  {
+    "CustomizeSortID": 46,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 22,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeE"
+  },
+  {
+    "CustomizeSortID": 48,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 23,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeF"
+  },
+  {
+    "CustomizeSortID": 49,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 24,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeG"
+  },
+  {
+    "CustomizeSortID": 43,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 25,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeH"
+  },
+  {
+    "CustomizeSortID": 47,
+    "StructureInfoUniqueID": 40,
+    "UniqueID": 26,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenCafeI"
+  },
+  {
+    "CustomizeSortID": 33,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 27,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantB"
+  },
+  {
+    "CustomizeSortID": 35,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 28,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantC"
+  },
+  {
+    "CustomizeSortID": 36,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 29,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantD"
+  },
+  {
+    "CustomizeSortID": 37,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 30,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantE"
+  },
+  {
+    "CustomizeSortID": 38,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 31,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantF"
+  },
+  {
+    "CustomizeSortID": 31,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 32,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantG"
+  },
+  {
+    "CustomizeSortID": 34,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 33,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantH"
+  },
+  {
+    "CustomizeSortID": 39,
+    "StructureInfoUniqueID": 39,
+    "UniqueID": 34,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenRestaurantI"
+  },
+  {
+    "CustomizeSortID": 21,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 35,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalB"
+  },
+  {
+    "CustomizeSortID": 22,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 36,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalC"
+  },
+  {
+    "CustomizeSortID": 23,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 37,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalD"
+  },
+  {
+    "CustomizeSortID": 25,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 38,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalE"
+  },
+  {
+    "CustomizeSortID": 28,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 39,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalF"
+  },
+  {
+    "CustomizeSortID": 29,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 40,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalG"
+  },
+  {
+    "CustomizeSortID": 27,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 41,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalH"
+  },
+  {
+    "CustomizeSortID": 26,
+    "StructureInfoUniqueID": 38,
+    "UniqueID": 42,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenHospitalI"
+  },
+  {
+    "CustomizeSortID": 14,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 43,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolB"
+  },
+  {
+    "CustomizeSortID": 13,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 44,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolC"
+  },
+  {
+    "CustomizeSortID": 16,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 45,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolD"
+  },
+  {
+    "CustomizeSortID": 12,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 46,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolE"
+  },
+  {
+    "CustomizeSortID": 18,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 47,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolF"
+  },
+  {
+    "CustomizeSortID": 17,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 48,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolG"
+  },
+  {
+    "CustomizeSortID": 11,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 49,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolH"
+  },
+  {
+    "CustomizeSortID": 19,
+    "StructureInfoUniqueID": 37,
+    "UniqueID": 50,
+    "3440cdd7 u8": 0,
+    "ModelName": "StrcDoorWherearenSchoolI"
+  }
+]

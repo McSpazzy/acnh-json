@@ -53,5 +53,10 @@
     "SortID": 10,
     "UniqueID": 10,
     "Label": "Cool"
+  },
+  {
+    "SortID": 11,
+    "UniqueID": 11,
+    "Label": "Omnibus"
   }
 ]
