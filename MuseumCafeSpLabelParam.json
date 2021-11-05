@@ -3,456 +3,456 @@
     "UniqueID": 0,
     "CapOff": 0,
     "Label": "xxx",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 1,
     "CapOff": 0,
     "Label": "alp",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 2,
     "CapOff": 0,
     "Label": "alw",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 3,
     "CapOff": 0,
     "Label": "bev",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 4,
     "CapOff": 0,
     "Label": "bey",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 5,
     "CapOff": 0,
     "Label": "boa",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 6,
     "CapOff": 1,
     "Label": "boc",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 7,
     "CapOff": 0,
     "Label": "bpt",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 8,
     "CapOff": 1,
     "Label": "chm",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 9,
     "CapOff": 0,
     "Label": "chy",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 10,
     "CapOff": 0,
     "Label": "cmlB",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 11,
     "CapOff": 1,
     "Label": "dga",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 12,
     "CapOff": 1,
     "Label": "dgb",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 13,
     "CapOff": 1,
     "Label": "doc",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 14,
     "CapOff": 1,
     "Label": "dod",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 15,
     "CapOff": 0,
     "Label": "fox",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 16,
     "CapOff": 0,
     "Label": "fsl",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 17,
     "CapOff": 0,
     "Label": "grf",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 18,
     "CapOff": 0,
     "Label": "gstA",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 19,
     "CapOff": 0,
     "Label": "gul",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 20,
     "CapOff": 0,
     "Label": "hgc",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 21,
     "CapOff": 0,
     "Label": "hgh",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 22,
     "CapOff": 0,
     "Label": "hgs",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 23,
     "CapOff": 0,
     "Label": "kpg",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 24,
     "CapOff": 0,
     "Label": "kpm",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 25,
     "CapOff": 0,
     "Label": "kpp",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 26,
     "CapOff": 0,
     "Label": "kps",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 27,
     "CapOff": 1,
     "Label": "lom",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 28,
     "CapOff": 0,
     "Label": "man",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 29,
     "CapOff": 0,
     "Label": "mka",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 30,
     "CapOff": 0,
     "Label": "mnc",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 31,
     "CapOff": 1,
     "Label": "mnk",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 32,
     "CapOff": 1,
     "Label": "mob",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 33,
     "CapOff": 1,
     "Label": "mol",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 34,
     "CapOff": 0,
     "Label": "otg",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 35,
     "CapOff": 0,
     "Label": "ott",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 36,
     "CapOff": 0,
     "Label": "owl",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 37,
     "CapOff": 0,
     "Label": "ows",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 38,
     "CapOff": 0,
     "Label": "pck",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 39,
     "CapOff": 0,
     "Label": "pkn",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 40,
     "CapOff": 0,
     "Label": "plk",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 41,
     "CapOff": 0,
     "Label": "plm",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 42,
     "CapOff": 1,
     "Label": "plo",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 43,
     "CapOff": 0,
     "Label": "poo",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 44,
     "CapOff": 0,
     "Label": "pyn",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 45,
     "CapOff": 0,
     "Label": "rcm",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 46,
     "CapOff": 0,
     "Label": "rco",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 47,
     "CapOff": 0,
     "Label": "rct",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 48,
     "CapOff": 1,
     "Label": "rei",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 49,
     "CapOff": 0,
     "Label": "seo",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 50,
     "CapOff": 0,
     "Label": "skk",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 51,
     "CapOff": 1,
     "Label": "slo",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 52,
     "CapOff": 0,
     "Label": "spn",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 53,
     "CapOff": 0,
     "Label": "sza",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 54,
     "CapOff": 0,
     "Label": "szo",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 55,
     "CapOff": 0,
     "Label": "tap",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 56,
     "CapOff": 0,
     "Label": "tkkA",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 57,
     "CapOff": 0,
     "Label": "tkkB",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 58,
     "CapOff": 1,
     "Label": "ttlA",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 59,
     "CapOff": 0,
     "Label": "tuk",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 60,
     "CapOff": 0,
     "Label": "upa",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 61,
     "CapOff": 0,
     "Label": "wrl",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 62,
     "CapOff": 0,
     "Label": "xct",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 63,
     "CapOff": 0,
     "Label": "bey_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 64,
     "CapOff": 0,
     "Label": "bev_2",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 65,
     "CapOff": 0,
     "Label": "hgc_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 66,
     "CapOff": 0,
     "Label": "rct_2",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 67,
     "CapOff": 0,
     "Label": "rcm_2",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 68,
     "CapOff": 0,
     "Label": "otg_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 69,
     "CapOff": 1,
     "Label": "plo_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 70,
     "CapOff": 0,
     "Label": "rco_2",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 71,
     "CapOff": 0,
     "Label": "rco_3",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 72,
     "CapOff": 1,
     "Label": "mol_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 73,
     "CapOff": 0,
     "Label": "sza_2",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   },
   {
     "UniqueID": 74,
     "CapOff": 0,
     "Label": "szo_2",
-    "f5367c4f u8": 0
+    "UseSitOffset": 0
   },
   {
     "UniqueID": 75,
     "CapOff": 0,
     "Label": "otgB",
-    "f5367c4f u8": 1
+    "UseSitOffset": 1
   }
 ]

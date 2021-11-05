@@ -4,7 +4,7 @@
     "StructureInfoUniqueID": 32,
     "UniqueID": 0,
     "ModelName": "StrcAccWherearenOfficeA",
-    "8062290b u8": 0,
+    "UseCulling": 0,
     "UseMyDesign": 0
   },
   {
@@ -12,7 +12,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 1,
     "ModelName": "StrcAccWherearenSchoolA",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -20,7 +20,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 2,
     "ModelName": "StrcAccWherearenHospitalA",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -28,7 +28,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 3,
     "ModelName": "StrcAccWherearenRestaurantA",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -36,7 +36,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 4,
     "ModelName": "StrcAccWherearenCafeA",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -44,7 +44,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 5,
     "ModelName": "StrcAccWherearenTailorA",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -52,7 +52,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 6,
     "ModelName": "StrcAccWherearenTailorB",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -60,7 +60,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 7,
     "ModelName": "StrcAccWherearenTailorC",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -68,7 +68,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 8,
     "ModelName": "StrcAccWherearenTailorD",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -76,7 +76,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 9,
     "ModelName": "StrcAccWherearenTailorE",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -84,7 +84,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 10,
     "ModelName": "StrcAccWherearenTailorF",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -92,7 +92,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 11,
     "ModelName": "StrcAccWherearenTailorG",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -100,7 +100,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 12,
     "ModelName": "StrcAccWherearenTailorH",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -108,7 +108,7 @@
     "StructureInfoUniqueID": 41,
     "UniqueID": 13,
     "ModelName": "StrcAccWherearenTailorI",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -116,7 +116,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 14,
     "ModelName": "StrcAccWherearenCafeB",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -124,7 +124,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 15,
     "ModelName": "StrcAccWherearenCafeC",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -132,7 +132,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 16,
     "ModelName": "StrcAccWherearenCafeD",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -140,7 +140,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 17,
     "ModelName": "StrcAccWherearenCafeE",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -148,7 +148,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 18,
     "ModelName": "StrcAccWherearenCafeF",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 1
   },
   {
@@ -156,7 +156,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 19,
     "ModelName": "StrcAccWherearenCafeG",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -164,7 +164,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 20,
     "ModelName": "StrcAccWherearenCafeH",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -172,7 +172,7 @@
     "StructureInfoUniqueID": 40,
     "UniqueID": 21,
     "ModelName": "StrcAccWherearenCafeI",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -180,7 +180,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 22,
     "ModelName": "StrcAccWherearenSchoolB",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -188,7 +188,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 23,
     "ModelName": "StrcAccWherearenSchoolC",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -196,7 +196,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 24,
     "ModelName": "StrcAccWherearenSchoolD",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -204,7 +204,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 25,
     "ModelName": "StrcAccWherearenSchoolE",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -212,7 +212,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 26,
     "ModelName": "StrcAccWherearenSchoolF",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -220,7 +220,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 27,
     "ModelName": "StrcAccWherearenSchoolG",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -228,7 +228,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 28,
     "ModelName": "StrcAccWherearenSchoolH",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -236,7 +236,7 @@
     "StructureInfoUniqueID": 37,
     "UniqueID": 29,
     "ModelName": "StrcAccWherearenSchoolI",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -244,7 +244,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 30,
     "ModelName": "StrcAccWherearenHospitalB",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -252,7 +252,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 31,
     "ModelName": "StrcAccWherearenHospitalC",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -260,7 +260,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 32,
     "ModelName": "StrcAccWherearenHospitalD",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -268,7 +268,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 33,
     "ModelName": "StrcAccWherearenHospitalE",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -276,7 +276,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 34,
     "ModelName": "StrcAccWherearenHospitalF",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -284,7 +284,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 35,
     "ModelName": "StrcAccWherearenHospitalG",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -292,7 +292,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 36,
     "ModelName": "StrcAccWherearenHospitalH",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -300,7 +300,7 @@
     "StructureInfoUniqueID": 38,
     "UniqueID": 37,
     "ModelName": "StrcAccWherearenHospitalI",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 1
   },
   {
@@ -308,7 +308,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 38,
     "ModelName": "StrcAccWherearenRestaurantB",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -316,7 +316,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 39,
     "ModelName": "StrcAccWherearenRestaurantC",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -324,7 +324,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 40,
     "ModelName": "StrcAccWherearenRestaurantD",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -332,7 +332,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 41,
     "ModelName": "StrcAccWherearenRestaurantE",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -340,7 +340,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 42,
     "ModelName": "StrcAccWherearenRestaurantF",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -348,7 +348,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 43,
     "ModelName": "StrcAccWherearenRestaurantG",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -356,7 +356,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 44,
     "ModelName": "StrcAccWherearenRestaurantH",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 0
   },
   {
@@ -364,7 +364,7 @@
     "StructureInfoUniqueID": 39,
     "UniqueID": 45,
     "ModelName": "StrcAccWherearenRestaurantI",
-    "8062290b u8": 1,
+    "UseCulling": 1,
     "UseMyDesign": 1
   }
 ]

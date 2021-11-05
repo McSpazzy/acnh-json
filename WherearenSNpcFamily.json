@@ -1,44 +1,44 @@
 [
   {
-    "bbfb0eaf u16": 419,
-    "869b271f u16": 418,
-    "c13b5dcf u16": -1,
-    "fc5b747f u16": -1,
+    "SNpcID0": 419,
+    "SNpcID1": 418,
+    "SNpcID2": 65535,
+    "SNpcID3": 65535,
     "UniqueID": 0
   },
   {
-    "bbfb0eaf u16": 430,
-    "869b271f u16": 416,
-    "c13b5dcf u16": -1,
-    "fc5b747f u16": -1,
+    "SNpcID0": 430,
+    "SNpcID1": 416,
+    "SNpcID2": 65535,
+    "SNpcID3": 65535,
     "UniqueID": 1
   },
   {
-    "bbfb0eaf u16": 424,
-    "869b271f u16": 417,
-    "c13b5dcf u16": 429,
-    "fc5b747f u16": -1,
+    "SNpcID0": 424,
+    "SNpcID1": 417,
+    "SNpcID2": 429,
+    "SNpcID3": 65535,
     "UniqueID": 2
   },
   {
-    "bbfb0eaf u16": 444,
-    "869b271f u16": 443,
-    "c13b5dcf u16": 445,
-    "fc5b747f u16": 442,
+    "SNpcID0": 444,
+    "SNpcID1": 443,
+    "SNpcID2": 445,
+    "SNpcID3": 442,
     "UniqueID": 3
   },
   {
-    "bbfb0eaf u16": 435,
-    "869b271f u16": 472,
-    "c13b5dcf u16": -1,
-    "fc5b747f u16": -1,
+    "SNpcID0": 435,
+    "SNpcID1": 472,
+    "SNpcID2": 65535,
+    "SNpcID3": 65535,
     "UniqueID": 4
   },
   {
-    "bbfb0eaf u16": 471,
-    "869b271f u16": 474,
-    "c13b5dcf u16": -1,
-    "fc5b747f u16": -1,
+    "SNpcID0": 471,
+    "SNpcID1": 474,
+    "SNpcID2": 65535,
+    "SNpcID3": 65535,
     "UniqueID": 5
   }
 ]

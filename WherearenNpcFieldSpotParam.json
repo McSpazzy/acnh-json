@@ -1,86 +1,86 @@
 [
   {
-    "7fc7405e u32": 0,
-    "38673a8e u32": 0,
-    "507133e u32": 0,
+    "ActionPattern1": 0,
+    "ActionPattern2": 0,
+    "ActionPattern3": 0,
     "UniqueID": 0,
-    "f0b8307e string34": "None"
+    "Label": "None"
   },
   {
-    "7fc7405e u32": 70,
-    "38673a8e u32": 70,
-    "507133e u32": 70,
+    "ActionPattern1": 70,
+    "ActionPattern2": 70,
+    "ActionPattern3": 70,
     "UniqueID": 1,
-    "f0b8307e string34": "NorthBeach1"
+    "Label": "NorthBeach1"
   },
   {
-    "7fc7405e u32": 55,
-    "38673a8e u32": 53,
-    "507133e u32": 23,
+    "ActionPattern1": 55,
+    "ActionPattern2": 53,
+    "ActionPattern3": 23,
     "UniqueID": 2,
-    "f0b8307e string34": "NorthBeach2"
+    "Label": "NorthBeach2"
   },
   {
-    "7fc7405e u32": 17,
-    "38673a8e u32": 10,
-    "507133e u32": 10,
+    "ActionPattern1": 17,
+    "ActionPattern2": 10,
+    "ActionPattern3": 10,
     "UniqueID": 3,
-    "f0b8307e string34": "NorthBeach3"
+    "Label": "NorthBeach3"
   },
   {
-    "7fc7405e u32": 59,
-    "38673a8e u32": 59,
-    "507133e u32": 59,
+    "ActionPattern1": 59,
+    "ActionPattern2": 59,
+    "ActionPattern3": 59,
     "UniqueID": 4,
-    "f0b8307e string34": "NorthBeach4"
+    "Label": "NorthBeach4"
   },
   {
-    "7fc7405e u32": 18,
-    "38673a8e u32": 70,
-    "507133e u32": 60,
+    "ActionPattern1": 18,
+    "ActionPattern2": 70,
+    "ActionPattern3": 60,
     "UniqueID": 5,
-    "f0b8307e string34": "Restaurant1"
+    "Label": "Restaurant1"
   },
   {
-    "7fc7405e u32": 7,
-    "38673a8e u32": 62,
-    "507133e u32": 61,
+    "ActionPattern1": 7,
+    "ActionPattern2": 62,
+    "ActionPattern3": 61,
     "UniqueID": 6,
-    "f0b8307e string34": "Restaurant2"
+    "Label": "Restaurant2"
   },
   {
-    "7fc7405e u32": 68,
-    "38673a8e u32": 68,
-    "507133e u32": 68,
+    "ActionPattern1": 68,
+    "ActionPattern2": 68,
+    "ActionPattern3": 68,
     "UniqueID": 7,
-    "f0b8307e string34": "Restaurant3"
+    "Label": "Restaurant3"
   },
   {
-    "7fc7405e u32": 17,
-    "38673a8e u32": 11,
-    "507133e u32": 59,
+    "ActionPattern1": 17,
+    "ActionPattern2": 11,
+    "ActionPattern3": 59,
     "UniqueID": 8,
-    "f0b8307e string34": "Restaurant4"
+    "Label": "Restaurant4"
   },
   {
-    "7fc7405e u32": 60,
-    "38673a8e u32": 60,
-    "507133e u32": 60,
+    "ActionPattern1": 60,
+    "ActionPattern2": 60,
+    "ActionPattern3": 60,
     "UniqueID": 9,
-    "f0b8307e string34": "Hospital1"
+    "Label": "Hospital1"
   },
   {
-    "7fc7405e u32": 18,
-    "38673a8e u32": 37,
-    "507133e u32": 12,
+    "ActionPattern1": 18,
+    "ActionPattern2": 37,
+    "ActionPattern3": 12,
     "UniqueID": 10,
-    "f0b8307e string34": "Hospital2"
+    "Label": "Hospital2"
   },
   {
-    "7fc7405e u32": 69,
-    "38673a8e u32": 69,
-    "507133e u32": 69,
+    "ActionPattern1": 69,
+    "ActionPattern2": 69,
+    "ActionPattern3": 69,
     "UniqueID": 11,
-    "f0b8307e string34": "Hospital3"
+    "Label": "Hospital3"
   }
 ]

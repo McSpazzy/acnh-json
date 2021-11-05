@@ -1,37 +1,37 @@
 [
   {
     "UniqueID": 0,
-    "d15ace6a u8": 255,
+    "Identifier": -1,
     "ModelName": "StrcWherearenCafeWoodDeckA00",
     "6ed5fed u8": 0
   },
   {
     "UniqueID": 1,
-    "d15ace6a u8": 0,
+    "Identifier": 0,
     "ModelName": "StrcWherearenYagura02",
     "6ed5fed u8": 1
   },
   {
     "UniqueID": 2,
-    "d15ace6a u8": 1,
+    "Identifier": 1,
     "ModelName": "StrcWherearenYagura01",
     "6ed5fed u8": 1
   },
   {
     "UniqueID": 3,
-    "d15ace6a u8": 2,
+    "Identifier": 2,
     "ModelName": "StrcWherearenYagura00",
     "6ed5fed u8": 1
   },
   {
     "UniqueID": 4,
-    "d15ace6a u8": 3,
+    "Identifier": 3,
     "ModelName": "StrcWherearenYagura03",
     "6ed5fed u8": 1
   },
   {
     "UniqueID": 5,
-    "d15ace6a u8": 255,
+    "Identifier": -1,
     "ModelName": "StrcWherearenYaguraBefore",
     "6ed5fed u8": 1
   }

@@ -9,7 +9,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "AreaV1",
+    "Label": "AreaV1",
     "38501139 u8": 2,
     "62a2abe9 string36": "Unlock_NPC_00"
   },
@@ -23,7 +23,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "AreaV2",
+    "Label": "AreaV2",
     "38501139 u8": 1,
     "62a2abe9 string36": "Unlock_NPC_00"
   },
@@ -37,7 +37,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "AreaV3",
+    "Label": "AreaV3",
     "38501139 u8": 4,
     "62a2abe9 string36": "Unlock_NPC_00"
   },
@@ -51,7 +51,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "AreaV4",
+    "Label": "AreaV4",
     "38501139 u8": 3,
     "62a2abe9 string36": "Unlock_NPC_01"
   },
@@ -65,7 +65,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "AreaV5",
+    "Label": "AreaV5",
     "38501139 u8": 6,
     "62a2abe9 string36": "Unlock_NPC_01"
   },
@@ -79,7 +79,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 1,
-    "f0b8307e string33": "Area1",
+    "Label": "Area1",
     "38501139 u8": 8,
     "62a2abe9 string36": "Unlock_NPC_01"
   },
@@ -93,7 +93,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Area2",
+    "Label": "Area2",
     "38501139 u8": 12,
     "62a2abe9 string36": "Unlock_NPC_03"
   },
@@ -107,7 +107,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Area3",
+    "Label": "Area3",
     "38501139 u8": 10,
     "62a2abe9 string36": "Unlock_NPC_03"
   },
@@ -121,7 +121,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Area4",
+    "Label": "Area4",
     "38501139 u8": 11,
     "62a2abe9 string36": "Unlock_NPC_04"
   },
@@ -135,7 +135,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Area5",
+    "Label": "Area5",
     "38501139 u8": 7,
     "62a2abe9 string36": "Unlock_NPC_04"
   },
@@ -149,7 +149,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Root1",
+    "Label": "Root1",
     "38501139 u8": 255,
     "62a2abe9 string36": "Unlock_NPC_01"
   },
@@ -163,7 +163,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Root2",
+    "Label": "Root2",
     "38501139 u8": 255,
     "62a2abe9 string36": "Unlock_NPC_04"
   },
@@ -177,7 +177,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Root3",
+    "Label": "Root3",
     "38501139 u8": 255,
     "62a2abe9 string36": "Unlock_NPC_06"
   },
@@ -191,7 +191,7 @@
     "da0c5d33 u8": 1,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "KKFes",
+    "Label": "KKFes",
     "38501139 u8": 13,
     "62a2abe9 string36": "Unlock_NPC_01"
   },
@@ -205,7 +205,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Spare2",
+    "Label": "Spare2",
     "38501139 u8": 255,
     "62a2abe9 string36": "Unlock_NPC_09"
   },
@@ -219,7 +219,7 @@
     "da0c5d33 u8": 0,
     "c223cae9 string11": "",
     "9d0b6948 u8": 0,
-    "f0b8307e string33": "Spare3",
+    "Label": "Spare3",
     "38501139 u8": 255,
     "62a2abe9 string36": "Unlock_NPC_09"
   }

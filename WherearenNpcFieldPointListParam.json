@@ -5,7 +5,7 @@
     "UniqueID": 0,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point1_0"
+    "Label": "Point1_0"
   },
   {
     "3198c2ac u16": 0,
@@ -13,7 +13,7 @@
     "UniqueID": 2,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point2_0"
+    "Label": "Point2_0"
   },
   {
     "3198c2ac u16": 1,
@@ -21,7 +21,7 @@
     "UniqueID": 3,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point2_1"
+    "Label": "Point2_1"
   },
   {
     "3198c2ac u16": 0,
@@ -29,7 +29,7 @@
     "UniqueID": 4,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point3_0"
+    "Label": "Point3_0"
   },
   {
     "3198c2ac u16": 1,
@@ -37,7 +37,7 @@
     "UniqueID": 5,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point3_1"
+    "Label": "Point3_1"
   },
   {
     "3198c2ac u16": 0,
@@ -45,7 +45,7 @@
     "UniqueID": 6,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point4_0"
+    "Label": "Point4_0"
   },
   {
     "3198c2ac u16": 1,
@@ -53,7 +53,7 @@
     "UniqueID": 7,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point4_1"
+    "Label": "Point4_1"
   },
   {
     "3198c2ac u16": 0,
@@ -61,7 +61,7 @@
     "UniqueID": 9,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point5_0"
+    "Label": "Point5_0"
   },
   {
     "3198c2ac u16": 1,
@@ -69,7 +69,7 @@
     "UniqueID": 10,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point5_1"
+    "Label": "Point5_1"
   },
   {
     "3198c2ac u16": 0,
@@ -77,7 +77,7 @@
     "UniqueID": 11,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point6_0"
+    "Label": "Point6_0"
   },
   {
     "3198c2ac u16": 1,
@@ -85,7 +85,7 @@
     "UniqueID": 12,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point6_1"
+    "Label": "Point6_1"
   },
   {
     "3198c2ac u16": -1,
@@ -93,7 +93,7 @@
     "UniqueID": 16,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Office"
+    "Label": "Office"
   },
   {
     "3198c2ac u16": -1,
@@ -101,7 +101,7 @@
     "UniqueID": 17,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Customer"
+    "Label": "Customer"
   },
   {
     "3198c2ac u16": -1,
@@ -109,7 +109,7 @@
     "UniqueID": 18,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "ShareHouse"
+    "Label": "ShareHouse"
   },
   {
     "3198c2ac u16": -1,
@@ -117,7 +117,7 @@
     "UniqueID": 19,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Villager"
+    "Label": "Villager"
   },
   {
     "3198c2ac u16": 0,
@@ -125,7 +125,7 @@
     "UniqueID": 21,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point7_0"
+    "Label": "Point7_0"
   },
   {
     "3198c2ac u16": 1,
@@ -133,7 +133,7 @@
     "UniqueID": 22,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point7_1"
+    "Label": "Point7_1"
   },
   {
     "3198c2ac u16": 2,
@@ -141,7 +141,7 @@
     "UniqueID": 23,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point7_2"
+    "Label": "Point7_2"
   },
   {
     "3198c2ac u16": 0,
@@ -149,7 +149,7 @@
     "UniqueID": 24,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point8_0"
+    "Label": "Point8_0"
   },
   {
     "3198c2ac u16": 1,
@@ -157,7 +157,7 @@
     "UniqueID": 25,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point8_1"
+    "Label": "Point8_1"
   },
   {
     "3198c2ac u16": 2,
@@ -165,7 +165,7 @@
     "UniqueID": 26,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point8_2"
+    "Label": "Point8_2"
   },
   {
     "3198c2ac u16": 3,
@@ -173,7 +173,7 @@
     "UniqueID": 27,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point8_3"
+    "Label": "Point8_3"
   },
   {
     "3198c2ac u16": 0,
@@ -181,7 +181,7 @@
     "UniqueID": 28,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point10_0"
+    "Label": "Point10_0"
   },
   {
     "3198c2ac u16": 1,
@@ -189,7 +189,7 @@
     "UniqueID": 29,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point10_1"
+    "Label": "Point10_1"
   },
   {
     "3198c2ac u16": 2,
@@ -197,7 +197,7 @@
     "UniqueID": 30,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point10_2"
+    "Label": "Point10_2"
   },
   {
     "3198c2ac u16": 3,
@@ -205,7 +205,7 @@
     "UniqueID": 31,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point10_3"
+    "Label": "Point10_3"
   },
   {
     "3198c2ac u16": 0,
@@ -213,7 +213,7 @@
     "UniqueID": 32,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point11_0"
+    "Label": "Point11_0"
   },
   {
     "3198c2ac u16": 1,
@@ -221,7 +221,7 @@
     "UniqueID": 33,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point11_1"
+    "Label": "Point11_1"
   },
   {
     "3198c2ac u16": 2,
@@ -229,7 +229,7 @@
     "UniqueID": 35,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point6_2"
+    "Label": "Point6_2"
   },
   {
     "3198c2ac u16": 0,
@@ -237,7 +237,7 @@
     "UniqueID": 38,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point12_0"
+    "Label": "Point12_0"
   },
   {
     "3198c2ac u16": 1,
@@ -245,7 +245,7 @@
     "UniqueID": 39,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point12_1"
+    "Label": "Point12_1"
   },
   {
     "3198c2ac u16": 4,
@@ -253,7 +253,7 @@
     "UniqueID": 40,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point8_4"
+    "Label": "Point8_4"
   },
   {
     "3198c2ac u16": 5,
@@ -261,7 +261,7 @@
     "UniqueID": 41,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point8_5"
+    "Label": "Point8_5"
   },
   {
     "3198c2ac u16": 6,
@@ -269,7 +269,7 @@
     "UniqueID": 42,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point8_6"
+    "Label": "Point8_6"
   },
   {
     "3198c2ac u16": 7,
@@ -277,7 +277,7 @@
     "UniqueID": 43,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point8_7"
+    "Label": "Point8_7"
   },
   {
     "3198c2ac u16": 2,
@@ -285,7 +285,7 @@
     "UniqueID": 44,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point11_2"
+    "Label": "Point11_2"
   },
   {
     "3198c2ac u16": 3,
@@ -293,7 +293,7 @@
     "UniqueID": 45,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point11_3"
+    "Label": "Point11_3"
   },
   {
     "3198c2ac u16": 0,
@@ -301,7 +301,7 @@
     "UniqueID": 46,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_0"
+    "Label": "Point13_0"
   },
   {
     "3198c2ac u16": 1,
@@ -309,7 +309,7 @@
     "UniqueID": 47,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_1"
+    "Label": "Point13_1"
   },
   {
     "3198c2ac u16": 2,
@@ -317,7 +317,7 @@
     "UniqueID": 48,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point13_2"
+    "Label": "Point13_2"
   },
   {
     "3198c2ac u16": 3,
@@ -325,7 +325,7 @@
     "UniqueID": 49,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point13_3"
+    "Label": "Point13_3"
   },
   {
     "3198c2ac u16": 4,
@@ -333,7 +333,7 @@
     "UniqueID": 50,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point13_4"
+    "Label": "Point13_4"
   },
   {
     "3198c2ac u16": 5,
@@ -341,7 +341,7 @@
     "UniqueID": 51,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_5"
+    "Label": "Point13_5"
   },
   {
     "3198c2ac u16": 6,
@@ -349,7 +349,7 @@
     "UniqueID": 52,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_6"
+    "Label": "Point13_6"
   },
   {
     "3198c2ac u16": 7,
@@ -357,7 +357,7 @@
     "UniqueID": 53,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_7"
+    "Label": "Point13_7"
   },
   {
     "3198c2ac u16": 8,
@@ -365,7 +365,7 @@
     "UniqueID": 54,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 1,
-    "f0b8307e string36": "Point13_8"
+    "Label": "Point13_8"
   },
   {
     "3198c2ac u16": 9,
@@ -373,7 +373,7 @@
     "UniqueID": 55,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_9"
+    "Label": "Point13_9"
   },
   {
     "3198c2ac u16": 10,
@@ -381,7 +381,7 @@
     "UniqueID": 56,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_10"
+    "Label": "Point13_10"
   },
   {
     "3198c2ac u16": 11,
@@ -389,7 +389,7 @@
     "UniqueID": 57,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_11"
+    "Label": "Point13_11"
   },
   {
     "3198c2ac u16": 12,
@@ -397,7 +397,7 @@
     "UniqueID": 58,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_12"
+    "Label": "Point13_12"
   },
   {
     "3198c2ac u16": 13,
@@ -405,7 +405,7 @@
     "UniqueID": 59,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_13"
+    "Label": "Point13_13"
   },
   {
     "3198c2ac u16": 14,
@@ -413,7 +413,7 @@
     "UniqueID": 60,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_14"
+    "Label": "Point13_14"
   },
   {
     "3198c2ac u16": 15,
@@ -421,7 +421,7 @@
     "UniqueID": 61,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_15"
+    "Label": "Point13_15"
   },
   {
     "3198c2ac u16": 16,
@@ -429,7 +429,7 @@
     "UniqueID": 62,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_16"
+    "Label": "Point13_16"
   },
   {
     "3198c2ac u16": 17,
@@ -437,7 +437,7 @@
     "UniqueID": 63,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_17"
+    "Label": "Point13_17"
   },
   {
     "3198c2ac u16": 0,
@@ -445,7 +445,7 @@
     "UniqueID": 64,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point14_0"
+    "Label": "Point14_0"
   },
   {
     "3198c2ac u16": 1,
@@ -453,7 +453,7 @@
     "UniqueID": 65,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point14_1"
+    "Label": "Point14_1"
   },
   {
     "3198c2ac u16": 2,
@@ -461,7 +461,7 @@
     "UniqueID": 66,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point14_2"
+    "Label": "Point14_2"
   },
   {
     "3198c2ac u16": 18,
@@ -469,7 +469,7 @@
     "UniqueID": 68,
     "8ae370c5 u8": 1,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point13_18"
+    "Label": "Point13_18"
   },
   {
     "3198c2ac u16": 3,
@@ -477,6 +477,6 @@
     "UniqueID": 69,
     "8ae370c5 u8": 0,
     "4f0b2be7 u8": 0,
-    "f0b8307e string36": "Point6_3"
+    "Label": "Point6_3"
   }
 ]
