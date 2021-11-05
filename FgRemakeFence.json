@@ -1,474 +1,474 @@
 [
   {
-    "34e5bfbd u16": -5190,
+    "FgUniqueID": 60346,
     "ItemUniqueID": 3402,
     "ReBodyID": 0,
     "UniqueID": 7
   },
   {
-    "34e5bfbd u16": -4772,
+    "FgUniqueID": 60764,
     "ItemUniqueID": 3402,
     "ReBodyID": 1,
     "UniqueID": 71
   },
   {
-    "34e5bfbd u16": -4936,
+    "FgUniqueID": 60600,
     "ItemUniqueID": 3402,
     "ReBodyID": 2,
     "UniqueID": 12
   },
   {
-    "34e5bfbd u16": -4918,
+    "FgUniqueID": 60618,
     "ItemUniqueID": 3402,
     "ReBodyID": 3,
     "UniqueID": 11
   },
   {
-    "34e5bfbd u16": -4919,
+    "FgUniqueID": 60617,
     "ItemUniqueID": 3402,
     "ReBodyID": 4,
     "UniqueID": 8
   },
   {
-    "34e5bfbd u16": -4917,
+    "FgUniqueID": 60619,
     "ItemUniqueID": 3402,
     "ReBodyID": 5,
     "UniqueID": 9
   },
   {
-    "34e5bfbd u16": -4916,
+    "FgUniqueID": 60620,
     "ItemUniqueID": 3402,
     "ReBodyID": 6,
     "UniqueID": 10
   },
   {
-    "34e5bfbd u16": -4773,
+    "FgUniqueID": 60763,
     "ItemUniqueID": 3402,
     "ReBodyID": 7,
     "UniqueID": 70
   },
   {
-    "34e5bfbd u16": -4995,
+    "FgUniqueID": 60541,
     "ItemUniqueID": 4357,
     "ReBodyID": 0,
     "UniqueID": 13
   },
   {
-    "34e5bfbd u16": -4897,
+    "FgUniqueID": 60639,
     "ItemUniqueID": 4357,
     "ReBodyID": 1,
     "UniqueID": 14
   },
   {
-    "34e5bfbd u16": -4895,
+    "FgUniqueID": 60641,
     "ItemUniqueID": 4357,
     "ReBodyID": 2,
     "UniqueID": 16
   },
   {
-    "34e5bfbd u16": -4896,
+    "FgUniqueID": 60640,
     "ItemUniqueID": 4357,
     "ReBodyID": 3,
     "UniqueID": 15
   },
   {
-    "34e5bfbd u16": -4777,
+    "FgUniqueID": 60759,
     "ItemUniqueID": 4357,
     "ReBodyID": 4,
     "UniqueID": 18
   },
   {
-    "34e5bfbd u16": -4776,
+    "FgUniqueID": 60760,
     "ItemUniqueID": 4357,
     "ReBodyID": 5,
     "UniqueID": 17
   },
   {
-    "34e5bfbd u16": -4778,
+    "FgUniqueID": 60758,
     "ItemUniqueID": 4357,
     "ReBodyID": 6,
     "UniqueID": 19
   },
   {
-    "34e5bfbd u16": -4779,
+    "FgUniqueID": 60757,
     "ItemUniqueID": 4357,
     "ReBodyID": 7,
     "UniqueID": 20
   },
   {
-    "34e5bfbd u16": -4938,
+    "FgUniqueID": 60598,
     "ItemUniqueID": 5207,
     "ReBodyID": 0,
     "UniqueID": 21
   },
   {
-    "34e5bfbd u16": -4900,
+    "FgUniqueID": 60636,
     "ItemUniqueID": 5207,
     "ReBodyID": 1,
     "UniqueID": 22
   },
   {
-    "34e5bfbd u16": -4899,
+    "FgUniqueID": 60637,
     "ItemUniqueID": 5207,
     "ReBodyID": 2,
     "UniqueID": 23
   },
   {
-    "34e5bfbd u16": -4898,
+    "FgUniqueID": 60638,
     "ItemUniqueID": 5207,
     "ReBodyID": 3,
     "UniqueID": 24
   },
   {
-    "34e5bfbd u16": -4902,
+    "FgUniqueID": 60634,
     "ItemUniqueID": 5207,
     "ReBodyID": 4,
     "UniqueID": 25
   },
   {
-    "34e5bfbd u16": -4901,
+    "FgUniqueID": 60635,
     "ItemUniqueID": 5207,
     "ReBodyID": 5,
     "UniqueID": 26
   },
   {
-    "34e5bfbd u16": -4903,
+    "FgUniqueID": 60633,
     "ItemUniqueID": 5207,
     "ReBodyID": 6,
     "UniqueID": 27
   },
   {
-    "34e5bfbd u16": -4904,
+    "FgUniqueID": 60632,
     "ItemUniqueID": 5207,
     "ReBodyID": 7,
     "UniqueID": 28
   },
   {
-    "34e5bfbd u16": -4940,
+    "FgUniqueID": 60596,
     "ItemUniqueID": 5208,
     "ReBodyID": 0,
     "UniqueID": 29
   },
   {
-    "34e5bfbd u16": -4933,
+    "FgUniqueID": 60603,
     "ItemUniqueID": 5208,
     "ReBodyID": 1,
     "UniqueID": 30
   },
   {
-    "34e5bfbd u16": -4905,
+    "FgUniqueID": 60631,
     "ItemUniqueID": 5208,
     "ReBodyID": 2,
     "UniqueID": 32
   },
   {
-    "34e5bfbd u16": -4910,
+    "FgUniqueID": 60626,
     "ItemUniqueID": 5208,
     "ReBodyID": 3,
     "UniqueID": 36
   },
   {
-    "34e5bfbd u16": -4909,
+    "FgUniqueID": 60627,
     "ItemUniqueID": 5208,
     "ReBodyID": 4,
     "UniqueID": 35
   },
   {
-    "34e5bfbd u16": -4906,
+    "FgUniqueID": 60630,
     "ItemUniqueID": 5208,
     "ReBodyID": 5,
     "UniqueID": 31
   },
   {
-    "34e5bfbd u16": -4908,
+    "FgUniqueID": 60628,
     "ItemUniqueID": 5208,
     "ReBodyID": 6,
     "UniqueID": 33
   },
   {
-    "34e5bfbd u16": -4907,
+    "FgUniqueID": 60629,
     "ItemUniqueID": 5208,
     "ReBodyID": 7,
     "UniqueID": 34
   },
   {
-    "34e5bfbd u16": -4926,
+    "FgUniqueID": 60610,
     "ItemUniqueID": 11711,
     "ReBodyID": 0,
     "UniqueID": 50
   },
   {
-    "34e5bfbd u16": -5471,
+    "FgUniqueID": 60065,
     "ItemUniqueID": 11711,
     "ReBodyID": 1,
     "UniqueID": 51
   },
   {
-    "34e5bfbd u16": -4922,
+    "FgUniqueID": 60614,
     "ItemUniqueID": 11711,
     "ReBodyID": 2,
     "UniqueID": 55
   },
   {
-    "34e5bfbd u16": -4923,
+    "FgUniqueID": 60613,
     "ItemUniqueID": 11711,
     "ReBodyID": 3,
     "UniqueID": 54
   },
   {
-    "34e5bfbd u16": -4920,
+    "FgUniqueID": 60616,
     "ItemUniqueID": 11711,
     "ReBodyID": 4,
     "UniqueID": 56
   },
   {
-    "34e5bfbd u16": -4972,
+    "FgUniqueID": 60564,
     "ItemUniqueID": 11711,
     "ReBodyID": 5,
     "UniqueID": 52
   },
   {
-    "34e5bfbd u16": -4939,
+    "FgUniqueID": 60597,
     "ItemUniqueID": 11711,
     "ReBodyID": 6,
     "UniqueID": 53
   },
   {
-    "34e5bfbd u16": -4921,
+    "FgUniqueID": 60615,
     "ItemUniqueID": 11711,
     "ReBodyID": 7,
     "UniqueID": 57
   },
   {
-    "34e5bfbd u16": -4925,
+    "FgUniqueID": 60611,
     "ItemUniqueID": 11712,
     "ReBodyID": 0,
     "UniqueID": 37
   },
   {
-    "34e5bfbd u16": -4934,
+    "FgUniqueID": 60602,
     "ItemUniqueID": 11712,
     "ReBodyID": 1,
     "UniqueID": 38
   },
   {
-    "34e5bfbd u16": -4914,
+    "FgUniqueID": 60622,
     "ItemUniqueID": 11712,
     "ReBodyID": 2,
     "UniqueID": 41
   },
   {
-    "34e5bfbd u16": -5164,
+    "FgUniqueID": 60372,
     "ItemUniqueID": 11712,
     "ReBodyID": 3,
     "UniqueID": 39
   },
   {
-    "34e5bfbd u16": -4911,
+    "FgUniqueID": 60625,
     "ItemUniqueID": 11712,
     "ReBodyID": 4,
     "UniqueID": 40
   },
   {
-    "34e5bfbd u16": -4912,
+    "FgUniqueID": 60624,
     "ItemUniqueID": 11712,
     "ReBodyID": 5,
     "UniqueID": 43
   },
   {
-    "34e5bfbd u16": -4913,
+    "FgUniqueID": 60623,
     "ItemUniqueID": 11712,
     "ReBodyID": 6,
     "UniqueID": 42
   },
   {
-    "34e5bfbd u16": -4915,
+    "FgUniqueID": 60621,
     "ItemUniqueID": 11712,
     "ReBodyID": 7,
     "UniqueID": 44
   },
   {
-    "34e5bfbd u16": -4851,
+    "FgUniqueID": 60685,
     "ItemUniqueID": 12894,
     "ReBodyID": 0,
     "UniqueID": 45
   },
   {
-    "34e5bfbd u16": -4850,
+    "FgUniqueID": 60686,
     "ItemUniqueID": 12894,
     "ReBodyID": 1,
     "UniqueID": 46
   },
   {
-    "34e5bfbd u16": -4853,
+    "FgUniqueID": 60683,
     "ItemUniqueID": 12894,
     "ReBodyID": 2,
     "UniqueID": 49
   },
   {
-    "34e5bfbd u16": -4855,
+    "FgUniqueID": 60681,
     "ItemUniqueID": 12894,
     "ReBodyID": 3,
     "UniqueID": 48
   },
   {
-    "34e5bfbd u16": -4854,
+    "FgUniqueID": 60682,
     "ItemUniqueID": 12894,
     "ReBodyID": 4,
     "UniqueID": 47
   },
   {
-    "34e5bfbd u16": -4769,
+    "FgUniqueID": 60767,
     "ItemUniqueID": 12894,
     "ReBodyID": 5,
     "UniqueID": 72
   },
   {
-    "34e5bfbd u16": -4770,
+    "FgUniqueID": 60766,
     "ItemUniqueID": 12894,
     "ReBodyID": 6,
     "UniqueID": 73
   },
   {
-    "34e5bfbd u16": -4771,
+    "FgUniqueID": 60765,
     "ItemUniqueID": 12894,
     "ReBodyID": 7,
     "UniqueID": 74
   },
   {
-    "34e5bfbd u16": -4892,
+    "FgUniqueID": 60644,
     "ItemUniqueID": 14756,
     "ReBodyID": 0,
     "UniqueID": 0
   },
   {
-    "34e5bfbd u16": -4887,
+    "FgUniqueID": 60649,
     "ItemUniqueID": 14756,
     "ReBodyID": 1,
     "UniqueID": 1
   },
   {
-    "34e5bfbd u16": -4886,
+    "FgUniqueID": 60650,
     "ItemUniqueID": 14756,
     "ReBodyID": 2,
     "UniqueID": 2
   },
   {
-    "34e5bfbd u16": -4885,
+    "FgUniqueID": 60651,
     "ItemUniqueID": 14756,
     "ReBodyID": 3,
     "UniqueID": 3
   },
   {
-    "34e5bfbd u16": -4889,
+    "FgUniqueID": 60647,
     "ItemUniqueID": 14756,
     "ReBodyID": 4,
     "UniqueID": 4
   },
   {
-    "34e5bfbd u16": -4890,
+    "FgUniqueID": 60646,
     "ItemUniqueID": 14756,
     "ReBodyID": 5,
     "UniqueID": 5
   },
   {
-    "34e5bfbd u16": -4888,
+    "FgUniqueID": 60648,
     "ItemUniqueID": 14756,
     "ReBodyID": 6,
     "UniqueID": 6
   },
   {
-    "34e5bfbd u16": -4793,
+    "FgUniqueID": 60743,
     "ItemUniqueID": 14758,
     "ReBodyID": 0,
     "UniqueID": 58
   },
   {
-    "34e5bfbd u16": -4783,
+    "FgUniqueID": 60753,
     "ItemUniqueID": 14758,
     "ReBodyID": 1,
     "UniqueID": 59
   },
   {
-    "34e5bfbd u16": -4782,
+    "FgUniqueID": 60754,
     "ItemUniqueID": 14758,
     "ReBodyID": 2,
     "UniqueID": 60
   },
   {
-    "34e5bfbd u16": -4784,
+    "FgUniqueID": 60752,
     "ItemUniqueID": 14758,
     "ReBodyID": 3,
     "UniqueID": 61
   },
   {
-    "34e5bfbd u16": -4780,
+    "FgUniqueID": 60756,
     "ItemUniqueID": 14758,
     "ReBodyID": 4,
     "UniqueID": 78
   },
   {
-    "34e5bfbd u16": -4775,
+    "FgUniqueID": 60761,
     "ItemUniqueID": 14758,
     "ReBodyID": 5,
     "UniqueID": 76
   },
   {
-    "34e5bfbd u16": -4774,
+    "FgUniqueID": 60762,
     "ItemUniqueID": 14758,
     "ReBodyID": 6,
     "UniqueID": 75
   },
   {
-    "34e5bfbd u16": -4781,
+    "FgUniqueID": 60755,
     "ItemUniqueID": 14758,
     "ReBodyID": 7,
     "UniqueID": 77
   },
   {
-    "34e5bfbd u16": -4792,
+    "FgUniqueID": 60744,
     "ItemUniqueID": 14759,
     "ReBodyID": 0,
     "UniqueID": 62
   },
   {
-    "34e5bfbd u16": -4791,
+    "FgUniqueID": 60745,
     "ItemUniqueID": 14759,
     "ReBodyID": 1,
     "UniqueID": 63
   },
   {
-    "34e5bfbd u16": -4787,
+    "FgUniqueID": 60749,
     "ItemUniqueID": 14759,
     "ReBodyID": 2,
     "UniqueID": 64
   },
   {
-    "34e5bfbd u16": -4789,
+    "FgUniqueID": 60747,
     "ItemUniqueID": 14759,
     "ReBodyID": 3,
     "UniqueID": 65
   },
   {
-    "34e5bfbd u16": -4790,
+    "FgUniqueID": 60746,
     "ItemUniqueID": 14759,
     "ReBodyID": 4,
     "UniqueID": 66
   },
   {
-    "34e5bfbd u16": -4788,
+    "FgUniqueID": 60748,
     "ItemUniqueID": 14759,
     "ReBodyID": 5,
     "UniqueID": 67
   },
   {
-    "34e5bfbd u16": -4786,
+    "FgUniqueID": 60750,
     "ItemUniqueID": 14759,
     "ReBodyID": 6,
     "UniqueID": 68
   },
   {
-    "34e5bfbd u16": -4785,
+    "FgUniqueID": 60751,
     "ItemUniqueID": 14759,
     "ReBodyID": 7,
     "UniqueID": 69

@@ -1,9 +1,9 @@
 [
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 1,
+    "MaxAmount": 2,
+    "MinAmount": 1,
     "5b589691 u32": -1,
-    "36c903a7 u16": 1,
+    "AreaUniqueID": 1,
     "UniqueID": 0,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -14,10 +14,10 @@
     "62a2abe9 string36": "Unlock_NPC_00"
   },
   {
-    "9d9906d2 u32": 1,
-    "ddd67ea4 u32": 1,
+    "MaxAmount": 1,
+    "MinAmount": 1,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 1,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -28,10 +28,10 @@
     "62a2abe9 string36": "Unlock_NPC_00"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 1,
+    "MaxAmount": 2,
+    "MinAmount": 1,
     "5b589691 u32": -1,
-    "36c903a7 u16": 3,
+    "AreaUniqueID": 3,
     "UniqueID": 2,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -42,10 +42,10 @@
     "62a2abe9 string36": "Unlock_NPC_00"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 1,
+    "MaxAmount": 2,
+    "MinAmount": 1,
     "5b589691 u32": -1,
-    "36c903a7 u16": 2,
+    "AreaUniqueID": 2,
     "UniqueID": 3,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -56,10 +56,10 @@
     "62a2abe9 string36": "Unlock_NPC_01"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 1,
+    "MaxAmount": 2,
+    "MinAmount": 1,
     "5b589691 u32": -1,
-    "36c903a7 u16": 3,
+    "AreaUniqueID": 3,
     "UniqueID": 4,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -70,10 +70,10 @@
     "62a2abe9 string36": "Unlock_NPC_01"
   },
   {
-    "9d9906d2 u32": 6,
-    "ddd67ea4 u32": 4,
+    "MaxAmount": 6,
+    "MinAmount": 4,
     "5b589691 u32": -1,
-    "36c903a7 u16": 8,
+    "AreaUniqueID": 8,
     "UniqueID": 5,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -84,10 +84,10 @@
     "62a2abe9 string36": "Unlock_NPC_01"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 2,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 6,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -98,10 +98,10 @@
     "62a2abe9 string36": "Unlock_NPC_03"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 2,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 7,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -112,10 +112,10 @@
     "62a2abe9 string36": "Unlock_NPC_03"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 2,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 4,
+    "AreaUniqueID": 4,
     "UniqueID": 8,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -126,10 +126,10 @@
     "62a2abe9 string36": "Unlock_NPC_04"
   },
   {
-    "9d9906d2 u32": 2,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 2,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 5,
+    "AreaUniqueID": 5,
     "UniqueID": 9,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -140,10 +140,10 @@
     "62a2abe9 string36": "Unlock_NPC_04"
   },
   {
-    "9d9906d2 u32": 1,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 1,
+    "MinAmount": 0,
     "5b589691 u32": 0,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 10,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -154,10 +154,10 @@
     "62a2abe9 string36": "Unlock_NPC_01"
   },
   {
-    "9d9906d2 u32": 1,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 1,
+    "MinAmount": 0,
     "5b589691 u32": 1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 11,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -168,10 +168,10 @@
     "62a2abe9 string36": "Unlock_NPC_04"
   },
   {
-    "9d9906d2 u32": 1,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 1,
+    "MinAmount": 0,
     "5b589691 u32": 2,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 12,
     "dfc1edb2 u8": 1,
     "da0c5d33 u8": 0,
@@ -182,10 +182,10 @@
     "62a2abe9 string36": "Unlock_NPC_06"
   },
   {
-    "9d9906d2 u32": 15,
-    "ddd67ea4 u32": 15,
+    "MaxAmount": 15,
+    "MinAmount": 15,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 13,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 1,
@@ -196,10 +196,10 @@
     "62a2abe9 string36": "Unlock_NPC_01"
   },
   {
-    "9d9906d2 u32": 0,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 0,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 14,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
@@ -210,10 +210,10 @@
     "62a2abe9 string36": "Unlock_NPC_09"
   },
   {
-    "9d9906d2 u32": 0,
-    "ddd67ea4 u32": 0,
+    "MaxAmount": 0,
+    "MinAmount": 0,
     "5b589691 u32": -1,
-    "36c903a7 u16": 0,
+    "AreaUniqueID": 0,
     "UniqueID": 15,
     "dfc1edb2 u8": 0,
     "da0c5d33 u8": 0,
