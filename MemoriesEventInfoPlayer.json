@@ -8,7 +8,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 0,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetFish_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -22,7 +22,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 10,
     "UniqueID": 1,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetFish_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -36,7 +36,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 2,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetInsect_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -50,7 +50,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 10,
     "UniqueID": 3,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetInsect_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -64,7 +64,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 4,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetSeafood_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -78,7 +78,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 10,
     "UniqueID": 5,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetSeafood_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -92,7 +92,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 6,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_PlantFlowerSeed",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -106,7 +106,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 7,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_PlantShrubSeedlings",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -120,7 +120,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 8,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_PlantTreeSeedlings",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -134,7 +134,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 9,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_PlantVegetableSeedlings",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -148,7 +148,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 5,
     "UniqueID": 10,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumDonation",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -162,7 +162,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 11,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Cooking",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -176,7 +176,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 12,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DIY_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -190,7 +190,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 13,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DIY_GoldSeries",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -204,7 +204,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 5,
     "UniqueID": 14,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DIY_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -218,7 +218,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 15,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Remake_ByDIY",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -232,7 +232,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 16,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Remake_ByShop",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -246,7 +246,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 17,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GetSeasonTraditionItem",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -260,7 +260,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 18,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DivingFirst",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -274,7 +274,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 19,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatchFishFes_Join",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -288,7 +288,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 20,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatchFishFes_Exchange",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -302,7 +302,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 21,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MakeFishToy",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -316,7 +316,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 22,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatchInsectFes_Join",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -330,7 +330,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 23,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatchInsectFes_Exchange",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -344,7 +344,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 24,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MakeInsectToy",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -358,7 +358,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 25,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Countdown_TalkNPC",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -372,7 +372,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 26,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_ChristmasEvent_GetSled",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -386,7 +386,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 27,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Easter_GetRecipe",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -400,7 +400,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 28,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_FireworksFes_InMainfield",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -414,7 +414,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 29,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_FireworksFes_Selfmade",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -428,7 +428,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 30,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Halloween_GetRecipe",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -442,7 +442,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 31,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Carnival_GetFloat",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -456,7 +456,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 32,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_ThanksGiving_CookingComplete",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -470,7 +470,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 33,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MaydayIsland_Landing",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -484,7 +484,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 34,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MaydayIsland_TalkXct",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -498,7 +498,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 35,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumStampComp_Fish",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -512,7 +512,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 36,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumStampComp_Insect",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -526,7 +526,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 37,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumStampComp_Fossil",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -540,7 +540,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 38,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumStampComp_Art",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -554,7 +554,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 39,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MuseumStampComp_All",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -568,7 +568,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 41,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_JuneBride_GetHeartPiece",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -582,7 +582,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 42,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_ExcavatedHaniwa",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -596,7 +596,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 43,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatalogOrder_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -610,7 +610,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 10,
     "UniqueID": 44,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_CatalogOrder_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -624,7 +624,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 45,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BuyItemMarket_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -638,7 +638,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 5,
     "UniqueID": 46,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BuyItemMarket_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -652,7 +652,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 47,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BuyItemTailor_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -666,7 +666,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 5,
     "UniqueID": 48,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BuyItemTailor_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -680,7 +680,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 49,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DreamLand_Regist",
     "PrioLevel": 1,
     "83da3b2a u16": 0
@@ -694,7 +694,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 50,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DreamLand_Update",
     "PrioLevel": 1,
     "83da3b2a u16": 0
@@ -708,7 +708,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 51,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_DreamLand_Watch",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -722,7 +722,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 52,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_NNPC_Talk",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -736,7 +736,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 53,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_NNPC_SolveRequest",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -750,7 +750,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 54,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_NNPC_PlayWith",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -764,7 +764,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 55,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Present_ToNNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -778,7 +778,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 56,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Present_FromNNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -792,7 +792,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 57,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_NNPC_CampSiteTalk",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -806,7 +806,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 58,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_SNPC_Talk",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -820,7 +820,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 59,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Seo_Talk",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -834,7 +834,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 60,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Seo_GetItem",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -848,7 +848,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 61,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Gst_Help",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -862,7 +862,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 62,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GulA_Help",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -876,7 +876,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 63,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_GulB_Help",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -890,7 +890,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 64,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MakeSnowman",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -904,7 +904,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 65,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Hgc_CheckStart",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -918,7 +918,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 66,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Hgc_CheckEnd",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -932,7 +932,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 2,
     "UniqueID": 67,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BirthdayEvent_NNPC",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -946,7 +946,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 68,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_TodayIsMyBirthday",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -960,7 +960,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 69,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_BirthdayEvent_Myself",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -974,7 +974,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 70,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_SharePlay",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -988,7 +988,7 @@
     "54a1df24 string": "BestFriend",
     "175969e1 u16": 10,
     "UniqueID": 71,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MultiPlay_ComePlayer",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1002,7 +1002,7 @@
     "54a1df24 string": "BestFriend",
     "175969e1 u16": 5,
     "UniqueID": 72,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MultiPlay_GotoIsland",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1016,7 +1016,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 75,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Loan_FullPayment",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1030,7 +1030,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 78,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MydesignShowcase_PostNormal",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1044,7 +1044,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 79,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_MydesignShowcase_PostPro",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1058,7 +1058,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 80,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Achievement_PlayDays",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1072,7 +1072,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 81,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_SelectMusic",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1086,7 +1086,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 82,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_SelectMusic_ByBox",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1100,7 +1100,7 @@
     "54a1df24 string": "MysteryTour",
     "175969e1 u16": 5,
     "UniqueID": 83,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Goto_MysteryTour",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1114,7 +1114,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 2,
     "UniqueID": 84,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Goto_KappeiTour_Rare",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1128,7 +1128,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 85,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Goto_CommuneIsland",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1142,7 +1142,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 86,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_OrderReceivedNNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1156,7 +1156,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 87,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_CoordinateNNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1170,7 +1170,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 88,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_InvitationNNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1184,7 +1184,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 89,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_ShopBuy_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1198,7 +1198,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 5,
     "UniqueID": 90,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_ShopBuy_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1212,7 +1212,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 10,
     "UniqueID": 91,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_Catalog_New",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1226,7 +1226,7 @@
     "54a1df24 string": "Price",
     "175969e1 u16": 10,
     "UniqueID": 92,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_Catalog_HighPrice",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1240,7 +1240,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 93,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_Launch",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1254,7 +1254,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 94,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_FacilityBuilt",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1268,7 +1268,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 95,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_FacilityExtention",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1282,7 +1282,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 96,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_TkkFesFirst",
     "PrioLevel": 9,
     "83da3b2a u16": 0
@@ -1296,7 +1296,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 97,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_TkkFes",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -1310,7 +1310,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 98,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_PostResortOpus",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1324,7 +1324,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 1,
     "UniqueID": 99,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_LandEvaluation_Up",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -1338,7 +1338,7 @@
     "54a1df24 string": "BestFriend",
     "175969e1 u16": 10,
     "UniqueID": 100,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Multiplay_WithOtherVisitor",
     "PrioLevel": 5,
     "83da3b2a u16": 1
@@ -1352,7 +1352,7 @@
     "54a1df24 string": "None",
     "175969e1 u16": 5,
     "UniqueID": 101,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_PlantFruit_First",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -1366,7 +1366,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 1,
     "UniqueID": 102,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_ChangeNewHair_ByPoo",
     "PrioLevel": 7,
     "83da3b2a u16": 0
@@ -1380,7 +1380,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 103,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_OrderReceivedSNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1394,7 +1394,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 104,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Wherearen_CoordinateSNPC",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1408,7 +1408,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 107,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Present_ToNNPC_Recipe",
     "PrioLevel": 5,
     "83da3b2a u16": 0
@@ -1422,7 +1422,7 @@
     "54a1df24 string": "Recent",
     "175969e1 u16": 5,
     "UniqueID": 108,
-    "CountPlayerVisit": 0,
+    "7ef334a6 u8": 0,
     "Label": "PE_Present_FromNNPC_Recipe",
     "PrioLevel": 5,
     "83da3b2a u16": 0
