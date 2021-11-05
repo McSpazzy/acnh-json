@@ -1,1464 +1,1464 @@
 [
   {
-    "a4686e5d string": "Chair",
+    "a4686e5d.HashRef": "Chair",
     "UniqueID": 2,
     "Label": "Chair",
     "Name": "イス・スツール"
   },
   {
-    "a4686e5d string": "Chair",
+    "a4686e5d.HashRef": "Chair",
     "UniqueID": 3,
     "Label": "Sofa",
     "Name": "ソファ・ベンチ"
   },
   {
-    "a4686e5d string": "Table",
+    "a4686e5d.HashRef": "Table",
     "UniqueID": 5,
     "Label": "Table",
     "Name": "テーブル"
   },
   {
-    "a4686e5d string": "Table",
+    "a4686e5d.HashRef": "Table",
     "UniqueID": 4,
     "Label": "Desk",
     "Name": "机"
   },
   {
-    "a4686e5d string": "Bed",
+    "a4686e5d.HashRef": "Bed",
     "UniqueID": 1,
     "Label": "Bed",
     "Name": "ベッド"
   },
   {
-    "a4686e5d string": "Shelf",
+    "a4686e5d.HashRef": "Shelf",
     "UniqueID": 22,
     "Label": "Chest",
     "Name": "タンス・クローゼット"
   },
   {
-    "a4686e5d string": "Shelf",
+    "a4686e5d.HashRef": "Shelf",
     "UniqueID": 52,
     "Label": "Shelf",
     "Name": "棚"
   },
   {
-    "a4686e5d string": "Shelf",
+    "a4686e5d.HashRef": "Shelf",
     "UniqueID": 23,
     "Label": "Dresser",
     "Name": "ドレッサー"
   },
   {
-    "a4686e5d string": "ScreenArch",
+    "a4686e5d.HashRef": "ScreenArch",
     "UniqueID": 53,
     "Label": "Screen",
     "Name": "スクリーン"
   },
   {
-    "a4686e5d string": "ScreenArch",
+    "a4686e5d.HashRef": "ScreenArch",
     "UniqueID": 51,
     "Label": "Arch",
     "Name": "アーチ"
   },
   {
-    "a4686e5d string": "WorkBench",
+    "a4686e5d.HashRef": "WorkBench",
     "UniqueID": 33,
     "Label": "WorkBench",
     "Name": "作業台"
   },
   {
-    "a4686e5d string": "WorkBench",
+    "a4686e5d.HashRef": "WorkBench",
     "UniqueID": 35,
     "Label": "SewingTable",
     "Name": "裁縫台"
   },
   {
-    "a4686e5d string": "Kitchen",
+    "a4686e5d.HashRef": "Kitchen",
     "UniqueID": 12,
     "Label": "Kitchen",
     "Name": "キッチン"
   },
   {
-    "a4686e5d string": "Kitchen",
+    "a4686e5d.HashRef": "Kitchen",
     "UniqueID": 13,
     "Label": "KitchenThings",
     "Name": "雑貨：キッチン"
   },
   {
-    "a4686e5d string": "Kitchen",
+    "a4686e5d.HashRef": "Kitchen",
     "UniqueID": 56,
     "Label": "Dining",
     "Name": "雑貨：食卓"
   },
   {
-    "a4686e5d string": "DishFood",
+    "a4686e5d.HashRef": "DishFood",
     "UniqueID": 225,
     "Label": "DishFood",
     "Name": "雑貨：食べ物"
   },
   {
-    "a4686e5d string": "DishDrink",
+    "a4686e5d.HashRef": "DishDrink",
     "UniqueID": 226,
     "Label": "DishDrink",
     "Name": "雑貨：飲み物"
   },
   {
-    "a4686e5d string": "Lamp",
+    "a4686e5d.HashRef": "Lamp",
     "UniqueID": 6,
     "Label": "Lamp",
     "Name": "照明"
   },
   {
-    "a4686e5d string": "EntertainmentAppliances",
+    "a4686e5d.HashRef": "EntertainmentAppliances",
     "UniqueID": 14,
     "Label": "TV",
     "Name": "テレビ"
   },
   {
-    "a4686e5d string": "EntertainmentAppliances",
+    "a4686e5d.HashRef": "EntertainmentAppliances",
     "UniqueID": 178,
     "Label": "GameConsole",
     "Name": "ゲーム機"
   },
   {
-    "a4686e5d string": "EntertainmentAppliances",
+    "a4686e5d.HashRef": "EntertainmentAppliances",
     "UniqueID": 15,
     "Label": "Audio",
     "Name": "オーディオ機器"
   },
   {
-    "a4686e5d string": "EntertainmentAppliances",
+    "a4686e5d.HashRef": "EntertainmentAppliances",
     "UniqueID": 229,
     "Label": "TableClock",
     "Name": "置き時計"
   },
   {
-    "a4686e5d string": "EntertainmentAppliances",
+    "a4686e5d.HashRef": "EntertainmentAppliances",
     "UniqueID": 16,
     "Label": "Clock",
     "Name": "掛け時計"
   },
   {
-    "a4686e5d string": "MusicalInstrument",
+    "a4686e5d.HashRef": "MusicalInstrument",
     "UniqueID": 10,
     "Label": "MusicalInstrument",
     "Name": "楽器"
   },
   {
-    "a4686e5d string": "AirConditioning",
+    "a4686e5d.HashRef": "AirConditioning",
     "UniqueID": 20,
     "Label": "HomeAppliances",
     "Name": "生活家電"
   },
   {
-    "a4686e5d string": "AirConditioning",
+    "a4686e5d.HashRef": "AirConditioning",
     "UniqueID": 25,
     "Label": "Fan",
     "Name": "扇風機系"
   },
   {
-    "a4686e5d string": "AirConditioning",
+    "a4686e5d.HashRef": "AirConditioning",
     "UniqueID": 17,
     "Label": "AirConditioning",
     "Name": "エアコン"
   },
   {
-    "a4686e5d string": "AirConditioning",
+    "a4686e5d.HashRef": "AirConditioning",
     "UniqueID": 18,
     "Label": "Heating",
     "Name": "暖房"
   },
   {
-    "a4686e5d string": "AirConditioning",
+    "a4686e5d.HashRef": "AirConditioning",
     "UniqueID": 24,
     "Label": "Fireplace",
     "Name": "暖炉"
   },
   {
-    "a4686e5d f32": 989703.25,
+    "a4686e5d.HashRef": "Bathroom",
     "UniqueID": 8,
     "Label": "Toilet",
     "Name": "便器"
   },
   {
-    "a4686e5d f32": 989703.25,
+    "a4686e5d.HashRef": "Bathroom",
     "UniqueID": 7,
     "Label": "Bathtub",
     "Name": "浴槽"
   },
   {
-    "a4686e5d f32": 989703.25,
+    "a4686e5d.HashRef": "Bathroom",
     "UniqueID": 19,
     "Label": "BathroomThings",
     "Name": "雑貨：バス・トイレ"
   },
   {
-    "a4686e5d f32": 989703.25,
+    "a4686e5d.HashRef": "Bathroom",
     "UniqueID": 57,
     "Label": "Beauty",
     "Name": "雑貨：美容系"
   },
   {
-    "a4686e5d string": "PlantItem",
+    "a4686e5d.HashRef": "PlantItem",
     "UniqueID": 11,
     "Label": "Plants",
     "Name": "植物家具"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 55,
     "Label": "Study",
     "Name": "雑貨：書斎"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 9,
     "Label": "Supplies",
     "Name": "雑貨：家庭"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 45,
     "Label": "School",
     "Name": "雑貨：学校"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 46,
     "Label": "Office",
     "Name": "雑貨：オフィス"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 47,
     "Label": "Hospital",
     "Name": "雑貨：病院"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 54,
     "Label": "Museum",
     "Name": "雑貨：博物館系"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 48,
     "Label": "Shop",
     "Name": "雑貨：お店"
   },
   {
-    "a4686e5d string": "FacilityGoods",
+    "a4686e5d.HashRef": "FacilityGoods",
     "UniqueID": 26,
     "Label": "SuppliesFacility",
     "Name": "雑貨：施設"
   },
   {
-    "a4686e5d string": "OutdoorGoods",
+    "a4686e5d.HashRef": "OutdoorGoods",
     "UniqueID": 40,
     "Label": "Seaside",
     "Name": "雑貨：海辺"
   },
   {
-    "a4686e5d string": "OutdoorGoods",
+    "a4686e5d.HashRef": "OutdoorGoods",
     "UniqueID": 43,
     "Label": "Space",
     "Name": "雑貨：宇宙"
   },
   {
-    "a4686e5d string": "OutdoorGoods",
+    "a4686e5d.HashRef": "OutdoorGoods",
     "UniqueID": 41,
     "Label": "Star",
     "Name": "雑貨：星"
   },
   {
-    "a4686e5d string": "OutdoorGoods",
+    "a4686e5d.HashRef": "OutdoorGoods",
     "UniqueID": 37,
     "Label": "Vehicle",
     "Name": "雑貨：交通"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 38,
     "Label": "Animal",
     "Name": "雑貨：動物"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 42,
     "Label": "Toy",
     "Name": "雑貨：玩具"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 21,
     "Label": "Sports",
     "Name": "雑貨：スポーツ"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 58,
     "Label": "Playground",
     "Name": "雑貨：公園"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 28,
     "Label": "SuppliesOutdoors",
     "Name": "雑貨：アウトドア"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 153,
     "Label": "InsectSP",
     "Name": "雑貨：昆虫SP"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 152,
     "Label": "FishSP",
     "Name": "雑貨：魚SP"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 49,
     "Label": "Insect",
     "Name": "雑貨：昆虫"
   },
   {
-    "a4686e5d string": "HobbyGoods",
+    "a4686e5d.HashRef": "HobbyGoods",
     "UniqueID": 142,
     "Label": "Fish",
     "Name": "雑貨：魚"
   },
   {
-    "a4686e5d string": "GardeningGoods",
+    "a4686e5d.HashRef": "GardeningGoods",
     "UniqueID": 59,
     "Label": "Ranch",
     "Name": "雑貨：畑・牧場"
   },
   {
-    "a4686e5d string": "GardeningGoods",
+    "a4686e5d.HashRef": "GardeningGoods",
     "UniqueID": 39,
     "Label": "Garden",
     "Name": "雑貨：庭"
   },
   {
-    "a4686e5d string": "NationalGoods",
+    "a4686e5d.HashRef": "NationalGoods",
     "UniqueID": 44,
     "Label": "JapaneseStyle",
     "Name": "雑貨：和風"
   },
   {
-    "a4686e5d string": "NationalGoods",
+    "a4686e5d.HashRef": "NationalGoods",
     "UniqueID": 30,
     "Label": "SuppliesFolkCraft",
     "Name": "雑貨：民芸品"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 179,
     "Label": "Easter",
     "Name": "雑貨：イースター"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 29,
     "Label": "SuppliesSeason",
     "Name": "雑貨：季節イベント"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 219,
     "Label": "Sanrio1",
     "Name": "サンリオコラボ_キティ"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 220,
     "Label": "Sanrio2",
     "Name": "サンリオコラボ_プリン"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 221,
     "Label": "Sanrio3",
     "Name": "サンリオコラボ_キキララ"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 222,
     "Label": "Sanrio4",
     "Name": "サンリオコラボ_シナモン"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 223,
     "Label": "Sanrio5",
     "Name": "サンリオコラボ_マイメロ"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 224,
     "Label": "Sanrio6",
     "Name": "サンリオコラボ_けろっぴ"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 218,
     "Label": "Mario",
     "Name": "マリオコラボ"
   },
   {
-    "a4686e5d f32": -596628.563,
+    "a4686e5d.HashRef": "EventGoods",
     "UniqueID": 180,
     "Label": "Compass",
     "Name": "ポケ森コラボ"
   },
   {
-    "a4686e5d string": "WallHanging",
+    "a4686e5d.HashRef": "WallHanging",
     "UniqueID": 32,
     "Label": "HouseDoorDeco",
     "Name": "ドア飾り"
   },
   {
-    "a4686e5d string": "Art",
+    "a4686e5d.HashRef": "Art",
     "UniqueID": 36,
     "Label": "Picture",
     "Name": "絵画"
   },
   {
-    "a4686e5d string": "Art",
+    "a4686e5d.HashRef": "Art",
     "UniqueID": 31,
     "Label": "Sculpture",
     "Name": "彫刻"
   },
   {
-    "a4686e5d string": "Bromide",
+    "a4686e5d.HashRef": "Bromide",
     "UniqueID": 154,
     "Label": "Bromide",
     "Name": "ブロマイド"
   },
   {
-    "a4686e5d string": "Poster",
+    "a4686e5d.HashRef": "Poster",
     "UniqueID": 155,
     "Label": "Posters",
     "Name": "ポスター"
   },
   {
-    "a4686e5d string": "CeilingLamp",
+    "a4686e5d.HashRef": "CeilingLamp",
     "UniqueID": 231,
     "Label": "CeilingLamp",
     "Name": "天井：照明"
   },
   {
-    "a4686e5d string": "CeilingEtc",
+    "a4686e5d.HashRef": "CeilingEtc",
     "UniqueID": 230,
     "Label": "CeilingEtc",
     "Name": "天井：その他"
   },
   {
-    "a4686e5d string": "None",
+    "a4686e5d.HashRef": "None",
     "UniqueID": 0,
     "Label": "None",
     "Name": "未設定"
   },
   {
-    "a4686e5d string": "None",
+    "a4686e5d.HashRef": "None",
     "UniqueID": 50,
     "Label": "Unnecessary",
     "Name": "設定不要"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 60,
     "Label": "Wood",
     "Name": "◆◆木"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 78,
     "Label": "Herringbone",
     "Name": "◆ヘリンボーン"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 74,
     "Label": "Country",
     "Name": "◆パーケットフローリング"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 75,
     "Label": "DecoWood",
     "Name": "◆デコレーションフローリング"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 73,
     "Label": "ColorfulWood",
     "Name": "◆カラフルフローリング"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 82,
     "Label": "PaintWood",
     "Name": "◆ペイントフローリング"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 85,
     "Label": "ParquetIron",
     "Name": "◆アイアンパーケット"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 84,
     "Label": "Parquet",
     "Name": "◆スクエアな寄せ木"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 90,
     "Label": "SimpleParquet",
     "Name": "◆シンプルな寄せ木"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 91,
     "Label": "Tatami",
     "Name": "◆畳"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 92,
     "Label": "TatamiPanel",
     "Name": "◆淵無し畳"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 168,
     "Label": "Japanese",
     "Name": "◆和風"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 62,
     "Label": "Stone",
     "Name": "◆◆石"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 166,
     "Label": "Iron",
     "Name": "◆鉄"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 70,
     "Label": "Brick",
     "Name": "◆レンガ"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 167,
     "Label": "ArchBrick",
     "Name": "◆アーチレンガ"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 63,
     "Label": "Tile",
     "Name": "◆◆タイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 69,
     "Label": "Argyle",
     "Name": "◆アーガイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 72,
     "Label": "Chocolate",
     "Name": "◆アソート"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 79,
     "Label": "Honeycomb",
     "Name": "◆ハニカムタイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 80,
     "Label": "FloorKitchen",
     "Name": "◆レトロなクロス"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 81,
     "Label": "Morocco",
     "Name": "◆モロッカンタイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 93,
     "Label": "FloorTile",
     "Name": "◆モザイクタイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 94,
     "Label": "TileChecker",
     "Name": "◆ピータイル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 64,
     "Label": "Cloth",
     "Name": "◆◆布"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 76,
     "Label": "Dot",
     "Name": "◆ドットカーペット"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 83,
     "Label": "Panel",
     "Name": "◆パネルカーペット"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 86,
     "Label": "PuzzleMat",
     "Name": "◆パズル"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 87,
     "Label": "Rubber",
     "Name": "◆ラバー"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 89,
     "Label": "SimpleCarpet",
     "Name": "◆シンプルカーペット"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 228,
     "Label": "FloorSimpleGlodSilverBronze",
     "Name": "◆金銀銅"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 71,
     "Label": "Camouflage",
     "Name": "◆迷彩"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 68,
     "Label": "AnimalFloor",
     "Name": "◆動物柄"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 65,
     "Label": "Neta",
     "Name": "◆◆ネタ：ハチミツ"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 162,
     "Label": "Luxury",
     "Name": "◆ネタ：高級"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 165,
     "Label": "Decadence",
     "Name": "◆ネタ：退廃"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 161,
     "Label": "FloorMachine",
     "Name": "◆ネタ：機械"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 88,
     "Label": "Sidewalk",
     "Name": "◆歩道"
   },
   {
-    "a4686e5d f32": -5886259.5,
+    "a4686e5d.HashRef": "FloorIndoor",
     "UniqueID": 160,
     "Label": "FloorSports",
     "Name": "◆ネタ：スポーツ"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 77,
     "Label": "Grassland",
     "Name": "◆草"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 169,
     "Label": "NatureGreen",
     "Name": "◆自然：緑"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 170,
     "Label": "NatureFallenLeaves",
     "Name": "◆自然：落ち葉系"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 61,
     "Label": "Nature",
     "Name": "◆◆自然"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 163,
     "Label": "NatureBrown",
     "Name": "◆自然：茶"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 164,
     "Label": "NatureWhite",
     "Name": "◆自然：白"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 66,
     "Label": "SpNature",
     "Name": "◆◆特殊（自然）"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 67,
     "Label": "SpInorganic",
     "Name": "◆◆特殊（無機質）"
   },
   {
-    "a4686e5d string": "FloorOutdoor",
+    "a4686e5d.HashRef": "FloorOutdoor",
     "UniqueID": 157,
     "Label": "Sanrio",
     "Name": "◆◆サンリオ"
   },
   {
-    "a4686e5d string": "Tops",
+    "a4686e5d.HashRef": "Tops",
     "UniqueID": 197,
     "Label": "Tops",
     "Name": "装備：トップス"
   },
   {
-    "a4686e5d string": "Bottoms",
+    "a4686e5d.HashRef": "Bottoms",
     "UniqueID": 199,
     "Label": "Bottoms",
     "Name": "装備：ボトムス"
   },
   {
-    "a4686e5d string": "OnePiece",
+    "a4686e5d.HashRef": "OnePiece",
     "UniqueID": 198,
     "Label": "OnePiece",
     "Name": "装備：ワンピ"
   },
   {
-    "a4686e5d string": "Cap",
+    "a4686e5d.HashRef": "Cap",
     "UniqueID": 195,
     "Label": "Cap",
     "Name": "装備：ぼうし・かぶりもの"
   },
   {
-    "a4686e5d string": "Accessory",
+    "a4686e5d.HashRef": "Accessory",
     "UniqueID": 196,
     "Label": "Accessory",
     "Name": "装備：アクセサリ"
   },
   {
-    "a4686e5d string": "Socks",
+    "a4686e5d.HashRef": "Socks",
     "UniqueID": 200,
     "Label": "Socks",
     "Name": "装備：くつした"
   },
   {
-    "a4686e5d string": "Shoes",
+    "a4686e5d.HashRef": "Shoes",
     "UniqueID": 201,
     "Label": "Shoes",
     "Name": "装備：くつ"
   },
   {
-    "a4686e5d string": "Bag",
+    "a4686e5d.HashRef": "Bag",
     "UniqueID": 202,
     "Label": "Bag",
     "Name": "装備：リュック"
   },
   {
-    "a4686e5d string": "Umbrella",
+    "a4686e5d.HashRef": "Umbrella",
     "UniqueID": 216,
     "Label": "Umbrella",
     "Name": "装備：かさ"
   },
   {
-    "a4686e5d string": "MarineSuit",
+    "a4686e5d.HashRef": "MarineSuit",
     "UniqueID": 217,
     "Label": "MarineSuit",
     "Name": "装備：マリンスーツ"
   },
   {
-    "a4686e5d string": "Insect",
+    "a4686e5d.HashRef": "Insect",
     "UniqueID": 203,
     "Label": "LivingInsect",
     "Name": "生物：ムシ"
   },
   {
-    "a4686e5d string": "Fish",
+    "a4686e5d.HashRef": "Fish",
     "UniqueID": 204,
     "Label": "LivingFish",
     "Name": "生物：サカナ"
   },
   {
-    "a4686e5d string": "DiveFish",
+    "a4686e5d.HashRef": "DiveFish",
     "UniqueID": 205,
     "Label": "LivingDiveFish",
     "Name": "生物：うみのいきもの"
   },
   {
-    "a4686e5d string": "BuildingMaterial",
+    "a4686e5d.HashRef": "BuildingMaterial",
     "UniqueID": 206,
     "Label": "FtrWall",
     "Name": "カベタス"
   },
   {
-    "a4686e5d string": "BuildingMaterial",
+    "a4686e5d.HashRef": "BuildingMaterial",
     "UniqueID": 207,
     "Label": "Pillar",
     "Name": "柱"
   },
   {
-    "a4686e5d string": "BuildingMaterial",
+    "a4686e5d.HashRef": "BuildingMaterial",
     "UniqueID": 208,
     "Label": "Counter",
     "Name": "カウンター"
   },
   {
-    "a4686e5d string": "Tool",
+    "a4686e5d.HashRef": "Tool",
     "UniqueID": 209,
     "Label": "Tool",
     "Name": "道具"
   },
   {
-    "a4686e5d string": "Tool",
+    "a4686e5d.HashRef": "Tool",
     "UniqueID": 210,
     "Label": "SubTool",
     "Name": "サブ道具"
   },
   {
-    "a4686e5d string": "Plants",
+    "a4686e5d.HashRef": "Plants",
     "UniqueID": 211,
     "Label": "FieldPlants",
     "Name": "植物"
   },
   {
-    "a4686e5d string": "Haniwa",
+    "a4686e5d.HashRef": "Haniwa",
     "UniqueID": 233,
     "Label": "Haniwa",
     "Name": "はにわ"
   },
   {
-    "a4686e5d string": "Haniwa",
+    "a4686e5d.HashRef": "Haniwa",
     "UniqueID": 234,
     "Label": "HaniwaPiece",
     "Name": "はにわのかけら"
   },
   {
-    "a4686e5d string": "Fossil",
+    "a4686e5d.HashRef": "Fossil",
     "UniqueID": 212,
     "Label": "Fossil",
     "Name": "化石"
   },
   {
-    "a4686e5d string": "Fossil",
+    "a4686e5d.HashRef": "Fossil",
     "UniqueID": 213,
     "Label": "FossilUnknown",
     "Name": "未鑑定化石"
   },
   {
-    "a4686e5d string": "Music",
+    "a4686e5d.HashRef": "Music",
     "UniqueID": 214,
     "Label": "Music",
     "Name": "ミュージック"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 215,
     "Label": "Etc",
     "Name": "その他"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 242,
     "Label": "Etc9",
     "Name": "その他（かべ・ゆか）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 243,
     "Label": "Etc10",
     "Name": "その他（レシピ）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 244,
     "Label": "Etc11",
     "Name": "その他（袋類）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 245,
     "Label": "Etc12",
     "Name": "その他（チケット）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 235,
     "Label": "Etc2",
     "Name": "その他（カブ・ベル）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 236,
     "Label": "Etc3",
     "Name": "その他（漂着貝）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 237,
     "Label": "Etc4",
     "Name": "その他（汎用DIY素材）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 238,
     "Label": "Etc5",
     "Name": "その他（季節DIY素材）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 239,
     "Label": "Etc6",
     "Name": "その他（ほしのかけら）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 240,
     "Label": "Etc7",
     "Name": "その他（イベントアイテム）"
   },
   {
-    "a4686e5d string": "Others",
+    "a4686e5d.HashRef": "Others",
     "UniqueID": 241,
     "Label": "Etc8",
     "Name": "その他（ラッピング系）"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 95,
     "Label": "WallWood",
     "Name": "■■木"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 117,
     "Label": "WallHerringbone",
     "Name": "■ヘリンボーン"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 115,
     "Label": "WallHall",
     "Name": "■ホール"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 122,
     "Label": "WallMixPlankWood",
     "Name": "■寄せ木"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 126,
     "Label": "WallPegbpard",
     "Name": "■パンチングボード"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 124,
     "Label": "WallPaintWood",
     "Name": "■ペイントウッド"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 125,
     "Label": "WallPanelMold",
     "Name": "■パネルモールド"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 97,
     "Label": "WallStone",
     "Name": "■■石"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 107,
     "Label": "WallBrick",
     "Name": "■レンガ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 131,
     "Label": "WallStucco",
     "Name": "■ペイントウォール"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 98,
     "Label": "WallIron",
     "Name": "■■鉄"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 133,
     "Label": "WallTin",
     "Name": "■トタン"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 99,
     "Label": "WallTile",
     "Name": "■■タイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 132,
     "Label": "WallTilee",
     "Name": "■タイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 135,
     "Label": "WallTwoToneTile",
     "Name": "■ツートンタイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 121,
     "Label": "WallMetro",
     "Name": "■メトロタイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 136,
     "Label": "WallWoodTile",
     "Name": "■パターンタイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 123,
     "Label": "WallMorocco",
     "Name": "■モロッカンタイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 118,
     "Label": "WallHoneycomb",
     "Name": "■ハニカムタイル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 109,
     "Label": "WallChocolate",
     "Name": "■チョコ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 111,
     "Label": "WallCrown",
     "Name": "■クラウン"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 100,
     "Label": "WallCloth",
     "Name": "■■布"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 129,
     "Label": "WallSimple",
     "Name": "■シンプルクロス"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 232,
     "Label": "WallGoldSilverBronze",
     "Name": "■金銀銅クロス"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 112,
     "Label": "WallDot",
     "Name": "■ドット"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 116,
     "Label": "WallHeart",
     "Name": "■ハート"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 149,
     "Label": "WallCute",
     "Name": "■キュート"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 130,
     "Label": "WallStripe",
     "Name": "■ストライプ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 150,
     "Label": "WallFruit",
     "Name": "■フルーツ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 113,
     "Label": "WallFlower",
     "Name": "■花柄"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 120,
     "Label": "WallManor",
     "Name": "■小花柄"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 110,
     "Label": "WallCountry",
     "Name": "■草花模様"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 128,
     "Label": "WallRose",
     "Name": "■バラ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 114,
     "Label": "WallFlowerPop",
     "Name": "■テキスタイルフラワー"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 106,
     "Label": "WallArtDeco",
     "Name": "■アールデコ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 108,
     "Label": "WallCamouflage",
     "Name": "■迷彩"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 127,
     "Label": "WallPuzzle",
     "Name": "■パズル"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 148,
     "Label": "WallDollhouse",
     "Name": "■キルト"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 134,
     "Label": "WallToy",
     "Name": "■おもちゃ"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 147,
     "Label": "WallDiner",
     "Name": "■ダイナー"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 151,
     "Label": "WallJapanese",
     "Name": "■和風"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 158,
     "Label": "WallTeaRoom",
     "Name": "■茶室"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 159,
     "Label": "Asia",
     "Name": "■グローバル系"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 119,
     "Label": "WallLibrary",
     "Name": "■本棚"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 227,
     "Label": "WallFacility",
     "Name": "■施設系"
   },
   {
-    "a4686e5d string": "WallNormal",
+    "a4686e5d.HashRef": "WallNormal",
     "UniqueID": 101,
     "Label": "WallNeta",
     "Name": "■■ネタ"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 96,
     "Label": "WallNature",
     "Name": "■■自然"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 102,
     "Label": "WallSpNatureCool",
     "Name": "■■特殊（自然寒色）"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 103,
     "Label": "WallSpNatureWarm",
     "Name": "■■特殊（自然暖色）"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 104,
     "Label": "WallSpIndoor",
     "Name": "■■特殊（室内）"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 105,
     "Label": "WallSpInorganic",
     "Name": "■■特殊（無機質）"
   },
   {
-    "a4686e5d string": "WallSpecial",
+    "a4686e5d.HashRef": "WallSpecial",
     "UniqueID": 156,
     "Label": "WallSanrio",
     "Name": "■■サンリオ"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 143,
     "Label": "RugSimple",
     "Name": "●●シンプル"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 141,
     "Label": "RugPattern",
     "Name": "●●柄物：正方形"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 171,
     "Label": "RugPatternSlender",
     "Name": "●●柄物：細長"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 145,
     "Label": "RugKitchen",
     "Name": "●●キッチンマット"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 144,
     "Label": "RugSlender",
     "Name": "●●細長マット"
   },
   {
-    "a4686e5d string": "RugQuadrilateral",
+    "a4686e5d.HashRef": "RugQuadrilateral",
     "UniqueID": 139,
     "Label": "RugWood",
     "Name": "●●木"
   },
   {
-    "a4686e5d string": "RugRound",
+    "a4686e5d.HashRef": "RugRound",
     "UniqueID": 137,
     "Label": "RugRoundShaggymat",
     "Name": "●まるいマット"
   },
   {
-    "a4686e5d string": "RugRound",
+    "a4686e5d.HashRef": "RugRound",
     "UniqueID": 138,
     "Label": "RugRoundShaggy",
     "Name": "●まるいラグ"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 140,
     "Label": "RugFruits",
     "Name": "●●果物"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 175,
     "Label": "RugRose",
     "Name": "●●バラ"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 174,
     "Label": "RugHeart",
     "Name": "●●ハート"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 176,
     "Label": "RugStar",
     "Name": "●●星"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 173,
     "Label": "RugMessageMat",
     "Name": "●●メッセージマット"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 146,
     "Label": "RugIcon",
     "Name": "●●アイコン"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 177,
     "Label": "RugPark",
     "Name": "●●どうぶつの森"
   },
   {
-    "a4686e5d string": "RugSpecial",
+    "a4686e5d.HashRef": "RugSpecial",
     "UniqueID": 172,
     "Label": "RugSanrio",
     "Name": "●●サンリオ"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 181,
     "Label": "FieldTreeOak",
     "Name": "外専用：広葉樹"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 182,
     "Label": "FieldTreeFruit",
     "Name": "外専用：フルーツの木"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 183,
     "Label": "FieldTreeOakDeco",
     "Name": "外専用：飾りつきの広葉樹"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 184,
     "Label": "FieldTreeCedar",
     "Name": "外専用：針葉樹"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 185,
     "Label": "FieldTreeCedarDeco",
     "Name": "外専用：飾りつきの針葉樹"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 186,
     "Label": "FieldTreePalm",
     "Name": "外専用：ヤシの木"
   },
   {
-    "a4686e5d string": "Tree",
+    "a4686e5d.HashRef": "Tree",
     "UniqueID": 187,
     "Label": "FieldTreeBamboo",
     "Name": "外専用：竹"
   },
   {
-    "a4686e5d string": "Bush",
+    "a4686e5d.HashRef": "Bush",
     "UniqueID": 188,
     "Label": "FieldBush",
     "Name": "外専用：低木"
   },
   {
-    "a4686e5d string": "Flower",
+    "a4686e5d.HashRef": "Flower",
     "UniqueID": 189,
     "Label": "FieldFlw",
     "Name": "外専用：花"
   },
   {
-    "a4686e5d string": "Vegetable",
+    "a4686e5d.HashRef": "Vegetable",
     "UniqueID": 193,
     "Label": "FieldVgt",
     "Name": "外専用：野菜"
   },
   {
-    "a4686e5d f32": 0.00936268549,
+    "a4686e5d.HashRef": "WeedStone",
     "UniqueID": 190,
     "Label": "FieldVine",
     "Name": "外専用：ツル"
   },
   {
-    "a4686e5d f32": 0.00936268549,
+    "a4686e5d.HashRef": "WeedStone",
     "UniqueID": 191,
     "Label": "FieldWeedLight",
     "Name": "外専用：ヒカリゴケ"
   },
   {
-    "a4686e5d f32": 0.00936268549,
+    "a4686e5d.HashRef": "WeedStone",
     "UniqueID": 192,
     "Label": "FieldWeed",
     "Name": "外専用：雑草"
   },
   {
-    "a4686e5d f32": 0.00936268549,
+    "a4686e5d.HashRef": "WeedStone",
     "UniqueID": 194,
     "Label": "FieldStone",
     "Name": "外専用：岩"

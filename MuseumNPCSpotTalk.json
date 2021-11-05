@@ -3,70 +3,70 @@
     "StageName": "IdrMuseumFish_2",
     "UniqueID": 2,
     "SpotTalkKey": "BO_Spot_Museum_Fish",
-    "SpotTalkLabelKey": "313030",
+    "SpotTalkLabelKey": 3223600,
     "SpotTalkName": "川魚の部屋"
   },
   {
     "StageName": "IdrMuseumFish_1",
     "UniqueID": 3,
     "SpotTalkKey": "BO_Spot_Museum_Fish",
-    "SpotTalkLabelKey": "333030",
+    "SpotTalkLabelKey": 3354672,
     "SpotTalkName": "海魚の部屋（沖～深海）"
   },
   {
     "StageName": "IdrMuseumFish_0",
     "UniqueID": 6,
     "SpotTalkKey": "BO_Spot_Museum_Fish",
-    "SpotTalkLabelKey": "323030",
+    "SpotTalkLabelKey": 3289136,
     "SpotTalkName": "海魚の部屋（沿岸）"
   },
   {
     "StageName": "IdrMuseumInsect_2",
     "UniqueID": 7,
     "SpotTalkKey": "BO_Spot_Museum_Insect",
-    "SpotTalkLabelKey": "313030",
+    "SpotTalkLabelKey": 3223600,
     "SpotTalkName": "地面の虫の部屋"
   },
   {
     "StageName": "IdrMuseumInsect_0",
     "UniqueID": 8,
     "SpotTalkKey": "BO_Spot_Museum_Insect",
-    "SpotTalkLabelKey": "323030",
+    "SpotTalkLabelKey": 3289136,
     "SpotTalkName": "大温室"
   },
   {
     "StageName": "IdrMuseumInsect_1",
     "UniqueID": 9,
     "SpotTalkKey": "BO_Spot_Museum_Insect",
-    "SpotTalkLabelKey": "333030",
+    "SpotTalkLabelKey": 3354672,
     "SpotTalkName": "バタフライガーデン"
   },
   {
     "StageName": "IdrMuseumFossil_0",
     "UniqueID": 10,
     "SpotTalkKey": "BO_Spot_Museum_Fossil",
-    "SpotTalkLabelKey": "313030",
+    "SpotTalkLabelKey": 3223600,
     "SpotTalkName": "古生代の部屋"
   },
   {
     "StageName": "IdrMuseumFossil_1",
     "UniqueID": 11,
     "SpotTalkKey": "BO_Spot_Museum_Fossil",
-    "SpotTalkLabelKey": "323030",
+    "SpotTalkLabelKey": 3289136,
     "SpotTalkName": "中生代の部屋"
   },
   {
     "StageName": "IdrMuseumFossil_2",
     "UniqueID": 12,
     "SpotTalkKey": "BO_Spot_Museum_Fossil",
-    "SpotTalkLabelKey": "333030",
+    "SpotTalkLabelKey": 3354672,
     "SpotTalkName": "新世代の部屋"
   },
   {
     "StageName": "IdrMuseumArt_0",
     "UniqueID": 18,
     "SpotTalkKey": "BO_Spot_Museum_Art",
-    "SpotTalkLabelKey": "313030",
+    "SpotTalkLabelKey": 3223600,
     "SpotTalkName": "芸術部屋"
   }
 ]

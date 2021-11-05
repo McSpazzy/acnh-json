@@ -2,133 +2,133 @@
   {
     "ItemCategory": 34,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-101",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 35,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-102",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 36,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-103",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 37,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-104",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 1,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-105",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 41,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-106",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 42,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_BuildCelebration-107",
+    "37571146.MM3Ref": "MAIL_SP_HHA_BuildCelebration-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 49,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-101",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-101",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 50,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-102",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-102",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 51,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-103",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-103",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 52,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-104",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-104",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 53,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-105",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-105",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 54,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-106",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-106",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 55,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_GradeFixedPoints-107",
+    "37571146.MM3Ref": "MAIL_SP_HHA_GradeFixedPoints-107",
     "e060d3cd u16": 0,
     "ItemRemakeType": 0
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_Mission-101",
+    "37571146.MM3Ref": "MAIL_SP_HHA_Mission-101",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_Mission-102",
+    "37571146.MM3Ref": "MAIL_SP_HHA_Mission-102",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_Mission-103",
+    "37571146.MM3Ref": "MAIL_SP_HHA_Mission-103",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_Mission-104",
+    "37571146.MM3Ref": "MAIL_SP_HHA_Mission-104",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   },
   {
     "ItemCategory": 0,
     "ItemCategoryGroup": 0,
-    "37571146.HashRef": "MAIL_SP_HHA_Mission-105",
+    "37571146.MM3Ref": "MAIL_SP_HHA_Mission-105",
     "e060d3cd u16": 3,
     "ItemRemakeType": 1
   }

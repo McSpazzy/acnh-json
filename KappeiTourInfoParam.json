@@ -1,7 +1,7 @@
 [
   {
-    "303fd59e string": "Normal",
-    "a03a592f string": "Haniwa",
+    "303fd59e.HashRef": "Normal",
+    "a03a592f.HashRef": "Haniwa",
     "c84432b7 u16": 298,
     "UniqueID": 0,
     "WeatherPattern": 0,
@@ -14,8 +14,8 @@
     "SelectWeight": 30
   },
   {
-    "303fd59e string": "Normal",
-    "a03a592f string": "Vegetable",
+    "303fd59e.HashRef": "Normal",
+    "a03a592f.HashRef": "Vegetable",
     "c84432b7 u16": 297,
     "UniqueID": 1,
     "WeatherPattern": 0,
@@ -28,8 +28,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Normal",
-    "a03a592f string": "OneRoom",
+    "303fd59e.HashRef": "Normal",
+    "a03a592f.HashRef": "OneRoom",
     "c84432b7 u16": 296,
     "UniqueID": 2,
     "WeatherPattern": 0,
@@ -42,8 +42,8 @@
     "SelectWeight": 18
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "StarPiece",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "StarPiece",
     "c84432b7 u16": 296,
     "UniqueID": 3,
     "WeatherPattern": 41,
@@ -56,8 +56,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "Sakura",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "Sakura",
     "c84432b7 u16": 297,
     "UniqueID": 4,
     "WeatherPattern": 0,
@@ -70,8 +70,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "SpringBamboo",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "SpringBamboo",
     "c84432b7 u16": 297,
     "UniqueID": 5,
     "WeatherPattern": 0,
@@ -84,8 +84,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "SeaShell",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "SeaShell",
     "c84432b7 u16": 297,
     "UniqueID": 6,
     "WeatherPattern": 42,
@@ -98,8 +98,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "Mushroom",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "Mushroom",
     "c84432b7 u16": 297,
     "UniqueID": 7,
     "WeatherPattern": 0,
@@ -112,8 +112,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "Maple",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "Maple",
     "c84432b7 u16": 297,
     "UniqueID": 8,
     "WeatherPattern": 0,
@@ -126,8 +126,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Rare",
-    "a03a592f string": "SnowCrystal",
+    "303fd59e.HashRef": "Rare",
+    "a03a592f.HashRef": "SnowCrystal",
     "c84432b7 u16": 296,
     "UniqueID": 9,
     "WeatherPattern": 38,
@@ -140,8 +140,8 @@
     "SelectWeight": 22
   },
   {
-    "303fd59e string": "Normal",
-    "a03a592f string": "RareHaniwa",
+    "303fd59e.HashRef": "Normal",
+    "a03a592f.HashRef": "RareHaniwa",
     "c84432b7 u16": 298,
     "UniqueID": 10,
     "WeatherPattern": 14,
