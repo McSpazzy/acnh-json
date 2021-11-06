@@ -12,7 +12,7 @@
     "RoofMaterial": 2,
     "StructureInfoUniqueID": 32,
     "UniqueID": 0,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   },
   {
     "85a0fa49.HashRef": "WS",
@@ -27,7 +27,7 @@
     "RoofMaterial": 2,
     "StructureInfoUniqueID": 37,
     "UniqueID": 1,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   },
   {
     "85a0fa49.HashRef": "WH",
@@ -42,7 +42,7 @@
     "RoofMaterial": 6,
     "StructureInfoUniqueID": 38,
     "UniqueID": 2,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   },
   {
     "85a0fa49.HashRef": "WR",
@@ -57,7 +57,7 @@
     "RoofMaterial": 2,
     "StructureInfoUniqueID": 39,
     "UniqueID": 3,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   },
   {
     "85a0fa49.HashRef": "WC",
@@ -72,7 +72,7 @@
     "RoofMaterial": 2,
     "StructureInfoUniqueID": 40,
     "UniqueID": 4,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   },
   {
     "85a0fa49.HashRef": "WT",
@@ -87,6 +87,6 @@
     "RoofMaterial": 2,
     "StructureInfoUniqueID": 41,
     "UniqueID": 5,
-    "b048092b u32": 1
+    "HasDoorLight": 1
   }
 ]

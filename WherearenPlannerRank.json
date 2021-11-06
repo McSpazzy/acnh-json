@@ -1,103 +1,103 @@
 [
   {
-    "c79325f5 u16": 35,
-    "170af5b8 u16": 5,
+    "AchievableNum": 35,
+    "QuotaNum": 5,
     "RankIncrease": 1,
     "UniqueID": 0
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 10,
+    "AchievableNum": 1,
+    "QuotaNum": 10,
     "RankIncrease": 5,
     "UniqueID": 1
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 20,
+    "AchievableNum": 1,
+    "QuotaNum": 20,
     "RankIncrease": 5,
     "UniqueID": 2
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 30,
+    "AchievableNum": 1,
+    "QuotaNum": 30,
     "RankIncrease": 5,
     "UniqueID": 3
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 50,
+    "AchievableNum": 1,
+    "QuotaNum": 50,
     "RankIncrease": 5,
     "UniqueID": 4
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 100,
+    "AchievableNum": 1,
+    "QuotaNum": 100,
     "RankIncrease": 10,
     "UniqueID": 5
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 200,
+    "AchievableNum": 1,
+    "QuotaNum": 200,
     "RankIncrease": 10,
     "UniqueID": 6
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 300,
+    "AchievableNum": 1,
+    "QuotaNum": 300,
     "RankIncrease": 10,
     "UniqueID": 7
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 400,
+    "AchievableNum": 1,
+    "QuotaNum": 400,
     "RankIncrease": 10,
     "UniqueID": 8
   },
   {
-    "c79325f5 u16": 10,
-    "170af5b8 u16": 5,
+    "AchievableNum": 10,
+    "QuotaNum": 5,
     "RankIncrease": 2,
     "UniqueID": 9
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 16,
+    "AchievableNum": 1,
+    "QuotaNum": 16,
     "RankIncrease": 10,
     "UniqueID": 10
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 32,
+    "AchievableNum": 1,
+    "QuotaNum": 32,
     "RankIncrease": 10,
     "UniqueID": 11
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 48,
+    "AchievableNum": 1,
+    "QuotaNum": 48,
     "RankIncrease": 10,
     "UniqueID": 12
   },
   {
-    "c79325f5 u16": 5,
-    "170af5b8 u16": 1,
+    "AchievableNum": 5,
+    "QuotaNum": 1,
     "RankIncrease": 5,
     "UniqueID": 13
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 1,
+    "AchievableNum": 1,
+    "QuotaNum": 1,
     "RankIncrease": 5,
     "UniqueID": 14
   },
   {
-    "c79325f5 u16": 15,
-    "170af5b8 u16": 3,
+    "AchievableNum": 15,
+    "QuotaNum": 3,
     "RankIncrease": 1,
     "UniqueID": 15
   },
   {
-    "c79325f5 u16": 1,
-    "170af5b8 u16": 1,
+    "AchievableNum": 1,
+    "QuotaNum": 1,
     "RankIncrease": 10,
     "UniqueID": 16
   }

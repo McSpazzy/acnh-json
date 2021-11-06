@@ -2,36 +2,36 @@
   {
     "Coef": 1.0,
     "UniqueID": 0,
-    "cbfd332a u16": 0
+    "QuotaNum": 0
   },
   {
     "Coef": 0.5,
     "UniqueID": 1,
-    "cbfd332a u16": 1
+    "QuotaNum": 1
   },
   {
     "Coef": 0.5,
     "UniqueID": 2,
-    "cbfd332a u16": 2
+    "QuotaNum": 2
   },
   {
     "Coef": 0.1,
     "UniqueID": 3,
-    "cbfd332a u16": 3
+    "QuotaNum": 3
   },
   {
     "Coef": 0.5,
     "UniqueID": 4,
-    "cbfd332a u16": 4
+    "QuotaNum": 4
   },
   {
     "Coef": 1.0,
     "UniqueID": 5,
-    "cbfd332a u16": 5
+    "QuotaNum": 5
   },
   {
     "Coef": 1.0,
     "UniqueID": 6,
-    "cbfd332a u16": 6
+    "QuotaNum": 6
   }
 ]

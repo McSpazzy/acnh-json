@@ -9,7 +9,7 @@
     "MoveTool3": 65534,
     "UniqueID": 0,
     "Label": "First",
-    "a0943e31 string35": "Unlock_NPC_00"
+    "UnlockFlag": "Unlock_NPC_00"
   },
   {
     "MoveSpot1": 5,
@@ -21,7 +21,7 @@
     "MoveTool3": 14790,
     "UniqueID": 1,
     "Label": "Second",
-    "a0943e31 string35": "Unlock_NPC_04"
+    "UnlockFlag": "Unlock_NPC_04"
   },
   {
     "MoveSpot1": 9,
@@ -33,6 +33,6 @@
     "MoveTool3": 65534,
     "UniqueID": 2,
     "Label": "Third",
-    "a0943e31 string35": "Unlock_NPC_06"
+    "UnlockFlag": "Unlock_NPC_06"
   }
 ]

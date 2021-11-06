@@ -30,7 +30,7 @@
     "IsCollectAchievement": 1,
     "Label": "Ftr",
     "Name": "家具",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -63,7 +63,7 @@
     "IsCollectAchievement": 1,
     "Label": "Dishes",
     "Name": "料理：食べ物",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -96,7 +96,7 @@
     "IsCollectAchievement": 1,
     "Label": "Drink",
     "Name": "料理：飲み物",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -129,7 +129,7 @@
     "IsCollectAchievement": 1,
     "Label": "CookingMaterial",
     "Name": "料理：食材",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -162,7 +162,7 @@
     "IsCollectAchievement": 1,
     "Label": "RoomWall",
     "Name": "内装：壁紙",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -195,7 +195,7 @@
     "IsCollectAchievement": 1,
     "Label": "RoomFloor",
     "Name": "内装：床板",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -228,7 +228,7 @@
     "IsCollectAchievement": 1,
     "Label": "Rug",
     "Name": "ラグ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -261,7 +261,7 @@
     "IsCollectAchievement": 0,
     "Label": "RugMyDesign",
     "Name": "ラグマイデザイン",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -294,7 +294,7 @@
     "IsCollectAchievement": 1,
     "Label": "TopsDefault",
     "Name": "装備品：トップスデフォルト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -327,7 +327,7 @@
     "IsCollectAchievement": 1,
     "Label": "Tops",
     "Name": "装備品：トップス",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -360,7 +360,7 @@
     "IsCollectAchievement": 1,
     "Label": "OnePiece",
     "Name": "装備品：ワンピース",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -393,7 +393,7 @@
     "IsCollectAchievement": 1,
     "Label": "MarineSuit",
     "Name": "装備品：マリンスーツ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -426,7 +426,7 @@
     "IsCollectAchievement": 1,
     "Label": "BottomsDefault",
     "Name": "装備品：ボトムスデフォルト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -459,7 +459,7 @@
     "IsCollectAchievement": 1,
     "Label": "Bottoms",
     "Name": "装備品：ボトムス",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -492,7 +492,7 @@
     "IsCollectAchievement": 1,
     "Label": "Socks",
     "Name": "装備品：くつした",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -525,7 +525,7 @@
     "IsCollectAchievement": 1,
     "Label": "Shoes",
     "Name": "装備品：くつ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -558,7 +558,7 @@
     "IsCollectAchievement": 1,
     "Label": "Cap",
     "Name": "装備品：ぼうし",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -591,7 +591,7 @@
     "IsCollectAchievement": 1,
     "Label": "Helmet",
     "Name": "装備品：かぶりもの",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -624,7 +624,7 @@
     "IsCollectAchievement": 1,
     "Label": "Accessory",
     "Name": "装備品：アクセサリ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -657,7 +657,7 @@
     "IsCollectAchievement": 1,
     "Label": "Bag",
     "Name": "装備品：バッグ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -690,7 +690,7 @@
     "IsCollectAchievement": 1,
     "Label": "Umbrella",
     "Name": "装備品：かさ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -723,7 +723,7 @@
     "IsCollectAchievement": 0,
     "Label": "FtrWall",
     "Name": "カベタス",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -756,7 +756,7 @@
     "IsCollectAchievement": 0,
     "Label": "Counter",
     "Name": "カウンター",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -789,7 +789,7 @@
     "IsCollectAchievement": 0,
     "Label": "Pillar",
     "Name": "柱",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -822,7 +822,7 @@
     "IsCollectAchievement": 0,
     "Label": "FishingRod",
     "Name": "道具：つりざお",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -855,7 +855,7 @@
     "IsCollectAchievement": 0,
     "Label": "Net",
     "Name": "道具：あみ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -888,7 +888,7 @@
     "IsCollectAchievement": 0,
     "Label": "Shovel",
     "Name": "道具：スコップ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -921,7 +921,7 @@
     "IsCollectAchievement": 0,
     "Label": "Axe",
     "Name": "道具：オノ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -954,7 +954,7 @@
     "IsCollectAchievement": 0,
     "Label": "Watering",
     "Name": "道具：じょうろ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -987,7 +987,7 @@
     "IsCollectAchievement": 0,
     "Label": "Slingshot",
     "Name": "道具：パチンコ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1020,7 +1020,7 @@
     "IsCollectAchievement": 0,
     "Label": "ChangeStick",
     "Name": "道具：変身ステッキ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1053,7 +1053,7 @@
     "IsCollectAchievement": 0,
     "Label": "WoodenStickTool",
     "Name": "道具：川越えツール",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1086,7 +1086,7 @@
     "IsCollectAchievement": 0,
     "Label": "Ladder",
     "Name": "道具：ハシゴ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "None",
@@ -1119,7 +1119,7 @@
     "IsCollectAchievement": 0,
     "Label": "GroundMaker",
     "Name": "道具：道造成キット",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "None",
@@ -1152,7 +1152,7 @@
     "IsCollectAchievement": 0,
     "Label": "RiverMaker",
     "Name": "道具：川造成キット",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "None",
@@ -1185,7 +1185,7 @@
     "IsCollectAchievement": 0,
     "Label": "CliffMaker",
     "Name": "道具：崖造成キット",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1218,7 +1218,7 @@
     "IsCollectAchievement": 0,
     "Label": "HandBag",
     "Name": "サブ道具：手持ちカバン",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1251,7 +1251,7 @@
     "IsCollectAchievement": 0,
     "Label": "PartyPopper",
     "Name": "サブ道具：クラッカー",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1284,7 +1284,7 @@
     "IsCollectAchievement": 0,
     "Label": "Ocarina",
     "Name": "サブ道具：オカリナ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1317,7 +1317,7 @@
     "IsCollectAchievement": 0,
     "Label": "Panflute",
     "Name": "サブ道具：パンフルート",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1350,7 +1350,7 @@
     "IsCollectAchievement": 0,
     "Label": "Tambourine",
     "Name": "サブ道具：タンバリン",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1383,7 +1383,7 @@
     "IsCollectAchievement": 0,
     "Label": "MaracasCarnival",
     "Name": "サブ道具：マラカス",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1416,7 +1416,7 @@
     "IsCollectAchievement": 0,
     "Label": "StickLight",
     "Name": "サブ道具：スティックライト",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1449,7 +1449,7 @@
     "IsCollectAchievement": 0,
     "Label": "StickLightColorful",
     "Name": "サブ道具：カラフルスティックライト",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1482,7 +1482,7 @@
     "IsCollectAchievement": 0,
     "Label": "Uchiwa",
     "Name": "サブ道具：うちわ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1515,7 +1515,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolSensu",
     "Name": "サブ道具：せんす",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1548,7 +1548,7 @@
     "IsCollectAchievement": 0,
     "Label": "Windmill",
     "Name": "サブ道具：風車",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1581,7 +1581,7 @@
     "IsCollectAchievement": 0,
     "Label": "Partyhorn",
     "Name": "サブ道具：ふきもどし",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1614,7 +1614,7 @@
     "IsCollectAchievement": 0,
     "Label": "BlowBubble",
     "Name": "サブ道具：シャボン玉",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1647,7 +1647,7 @@
     "IsCollectAchievement": 0,
     "Label": "FierworkHand",
     "Name": "サブ道具：手持ち花火",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1680,7 +1680,7 @@
     "IsCollectAchievement": 0,
     "Label": "Balloon",
     "Name": "サブ道具：風船",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1713,7 +1713,7 @@
     "IsCollectAchievement": 0,
     "Label": "HandheldPennant",
     "Name": "サブ道具：手持ちペナント",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "None",
@@ -1746,7 +1746,7 @@
     "IsCollectAchievement": 0,
     "Label": "BigbagPresent",
     "Name": "サブ道具：プレゼントぶくろ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1779,7 +1779,7 @@
     "IsCollectAchievement": 0,
     "Label": "JuiceFuzzyapple",
     "Name": "サブ道具：スパークリングサイダー",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1812,7 +1812,7 @@
     "IsCollectAchievement": 0,
     "Label": "Megaphone",
     "Name": "サブ道具：メガホン",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1845,7 +1845,7 @@
     "IsCollectAchievement": 0,
     "Label": "SoySet",
     "Name": "サブ道具：まめまきセット",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1878,7 +1878,7 @@
     "IsCollectAchievement": 0,
     "Label": "FlowerShower",
     "Name": "サブ道具：フラワーシャワー",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1911,7 +1911,7 @@
     "IsCollectAchievement": 0,
     "Label": "Candyfloss",
     "Name": "サブ道具：わたあめ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1944,7 +1944,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolDonut",
     "Name": "サブ道具：ドーナツ",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -1977,7 +1977,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolEat",
     "Name": "サブ道具：食事効果あり",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2010,7 +2010,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolEatRemakeable",
     "Name": "サブ道具：食事効果あり、リメイクあり",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2043,7 +2043,7 @@
     "IsCollectAchievement": 0,
     "Label": "Tapioca",
     "Name": "サブ道具：タピオカドリンク",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2076,7 +2076,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolCan",
     "Name": "サブ道具：かんいんりょう",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2109,7 +2109,7 @@
     "IsCollectAchievement": 0,
     "Label": "Icecandy",
     "Name": "サブ道具：アイスキャンディー",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2142,7 +2142,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolIcecream",
     "Name": "サブ道具：アイスクリーム",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2175,7 +2175,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolIcesoft",
     "Name": "サブ道具：ソフトクリーム",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2208,7 +2208,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolEatDrop",
     "Name": "サブ道具：食事効果あり、コケたら消える",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2241,7 +2241,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolGeneric",
     "Name": "サブ道具：汎用",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2274,7 +2274,7 @@
     "IsCollectAchievement": 0,
     "Label": "Basket",
     "Name": "サブ道具：おやつバスケット",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2307,7 +2307,7 @@
     "IsCollectAchievement": 0,
     "Label": "Lantern",
     "Name": "サブ道具：てもちランタン",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2340,7 +2340,7 @@
     "IsCollectAchievement": 0,
     "Label": "SubToolRemakeable",
     "Name": "サブ道具：リメイクあり",
-    "29fe5bbd string": "\u0001"
+    "ToolCategory": 1
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2373,7 +2373,7 @@
     "IsCollectAchievement": 0,
     "Label": "Timer",
     "Name": "タイマー",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -2406,7 +2406,7 @@
     "IsCollectAchievement": 1,
     "Label": "Gyroid",
     "Name": "はにわ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2439,7 +2439,7 @@
     "IsCollectAchievement": 0,
     "Label": "GyroidScrap",
     "Name": "はにわのかけら",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2472,7 +2472,7 @@
     "IsCollectAchievement": 0,
     "Label": "TreeSeedling",
     "Name": "植物：木の苗",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -2505,7 +2505,7 @@
     "IsCollectAchievement": 0,
     "Label": "Tree",
     "Name": "植物：木",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2538,7 +2538,7 @@
     "IsCollectAchievement": 0,
     "Label": "BushSeedling",
     "Name": "植物：低木の苗",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -2571,7 +2571,7 @@
     "IsCollectAchievement": 0,
     "Label": "Bush",
     "Name": "植物：低木",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2604,7 +2604,7 @@
     "IsCollectAchievement": 0,
     "Label": "VegeSeedling",
     "Name": "植物：野菜の苗",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -2637,7 +2637,7 @@
     "IsCollectAchievement": 0,
     "Label": "VegeTree",
     "Name": "植物：野菜の木",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2670,7 +2670,7 @@
     "IsCollectAchievement": 0,
     "Label": "Vegetable",
     "Name": "植物：野菜",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2703,7 +2703,7 @@
     "IsCollectAchievement": 0,
     "Label": "Weed",
     "Name": "植物：雑草",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2736,7 +2736,7 @@
     "IsCollectAchievement": 0,
     "Label": "WeedLight",
     "Name": "植物：ヒカリゴケ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2769,7 +2769,7 @@
     "IsCollectAchievement": 0,
     "Label": "FlowerSeed",
     "Name": "植物：花の種",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -2802,7 +2802,7 @@
     "IsCollectAchievement": 0,
     "Label": "FlowerBud",
     "Name": "植物：花の茎、蕾、株",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2835,7 +2835,7 @@
     "IsCollectAchievement": 0,
     "Label": "Flower",
     "Name": "植物：花",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2868,7 +2868,7 @@
     "IsCollectAchievement": 0,
     "Label": "Fruit",
     "Name": "フルーツ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2901,7 +2901,7 @@
     "IsCollectAchievement": 0,
     "Label": "Mushroom",
     "Name": "キノコ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2934,7 +2934,7 @@
     "IsCollectAchievement": 0,
     "Label": "Turnip",
     "Name": "カブ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -2967,7 +2967,7 @@
     "IsCollectAchievement": 0,
     "Label": "TurnipExpired",
     "Name": "カブ（くさったカブ）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3000,7 +3000,7 @@
     "IsCollectAchievement": 0,
     "Label": "FishBait",
     "Name": "撒き餌",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3033,7 +3033,7 @@
     "IsCollectAchievement": 0,
     "Label": "PitFallSeed",
     "Name": "おとしあなのタネ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3066,7 +3066,7 @@
     "IsCollectAchievement": 0,
     "Label": "Medicine",
     "Name": "おくすり",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3099,7 +3099,7 @@
     "IsCollectAchievement": 0,
     "Label": "CraftMaterial",
     "Name": "素材：DIY",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3132,7 +3132,7 @@
     "IsCollectAchievement": 0,
     "Label": "CraftRemake",
     "Name": "素材：リメイクキット",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3165,7 +3165,7 @@
     "IsCollectAchievement": 0,
     "Label": "Ore",
     "Name": "素材：鉱石",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3198,7 +3198,7 @@
     "IsCollectAchievement": 0,
     "Label": "CraftPhoneCase",
     "Name": "素材：スマホケース",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3231,7 +3231,7 @@
     "IsCollectAchievement": 0,
     "Label": "Honeycomb",
     "Name": "ハチの巣",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3264,7 +3264,7 @@
     "IsCollectAchievement": 0,
     "Label": "Trash",
     "Name": "ゴミ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3297,7 +3297,7 @@
     "IsCollectAchievement": 0,
     "Label": "SnowCrystal",
     "Name": "雪の結晶",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3330,7 +3330,7 @@
     "IsCollectAchievement": 0,
     "Label": "AutumnLeaf",
     "Name": "紅葉",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3363,7 +3363,7 @@
     "IsCollectAchievement": 0,
     "Label": "Sakurapetal",
     "Name": "桜の花びら",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3396,7 +3396,7 @@
     "IsCollectAchievement": 0,
     "Label": "XmasDeco",
     "Name": "クリスマスオーナメント",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3429,7 +3429,7 @@
     "IsCollectAchievement": 0,
     "Label": "StarPiece",
     "Name": "星のかけら",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3462,7 +3462,7 @@
     "IsCollectAchievement": 0,
     "Label": "Insect",
     "Name": "生き物：ムシ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3495,7 +3495,7 @@
     "IsCollectAchievement": 0,
     "Label": "Fish",
     "Name": "生き物：サカナ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3528,7 +3528,7 @@
     "IsCollectAchievement": 0,
     "Label": "DiveFish",
     "Name": "生き物：海の幸",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3561,7 +3561,7 @@
     "IsCollectAchievement": 0,
     "Label": "ShellDrift",
     "Name": "漂着貝",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3594,7 +3594,7 @@
     "IsCollectAchievement": 0,
     "Label": "ShellFish",
     "Name": "生き物：潮干狩り貝",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3627,7 +3627,7 @@
     "IsCollectAchievement": 1,
     "Label": "FishToy",
     "Name": "サカナ模型",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3660,7 +3660,7 @@
     "IsCollectAchievement": 1,
     "Label": "InsectToy",
     "Name": "ムシ模型",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3693,7 +3693,7 @@
     "IsCollectAchievement": 1,
     "Label": "Fossil",
     "Name": "化石",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -3726,7 +3726,7 @@
     "IsCollectAchievement": 0,
     "Label": "FossilUnknown",
     "Name": "化石（未鑑定）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3759,7 +3759,7 @@
     "IsCollectAchievement": 1,
     "Label": "Music",
     "Name": "ミュージック",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3792,7 +3792,7 @@
     "IsCollectAchievement": 0,
     "Label": "MusicMiss",
     "Name": "ミュージック(入手不可)",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3825,7 +3825,7 @@
     "IsCollectAchievement": 0,
     "Label": "Bromide",
     "Name": "ブロマイド",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3858,7 +3858,7 @@
     "IsCollectAchievement": 0,
     "Label": "Poster",
     "Name": "ポスター",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3891,7 +3891,7 @@
     "IsCollectAchievement": 0,
     "Label": "HousePost",
     "Name": "家パーツポスト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3924,7 +3924,7 @@
     "IsCollectAchievement": 1,
     "Label": "DoorDeco",
     "Name": "ドア飾り",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3957,7 +3957,7 @@
     "IsCollectAchievement": 0,
     "Label": "Fence",
     "Name": "柵",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -3990,7 +3990,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyRecipe",
     "Name": "陳列用：レシピブック",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4023,7 +4023,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyDIYRecipe",
     "Name": "陳列用：単品DIYレシピ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -4056,7 +4056,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyHowtoBook",
     "Name": "陳列用：ハウツー本",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4089,7 +4089,7 @@
     "IsCollectAchievement": 0,
     "Label": "LicenseItem",
     "Name": "陳列用：工事ライセンス",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4122,7 +4122,7 @@
     "IsCollectAchievement": 0,
     "Label": "BridgeItem",
     "Name": "陳列用：橋",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4155,7 +4155,7 @@
     "IsCollectAchievement": 0,
     "Label": "SlopeItem",
     "Name": "陳列用：坂",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4188,7 +4188,7 @@
     "IsCollectAchievement": 0,
     "Label": "MessageBottle",
     "Name": "メッセージボトル",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4221,7 +4221,7 @@
     "IsCollectAchievement": 0,
     "Label": "WrappingPaper",
     "Name": "ラッピングペーパー",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4254,7 +4254,7 @@
     "IsCollectAchievement": 0,
     "Label": "Otoshidama",
     "Name": "おとしだま",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4287,7 +4287,7 @@
     "IsCollectAchievement": 0,
     "Label": "HousingKit",
     "Name": "ハウジングキット",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4320,7 +4320,7 @@
     "IsCollectAchievement": 0,
     "Label": "HousingKitRcoQuest",
     "Name": "ハウジングキット：移住クエスト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4353,7 +4353,7 @@
     "IsCollectAchievement": 0,
     "Label": "HousingKitBirdge",
     "Name": "ハウジングキット：橋用",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4386,7 +4386,7 @@
     "IsCollectAchievement": 0,
     "Label": "Money",
     "Name": "ベル（お金）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4419,7 +4419,7 @@
     "IsCollectAchievement": 0,
     "Label": "FireworkM",
     "Name": "花火（置き）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4452,7 +4452,7 @@
     "IsCollectAchievement": 1,
     "Label": "BdayCupcake",
     "Name": "バースデーカップケーキ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4485,7 +4485,7 @@
     "IsCollectAchievement": 0,
     "Label": "YutaroWisp",
     "Name": "ゆうたろうのたましい",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4518,7 +4518,7 @@
     "IsCollectAchievement": 0,
     "Label": "JohnnyQuest",
     "Name": "ジョニークエスト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4551,7 +4551,7 @@
     "IsCollectAchievement": 0,
     "Label": "JohnnyQuestDust",
     "Name": "ジョニークエストごみ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4584,7 +4584,7 @@
     "IsCollectAchievement": 0,
     "Label": "PirateQuest",
     "Name": "海賊クエスト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4617,7 +4617,7 @@
     "IsCollectAchievement": 0,
     "Label": "QuestWrapping",
     "Name": "クエスト配達プレゼントBOX",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4650,7 +4650,7 @@
     "IsCollectAchievement": 0,
     "Label": "QuestChristmasPresentbox",
     "Name": "クエストクリスマスプレゼントBOX",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4683,7 +4683,7 @@
     "IsCollectAchievement": 0,
     "Label": "LostQuest",
     "Name": "おとしもの",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4716,7 +4716,7 @@
     "IsCollectAchievement": 0,
     "Label": "LostQuestDust",
     "Name": "おとしものゴミ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4749,7 +4749,7 @@
     "IsCollectAchievement": 0,
     "Label": "TailorTicket",
     "Name": "仕立て屋クーポン",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4782,7 +4782,7 @@
     "IsCollectAchievement": 0,
     "Label": "TreasureQuest",
     "Name": "宝探しカプセル",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -4815,7 +4815,7 @@
     "IsCollectAchievement": 0,
     "Label": "TreasureQuestDust",
     "Name": "宝探しカプセルごみ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4848,7 +4848,7 @@
     "IsCollectAchievement": 0,
     "Label": "MilePlaneTicket",
     "Name": "マイル航空券",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4881,7 +4881,7 @@
     "IsCollectAchievement": 0,
     "Label": "RollanTicket",
     "Name": "ローラン引換券",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4914,7 +4914,7 @@
     "IsCollectAchievement": 0,
     "Label": "EasterEgg",
     "Name": "イースターのたまご",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4947,7 +4947,7 @@
     "IsCollectAchievement": 0,
     "Label": "LoveCrystal",
     "Name": "あいのけっしょう",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -4980,7 +4980,7 @@
     "IsCollectAchievement": 0,
     "Label": "Candy",
     "Name": "アメ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5013,7 +5013,7 @@
     "IsCollectAchievement": 0,
     "Label": "HarvestDish",
     "Name": "ハーベストの料理",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5046,7 +5046,7 @@
     "IsCollectAchievement": 0,
     "Label": "Feather",
     "Name": "カーニバルの羽（ノーマル）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5079,7 +5079,7 @@
     "IsCollectAchievement": 0,
     "Label": "RainbowFeather",
     "Name": "カーニバルの羽（にじいろ）",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5112,7 +5112,7 @@
     "IsCollectAchievement": 0,
     "Label": "Vine",
     "Name": "ツル",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5145,7 +5145,7 @@
     "IsCollectAchievement": 0,
     "Label": "SettingLadder",
     "Name": "設置ハシゴ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5178,7 +5178,7 @@
     "IsCollectAchievement": 0,
     "Label": "SincerityTowel",
     "Name": "まごころ雑巾",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5211,7 +5211,7 @@
     "IsCollectAchievement": 0,
     "Label": "SouvenirChocolate",
     "Name": "お土産チョコレート",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5244,7 +5244,7 @@
     "IsCollectAchievement": 0,
     "Label": "Giftbox",
     "Name": "初期支給プレゼントBOX",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5277,7 +5277,7 @@
     "IsCollectAchievement": 0,
     "Label": "PinataStick",
     "Name": "装備専用：ピニャータ割り棒",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5310,7 +5310,7 @@
     "IsCollectAchievement": 0,
     "Label": "NpcOutfit",
     "Name": "装備品：NPC専用",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5343,7 +5343,7 @@
     "IsCollectAchievement": 0,
     "Label": "PlayerDemoOutfit",
     "Name": "装備品：プレイヤ演出専用",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5376,7 +5376,7 @@
     "IsCollectAchievement": 1,
     "Label": "Picture",
     "Name": "芸術品：絵画",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5409,7 +5409,7 @@
     "IsCollectAchievement": 1,
     "Label": "Sculpture",
     "Name": "芸術品：彫刻",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5442,7 +5442,7 @@
     "IsCollectAchievement": 1,
     "Label": "PictureFake",
     "Name": "芸術品：絵画贋作",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -5475,7 +5475,7 @@
     "IsCollectAchievement": 1,
     "Label": "SculptureFake",
     "Name": "芸術品：彫刻贋作",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5508,7 +5508,7 @@
     "IsCollectAchievement": 0,
     "Label": "SmartPhone",
     "Name": "スマホ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5541,7 +5541,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyFtr",
     "Name": "ダミー家具",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5574,7 +5574,7 @@
     "IsCollectAchievement": 0,
     "Label": "SequenceOnly",
     "Name": "シーケンス専用",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5607,7 +5607,7 @@
     "IsCollectAchievement": 0,
     "Label": "MyDesignObject",
     "Name": "マイデザインオブジェクト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5640,7 +5640,7 @@
     "IsCollectAchievement": 0,
     "Label": "MyDesignTexture",
     "Name": "マイデザインテクスチャ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5673,7 +5673,7 @@
     "IsCollectAchievement": 0,
     "Label": "CommonFabricRug",
     "Name": "汎用布地ラグ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5706,7 +5706,7 @@
     "IsCollectAchievement": 0,
     "Label": "CommonFabricObject",
     "Name": "汎用布地オブジェクト",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5739,7 +5739,7 @@
     "IsCollectAchievement": 0,
     "Label": "CommonFabricTexture",
     "Name": "汎用布地テクスチャ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5772,7 +5772,7 @@
     "IsCollectAchievement": 0,
     "Label": "OneRoomBox",
     "Name": "もちこみダンボール",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5805,7 +5805,7 @@
     "IsCollectAchievement": 0,
     "Label": "DIYRecipe",
     "Name": "DIYレシピ",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -5838,7 +5838,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyWrapping",
     "Name": "ダミーラッピング済アイテム",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5871,7 +5871,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyPresentbox",
     "Name": "ダミープレゼントBOX",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5904,7 +5904,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyCardboard",
     "Name": "ダミーダンボール入りアイテム",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5937,7 +5937,7 @@
     "IsCollectAchievement": 0,
     "Label": "EventObjFtr",
     "Name": "イベントオブジェ家具",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -5970,7 +5970,7 @@
     "IsCollectAchievement": 0,
     "Label": "NnpcRoomMarker",
     "Name": "NPC部屋マーカー",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCaptureUIcon",
@@ -6003,7 +6003,7 @@
     "IsCollectAchievement": 0,
     "Label": "PhotoStudioList",
     "Name": "撮影スタジオ用アイテム",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "OnCapture",
@@ -6036,7 +6036,7 @@
     "IsCollectAchievement": 0,
     "Label": "ShopTorso",
     "Name": "商品陳列用トルソー",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -6069,7 +6069,7 @@
     "IsCollectAchievement": 0,
     "Label": "DummyWrappingOtoshidama",
     "Name": "ダミー包んだおとしだま",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -6102,7 +6102,7 @@
     "IsCollectAchievement": 0,
     "Label": "GardenEditList",
     "Name": "屋外エディット用アイテム",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   },
   {
     "FtrIconCaptureType": "None",
@@ -6135,6 +6135,6 @@
     "IsCollectAchievement": 0,
     "Label": "None",
     "Name": "なし",
-    "29fe5bbd string": ""
+    "ToolCategory": 0
   }
 ]

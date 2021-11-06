@@ -4,167 +4,167 @@
     "UniqueID": 0,
     "Name": "Silence",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 1,
     "UniqueID": 13,
     "Name": "Echo",
     "Reverberation": 1,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 2,
     "UniqueID": 2,
     "Name": "Sea",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 3,
     "UniqueID": 3,
     "Name": "InWater",
     "Reverberation": 1,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 4,
     "UniqueID": 5,
     "Name": "Plateau",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 5,
     "UniqueID": 28,
     "Name": "Forest",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 6,
     "UniqueID": 6,
     "Name": "Jungle",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 7,
     "UniqueID": 16,
     "Name": "Cave",
     "Reverberation": 1,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 8,
     "UniqueID": 4,
     "Name": "Wind",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 9,
     "UniqueID": 1,
     "Name": "Rain",
     "Reverberation": 0,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 10,
     "UniqueID": 14,
     "Name": "Storm",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 11,
     "UniqueID": 17,
     "Name": "Earthquake",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 12,
     "UniqueID": 20,
     "Name": "Country",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 13,
     "UniqueID": 9,
     "Name": "City",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 14,
     "UniqueID": 7,
     "Name": "Crowd",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 15,
     "UniqueID": 8,
     "Name": "Cheers",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 16,
     "UniqueID": 10,
     "Name": "Train",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 17,
     "UniqueID": 11,
     "Name": "Construction",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 18,
     "UniqueID": 21,
     "Name": "Factory",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 19,
     "UniqueID": 29,
     "Name": "Duct",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 20,
     "UniqueID": 12,
     "Name": "Space",
     "Reverberation": 1,
-    "947670d3 string": "\u0001"
+    "UnlockLevel": 1
   },
   {
     "SortID": 21,
     "UniqueID": 26,
     "Name": "Cyber",
     "Reverberation": 0,
-    "947670d3 string": "\u0003"
+    "UnlockLevel": 3
   },
   {
     "SortID": 22,
     "UniqueID": 27,
     "Name": "Healing",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   },
   {
     "SortID": 23,
     "UniqueID": 18,
     "Name": "Squeak",
     "Reverberation": 0,
-    "947670d3 string": "\u0002"
+    "UnlockLevel": 2
   }
 ]

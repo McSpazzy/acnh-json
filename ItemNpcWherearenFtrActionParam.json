@@ -9,7 +9,7 @@
     "UniqueID": 0,
     "Label": "None",
     "Name": "なし",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "",
     "63c52af5 string67": ""
   },
@@ -23,7 +23,7 @@
     "UniqueID": 1,
     "Label": "Boxing",
     "Name": "ボクシング",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcBoxing",
     "63c52af5 string67": "NpcBoxing"
   },
@@ -37,7 +37,7 @@
     "UniqueID": 2,
     "Label": "TvWatch",
     "Name": "テレビを見る",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcWatchTv",
     "63c52af5 string67": "NpcWatchTv"
   },
@@ -51,7 +51,7 @@
     "UniqueID": 8,
     "Label": "Gymnastics",
     "Name": "体操",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcGymnasticsExist",
     "63c52af5 string67": "NpcGymnasticsExist"
   },
@@ -65,7 +65,7 @@
     "UniqueID": 10,
     "Label": "Hula",
     "Name": "フラダンス",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcHula",
     "63c52af5 string67": "NpcHula"
   },
@@ -79,7 +79,7 @@
     "UniqueID": 39,
     "Label": "Book",
     "Name": "読書（趣味ほん）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcBookExist",
     "63c52af5 string67": "NpcBookExist"
   },
@@ -93,7 +93,7 @@
     "UniqueID": 40,
     "Label": "Workout",
     "Name": "筋トレ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWorkoutExist",
     "63c52af5 string67": "NpcWorkoutExist"
   },
@@ -107,7 +107,7 @@
     "UniqueID": 41,
     "Label": "Yoga",
     "Name": "ヨガ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcYogaExist",
     "63c52af5 string67": "NpcYogaExist"
   },
@@ -121,7 +121,7 @@
     "UniqueID": 43,
     "Label": "Watering",
     "Name": "水やり（ジョウロ）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWatering",
     "63c52af5 string67": "NpcSmellExistSync"
   },
@@ -135,7 +135,7 @@
     "UniqueID": 44,
     "Label": "Spray",
     "Name": "水やり（きりふき）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSprayExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -149,7 +149,7 @@
     "UniqueID": 45,
     "Label": "Eat",
     "Name": "食べる(趣味アイス)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcEatingExist",
     "63c52af5 string67": "NpcEatingExist"
   },
@@ -163,7 +163,7 @@
     "UniqueID": 46,
     "Label": "Drink",
     "Name": "飲む（コーヒー）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -177,7 +177,7 @@
     "UniqueID": 47,
     "Label": "Eat_BBQ",
     "Name": "食べる(BBQ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcEatingExist",
     "63c52af5 string67": "NpcEatingExist"
   },
@@ -191,7 +191,7 @@
     "UniqueID": 48,
     "Label": "Drink_Tea",
     "Name": "飲む（ティーカップ）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -205,7 +205,7 @@
     "UniqueID": 52,
     "Label": "Interest_Flower",
     "Name": "自然興味（花）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcNatureInterest",
     "63c52af5 string67": "NpcNatureInterest"
   },
@@ -219,7 +219,7 @@
     "UniqueID": 53,
     "Label": "Interest_Fossil",
     "Name": "自然興味（化石）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcNatureInterest",
     "63c52af5 string67": "NpcNatureInterest"
   },
@@ -233,7 +233,7 @@
     "UniqueID": 54,
     "Label": "Interest_Insect",
     "Name": "自然興味（ムシ）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcNatureInterest",
     "63c52af5 string67": "NpcNatureInterest"
   },
@@ -247,7 +247,7 @@
     "UniqueID": 55,
     "Label": "Interest_Fish",
     "Name": "自然興味（サカナ）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcNatureInterest",
     "63c52af5 string67": "NpcNatureInterest"
   },
@@ -261,7 +261,7 @@
     "UniqueID": 57,
     "Label": "Tambourine",
     "Name": "タンバリン",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcTambourineSoundExist",
     "63c52af5 string67": "NpcSinging"
   },
@@ -275,7 +275,7 @@
     "UniqueID": 58,
     "Label": "Broom",
     "Name": "掃除（ほうき）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcCleaningExist",
     "63c52af5 string67": "NpcCleaningExist"
   },
@@ -289,7 +289,7 @@
     "UniqueID": 63,
     "Label": "PunchingBall",
     "Name": "パンチングボール",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcPunchingBall",
     "63c52af5 string67": "NpcPunchingBall"
   },
@@ -303,7 +303,7 @@
     "UniqueID": 65,
     "Label": "Sleepy",
     "Name": "【漫符】あくび",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReSleepy",
     "63c52af5 string67": ""
   },
@@ -317,7 +317,7 @@
     "UniqueID": 67,
     "Label": "Leaves",
     "Name": "足踏みする",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcStepOn",
     "63c52af5 string67": "NpcStepOn"
   },
@@ -331,7 +331,7 @@
     "UniqueID": 68,
     "Label": "SwitchIntoFtr",
     "Name": "駆動（連打）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcIntoSwitch",
     "63c52af5 string67": "NpcIntoSwitch"
   },
@@ -345,7 +345,7 @@
     "UniqueID": 69,
     "Label": "WatchExist",
     "Name": "まじまじ見る(ランダム",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWatchExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -359,7 +359,7 @@
     "UniqueID": 73,
     "Label": "SmugFace",
     "Name": "【漫符】どや顔",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistSmugFace",
     "63c52af5 string67": ""
   },
@@ -373,7 +373,7 @@
     "UniqueID": 74,
     "Label": "HappyDance",
     "Name": "【漫符】ウキウキ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistHappyDance",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -387,7 +387,7 @@
     "UniqueID": 75,
     "Label": "Shaki",
     "Name": "【漫符】シャキーン",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistShaki",
     "63c52af5 string67": ""
   },
@@ -401,7 +401,7 @@
     "UniqueID": 76,
     "Label": "FesDance",
     "Name": "【漫符】おどり",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReAddDance",
     "63c52af5 string67": "MaReAddDance"
   },
@@ -415,7 +415,7 @@
     "UniqueID": 77,
     "Label": "Sneezing",
     "Name": "【漫符】くしゃみ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReSneezing",
     "63c52af5 string67": ""
   },
@@ -429,7 +429,7 @@
     "UniqueID": 78,
     "Label": "Grin",
     "Name": "【漫符】ニヤリ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistGrin",
     "63c52af5 string67": "MaReGrin"
   },
@@ -443,7 +443,7 @@
     "UniqueID": 79,
     "Label": "Prank",
     "Name": "【漫符】おどかす",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReAddPrank",
     "63c52af5 string67": "MaReAddPrank"
   },
@@ -457,7 +457,7 @@
     "UniqueID": 80,
     "Label": "Scaring",
     "Name": "【漫符】こわがらせる",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReAddScaring",
     "63c52af5 string67": "MaReAddScaring"
   },
@@ -471,7 +471,7 @@
     "UniqueID": 81,
     "Label": "Love",
     "Name": "【漫符】ハート",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistLove",
     "63c52af5 string67": ""
   },
@@ -485,7 +485,7 @@
     "UniqueID": 82,
     "Label": "Cheering",
     "Name": "【漫符】大声",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReCheering",
     "63c52af5 string67": "MaReCheering"
   },
@@ -499,7 +499,7 @@
     "UniqueID": 83,
     "Label": "Scheming",
     "Name": "【漫符】わるだくみ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistScheming",
     "63c52af5 string67": ""
   },
@@ -513,7 +513,7 @@
     "UniqueID": 84,
     "Label": "QuestionMark",
     "Name": "【漫符】はて？",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistQuestionMark",
     "63c52af5 string67": ""
   },
@@ -527,7 +527,7 @@
     "UniqueID": 86,
     "Label": "Drink_Cup",
     "Name": "飲む(趣味コップ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -541,7 +541,7 @@
     "UniqueID": 87,
     "Label": "Drink_LemonTea",
     "Name": "飲む（レモンティー）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -555,7 +555,7 @@
     "UniqueID": 88,
     "Label": "Drink_Soup",
     "Name": "飲む（スープ）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -569,7 +569,7 @@
     "UniqueID": 89,
     "Label": "Eat_Donut",
     "Name": "食べる(ドーナツ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcEatingExist",
     "63c52af5 string67": "NpcEatingExist"
   },
@@ -583,7 +583,7 @@
     "UniqueID": 90,
     "Label": "Eat_Sandwich",
     "Name": "食べる(サンドウィッチ",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcEatingExist",
     "63c52af5 string67": "NpcEatingExist"
   },
@@ -597,7 +597,7 @@
     "UniqueID": 91,
     "Label": "Arrange",
     "Name": "がさごそ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcArrangeExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -611,7 +611,7 @@
     "UniqueID": 92,
     "Label": "SwitchRandom_Long",
     "Name": "駆動(ランダムロング)",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcRandomSwitch",
     "63c52af5 string67": "NpcRandomSwitch"
   },
@@ -625,7 +625,7 @@
     "UniqueID": 93,
     "Label": "Observation",
     "Name": "観察（虫眼鏡）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcObservationExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -639,7 +639,7 @@
     "UniqueID": 94,
     "Label": "Drink_Juice",
     "Name": "飲む(趣味かん)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -653,7 +653,7 @@
     "UniqueID": 95,
     "Label": "Drink_Smoothie",
     "Name": "飲む(スムージー)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -667,7 +667,7 @@
     "UniqueID": 96,
     "Label": "SmartPhonePress",
     "Name": "スマホで撮影",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSmartPhonePressExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -681,7 +681,7 @@
     "UniqueID": 97,
     "Label": "SitRug",
     "Name": "ラグに座る",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "CommonSitWait",
     "63c52af5 string67": "CommonSitWait"
   },
@@ -695,7 +695,7 @@
     "UniqueID": 99,
     "Label": "Cooking",
     "Name": "料理する",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcFryingpanShake",
     "63c52af5 string67": "NpcSmellExistSync"
   },
@@ -709,7 +709,7 @@
     "UniqueID": 100,
     "Label": "Muscle",
     "Name": "マッスルポーズ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcMusclePose",
     "63c52af5 string67": "NpcMusclePose"
   },
@@ -723,7 +723,7 @@
     "UniqueID": 101,
     "Label": "Maracas",
     "Name": "マラカス",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcMcasSound",
     "63c52af5 string67": "NpcSinging"
   },
@@ -737,7 +737,7 @@
     "UniqueID": 102,
     "Label": "Fan",
     "Name": "うちわであおぐ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcFan",
     "63c52af5 string67": ""
   },
@@ -751,7 +751,7 @@
     "UniqueID": 103,
     "Label": "Trowel",
     "Name": "シャベルを使う",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcTrowel",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -765,7 +765,7 @@
     "UniqueID": 104,
     "Label": "Eat_Forks",
     "Name": "食べる(食べるフリ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcForks",
     "63c52af5 string67": "NpcForks"
   },
@@ -779,7 +779,7 @@
     "UniqueID": 105,
     "Label": "Dance",
     "Name": "【漫符】クルリンパ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistDance",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -793,7 +793,7 @@
     "UniqueID": 106,
     "Label": "Sleep",
     "Name": "【漫符】立ち寝",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "MaReSleep",
     "63c52af5 string67": "NpcWatchNpcExistSync"
   },
@@ -807,7 +807,7 @@
     "UniqueID": 107,
     "Label": "PlayingTrowel",
     "Name": "シャベルで遊ぶ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcTrowelDown",
     "63c52af5 string67": "NpcTrowelDown"
   },
@@ -821,7 +821,7 @@
     "UniqueID": 110,
     "Label": "Spanner",
     "Name": "まじまじ見る(スパナ)",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWatchExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -835,7 +835,7 @@
     "UniqueID": 111,
     "Label": "Drink_Coconut",
     "Name": "飲む（ココナッツ）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -849,7 +849,7 @@
     "UniqueID": 112,
     "Label": "SwitchRandom",
     "Name": "駆動（ランダム）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcRandomSwitch",
     "63c52af5 string67": "NpcRandomSwitch"
   },
@@ -863,7 +863,7 @@
     "UniqueID": 113,
     "Label": "Drink_IceCoffe",
     "Name": "飲む(アイスコーヒー)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -877,7 +877,7 @@
     "UniqueID": 114,
     "Label": "Drink_CafeLatte",
     "Name": "飲む(アイスカフェラテ",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -891,7 +891,7 @@
     "UniqueID": 115,
     "Label": "Drink_Orange",
     "Name": "飲む(オレンジジュース",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -905,7 +905,7 @@
     "UniqueID": 116,
     "Label": "Drink_Colorful",
     "Name": "飲む(カラフルジュース",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -919,7 +919,7 @@
     "UniqueID": 117,
     "Label": "Drink_Strawberry",
     "Name": "飲む(ストロベリソーダ",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -933,7 +933,7 @@
     "UniqueID": 118,
     "Label": "Drink_Melon",
     "Name": "飲む(メロンソーダ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -947,7 +947,7 @@
     "UniqueID": 119,
     "Label": "Drink_MilkShake",
     "Name": "飲む(ミルクセーキ)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -961,7 +961,7 @@
     "UniqueID": 122,
     "Label": "Drink_JuiceGrass",
     "Name": "飲む(趣味グラス)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -975,7 +975,7 @@
     "UniqueID": 123,
     "Label": "Warm",
     "Name": "暖まる",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWarm",
     "63c52af5 string67": ""
   },
@@ -989,7 +989,7 @@
     "UniqueID": 124,
     "Label": "Yoga_OnFtr",
     "Name": "ヨガ（上に留まる）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcYogaExist",
     "63c52af5 string67": "NpcYogaExist"
   },
@@ -1003,7 +1003,7 @@
     "UniqueID": 125,
     "Label": "TakenAback",
     "Name": "【漫符】ひく",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReExistTakenAback",
     "63c52af5 string67": ""
   },
@@ -1017,7 +1017,7 @@
     "UniqueID": 126,
     "Label": "Drink_Protein",
     "Name": "飲む(プロテイン)",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -1031,7 +1031,7 @@
     "UniqueID": 127,
     "Label": "MedicalRecord",
     "Name": "カルテを見る",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcMedicalRecord",
     "63c52af5 string67": ""
   },
@@ -1045,7 +1045,7 @@
     "UniqueID": 128,
     "Label": "WalkSpanner",
     "Name": "ぶらつく（スパナ）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "",
     "63c52af5 string67": ""
   },
@@ -1059,7 +1059,7 @@
     "UniqueID": 130,
     "Label": "HappyWait",
     "Name": "ご機嫌ウェイト",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcHappyWaitExist",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -1073,7 +1073,7 @@
     "UniqueID": 131,
     "Label": "TrowelGarden",
     "Name": "シャベルを使う（庭）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcTrowelGarden",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -1087,7 +1087,7 @@
     "UniqueID": 132,
     "Label": "Drink_Smoothie_Pink",
     "Name": "飲む(スムージーピンク",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -1101,7 +1101,7 @@
     "UniqueID": 133,
     "Label": "Drink_Smoothie_Beige",
     "Name": "飲む(スムージーベジュ",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcDrinkingExist",
     "63c52af5 string67": "NpcDrinkingExist"
   },
@@ -1115,7 +1115,7 @@
     "UniqueID": 134,
     "Label": "SwitchArrange",
     "Name": "駆動（がさごそ）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcArrangeExist",
     "63c52af5 string67": "NpcWatchExistSync"
   },
@@ -1129,7 +1129,7 @@
     "UniqueID": 136,
     "Label": "Book_Comic",
     "Name": "読書（まんが）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcBookExist",
     "63c52af5 string67": "NpcBookExist"
   },
@@ -1143,7 +1143,7 @@
     "UniqueID": 137,
     "Label": "Book_Novel",
     "Name": "読書（小説）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcBookExist",
     "63c52af5 string67": "NpcBookExist"
   },
@@ -1157,7 +1157,7 @@
     "UniqueID": 138,
     "Label": "Serious",
     "Name": "【漫符】真顔",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReSerious",
     "63c52af5 string67": "MaReSerious"
   },
@@ -1171,7 +1171,7 @@
     "UniqueID": 139,
     "Label": "WalkObservation",
     "Name": "ぶらつく（虫眼鏡）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "",
     "63c52af5 string67": ""
   }

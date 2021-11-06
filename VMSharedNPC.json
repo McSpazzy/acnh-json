@@ -1,32 +1,32 @@
 [
   {
     "UniqueID": 0,
-    "6c244255 string8": "cml",
-    "c6233fdf string10": "cmlB"
+    "SharedNPCLabel": "cml",
+    "TargetNPCLabel": "cmlB"
   },
   {
     "UniqueID": 1,
-    "6c244255 string8": "doc",
-    "c6233fdf string10": "docB"
+    "SharedNPCLabel": "doc",
+    "TargetNPCLabel": "docB"
   },
   {
     "UniqueID": 2,
-    "6c244255 string8": "otg",
-    "c6233fdf string10": "otgB"
+    "SharedNPCLabel": "otg",
+    "TargetNPCLabel": "otgB"
   },
   {
     "UniqueID": 3,
-    "6c244255 string8": "pge",
-    "c6233fdf string10": "pgeB"
+    "SharedNPCLabel": "pge",
+    "TargetNPCLabel": "pgeB"
   },
   {
     "UniqueID": 4,
-    "6c244255 string8": "poo",
-    "c6233fdf string10": "pooB"
+    "SharedNPCLabel": "poo",
+    "TargetNPCLabel": "pooB"
   },
   {
     "UniqueID": 5,
-    "6c244255 string8": "tkkA",
-    "c6233fdf string10": "tkkB"
+    "SharedNPCLabel": "tkkA",
+    "TargetNPCLabel": "tkkB"
   }
 ]

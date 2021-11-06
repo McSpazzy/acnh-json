@@ -9,7 +9,7 @@
     "UniqueID": 0,
     "Label": "None",
     "Name": "なし",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "",
     "63c52af5 string67": ""
   },
@@ -23,7 +23,7 @@
     "UniqueID": 1,
     "Label": "Smartphone",
     "Name": "撮影",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSmartPhonePress",
     "63c52af5 string67": ""
   },
@@ -37,7 +37,7 @@
     "UniqueID": 2,
     "Label": "Switch",
     "Name": "駆動",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReSmiling",
     "63c52af5 string67": ""
   },
@@ -51,7 +51,7 @@
     "UniqueID": 3,
     "Label": "RhythmSound",
     "Name": "ノる",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcRhythm",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -65,7 +65,7 @@
     "UniqueID": 4,
     "Label": "SingSong",
     "Name": "歌う",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcSinging",
     "63c52af5 string67": "NpcSinging"
   },
@@ -79,7 +79,7 @@
     "UniqueID": 5,
     "Label": "PlayMusicBoth",
     "Name": "演奏する（両手）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcPlayMusicBoth",
     "63c52af5 string67": "NpcSinging"
   },
@@ -93,7 +93,7 @@
     "UniqueID": 6,
     "Label": "PlayMusic",
     "Name": "演奏する（片手）",
-    "fec0cc3d u8": 1,
+    "NpcCanSit": 1,
     "NpcFtrActionAsName": "NpcPlayMusic",
     "63c52af5 string67": "NpcSinging"
   },
@@ -107,7 +107,7 @@
     "UniqueID": 7,
     "Label": "SwitchWind",
     "Name": "駆動（扇風機）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWind",
     "63c52af5 string67": "NpcWind"
   },
@@ -121,7 +121,7 @@
     "UniqueID": 8,
     "Label": "SwitchWarm",
     "Name": "駆動（温まる）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWarm",
     "63c52af5 string67": "NpcWarm"
   },
@@ -135,7 +135,7 @@
     "UniqueID": 9,
     "Label": "SwitchSomen",
     "Name": "駆動（そうめん）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSomen",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -149,7 +149,7 @@
     "UniqueID": 10,
     "Label": "SwitchTakenAback",
     "Name": "駆動（ビックリ）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcTakenAback",
     "63c52af5 string67": ""
   },
@@ -163,7 +163,7 @@
     "UniqueID": 11,
     "Label": "Watch",
     "Name": "まじまじ見る",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWatchFurniture",
     "63c52af5 string67": "NpcWatchFurniture"
   },
@@ -177,7 +177,7 @@
     "UniqueID": 12,
     "Label": "WatchWall",
     "Name": "まじまじ見る（壁掛）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcWatchFurnitureWall",
     "63c52af5 string67": "NpcWatchFurnitureWall"
   },
@@ -191,7 +191,7 @@
     "UniqueID": 13,
     "Label": "MirrorPosing",
     "Name": "鏡の前でポーズ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcPose",
     "63c52af5 string67": "NpcPose"
   },
@@ -205,7 +205,7 @@
     "UniqueID": 14,
     "Label": "WaterSpray",
     "Name": "霧吹き",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSpray",
     "63c52af5 string67": "MaReSmiling"
   },
@@ -219,7 +219,7 @@
     "UniqueID": 15,
     "Label": "SmellFood",
     "Name": "匂いをかぐ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSmellFurniture",
     "63c52af5 string67": ""
   },
@@ -233,7 +233,7 @@
     "UniqueID": 16,
     "Label": "SwitchSmellFood",
     "Name": "駆動（匂いをかぐ）",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "NpcSmellFurniture",
     "63c52af5 string67": ""
   },
@@ -247,7 +247,7 @@
     "UniqueID": 28,
     "Label": "DanceFloor",
     "Name": "フロアマットで踊る",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "MaReAddDance",
     "63c52af5 string67": "MaReAddDance"
   },
@@ -261,7 +261,7 @@
     "UniqueID": 29,
     "Label": "Haniwa",
     "Name": "はにわ",
-    "fec0cc3d u8": 0,
+    "NpcCanSit": 0,
     "NpcFtrActionAsName": "",
     "63c52af5 string67": ""
   }
