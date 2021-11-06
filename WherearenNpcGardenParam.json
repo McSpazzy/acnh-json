@@ -28,7 +28,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -60,7 +60,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 0,
+    "RecommendPattern": 0,
     "Snow": 0
   },
   {
@@ -92,7 +92,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -124,7 +124,7 @@
     "Month1": 6,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -156,7 +156,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 0,
+    "RecommendPattern": 0,
     "Snow": 0
   },
   {
@@ -188,7 +188,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 2,
+    "RecommendPattern": 2,
     "Snow": 0
   },
   {
@@ -220,7 +220,7 @@
     "Month1": 6,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 2,
+    "RecommendPattern": 2,
     "Snow": 0
   },
   {
@@ -252,7 +252,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -284,7 +284,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -316,7 +316,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -348,7 +348,7 @@
     "Month1": 8,
     "Month2": 10,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -380,7 +380,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -412,7 +412,7 @@
     "Month1": 8,
     "Month2": 10,
     "Month3": 12,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -444,7 +444,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 0,
+    "RecommendPattern": 0,
     "Snow": 0
   },
   {
@@ -476,7 +476,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 2,
+    "RecommendPattern": 2,
     "Snow": 0
   },
   {
@@ -508,7 +508,7 @@
     "Month1": 6,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -540,7 +540,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -572,7 +572,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -604,7 +604,7 @@
     "Month1": 8,
     "Month2": 10,
     "Month3": 12,
-    "53520a06 u8": 2,
+    "RecommendPattern": 2,
     "Snow": 0
   },
   {
@@ -636,7 +636,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 3,
+    "RecommendPattern": 3,
     "Snow": 1
   },
   {
@@ -668,7 +668,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -700,7 +700,7 @@
     "Month1": 8,
     "Month2": 10,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -732,7 +732,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -764,7 +764,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -796,7 +796,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -828,7 +828,7 @@
     "Month1": 7,
     "Month2": 10,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -860,7 +860,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -892,7 +892,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -924,7 +924,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -956,7 +956,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -988,7 +988,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1020,7 +1020,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1052,7 +1052,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1084,7 +1084,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1116,7 +1116,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 0,
+    "RecommendPattern": 0,
     "Snow": 0
   },
   {
@@ -1148,7 +1148,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1180,7 +1180,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1212,7 +1212,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1244,7 +1244,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1276,7 +1276,7 @@
     "Month1": 7,
     "Month2": 10,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1308,7 +1308,7 @@
     "Month1": 8,
     "Month2": 10,
     "Month3": 1,
-    "53520a06 u8": 0,
+    "RecommendPattern": 0,
     "Snow": 0
   },
   {
@@ -1340,7 +1340,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1372,7 +1372,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 1,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1404,7 +1404,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1436,7 +1436,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1468,7 +1468,7 @@
     "Month1": 7,
     "Month2": 11,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1500,7 +1500,7 @@
     "Month1": 7,
     "Month2": 10,
     "Month3": 2,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   },
   {
@@ -1532,7 +1532,7 @@
     "Month1": 8,
     "Month2": 11,
     "Month3": 12,
-    "53520a06 u8": 1,
+    "RecommendPattern": 1,
     "Snow": 0
   }
 ]

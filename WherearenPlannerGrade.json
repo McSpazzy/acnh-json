@@ -5,7 +5,7 @@
     "e362ce0 u16": 0,
     "ApproachRate": 0,
     "Grade": 0,
-    "7500325b u16": 0,
+    "NewBuild": 0,
     "Rank": 0,
     "Reward": 6000,
     "UniqueID": 0
@@ -16,7 +16,7 @@
     "e362ce0 u16": 0,
     "ApproachRate": 0,
     "Grade": 1,
-    "7500325b u16": 6,
+    "NewBuild": 6,
     "Rank": 0,
     "Reward": 9000,
     "UniqueID": 1
@@ -27,7 +27,7 @@
     "e362ce0 u16": 0,
     "ApproachRate": 0,
     "Grade": 2,
-    "7500325b u16": 11,
+    "NewBuild": 11,
     "Rank": 0,
     "Reward": 12000,
     "UniqueID": 2
@@ -38,7 +38,7 @@
     "e362ce0 u16": 30,
     "ApproachRate": 0,
     "Grade": 3,
-    "7500325b u16": 19,
+    "NewBuild": 19,
     "Rank": 0,
     "Reward": 15000,
     "UniqueID": 3
@@ -49,7 +49,7 @@
     "e362ce0 u16": 15,
     "ApproachRate": 1,
     "Grade": 4,
-    "7500325b u16": 0,
+    "NewBuild": 0,
     "Rank": 84,
     "Reward": 20000,
     "UniqueID": 4
@@ -60,7 +60,7 @@
     "e362ce0 u16": 30,
     "ApproachRate": 1,
     "Grade": 5,
-    "7500325b u16": 0,
+    "NewBuild": 0,
     "Rank": 119,
     "Reward": 30000,
     "UniqueID": 5
@@ -71,7 +71,7 @@
     "e362ce0 u16": 20,
     "ApproachRate": 10,
     "Grade": 6,
-    "7500325b u16": 0,
+    "NewBuild": 0,
     "Rank": 146,
     "Reward": 40000,
     "UniqueID": 6
